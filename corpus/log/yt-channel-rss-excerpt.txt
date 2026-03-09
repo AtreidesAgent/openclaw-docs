@@ -1,0 +1,40 @@
+ <yt:channelId>A7hhAGonF2hpinyd4z9XKA</yt:channelId>
+ <title>Blocksurfing Through Cryptocurrencies</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA"/>
+ <author>
+  <name>Blocksurfing Through Cryptocurrencies</name>
+  <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+ </author>
+ <published>2013-11-16T23:32:37+00:00</published>
+ <entry>
+  <id>yt:video:TaaNV1ZdLoQ</id>
+  <yt:videoId>TaaNV1ZdLoQ</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How to Get Hired in Crypto (Even in a Bear Market): Base Recruiter Connor Holliman’s Playbook</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TaaNV1ZdLoQ"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-06T14:00:59+00:00</published>
+  <updated>2026-03-06T14:00:59+00:00</updated>
+  <media:group>
+   <media:title>How to Get Hired in Crypto (Even in a Bear Market): Base Recruiter Connor Holliman’s Playbook</media:title>
+--
+  <id>yt:video:gE30j5kq90w</id>
+  <yt:videoId>gE30j5kq90w</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How to Earn Yield on Bitcoin: Alisia Painter on Bitcoin L2s, Taproot, and Bringing DeFi to BTC</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gE30j5kq90w"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-05T14:01:10+00:00</published>
+  <updated>2026-03-05T14:01:10+00:00</updated>
+  <media:group>
+   <media:title>How to Earn Yield on Bitcoin: Alisia Painter on Bitcoin L2s, Taproot, and Bringing DeFi to BTC</media:title>
+--
+  <id>yt:video:MJIRgwQEvMo</id>
+  <yt:videoId>MJIRgwQEvMo</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>

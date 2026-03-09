@@ -2,6 +2,16 @@
 
 A troubleshooting reference for running OpenClaw with local Ollama models (Qwen2.5).
 
+**Table of Contents**
+- [Ollama Setup & Connectivity](#ollama-setup--connectivity)
+- [OpenClaw Model Configuration](#openclaw-model-configuration)
+- [Heartbeat & Cron Model Assignment](#heartbeat--cron-model-assignment)
+- [Fallback Chain Logic](#fallback-chain-logic)
+- [Agent Behavior & Trust](#agent-behavior--trust)
+- [Security Checklist](#security-checklist)
+- [RSS & Corpus Scraping](#rss--corpus-scraping)
+- [Quick Reference](#quick-reference)
+
 ---
 
 ## Ollama Setup & Connectivity
@@ -295,7 +305,7 @@ PYEOF
 
 ---
 
-## Quick Reference Commands
+## Quick Reference
 
 ```bash
 # Verify Ollama status

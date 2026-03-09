@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCA7hhAGonF2hpinyd4z9XKA"/>
+ <id>yt:channel:A7hhAGonF2hpinyd4z9XKA</id>
+ <yt:channelId>A7hhAGonF2hpinyd4z9XKA</yt:channelId>
+ <title>Blocksurfing Through Cryptocurrencies</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA"/>
+ <author>
+  <name>Blocksurfing Through Cryptocurrencies</name>
+  <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+ </author>
+ <published>2013-11-16T23:32:37+00:00</published>
+ <entry>
+  <id>yt:video:TaaNV1ZdLoQ</id>
+  <yt:videoId>TaaNV1ZdLoQ</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How to Get Hired in Crypto (Even in a Bear Market): Base Recruiter Connor Holliman’s Playbook</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TaaNV1ZdLoQ"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-06T14:00:59+00:00</published>
+  <updated>2026-03-06T14:00:59+00:00</updated>
+  <media:group>
+   <media:title>How to Get Hired in Crypto (Even in a Bear Market): Base Recruiter Connor Holliman’s Playbook</media:title>
+   <media:content url="https://www.youtube.com/v/TaaNV1ZdLoQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TaaNV1ZdLoQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of Crypto Talks &amp; Blockchain Walks, I chat with Connor Holliman, an Onchain Recruiter at Base, to talk about what it really takes to stand out in crypto hiring right now, especially in bear market conditions.
+
+Connor shares why recruiting is dramatically better in person, how ETHDenver’s current vibe feels like a “builder market” (and even a purge of weaker projects), and the three clearest ways candidates can differentiate themselves when competition is high: build, create, or trade. We also get into resilience after near-miss interviews, how to work with recruiters productively, and where to find Base + Coinbase opportunities.
+
+Guest: Connor Holliman
+- X: https://x.com/jconnorholliman
+
+WHAT WE COVER
+- Connor’s role at Base: what “onchain recruiter” actually means and how the Base/CDP recruiting team is structured
+- Why IRL events are a recruiting superpower: “life happens in person”
+- ETHDenver vs Devconnect Buenos Aires vibes: hope vs “bear market energy”—and why that’s a good thing for builders
+- Hiring in bull vs bear markets: why bear-market hires often stick longer (resilience wins)
+- How to stand out in crypto hiring (Connor’s 3 paths):
+- 1) Build: ship an app/mini app, show proof, speak directly to the role
+- 2) Create: write or make video content to build a portfolio + signal real industry depth
+- 3) Trade/Research: harder to package, but strong research instincts can translate into real credibility
+- What to do after a near-miss interview: protecting confidence, staying resilient, and leveling up outside the process
+- Why connecting with recruiters helps: feedback loops, resume improvement, and better interview performance
+- Connor’s take on job search channels: X as the most direct line, LinkedIn still useful (maybe)
+- Bonus: Connor’s next fitness arc, training for a Half Ironman (discipline carries over)
+
+Apply / Get Involved
+- Base jobs: https://base.org/jobs
+- Coinbase careers: https://coinbase.com/careers
+- Base Batches accelerator: Connor mentions they’re looking for builders/projects (including a robotics track and student submissions)—reach out if you’re building.
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: What’s your plan to stand out this year—build, create, or trade?
+
+#ETHDenver #Base #Coinbase #CryptoJobs #Web3 #Recruiting #Builders #Startups #Accelerator #CareerAdvice #Blockchain</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gE30j5kq90w</id>
+  <yt:videoId>gE30j5kq90w</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How to Earn Yield on Bitcoin: Alisia Painter on Bitcoin L2s, Taproot, and Bringing DeFi to BTC</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gE30j5kq90w"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-05T14:01:10+00:00</published>
+  <updated>2026-03-05T14:01:10+00:00</updated>
+  <media:group>
+   <media:title>How to Earn Yield on Bitcoin: Alisia Painter on Bitcoin L2s, Taproot, and Bringing DeFi to BTC</media:title>
+   <media:content url="https://www.youtube.com/v/gE30j5kq90w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gE30j5kq90w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of Crypto Talks &amp; Blockchain Walks, I’m joined by Alisia Painter, a longtime ETH Denver attendee who’s been building in crypto for years and has spent the last ~3 years helping build a Bitcoin L2 designed to unlock real utility for BTC.
+
+We talk about why Bitcoin L2s exploded as a narrative in 2023–2024, the technical upgrades (like Taproot) that helped make them viable, and the cultural tension inside Bitcoin between the “just hodl” crowd and the silent majority that would absolutely use Bitcoin for basic financial primitives: earning yield, borrowing, and using BTC as collateral.
+
+Alisia also breaks down (in non-wonky terms) how an EVM-based execution layer fits into a Bitcoin ecosystem, why “EVM” is best thought of as software/tooling, and what it looks like to bridge BTC from anywhere in the world into a Bitcoin L2 to start using onchain applications.
+
+Guest: Alisia Painter
+- X: https://x.com/alipaints
+
+Botanix Website: 
+- https://yield.botanixlabs.com/
+
+WHAT WE COVER
+- Why Alisia is “representing Bitcoin” at ETHDenver this year—and why the BTC contingent feels quieter in this market
+- Why Bitcoin L2s became a dominant narrative:
+- Technical constraints that limited L2 design until recently
+- How Taproot (2021) helped unlock new possibilities
+- How Ordinals and rising base-layer fees highlighted the need for scaling solutions
+- The cultural split in Bitcoin: the “loud minority” of ossifiers vs the silent majority of everyday BTC holders
+- The biggest unlock: turning Bitcoin into productive capital (yield, lending/borrowing, collateral)
+- The security reality: as halvings cut issuance, fees + real onchain activity matter for miner incentives long-term
+- Why a Bitcoin L2 uses an EVM: not “Ethereum-ness,” but the most battle-tested execution + tooling environment
+- Practical ways to put BTC to work:
+- 1) Bridging BTC and staking into stBTC (yield driven by network activity, “BTC in / BTC out”)
+- 2) Lending BTC and borrowing stablecoins (example discussed: USDC)
+- 3) Using stablecoin vault strategies for additional yield (example discussed: ~10% on a vault)
+- The simple mental model for bridging: send BTC to a generated deposit address → receive it on the L2 in your linked EVM wallet
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: Would you use Bitcoin for yield and borrowing—or do you prefer pure “cold storage only” BTC?
+
+#Bitcoin #BTC #BitcoinL2 #Taproot #DeFi #Ethereum #EVM #ETHDenver #Crypto #Web3 #Yield #Stablecoins #OnchainFinance</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MJIRgwQEvMo</id>
+  <yt:videoId>MJIRgwQEvMo</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>Building Creator Communities On-chain.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MJIRgwQEvMo"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-04T14:45:06+00:00</published>
+  <updated>2026-03-04T14:45:07+00:00</updated>
+  <media:group>
+   <media:title>Building Creator Communities On-chain.</media:title>
+   <media:content url="https://www.youtube.com/v/MJIRgwQEvMo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MJIRgwQEvMo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of Crypto Talks &amp; Blockchain Walks, I’m joined by David Hernandez, also known online as Zen Shorts, a creative producer, cultural curator, and analogue photographer who splits time between New York City and Puerto Rico.
+
+We dig into where the strongest crypto + art communities are forming, why IRL connection still matters in an increasingly online industry, and how to build communities that stay alive after the event ends.
+
+GUEST: David Hernandez (ZenShortz)
+-X (Web3 + creator world): https://x.com/zenshorts
+- Instagram (portraits + photography): https://instagram.com/daveh
+
+WHAT WE COVER
+- How we met on the conference floor—and why those IRL moments hit different
+- NYC vs Puerto Rico crypto culture: company-heavy energy vs community-heavy energy
+- Unplugging from crypto to stay grounded (analogue life, beach days, stray cats)
+- “Recovering degen → regen” and building human-first experiences
+- Can online friendships match in-person bonds? (and when they actually do)
+- David’s work with Onchain Creators and creator challenges (capturing conferences through the community’s eyes)
+- The Vibe Check event: AI film festival + late-night Denver-style rave vibes
+- The long game of community: “watering the seed” and staying connected beyond the hype cycle
+
+ABOUT THE SERIES
+
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, artists, and community leaders on the ground—capturing what’s happening in crypto in real time, from the people shaping it.
+
+👍 If you enjoyed the episode, like, subscribe, and comment where you think the strongest crypto communities are forming right now.
+
+#Crypto #Web3 #Ethereum #NFTs #CryptoArt #CreatorEconomy #Community #OnchainCreators #ETHDenver #NYC #PuertoRico</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MxPVDkKUeg4</id>
+  <yt:videoId>MxPVDkKUeg4</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How to Stay in Crypto for 12+ Years: Ashton Addison on Cycles, AI Agents &amp; Tokenizing Stocks</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MxPVDkKUeg4"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-03T14:30:30+00:00</published>
+  <updated>2026-03-03T14:30:30+00:00</updated>
+  <media:group>
+   <media:title>How to Stay in Crypto for 12+ Years: Ashton Addison on Cycles, AI Agents &amp; Tokenizing Stocks</media:title>
+   <media:content url="https://www.youtube.com/v/MxPVDkKUeg4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MxPVDkKUeg4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>After a much-needed reset on the bean bags, I sat down at ETHDenver with Ashton Addison, a true OG crypto content creator and the host of The Crypto Coin Show.
+
+Ashton has published 1,500+ interviews and videos since 2014, documenting the industry across multiple cycles, narratives, and crashes. In this conversation, we get into what keeps someone showing up year after year, why blockchain still feels inevitable (even when 95% of projects fail), and how AI agents may accelerate the need for crypto-native payment rails. We also talk about one of the biggest “slow burn” themes in the space: tokenizing traditional finance, from private markets to the long road toward a tokenized stock exchange.
+
+Guest: Ashton Addison
+- X: https://x.com/Ashton_Addison
+
+The Crypto Coin Show
+- X: https://x.com/CryptoCoinShow
+- YouTube: https://www.youtube.com/c/cryptocoinshow
+
+WHAT WE COVER
+- Ashton’s journey as a crypto media OG: 1,500+ videos since 2014
+- Why he’s still here after multiple cycles: startups die, adoption takes time, and the “internet moment” didn’t happen overnight
+- The core “forever” use case: owning your money + sending value anytime without gatekeepers
+- Why AI agents make crypto even more relevant: agents/robots need native, always-on payment infrastructure (not 9–5 bank accounts)
+- What excites him now that didn’t early on: tokenization of TradFi
+- Private markets and RWAs as stepping stones
+- Why public equities are complex and slow (but coming)
+- First-time ETH Denver impressions: fewer hype tourists, more builders, more fundamentals
+- Creator advice for newcomers: pick a niche, follow what you genuinely care about, and it’s never too late to start
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: What’s the strongest reason you still believe in crypto—payments, ownership, AI agents, or tokenization?
+
+#ETHDenver #Crypto #Web3 #Ethereum #AIAgents #Tokenization #RWA #TradFi #Bitcoin #ContentCreator #CryptoMedia #Podcast #CryptoCoinShow</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VQdNDQfDNFU</id>
+  <yt:videoId>VQdNDQfDNFU</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>NFTs Beyond JPEGs: Kelly LeValley Hunt on Crypto Art, Rare Pepes &amp; the Next Wave of Use Cases</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VQdNDQfDNFU"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-02T14:00:52+00:00</published>
+  <updated>2026-03-02T14:00:54+00:00</updated>
+  <media:group>
+   <media:title>NFTs Beyond JPEGs: Kelly LeValley Hunt on Crypto Art, Rare Pepes &amp; the Next Wave of Use Cases</media:title>
+   <media:content url="https://www.youtube.com/v/VQdNDQfDNFU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VQdNDQfDNFU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We’re on the ground at ETHDenver (Day 2) with Kelly LeValley Hunt—an ETHDenver OG who’s attended every single year. In this walk-and-talk, we cover how the event has evolved, why the “CT negativity” never tells the full story, and how the NFT narrative has shifted from early crypto art to what may become the next decade of ticketing, loyalty, airline points, and real-world assets.
+
+Kelly also shares her personal origin story: growing up around artists and musicians, getting pulled into Bitcoin early, and then following the thread through Rare Pepes, “rares,” and crypto art—long before NFTs were mainstream.
+
+Guest: Kelly LeValley Hunt
+- X: https://x.com/LeValleyKelly
+
+WHAT WE COVER
+- Kelly’s perspective as an 8-time ETHDenver attendee (and why she keeps coming back)
+- Why ETHDenver feels more condensed this year: more refined signal, less noise, faster learning
+- The venue upgrade and why it changes the experience (plus a nostalgic shout to the old Sports Castle days)
+- “CT negativity” vs reality: why people not attending often complain the loudest
+- A real-world story from Nigeria: how money works IRL, why traceability matters, and why crypto narratives can be… selective
+- How Kelly found NFTs through crypto art and provenance—not hype cycles
+- The lineage: Namecoin → Rare Pepes (“rares”) → crypto art → NFTs
+- Why Rare Pepe culture mattered: reclaiming a symbol and turning it into something rooted in inclusion and community
+- Early NFT buying before wallets were mainstream: credit cards, QR codes, and the path to today’s UX
+- MetaMask perspective: why products get criticized at scale—and why she’s still a supporter
+- The big question: Are NFTs past the PFP era?
+- Kelly’s take: NFTs are still early
+- Next wave use cases: ticketing, airline tickets, loyalty points, RWAs
+- Shoutout to the ETHDenver art presence and the people curating it year after year
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: What’s the first “real” NFT use case that will go mainstream—tickets, loyalty points, RWAs… or something else?
+
+#ETHDenver #NFTs #CryptoArt #RarePepes #Ethereum #Web3 #RWA #Ticketing #LoyaltyPoints #MetaMask #CryptoHistory #OnchainIdentity</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6jTrzXxudWw</id>
+  <yt:videoId>6jTrzXxudWw</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>Agents Will Be Crypto’s “1st Billion Users: Austin Griffith on x402, ERC-8004 &amp; Onchain Coordination</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6jTrzXxudWw"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-03-01T15:00:08+00:00</published>
+  <updated>2026-03-01T15:00:09+00:00</updated>
+  <media:group>
+   <media:title>Agents Will Be Crypto’s “1st Billion Users: Austin Griffith on x402, ERC-8004 &amp; Onchain Coordination</media:title>
+   <media:content url="https://www.youtube.com/v/6jTrzXxudWw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6jTrzXxudWw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We’re on the ground at ETHDenver (Day 2) for a walk-and-talk with the man, the myth, the legend: Austin Griffith.
+
+Austin was part of the first time I ever used crypto in real life, back in the early Cypherpunk Speakeasy days, when burner-style wallets and real-world payments helped stress-test UX before ETH Denver 2020's free food truck experience. From those early experiments to today’s conversations, one theme keeps getting louder:
+
+AI agents are about to become crypto’s biggest “user base.”
+
+In this interview, Austin explains why agents (not humans) will finally use smart contracts at scale, because they can read call data, verify outcomes, and coordinate at light speed. We also dig into what most people are missing: not just “AI hype,” but the onchain coordination layer that enables agents to hire other agents, pay for services, build reputation, and even autonomously crowdfund resources.
+
+Guest: Austin Griffith
+- X: https://x.com/austingriffith
+
+WHAT WE COVER
+- The early days: Cypherpunk Speakeasy + stress-testing burner-wallet UX with real payments
+- How ETHDenver changed: Sports Castle nostalgia, overscaling, and why a smaller year can mean better builder vibes
+- Why CT/X negativity misses the point: the best conversations happen on the ground with builders
+- The new “builder” archetype: AI tools expand who can ship (beyond traditional devs)
+- Are we being replaced by “Claude-bots”? How senior devs 10x—and why non-dev builders can now ship too
+- The meta most people are missing:
+- Everyone’s talking “agents”… but fewer are talking about how agents coordinate onchain
+- x402 for payments + ERC-8004 for identity/registration/reputation as the rails for agent economies
+- Why agents will use smart contracts more than humans:
+- Agents can read call data, inspect contracts, understand function selectors, simulate outcomes, and trust code fast
+- Humans often need auditors and social proof; agents can verify directly
+- What “agent coordination” looks like: agents paying each other, hiring other agents, and even crowdfunding hardware via smart contracts
+- The big question: in 2026, how many of the “first billion users” of crypto are actually AI agents?
+
+ABOUT THE SERIES
+
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: Do you think agents will outnumber humans onchain—or is that still too early?
+
+#ETHDenver #Ethereum #Crypto #Web3 #AIAgents #AustinGriffith #SmartContracts #x402 #ERC8004 #OnchainPayments #Reputation #AccountAbstraction #BuilderEconomy</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ec8g3ZOZjdk</id>
+  <yt:videoId>ec8g3ZOZjdk</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How to Survive a Crypto Bear Market: Building, Vibes, and Long-Term Conviction.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ec8g3ZOZjdk"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-28T15:15:09+00:00</published>
+  <updated>2026-02-28T15:15:10+00:00</updated>
+  <media:group>
+   <media:title>How to Survive a Crypto Bear Market: Building, Vibes, and Long-Term Conviction.</media:title>
+   <media:content url="https://www.youtube.com/v/ec8g3ZOZjdk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ec8g3ZOZjdk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We’re back on the ground at ETHDenver 2026 for the first interview of Day 2—this time with Kent Barton (a longtime ETHDenver community steward) to talk about what this year’s new venue really changes: not just the crowd size, but the vibe, the density of builders, and the quality of real conversations.
+
+Kent has been in crypto since 2013, learned about Bitcoin in 2012, and helped start Ethereum Denver in 2014—so he’s seen multiple cycles firsthand. In this conversation, he shares practical “bear market survival” advice (spoiler: touch grass, get off X, and zoom out), plus what he’s building now at the intersection of LLMs + crypto.
+
+Guest: Kent Barton
+- X: https://x.com/seven7hwave
+
+WHAT WE COVER:
+- The new ETHDenver venue: why “less people” can mean better energy and better 1:1 conversations
+- Why sponsor count isn’t the real metric—and what matters more (builder critical mass + vibes)
+- The state of the market: what this bear market feels like when adoption is rising but sentiment is low
+- Kent’s best advice for people in their first bear market:
+- 1) Go to IRL events to reset your mindset
+- 2) Spend less time on X/Twitter (negativity is algorithmically rewarded)
+- 3) Zoom out and study crypto history—cycles repeat
+- 4) Don’t use price as a proxy for progress (are people still building?)
+- The “two-sided legitimization” moment: builders and institutions shipping at the same time
+- What Kent is building now: Coincap — a high-performance crypto data API with deep historical data
+- Experiments with token-gated API access (including staking Morpheus tokens) and how strategies shift in down markets
+- Why Kent’s long-term passion is music, and what he hopes crypto can still unlock for creators
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: What’s your best bear market strategy—zoom out, ship, or log off?
+
+#ETHDenver #Crypto #Web3 #Ethereum #BearMarket #Builders #Community #Decentralization #LLM #AI #CryptoData #Startups #Colorado</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:I5JzsLdNSno</id>
+  <yt:videoId>I5JzsLdNSno</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How to Get Sponsored and Win Blockchains Hackathons Across the World.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=I5JzsLdNSno"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-27T15:00:37+00:00</published>
+  <updated>2026-02-27T15:00:38+00:00</updated>
+  <media:group>
+   <media:title>How to Get Sponsored and Win Blockchains Hackathons Across the World.</media:title>
+   <media:content url="https://www.youtube.com/v/I5JzsLdNSno?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/I5JzsLdNSno/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In Episode 006 of Crypto Talks &amp; Blockchain Walks, I’m joined by Armando Medina, a serial hackathon builder we first met at TOKEN2049 Singapore, now linking up again on the first day of building at ETH Denver.
+
+Armando breaks down what it’s actually like to live the hackathon circuit: how he funds travel through a mix of sponsorships and bounty wins, what makes someone consistently competitive, and why persistence (more than genius) is often the difference between quitting and shipping.
+
+Guest: Armando Medina
+- X: https://x.com/armsves
+
+WHAT WE COVER
+- Reconnecting in Denver after meeting at TOKEN2049 Singapore
+- The real economics of being a “serial hacker”: sponsorship + bounties + occasional wins
+- Armando’s role as an ambassador for an RPC provider—and how that sponsorship supports hackathon travel
+- The #1 edge in hackathons: don’t quit when the docs or tooling are messy
+- How hackathon “meta” shifts—and why idea generation is often the hardest part
+- Sponsor dynamics: asking for idea validation, navigating good vs bad sponsor experiences
+- Building ethically: using templates, not reusing old code, and keeping it fair even with experience
+- Tech stack + range: mostly Solidity + TypeScript/JavaScript, but comfortable across many languages
+- ETH Denver realities: new venue, internet issues, and still trying to stay positive
+- This year’s build: hacking solo and shipping an MVP for a cargo ship organization platform
+- AI dev tools: faster workflows, imperfect outputs, and why a dev foundation still matters
+- Why Armando doesn’t fully trust “black box” AI yet
+- Advice for first-time ETH Denver hackers: have fun, help others, and… “don’t compete against me”
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: What’s the best hackathon tip you’ve ever gotten—or learned the hard way?
+
+#Crypto #Web3 #Ethereum #ETHDenver #Hackathon #Builders #Solidity #DeveloperTools #AIAgents #AItools #RPC #Startup #Bounties #TOKEN2049</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:W1AABYVsiOs</id>
+  <yt:videoId>W1AABYVsiOs</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>From ETHDenver to Adventure: Onchain Scavenger Hunts, Creator Grind, and Surviving the Bear</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=W1AABYVsiOs"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-26T15:01:02+00:00</published>
+  <updated>2026-02-26T15:01:03+00:00</updated>
+  <media:group>
+   <media:title>From ETHDenver to Adventure: Onchain Scavenger Hunts, Creator Grind, and Surviving the Bear</media:title>
+   <media:content url="https://www.youtube.com/v/W1AABYVsiOs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/W1AABYVsiOs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We’re back at ETHDenver and this one is equal parts builder culture, content creator grind, and doing crypto like a tourist. In this episode of Crypto Talks &amp; Blockchain Walks, I’m joined by Gramajo—a creator who’s been shipping through the bear and bringing fun, onchain energy to IRL events.
+
+We talk about his ETHDenver scavenger hunt (“Little Quest”), why it exists, how it works, and what it says about the culture shift happening in crypto right now—from innocent early magic to a more “grown up” industry with institutions in the room. We also get into creator motivation, job hunting in a down market, privacy rabbit holes, and yes… long coffee lines and trading card ripping as bear market therapy.
+
+Guest: Gramajo
+- X: https://x.com/0xGramajo
+
+WHAT WE COVER
+- Day 1 vibes at ETHDenver and why this year’s venue feels like an upgrade
+- Little Quest (ETHDenver scavenger hunt):
+- 1) Built from learnings from past quests (including last year + FarCon)
+- 2) A tour of Denver landmarks and themed locations
+- 3) Complete the locations → earn rewards
+- 4) Optional creator track: photos/videos + onchain activities instead of doing every checkpoint
+- Why crypto conferences should help people actually experience the city (not just conference rooms)
+- First impressions from Gramajo’s first ETHDenver (and why he wishes he came earlier)
+- ETHDenver becoming more multi-chain over time—and why that’s healthy for decentralization
+- The NFT/art community at ETHDenver: present, but not “NFTNYC levels”
+- The funniest shared pain point: coffee/matcha lines and “just give me drip coffee” energy
+- The shift in crypto culture: losing some early “innocence” while the industry matures
+- Bear market realities: who’s here “for the love of the game” vs paid BD—and how to stay motivated
+- The creator path through the bear: content as expression, skill-building, and momentum
+- Gramajo’s journey: podcasting, newsletters, and trying to land a full-time crypto role
+- Privacy + tech rabbit holes: Signal, privacy-first thinking, and agent talk always in the background
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: Would you do an onchain scavenger hunt at a conference—or are you strictly here for the talks and booths?
+
+#ETHDenver #Crypto #Web3 #Ethereum #ScavengerHunt #Onchain #CreatorEconomy #Podcast #Newsletter #BearMarket #NFTs #Farcaster #Privacy #AIAgents</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lf9-zulXIic</id>
+  <yt:videoId>lf9-zulXIic</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>From Consensys to Cosmos: Building Communities Across Chains.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lf9-zulXIic"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-25T16:30:31+00:00</published>
+  <updated>2026-02-25T16:30:31+00:00</updated>
+  <media:group>
+   <media:title>From Consensys to Cosmos: Building Communities Across Chains.</media:title>
+   <media:content url="https://www.youtube.com/v/lf9-zulXIic?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lf9-zulXIic/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In Episode 004 of Crypto Talks &amp; Blockchain Walks, I’m joined by Adam Dean Wozney, one of the MCs at ETH Boulder, for a wide-ranging conversation on what makes this event feel different—and what “community” actually means when you strip away the buzzwords.
+
+Adam shares what it was like introducing speakers and helping set the tone for a builder-first gathering, why ETH Boulder gave him strong 2017–2018 “OG crypto” vibes, and how he thinks about building communities that can self-organize and self-manage—both online and IRL.
+
+Guest: Adam Dean Wozney
+- X: https://x.com/AdamDeanWozney
+
+WHAT WE COVER
+- Behind the scenes as an ETH Boulder MC: early mornings, speaker intros, and keeping the room energized
+- The ETH Boulder vibe: intimate, high-signal conversations and a “roots of crypto” feeling
+- Public goods funding talk tracks—and why this event still feels uniquely human
+- Adam’s path through the space: from early Ethereum roots to time spent in “Cosmos land” (and why)
+- The decentralized infrastructure angle: why decentralizing cloud/compute matters if we’re serious about decentralization
+- What “community” means (for real): not just Discord/Telegram—community becomes real when it can self-organize
+- The playbook: getting like-minded people in a room, then enabling them to run with it—events, ideas, and leadership
+- Online vs IRL: why meeting in person makes everything “stickier”
+- What Adam’s focused on next (including life as a dad in crypto) and why he’s optimistic about the current “uncharted territory” phase
+- Final parting wisdom: don’t take private keys from strangers
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: What does “community” mean to you—online, IRL, or both?
+
+#Crypto #Web3 #Ethereum #ETHBoulder #ETHDenver #Community #PublicGoods #Decentralization #Cosmos #EthereumCommunity</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7XozSFCH5wc</id>
+  <yt:videoId>7XozSFCH5wc</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>Spinning up blockchains like cloud services by using smart contracts.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7XozSFCH5wc"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-24T16:30:08+00:00</published>
+  <updated>2026-02-24T16:30:08+00:00</updated>
+  <media:group>
+   <media:title>Spinning up blockchains like cloud services by using smart contracts.</media:title>
+   <media:content url="https://www.youtube.com/v/7XozSFCH5wc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7XozSFCH5wc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In Episode 003 of Crypto Talks &amp; Blockchain Walks, I sit down on the ground at EthBoulder with German Abal, the creator behind EVVM—a framework for deploying “virtual state blockchains” on top of smart-contract chains.
+
+We break down what EVVM is in plain terms, why the idea started quietly years ago, and how today’s world of L2s, L3s, appchains, and modular stacks is pushing the industry toward something that looks a lot like “blockchains as cloud infrastructure.”
+
+Guest + Project Links
+- EVVM website: https://evvm.info
+- X: https://x.com/ariutokintumi
+
+WHAT WE COVER
+- What EVVM is: “virtual state blockchains” you can deploy on a smart-contract chain—like having your own blockchain without needing your own nodes
+- Why the idea started 3 years ago: anticipating a future where gas becomes cheap and execution scales
+- The Web2 analogy: dedicated servers → VPS → cloud… and why blockchain infra may follow the same arc
+- How EVVM fits into today’s landscape of L2s/L3s/appchains and shared base-layer infrastructure
+- The surprising early demand: banks and enterprise/consortium-style deployments
+- A real-world example: private/permissioned setups (including Hyperledger-based environments) where institutions want separate “instances” while still being able to interoperate via permissioned bridging
+- Why ETH Boulder feels different: relaxed, builder-first, high proximity conversations—less rush, less posturing, more learning
+- Where EVVM is headed next: workshops, events, and continued experimentation across the Ethereum ecosystem
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, artists, and community leaders—captured on the ground at the events where crypto culture and infrastructure are actively being shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: Do you think “blockchains as cloud infrastructure” is inevitable?
+
+#Crypto #Web3 #Ethereum #ETHBoulder #ETHDenver #Scaling #Layer2 #Appchains #ModularBlockchain #SmartContracts #Infra</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TdW2OAnCzQg</id>
+  <yt:videoId>TdW2OAnCzQg</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>How blockchain can empower artists and local creators.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TdW2OAnCzQg"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-23T17:00:45+00:00</published>
+  <updated>2026-02-23T17:00:45+00:00</updated>
+  <media:group>
+   <media:title>How blockchain can empower artists and local creators.</media:title>
+   <media:content url="https://www.youtube.com/v/TdW2OAnCzQg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TdW2OAnCzQg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this Seated Edition of Crypto Talks &amp; Blockchain Walks, I’m sitting down with Humpty on the ground at ETH Boulder, where the energy is a little chaotic, a little improvised—and somehow still feels like it has real connective tissue.
+
+We unpack what brought Humpty to Colorado, what makes ETH Boulder feel different from the usual conference circuit, and why so many of the people showing up right now feel high quality—the kind of builders and community members who genuinely care about making crypto better.
+
+Guest: Humpty
+- X: https://x.com/humpty0x
+
+WHAT WE COVER
+- Why Humpty came to EthBoulder: showing up for longtime friends, building with purpose
+- The “intentional chaos” of smaller events—and how that chaos can create something special
+- Why the crowd feels unusually high-signal: people who care, and believe crypto can do better
+- What Humpty is building in LA: meetups, community building, and helping creators monetize content using crypto and decentralized social
+- Onchain Creators + the influence of Nouns DAO in the work they’ve been doing since last year
+- EthBoulder as the best way to start the trip: meaningful conversations before the bigger conference sprint
+- What Humpty expects from ETH Denver this year (and why it might be smaller than past years)
+- The big takeaway: storytelling is the next battleground for crypto, and creators are the bridge to mainstream understanding
+- Bonus: We wrap by gearing up to watch robots throw down—Mittens “Chainbreaker” vs “Danny DeVito” (yes, really)
+
+ABOUT THE SERIES
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, artists, and community leaders—captured on the ground, in real time, at the events where crypto culture is actually formed.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: What’s one crypto story you think the world still doesn’t understand?
+
+#Crypto #Web3 #Ethereum #ETHBoulder #ETHDenver #CreatorEconomy #Community #OnchainCreators #NounsDAO #DecentralizedSocial</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="7"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:PHC6FwyChnA</id>
+  <yt:videoId>PHC6FwyChnA</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>Consensys and MetaMask's head of Developer Relations talks AI agents.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=PHC6FwyChnA"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-22T16:30:14+00:00</published>
+  <updated>2026-02-22T22:55:44+00:00</updated>
+  <media:group>
+   <media:title>Consensys and MetaMask's head of Developer Relations talks AI agents.</media:title>
+   <media:content url="https://www.youtube.com/v/PHC6FwyChnA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PHC6FwyChnA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Welcome to Crypto Talks &amp; Blockchain Walks Episode 001, filmed on the ground in East Boulder during ETH Boulder’s first edition. In this series, we talk the talk with builders who walk the walk, literally, while we explore what’s happening at the intersection of crypto, community, and the next wave of onchain tech.
+
+For the second episode, I’m joined by Francesco, Lead Developer Relations at Consensys (the company behind MetaMask, Infura, and Linea). We get into the fast-moving world of agentic economies, why permissions will define the next phase of wallets and onchain UX, and how “users” in crypto may soon be AI agents as much as humans.
+
+Guest: Francesco Andreoli
+- X: https://x.com/francescoswiss
+
+WHAT WE COVER
+- Why ETH Boulder feels special: walkable venues, close conversations, and “in the trenches” builder energy
+- Francesco’s role at Consensys and how MetaMask’s dev tooling is evolving
+- The rise of smart accounts and why permissions are becoming essential infrastructure
+- Agent security: why we need constrained, task-specific permissions (and not “give the agent the keys”)
+- The reality check on agent payments: separating real usage from agents “farming themselves”
+- The case for onchain systems in an agent-driven world: reputation, social coordination, and accountability
+- The “next billion users” question: how many will be humans vs autonomous agents?
+- AI in dev workflows: productivity boosts, faster content/outreach, and why fundamentals still matter
+- ETH Boulder’s vibe vs larger conferences: less pressure, more learning, more real conversation
+- What Francesco’s watching next: EIP-8004, agentic wallets, and the debates that will shape what comes after
+
+ABOUT THE SERIES
+
+Crypto Talks &amp; Blockchain Walks is a roaming interview series with builders, creators, and community leaders—captured on the ground at the events where crypto culture is actually shaped.
+
+👍 If you enjoyed the episode, like, subscribe, and comment: Do you think the next “billion users” will be mostly humans… or mostly agents?
+
+#Crypto #Web3 #Ethereum #ETHBoulder #ETHDenver #MetaMask #Consensys #SmartAccounts #AccountAbstraction #AIAgents #AgenticEconomy #OnchainReputation #EIP8004</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="7"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bwuHTdq1J90</id>
+  <yt:videoId>bwuHTdq1J90</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>Ep 000 - Willy Wonka talks surviving crypto cycles.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bwuHTdq1J90"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2026-02-21T21:13:55+00:00</published>
+  <updated>2026-02-21T21:18:16+00:00</updated>
+  <media:group>
+   <media:title>Ep 000 - Willy Wonka talks surviving crypto cycles.</media:title>
+   <media:content url="https://www.youtube.com/v/bwuHTdq1J90?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bwuHTdq1J90/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Willy Wonka is an OG blockchain builder, is hyper-creative, and knows what it takes to survive the bulls and the bears.
+
+Tune in to the first episode of Crypto Talks &amp; Blockchain Walks to hear about his insights in Eth Boulder.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IlvMIaRC7YQ</id>
+  <yt:videoId>IlvMIaRC7YQ</yt:videoId>
+  <yt:channelId>UCA7hhAGonF2hpinyd4z9XKA</yt:channelId>
+  <title>Sui network freezes $160m of stolen funds, CFTC says perp trading might be coming to US</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IlvMIaRC7YQ"/>
+  <author>
+   <name>Blocksurfing Through Cryptocurrencies</name>
+   <uri>https://www.youtube.com/channel/UCA7hhAGonF2hpinyd4z9XKA</uri>
+  </author>
+  <published>2025-05-23T14:53:06+00:00</published>
+  <updated>2025-09-05T09:50:48+00:00</updated>
+  <media:group>
+   <media:title>Sui network freezes $160m of stolen funds, CFTC says perp trading might be coming to US</media:title>
+   <media:content url="https://www.youtube.com/v/IlvMIaRC7YQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IlvMIaRC7YQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>🫆 Sui Network freezes $160m of stolen funds
+🇺🇸 Perps trading could come to US soon
+📈 Kraken to offer tokenized equities to non-US citizens
+🫆 hackers using fake Ledger Live; victim drugged and robbed of $BTC
+🇺🇸 MI proposes 4 new crypto bills
+
+Follow me on X/Twitter: https://x.com/GrabowskiDylan</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="15"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

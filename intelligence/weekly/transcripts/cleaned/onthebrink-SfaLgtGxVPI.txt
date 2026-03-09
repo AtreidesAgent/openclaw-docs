@@ -1,0 +1,213 @@
+Welcome to On the Brink
+My name is Sean Welcome to On the Brink
+My name is Sean Judge
+oday on the podcast, I sat down Judge
+oday on the podcast, I sat down with Alex Wilson, co-founder and co-CEO of Cyclops
+oday, Cyclops came out of Cyclops
+oday, Cyclops came out of stealth mode and announced an $8 million seed round of financing led by us at Castle Island Ventures alongside F-Prime and Shift 4
+ere's my conversation with Alex Wilson
+lex Wilson
+lex Wilson. >> Matt Walsh and Nick Carter are partners at Castle Island Ventures
+ll views expressed by them [music] or the guests on this podcast are solely their opinions and do not reflect the opinions of Castle Island Ventures
+uest and may maintain positions in the assets discussed in this podcast
+we should not treat any opinion expressed by anyone on this podcast as a specific inducement to make a particular investment or follow a particular strategy, but only as an expression of their personal opinion. expression of their personal opinion
+this podcast is forformational purposes This podcast is forformational purposes only
+rought down by bad mortgage only
+rought down by bad mortgage investments, Lehman, which has 25,000 employees will be liquidated. >> The federal government loans American International [music] Group AIG $85 billion
+this is a different kind of billion
+this is a different kind of market AND THE FED IS ASLEEP. >> The federal government is stepping in to stabilize Fanny May and Freddy Mack, the two mortgage giants that [music] have been threatened by the housing crisis. >> The Bank of England has pumped 75 billion pounds more into Britain's ailing economy and the new round of quantitative easing. >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry
+to out of this worry, we have something So out of this worry, we have something called a Bitcoin
+itcoin. >> Alex, welcome back to On the Brink. >> Thanks for having me back, Sean
+think you first appeared on the show in December 2021
+it of a different era at December 2021
+it of a different era at that point
+ou were running a different that point
+ou were running a different business
+and before we get into the business
+and before we get into the exciting news that you're going to be announcing today, maybe for listeners if they're unfamiliar, could you just share more about what you had built at the Giving Block and and ultimately what ended up happening with that business? >> Yeah
+eah, happy to
+m, wow
+an't >> Yeah
+eah, happy to
+m, wow
+an't >> Yeah
+eah, happy to
+m, wow
+an't believe it's been since 2021 that I was on here
+efinitely a different world in on here
+efinitely a different world in crypto and and stable coins, especially since then
+at Duffy and I started the since then
+at Duffy and I started the Giving Block back in 2018
+the concept was we'll help nonprofits fund raise Bitcoin crypto more broadly, including stable coins
+and at the time, you can stable coins
+and at the time, you can imagine in 2018 telling a charity to pay attention to Bitcoin
+ot the easiest to sell to them
+they were pretty skeptical. took a while to get some traction there, but we stuck with it and ended up working with a lot of the biggest charities around the world like St
+ude and Save the Children and St
+ude and Save the Children and raised hundreds of millions of dollars in crypto donations for them
+to once that took off, we ended up selling it to Shift 4 in 2022
+and when they acquired us, the reasoning for the acquisition was really twofold
+ne was they wanted to get deeper into the nonprofit space. to get deeper into the nonprofit space
+to Pat took on leading the entire So Pat took on leading the entire nonprofit division for Shift 4
+to even beyond crypto, full payment stack for nonprofit fundraising
+and then the second mandate which I led was actually building the crypto team from scratch at Shift 4
+to that's what we've been Shift 4
+to that's what we've been working on for the the last couple of years there. >> That's great
+and what was that experience like
+ou know, you were a experience like
+ou know, you were a founder, you were raising money, you were trying to sell this product into these nonprofits
+it probably became easier over time as the price of Bitcoin was going up
+ut what was that then was going up
+ut what was that then like being part of like a large public payments company? >> Yeah, we learned a ton and it was definitely a lot different than when we were just a tiny startup with 10 or 20 people
+we were really fortunate to join people
+we were really fortunate to join Shift 4
+personally actually had never Shift 4
+personally actually had never heard of Shift 4 until the bankers we used brought Shift 4 to us for the deal. used brought Shift 4 to us for the deal
+and then as soon as you hear the name, And then as soon as you hear the name, you start seeing the Shift for logo everywhere on point of sale devices at hotels and restaurants and stadiums and everywhere else
+ut one of the reasons everywhere else
+ut one of the reasons we we actually picked Shift 4 over other biders was really because of how well aligned we felt with the company and their leadership team in particular
+to the founder of Shift 4 is a really cool story
+we actually started Shift 4 when story
+we actually started Shift 4 when he was 16 in Allentown, Pennsylvania and ran the business since then until very recently
+ow you've maybe seen the recently
+ow you've maybe seen the headlines that he's actually running NASA
+to he was an incredible person to NASA
+to he was an incredible person to work for and look up to
+we was a really awesome role model for Pat and I and we learned a lot working under him and and working at the Shift 4 team
+we really instilled some great values like he learned a lot from his time around SpaceX and Elon and other guys like that terms of instilling core values around accountability and ownership
+to we learned a lot about managing bigger teams, moving quickly
+to it was a really cool experience for us
+and then we had the opportunity to basically build a company within a company
+hen we got acquired, we were their first exposure to crypto or stable coins at all
+we started by actually selling all
+we started by actually selling shift for card processing services to different crypto companies
+to, you're an exchange, you're on an off-ramp, and you want to let your users buy and sell crypto using your debit and credit card. crypto using your debit and credit card
+that's actually how we started the That's actually how we started the crypto vertical there
+nded up working with most of the big exchanges in the space. >> Fascinating
+it sounds like an amazing >> Fascinating
+it sounds like an amazing opportunity to get to work for someone like that inside of an organization that's kind of let you guys run
+that was it, I guess, over the last 6 to 12 months that had you thinking, I want to get back to being an entrepreneur, and I see this big opportunity here to create something in the payment space. >> Pat and I always felt like it was just a matter of time before we wanted to get back in the the startup trenches and do something new again
+we're waiting for the right time and the right idea
+or the last three years or so at Shift 4, we've spent a lot of time building out their actual crypto products
+to, think enabling crypto and stable coin acceptance for merchants, stable coin settlement, stable coin payouts, those types of use cases
+and to do that, we pulled together different crypto and stable coin infrastructure players in the space to bring those products to market
+and honestly, it was a lot market
+and honestly, it was a lot harder than we thought it was going to be. took a lot of different vendors, took a lot of different agreements, took a lot of even custom development work, right
+we had our own engineering and right
+we had our own engineering and product team to bring those to market because nothing we found was really ready to go out of the box for Shift 4. ready to go out of the box for Shift 4
+ook a lot of work to get it there
+and Took a lot of work to get it there
+and you know, we basically came to Shift 4 and said, "We know we can do this better
+we want to get back and better
+we want to get back and start a new entity, build this better than what we see in the market." And uh ultimately we actually got Shift For to come on board as both a customer and an investor in the new company. >> Yeah, maybe that's a a good segue into obviously the big announcement today and we're thrilled to be partnering and and leading this round of financing
+aybe speak more about the other investors. speak more about the other investors
+ou've touched on one as well as just You've touched on one as well as just what that fundraising process was like for you as a founder having done it now a second time
+ell, definitely a lot easier the second time around, [laughter] that's for sure
+or the giving block, we raised one round of funding
+we only raised a million and a funding
+we only raised a million and a half dollars
+we ended up selling the half dollars
+we ended up selling the business
+it was only a year and a year business
+it was only a year and a half after raising that funding. and a half after raising that funding
+to, pretty quick turnaround
+this time, So, pretty quick turnaround
+this time, we had a lot more to go on, a much better story to tell, a lot more experience because for that last round of funding at the giving block, I was basically sending messages on X and LinkedIn to people I'd never talked to before
+had zero network in the before
+had zero network in the venture world
+to this time around, venture world
+to this time around, right, we had some warmer intros and a lot more relationships and it was really nice that we could be a bit pickier in terms of who we took money from
+to we were really strategic and really excited to have you guys lead the round and really excited to work with you guys since we think you guys are really the brightest minds in stable coins
+and then F-Prime and Shift 4 were the other two investors and we ultimately raised eight million in that overs subscribed C round and are are off to the races now. >> Yeah
+ell, appreciate it
+it was kind >> Yeah
+ell, appreciate it
+it was kind >> Yeah
+ell, appreciate it
+it was kind of a long time coming
+bviously, I after you raised that million and a half with the giving box, I spent months trying to chase you to to take money back then, but you guys were off to the races
+an you speak more
+I you know races
+an you speak more
+I you know races
+an you speak more
+I you know you touched on Pat, but just kind of speak more about kind of the founding team that you guys have assembled over the last few months. >> Yeah, definitely
+at and I are co-founders and now we also have a third co-founder, David Johnson
+it's a funny story with David actually
+we met him story with David actually
+we met him when we were living in Washington DC still
+we was a full-time lawyer at still
+we was a full-time lawyer at Pillsbury Shaw Equipment at the time and on the side was running essentially like a blockchain incubator and co-working space in DC. and Pat and I when we started the giving block were the first company to start working out of that co-working space
+that's actually how we co-working space
+that's actually how we got to know David who's the third co-founder now
+illsbury actually advised on our acquisition with Shift 4. advised on our acquisition with Shift 4
+to David was one of the lawyers involved So David was one of the lawyers involved in that deal
+and a couple months after in that deal
+and a couple months after the acquisition, we actually convinced him to come join Shift 4 in the giving block full-time
+to, he's really been block full-time
+to, he's really been like our right-hand man for a lot of the work we did around the acquisition and and postacquisition at Shift 4 and was super involved in a lot of those crypto initiatives at Shift 4
+and then we have some other absolute killers that we've brought over from Shift 4 as well
+it's about 13 people total that joined us from the Shift 4 team
+to, we have an awesome COO, Lindseay Weissaki, who joined us from Shift 42
+and we have an awesome head of engineering, Alexi, and a head of product, Willie, that also joined us from Shift 4 along with a handful of engineers, too
+to, it's really nice to have a a core team on day one, right
+ather than hiring for all one, right
+ather than hiring for all those roles, which has really allowed us to move a lot faster and get these products to market
+and maybe just speaking the story with David's super cool u but you're operating in a heavily regulated environment
+to how have you regulated environment
+to how have you and David and the team thought about just licensing and regulatory strategy to get going here
+avid's definitely a lot smarter on these topics than I am. lot smarter on these topics than I am
+ut overall the strategy is get licensed But overall the strategy is get licensed in the US and Europe as quickly as possible and those are really the focuses for getting our own licensing. focuses for getting our own licensing
+we'll partner with other companies in We'll partner with other companies in the other regions over time keep building out the licensing but ultimately that means getting all the MCLs in the US getting the Mika application in Europe which we've already started in Austria full speed ahead on those that's a lot of administrative work as you know to get all those applications in but ultimately worth in the long run because it's really important for our go to market and our customer base of the payments companies to have those licenses ourselves it's really key to this because when the US if you think about some of these payments companies some of them might have MTLS, some of them might have some sort of banking charter, but often they aren't able or willing to use that licensing for crypto and stable coin use cases giving all the banking issues in the past
+to, they really do expect that partner they're working with to come with their own licensing that can be used for these use cases. >> What products are live today
+and obviously, there will be other things that come down the line. >> So, the three products we focused on so far with Shift 4 are pay with crypto
+to that's merchant acceptance of crypto and stable coins both at the point of sale in person or online e-commerce types of checkout flows
+the second one is stable checkout flows
+the second one is stable coin settlement
+to merchant comes and coin settlement
+to merchant comes and says I'd rather get stable coins at the end of the day rather than an a wire. end of the day rather than an a wire
+that's the second product and and that That's the second product and that one's really exploded in popularity
+and then the third product is stable coin payouts and that can really support a number of use cases
+verything from payroll to contractor payments to remittance use cases, right
+ike the classic stable coin sandwich flows. classic stable coin sandwich flows
+we're seeing some really cool remittance We're seeing some really cool remittance use cases there
+and we've even done some tax refund work in the stable coin payouts use case >> as you guys have been building this in stealth
+as that been a challenge with stealth
+as that been a challenge with payments companies having some of these conversations or is it just really the network that you've been able to build over the last few years with inside of Shift 4 and the understanding of what the product needs to look like to be able to have conversations with folks? >> I mean, being at Shift 4 for as long as we were, we really learned a lot about what a payments company was looking for and we basically made all the mistakes and hit all the bumps ourselves so that other payments companies won't have to in the future when they go building these products
+to we have a unique these products
+to we have a unique advantage in that sense that we sort of live those pains of trying to work with other providers in the space and making avoidable mistakes
+to everything we're doing from everything even from contracting to like the onboarding to the integration to the actual go to market is made specifically for payments companies because we're not going to work with anyone else literally just payments companies
+to every single thing we do is made to make the life of a payments company easier and bring them 0ero to one on crypto and stablecoin products much more quickly
+to we have a great network and we've gotten a great reception from the payments companies we've been talking to quietly while we're in stealth
+ut ultimately we're excited to open it up today to the public more broadly and really accelerate those conversations >> and maybe touch on are there unique things as it relates to payments companies? touched on it a little bit whether it's from a licensing perspective, but what are the things that you have to do to make this a turnkey type experience to just kind of enable a new payment type for some of these payments companies
+re there specific challenges or are they very unique to each different type of payments company? >> There's a couple different categories of it
+ne is as simple as the contracting it
+ne is as simple as the contracting and the procurement process and like the onboarding which sounds so simple but you'd be surprised of how like one sizefits-all a lot of these companies approach everything where you're getting asked to do something doesn't even make sense if you're a payments company >> or agree to certain terms or requirements that aren't even logical for a payments company
+and then I think the place where we see the most interest and the most sort of light bulbs is really on the product integration. really on the product integration
+there's a lot of companies out there There's a lot of companies out there that provide great APIs but require a lot of custom work to actually turn those into a product
+to we think about it as how do we provide more out ofthe-box solutions to a payments company so they don't need a huge team of specialized crypto engineers or product managers to build one of these products
+it should be very products
+it should be very plug-and-play because we know exactly what use cases payments companies want and we want to minimize how much engineering work goes in to bring those products to life for them
+to everything from how the product actually gets embedded into their products to how the reporting works to how the reconciliation works
+ll of that we've reconciliation works
+ll of that we've really thought a lot about so they're not spending a bunch of cycles on on fitting it to their use case. >> Terrific
+this has been a lot of fun. >> Terrific
+this has been a lot of fun
+gain, congrats on the round
+we're Again, congrats on the round
+we're super thrilled to be partnered with you finally and to announce this today
+is there anything else you want to share or where could people learn more about Cyclops
+yclops
+yclops? >> Thanks for having me on and thanks for sticking with us, too
+know we uh kept you hanging for for years. [laughter] So, good for you for for hanging on and and checking in every once in a while. and checking in every once in a while
+we're really pumped to be working with We're really pumped to be working with you guys and it's going to be an awesome year ahead
+and yeah, for anyone year ahead
+and yeah, for anyone following along that wants to learn a bit more, you can go to our website, cyclops.io. cyclops.io
+we'll have a lot more content coming out We'll have a lot more content coming out in the following weeks and a lot more exciting announcements
+eah, looking forward to sharing those. >> Awesome
+hanks a lot, Alex. >> Awesome
+hanks a lot, Alex. >> All right, thanks Sean
+hanks for listening to another episode of On the Brink with Castle Island
+to learn more about Castle Island, visit castle island.vc. island.vc
+and to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle island.vc/mpodcast [music] or just click on the tab on our website
+hanks for listening.

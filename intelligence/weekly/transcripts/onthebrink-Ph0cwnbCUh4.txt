@@ -1,0 +1,1068 @@
+Today on the podcast, I sat down with Today on the podcast, I sat down with Today on the podcast, I sat down with Dave Balter, the co-founder and CEO of Dave Balter, the co-founder and CEO of Dave Balter, the co-founder and CEO of Flipside Crypto
+u0002 go way back with Flipside Crypto
+u0002 go way back with Flipside Crypto
+u0002 go way back with Dave, and Flipside was actually the Dave, and Flipside was actually the Dave, and Flipside was actually the first investment we ever made from first investment we ever made from first investment we ever made from Castle Island Ventures back in 2018, Castle Island Ventures back in 2018, Castle Island Ventures back in 2018, shortly after we left Fidelity
+u0002lipside shortly after we left Fidelity
+u0002lipside shortly after we left Fidelity
+u0002lipside has really leaned in aggressively at has really leaned in aggressively at has really leaned in aggressively at this intersection of public blockchains this intersection of public blockchains this intersection of public blockchains and AI
+u0002nd I want to have Dave on to and AI
+u0002nd I want to have Dave on to and AI
+u0002nd I want to have Dave on to talk about this convergence and talk talk about this convergence and talk talk about this convergence and talk about the future of onchain data and about the future of onchain data and about the future of onchain data and insights powered by AI
+u0002 think you'll insights powered by AI
+u0002 think you'll insights powered by AI
+u0002 think you'll enjoy this one
+u0002o without further ado, enjoy this one
+u0002o without further ado, enjoy this one
+u0002o without further ado, here's my conversation with Dave Balter. here's my conversation with Dave Balter. here's my conversation with Dave Balter. >> Matt Walsh and Nick Carter are partners >> Matt Walsh and Nick Carter are partners >> Matt Walsh and Nick Carter are partners at Castle Island Ventures
+u0002ll of these at Castle Island Ventures
+u0002ll of these at Castle Island Ventures
+u0002ll of these expressed by them or the guests on this expressed by them or the guests on this expressed by them or the guests on this podcast are solely their opinions and do podcast are solely their opinions and do podcast are solely their opinions and do not reflect the opinions of Castle not reflect the opinions of Castle not reflect the opinions of Castle Island Ventures
+u0002uest and host may Island Ventures
+u0002uest and host may Island Ventures
+u0002uest and host may maintain positions in the assets maintain positions in the assets maintain positions in the assets discussed in this podcast
+u0002ou should discussed in this podcast
+u0002ou should discussed in this podcast
+u0002ou should not treat any opinion expressed by not treat any opinion expressed by not treat any opinion expressed by anyone on this podcast as a specific anyone on this podcast as a specific anyone on this podcast as a specific inducement to make a particular inducement to make a particular inducement to make a particular investment or follow a particular investment or follow a particular investment or follow a particular strategy, but only as an expression of strategy, but only as an expression of strategy, but only as an expression of their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is forformational purposes only. brought forformational purposes only. brought forformational purposes only. brought down by bad mortgage investments
+u0002eman, down by bad mortgage investments
+u0002eman, down by bad mortgage investments
+u0002eman, which has 25,000 employees, will be which has 25,000 employees, will be which has 25,000 employees, will be liquidated. liquidated. liquidated. >> The federal government loans American >> The federal government loans American >> The federal government loans American International Group AIG 85 billion
+u0002nternational Group AIG 85 billion
+u0002nternational Group AIG 85 billion. >> This is a different kind of mortgage, >> This is a different kind of mortgage, >> This is a different kind of mortgage, AND THE FED IS ASLEEP
+u0002ND THE FED IS ASLEEP
+u0002ND THE FED IS ASLEEP. >> The federal government is stepping up to >> The federal government is stepping up to >> The federal government is stepping up to stabilize Fanny May and Freddy Mack, the stabilize Fanny May and Freddy Mack, the stabilize Fanny May and Freddy Mack, the two mortgage giants that have been two mortgage giants that have been two mortgage giants that have been threatened by the housing crisis. threatened by the housing crisis. threatened by the housing crisis. >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 billion pounds more into Britain's billion pounds more into Britain's billion pounds more into Britain's ailing economy with a new round of ailing economy with a new round of ailing economy with a new round of quantitative easing. quantitative easing. quantitative easing. >> You print a couple trillion dollars and >> You print a couple trillion dollars and >> You print a couple trillion dollars and all of a sudden, people start to worry. all of a sudden, people start to worry. all of a sudden, people start to worry
+u0002o, out of this worry, we have something So, out of this worry, we have something So, out of this worry, we have something called a Bitcoin
+u0002itcoin. called a Bitcoin
+u0002itcoin. called a Bitcoin
+u0002itcoin. >> Dave, welcome back on the podcast. >> Dave, welcome back on the podcast. >> Dave, welcome back on the podcast
+u0002ou've been on a bunch of times
+u0002ou You've been on a bunch of times
+u0002ou You've been on a bunch of times
+u0002ou might be in our Mount Rushmore of guests might be in our Mount Rushmore of guests might be in our Mount Rushmore of guests here
+u0002o I get a trophy? here
+u0002o I get a trophy? here
+u0002o I get a trophy? >> I don't know
+u0002e're going to go deep on >> I don't know
+u0002e're going to go deep on >> I don't know
+u0002e're going to go deep on AI today
+u0002e haven't done enough AI today
+u0002e haven't done enough AI today
+u0002e haven't done enough podcasts on AI
+u0002'd say out of anyone in podcasts on AI
+u0002'd say out of anyone in podcasts on AI
+u0002'd say out of anyone in the portfolio, you've probably spent the the portfolio, you've probably spent the the portfolio, you've probably spent the most time on it
+u0002ould love to maybe most time on it
+u0002ould love to maybe most time on it
+u0002ould love to maybe just start with your general views on just start with your general views on just start with your general views on what's happening in the market for AI, what's happening in the market for AI, what's happening in the market for AI, even outside of crypto
+u0002 know you've even outside of crypto
+u0002 know you've even outside of crypto
+u0002 know you've spent years as a venture person. and you spent years as a venture person. and you spent years as a venture person. and you spent years in the startup trenches. spent years in the startup trenches. spent years in the startup trenches
+u0002hat's going on in the AI market
+u0002hat's going on in the AI market
+u0002hat's going on in the AI market? >> AI is transforming everything
+u0002 would >> AI is transforming everything
+u0002 would >> AI is transforming everything
+u0002 would say there's two big shifts happening. say there's two big shifts happening. say there's two big shifts happening
+u0002here's the in company shift where There's the in company shift where There's the in company shift where everybody's work is transformed at flip everybody's work is transformed at flip everybody's work is transformed at flip side engineers started cursor or other side engineers started cursor or other side engineers started cursor or other solutions
+u0002hey don't code by hand up solutions
+u0002hey don't code by hand up solutions
+u0002hey don't code by hand up front
+u0002hey vibe code and then transform front
+u0002hey vibe code and then transform front
+u0002hey vibe code and then transform that into human helping that code be that into human helping that code be that into human helping that code be productive
+u0002 think that transformation productive
+u0002 think that transformation productive
+u0002 think that transformation impacts the whole business
+u0002o product impacts the whole business
+u0002o product impacts the whole business
+u0002o product at flip sides role has had to change at flip sides role has had to change at flip sides role has had to change dramatically because engineers can dramatically because engineers can dramatically because engineers can actually move faster than a PRD or a actually move faster than a PRD or a actually move faster than a PRD or a prototype that comes out of research and prototype that comes out of research and prototype that comes out of research and product
+u0002hey build it, test it and are product
+u0002hey build it, test it and are product
+u0002hey build it, test it and are getting outputs before even a product getting outputs before even a product getting outputs before even a product person can create it
+u0002nternally AI has person can create it
+u0002nternally AI has person can create it
+u0002nternally AI has changed just how everything is working. changed just how everything is working. changed just how everything is working
+u0002nd then externally the ability for And then externally the ability for And then externally the ability for businesses to operate with a different businesses to operate with a different businesses to operate with a different form of product or we'll talk about it form of product or we'll talk about it form of product or we'll talk about it as it relates to data within the crypto as it relates to data within the crypto as it relates to data within the crypto space
+u0002ut you just are seeing space
+u0002ut you just are seeing space
+u0002ut you just are seeing everything is turn on tech
+u0002ne company everything is turn on tech
+u0002ne company everything is turn on tech
+u0002ne company I sit on the board of is in Boston
+u0002t's I sit on the board of is in Boston
+u0002t's I sit on the board of is in Boston
+u0002t's called Rayit
+u0002t's a AI app which called Rayit
+u0002t's a AI app which called Rayit
+u0002t's a AI app which exercises with you
+u0002o it's doing exercises with you
+u0002o it's doing exercises with you
+u0002o it's doing everything from like counting your reps everything from like counting your reps everything from like counting your reps but then it's building custom workout but then it's building custom workout but then it's building custom workout plans for you based on all the things plans for you based on all the things plans for you based on all the things you would think about. my knee hurts or you would think about. my knee hurts or you would think about. my knee hurts or now at a gym in a different city and I now at a gym in a different city and I now at a gym in a different city and I don't know what weights I have
+u0002nd so don't know what weights I have
+u0002nd so don't know what weights I have
+u0002nd so all of your workout routine is being all of your workout routine is being all of your workout routine is being impacted by something much more impacted by something much more impacted by something much more accustomed to you
+u0002verything's changed. accustomed to you
+u0002verything's changed. accustomed to you
+u0002verything's changed
+u0002 don't think we're ever going back
+u0002 don't think we're ever going back
+u0002 don't think we're ever going back
+u0002t's like the internet, cloud, all that It's like the internet, cloud, all that It's like the internet, cloud, all that stuff
+u0002e're not going back. stuff
+u0002e're not going back. stuff
+u0002e're not going back. >> Does it feel like the internet to you
+u0002 >> Does it feel like the internet to you
+u0002 >> Does it feel like the internet to you
+u0002 mean, obviously you were there when the mean, obviously you were there when the mean, obviously you were there when the internet really started to become internet really started to become internet really started to become adopted in the enterprise
+u0002oes it feel adopted in the enterprise
+u0002oes it feel adopted in the enterprise
+u0002oes it feel like a similar shift? like a similar shift? like a similar shift? >> Yes
+u0002n the polarization of people's >> Yes
+u0002n the polarization of people's >> Yes
+u0002n the polarization of people's perspectives
+u0002hat's good alliteration perspectives
+u0002hat's good alliteration perspectives
+u0002hat's good alliteration right there. like polarization of right there. like polarization of right there. like polarization of people's perspectives
+u0002ike God, I got people's perspectives
+u0002ike God, I got people's perspectives
+u0002ike God, I got to write that one down
+u0002here are people to write that one down
+u0002here are people to write that one down
+u0002here are people who are like, "Oh, AI, I will never who are like, "Oh, AI, I will never who are like, "Oh, AI, I will never touch it
+u0002y kids are like, oh, it's touch it
+u0002y kids are like, oh, it's touch it
+u0002y kids are like, oh, it's draining water and whatever it's doing draining water and whatever it's doing draining water and whatever it's doing electric
+u0002'm like, you're on TikTok all electric
+u0002'm like, you're on TikTok all electric
+u0002'm like, you're on TikTok all day
+u0002 don't know what you're talking day
+u0002 don't know what you're talking day
+u0002 don't know what you're talking about
+u0002hat's doing just as bad." You about
+u0002hat's doing just as bad." You about
+u0002hat's doing just as bad." You know, it's polarizing because there's know, it's polarizing because there's know, it's polarizing because there's fear and change
+u0002 don't have to relearn fear and change
+u0002 don't have to relearn fear and change
+u0002 don't have to relearn how to do this
+u0002 don't want to have to how to do this
+u0002 don't want to have to how to do this
+u0002 don't want to have to do this
+u0002t hallucinates. it can't be do this
+u0002t hallucinates. it can't be do this
+u0002t hallucinates. it can't be good to once people are starting to use good to once people are starting to use good to once people are starting to use the tools and feeling what's changing to the tools and feeling what's changing to the tools and feeling what's changing to like my life will never be the same
+u0002nd like my life will never be the same
+u0002nd like my life will never be the same
+u0002nd so it feels like the internet in that so it feels like the internet in that so it feels like the internet in that you've got real transformation happening you've got real transformation happening you've got real transformation happening in people's footprints and how they're in people's footprints and how they're in people's footprints and how they're doing things
+u0002t feels bigger than the doing things
+u0002t feels bigger than the doing things
+u0002t feels bigger than the internet in that AI systems have internet in that AI systems have internet in that AI systems have implications for our world and for implications for our world and for implications for our world and for humankind and singularity and all that humankind and singularity and all that humankind and singularity and all that stuff
+u0002nd that's pretty big
+u0002o it stuff
+u0002nd that's pretty big
+u0002o it stuff
+u0002nd that's pretty big
+u0002o it feels bigger than the internet
+u0002t feels feels bigger than the internet
+u0002t feels feels bigger than the internet
+u0002t feels like the same type of change but really like the same type of change but really like the same type of change but really implications are much further reaching. implications are much further reaching. implications are much further reaching. >> I've had the experience of using Chachi >> I've had the experience of using Chachi >> I've had the experience of using Chachi PT and the other products and I remember PT and the other products and I remember PT and the other products and I remember just thinking when I first started using just thinking when I first started using just thinking when I first started using it that my entry-level job as a it that my entry-level job as a it that my entry-level job as a management consultant probably wouldn't management consultant probably wouldn't management consultant probably wouldn't exist now or at least in a couple years exist now or at least in a couple years exist now or at least in a couple years it probably won't or maybe that there it probably won't or maybe that there it probably won't or maybe that there would be two people in the analyst class would be two people in the analyst class would be two people in the analyst class as opposed to 12
+u0002nd so really hit me as opposed to 12
+u0002nd so really hit me as opposed to 12
+u0002nd so really hit me that a lot of the things that I was that a lot of the things that I was that a lot of the things that I was doing in terms of secondary research and doing in terms of secondary research and doing in terms of secondary research and building slides and synthesizing data building slides and synthesizing data building slides and synthesizing data could just be done a lot more easily. could just be done a lot more easily. could just be done a lot more easily
+u0002ow I'm wondering if you had a similar Now I'm wondering if you had a similar Now I'm wondering if you had a similar moment thinking about flip side as a moment thinking about flip side as a moment thinking about flip side as a company once you start to harness AI. company once you start to harness AI. company once you start to harness AI. >> We have this board member Shard Goch >> We have this board member Shard Goch >> We have this board member Shard Goch who's brilliant
+u0002e teaches blockchain who's brilliant
+u0002e teaches blockchain who's brilliant
+u0002e teaches blockchain and AI at Harvard Business School
+u0002e and AI at Harvard Business School
+u0002e and AI at Harvard Business School
+u0002e was talking to us about consultants and was talking to us about consultants and was talking to us about consultants and he said in the industrial revolution he said in the industrial revolution he said in the industrial revolution what changed was machines took the what changed was machines took the what changed was machines took the weakest person and the strongest person weakest person and the strongest person weakest person and the strongest person and made them equal
+u0002t used to be if and made them equal
+u0002t used to be if and made them equal
+u0002t used to be if you were the strongest you would get you were the strongest you would get you were the strongest you would get paid more because you could do more and paid more because you could do more and paid more because you could do more and the weakest were given the menial task. the weakest were given the menial task. the weakest were given the menial task
+u0002ow a machine balances strength and in Now a machine balances strength and in Now a machine balances strength and in the consulting world you're seeing the the consulting world you're seeing the the consulting world you're seeing the same thing happen
+u0002he partners used to same thing happen
+u0002he partners used to same thing happen
+u0002he partners used to be the most brilliant and knew how to be the most brilliant and knew how to be the most brilliant and knew how to answer things and be strategic and the answer things and be strategic and the answer things and be strategic and the analysts were like, "Go do a deck." But analysts were like, "Go do a deck." But analysts were like, "Go do a deck." But now with AI, they're equal
+u0002he analyst now with AI, they're equal
+u0002he analyst now with AI, they're equal
+u0002he analyst can come in and do as much senior level can come in and do as much senior level can come in and do as much senior level strategy as the partner and that is strategy as the partner and that is strategy as the partner and that is causing real shifts in how consulting causing real shifts in how consulting causing real shifts in how consulting happens because as an analyst, you happens because as an analyst, you happens because as an analyst, you probably wouldn't come in and just do probably wouldn't come in and just do probably wouldn't come in and just do decks anymore
+u0002ou could be actually decks anymore
+u0002ou could be actually decks anymore
+u0002ou could be actually building just as much strategic value as building just as much strategic value as building just as much strategic value as a partner
+u0002hat's wild. a partner
+u0002hat's wild. a partner
+u0002hat's wild. >> Just a lot of leverage in your >> Just a lot of leverage in your >> Just a lot of leverage in your dayto-day. totally different amount of dayto-day. totally different amount of dayto-day. totally different amount of leverage
+u0002hink about that
+u0002hat you leverage
+u0002hink about that
+u0002hat you leverage
+u0002hink about that
+u0002hat you need to learn to become an analyst at a need to learn to become an analyst at a need to learn to become an analyst at a consulting firm is different because you consulting firm is different because you consulting firm is different because you kind of have a lot of tools at your kind of have a lot of tools at your kind of have a lot of tools at your disposal that makes you really smart
+u0002n disposal that makes you really smart
+u0002n disposal that makes you really smart
+u0002n flip side, I'll tell you the aha moment. flip side, I'll tell you the aha moment. flip side, I'll tell you the aha moment
+u0002e for seven years, 8 years now have We for seven years, 8 years now have We for seven years, 8 years now have been building data infrastructure for been building data infrastructure for been building data infrastructure for blockchain ecosystems
+u0002nd our team was blockchain ecosystems
+u0002nd our team was blockchain ecosystems
+u0002nd our team was building a tool that was called Rio. building a tool that was called Rio. building a tool that was called Rio
+u0002hink of it like a super Twitter feed
+u0002hink of it like a super Twitter feed
+u0002hink of it like a super Twitter feed
+u0002e had a client, a big client of ours We had a client, a big client of ours We had a client, a big client of ours ask for something like it. give me ask for something like it. give me ask for something like it. give me something where I can see like something where I can see like something where I can see like information in rapid real time, etc
+u0002o, information in rapid real time, etc
+u0002o, information in rapid real time, etc
+u0002o, they were building this thing and I was they were building this thing and I was they were building this thing and I was getting more and more frustrated
+u0002t was getting more and more frustrated
+u0002t was getting more and more frustrated
+u0002t was here's another product and like oh god here's another product and like oh god here's another product and like oh god and the UI is not good or whatever it and the UI is not good or whatever it and the UI is not good or whatever it was
+u0002n a Friday night at 1000 p.m. was
+u0002n a Friday night at 1000 p.m. was
+u0002n a Friday night at 1000 p.m
+u0002yle, who's our COO now, sends me he's Kyle, who's our COO now, sends me he's Kyle, who's our COO now, sends me he's like, "Oh, check this out
+u0002e just like, "Oh, check this out
+u0002e just like, "Oh, check this out
+u0002e just hooked up all of Flip Side to MCP." And hooked up all of Flip Side to MCP." And hooked up all of Flip Side to MCP." And I'm like, "What?" Like, I didn't even I'm like, "What?" Like, I didn't even I'm like, "What?" Like, I didn't even know, you know, he's like, "Ah, it was a know, you know, he's like, "Ah, it was a know, you know, he's like, "Ah, it was a project." and I go and it's the first project." and I go and it's the first project." and I go and it's the first time in the history of Flip Side where time in the history of Flip Side where time in the history of Flip Side where I've been able to use our data
+u0002 am not I've been able to use our data
+u0002 am not I've been able to use our data
+u0002 am not an analyst
+u0002'm not an engineer
+u0002've an analyst
+u0002'm not an engineer
+u0002've an analyst
+u0002'm not an engineer
+u0002've never even touched our data
+u0002e's like, never even touched our data
+u0002e's like, never even touched our data
+u0002e's like, "Check this out." I go in and I write a "Check this out." I go in and I write a "Check this out." I go in and I write a simple query like, "Oh, show me the simple query like, "Oh, show me the simple query like, "Oh, show me the change in DeFi protocol growth on change in DeFi protocol growth on change in DeFi protocol growth on Solana, compare it to base." It built Solana, compare it to base." It built Solana, compare it to base." It built the most amazing visualization and the most amazing visualization and the most amazing visualization and return of data
+u0002 was like, "Holy, I am return of data
+u0002 was like, "Holy, I am return of data
+u0002 was like, "Holy, I am now an analyst much like this industrial now an analyst much like this industrial now an analyst much like this industrial revolution thing." And I literally went revolution thing." And I literally went revolution thing." And I literally went to the team and said, "Kill Rio." They to the team and said, "Kill Rio." They to the team and said, "Kill Rio." They were like, "What?" I'm like, "Kill Rio. were like, "What?" I'm like, "Kill Rio. were like, "What?" I'm like, "Kill Rio
+u0002e are all in on this." Because once We are all in on this." Because once We are all in on this." Because once we've moved beyond just the analysts, we've moved beyond just the analysts, we've moved beyond just the analysts, and I love analysts, analysts who use and I love analysts, analysts who use and I love analysts, analysts who use our system even better
+u0002nce we move to our system even better
+u0002nce we move to our system even better
+u0002nce we move to the strategists or the marketers or the the strategists or the marketers or the the strategists or the marketers or the CEOs or the exec directors or the CEOs or the exec directors or the CEOs or the exec directors or the investors who can't code, everything investors who can't code, everything investors who can't code, everything changes
+u0002verybody's equal
+u0002nd they changes
+u0002verybody's equal
+u0002nd they changes
+u0002verybody's equal
+u0002nd they were like, "This is crazy. you're going were like, "This is crazy. you're going were like, "This is crazy. you're going to sacrifice all this building and I'm to sacrifice all this building and I'm to sacrifice all this building and I'm like yes this is what we're doing
+u0002hat like yes this is what we're doing
+u0002hat like yes this is what we're doing
+u0002hat was 90 days ago. was 90 days ago. was 90 days ago. >> That's unbelievable
+u0002ou have a very >> That's unbelievable
+u0002ou have a very >> That's unbelievable
+u0002ou have a very strong business
+u0002 mean you guys have strong business
+u0002 mean you guys have strong business
+u0002 mean you guys have very healthy revenues and you're doing a very healthy revenues and you're doing a very healthy revenues and you're doing a lot of interesting things
+u0002o you view lot of interesting things
+u0002o you view lot of interesting things
+u0002o you view this as kind of a one-way door bet the this as kind of a one-way door bet the this as kind of a one-way door bet the company on the future of this company on the future of this company on the future of this technology? technology? technology? >> Well, here was the second crazy thing
+u0002 >> Well, here was the second crazy thing
+u0002 >> Well, here was the second crazy thing
+u0002 told the company I am either the most told the company I am either the most told the company I am either the most brilliant or the most dangerous person brilliant or the most dangerous person brilliant or the most dangerous person possible in this business right now
+u0002 possible in this business right now
+u0002 possible in this business right now
+u0002 am not sure which
+u0002'm pretty sure it's am not sure which
+u0002'm pretty sure it's am not sure which
+u0002'm pretty sure it's a good decision
+u0002'm pretty sure it's an a good decision
+u0002'm pretty sure it's an a good decision
+u0002'm pretty sure it's an amazing decision, but there's things I'm amazing decision, but there's things I'm amazing decision, but there's things I'm doing which are transformative to the doing which are transformative to the doing which are transformative to the business in ways you can't go back
+u0002o, business in ways you can't go back
+u0002o, business in ways you can't go back
+u0002o, the second thing I did after let's kill the second thing I did after let's kill the second thing I did after let's kill Rio
+u0002e're going all in MCP for seven, Rio
+u0002e're going all in MCP for seven, Rio
+u0002e're going all in MCP for seven, eight years
+u0002e've built this our own eight years
+u0002e've built this our own eight years
+u0002e've built this our own SQL interface
+u0002t's called Studio
+u0002QL interface
+u0002t's called Studio
+u0002QL interface
+u0002t's called Studio. 600,000 analysts were using it
+u0002o, I 600,000 analysts were using it
+u0002o, I 600,000 analysts were using it
+u0002o, I went to the team
+u0002 said, "We're going went to the team
+u0002 said, "We're going went to the team
+u0002 said, "We're going all in
+u0002e're going so in
+u0002e're killing all in
+u0002e're going so in
+u0002e're killing all in
+u0002e're going so in
+u0002e're killing Studio." Like, well, we're killing Studio." Like, well, we're killing Studio." Like, well, we're killing Studio
+u0002hat are the analysts going to Studio
+u0002hat are the analysts going to Studio
+u0002hat are the analysts going to use
+u0002ell, the analyst can still use our use
+u0002ell, the analyst can still use our use
+u0002ell, the analyst can still use our Snowflake instance, which has an amazing Snowflake instance, which has an amazing Snowflake instance, which has an amazing studio editor
+u0002e're not telling them to studio editor
+u0002e're not telling them to studio editor
+u0002e're not telling them to not code in SQL, but as a business, not code in SQL, but as a business, not code in SQL, but as a business, we're going to be the best in the world we're going to be the best in the world we're going to be the best in the world at AI systems integrating with big data at AI systems integrating with big data at AI systems integrating with big data workflows, in this case with blockchain, workflows, in this case with blockchain, workflows, in this case with blockchain, and holding on to our own SQL interface. and holding on to our own SQL interface. and holding on to our own SQL interface
+u0002t's a different business
+u0002t is okay
+u0002t's a different business
+u0002t is okay
+u0002t's a different business
+u0002t is okay
+u0002e do not need to be there
+u0002nd by the We do not need to be there
+u0002nd by the We do not need to be there
+u0002nd by the way, within a year, every single one of way, within a year, every single one of way, within a year, every single one of the other data providers are going to be the other data providers are going to be the other data providers are going to be touting their AI system and realizing touting their AI system and realizing touting their AI system and realizing that their SQL interface is going away. that their SQL interface is going away. that their SQL interface is going away
+u0002hink of what Cursor has done to basic Think of what Cursor has done to basic Think of what Cursor has done to basic coding
+u0002t's going to go away
+u0002e got to coding
+u0002t's going to go away
+u0002e got to coding
+u0002t's going to go away
+u0002e got to go
+u0002e're going all in
+u0002e are going to go
+u0002e're going all in
+u0002e are going to go
+u0002e're going all in
+u0002e are going to be best
+u0002e've already solved so many of be best
+u0002e've already solved so many of be best
+u0002e've already solved so many of the challenges to make this work
+u0002t's the challenges to make this work
+u0002t's the challenges to make this work
+u0002t's pretty amazing
+u0002hat is a one-way door. pretty amazing
+u0002hat is a one-way door. pretty amazing
+u0002hat is a one-way door
+u0002 did that
+u0002 did that
+u0002 did that. >> That's pretty awesome
+u0002 mean, I want to >> That's pretty awesome
+u0002 mean, I want to >> That's pretty awesome
+u0002 mean, I want to get into what people are using the data get into what people are using the data get into what people are using the data for, but the way I'm thinking about your for, but the way I'm thinking about your for, but the way I'm thinking about your category and maybe some broader aspects category and maybe some broader aspects category and maybe some broader aspects of the blockchain space is just think of the blockchain space is just think of the blockchain space is just think about the traditional securities market about the traditional securities market about the traditional securities market and how slow reporting is
+u0002or instance, and how slow reporting is
+u0002or instance, and how slow reporting is
+u0002or instance, I like to monitor the ATS trading venue I like to monitor the ATS trading venue I like to monitor the ATS trading venue data to just see which venues people data to just see which venues people data to just see which venues people trade traditional securities on
+u0002nd it trade traditional securities on
+u0002nd it trade traditional securities on
+u0002nd it gets published one or two months after gets published one or two months after gets published one or two months after the end of the quarter and it's an Excel the end of the quarter and it's an Excel the end of the quarter and it's an Excel file
+u0002nd it's just crazy to me that file
+u0002nd it's just crazy to me that file
+u0002nd it's just crazy to me that that's how we appraise these secondary that's how we appraise these secondary that's how we appraise these secondary trading venues in Tradfi, whereas you trading venues in Tradfi, whereas you trading venues in Tradfi, whereas you can get tick by tick on unis swap to can get tick by tick on unis swap to can get tick by tick on unis swap to just see who's using that versus its just see who's using that versus its just see who's using that versus its competitors
+u0002nd right now onchain, you competitors
+u0002nd right now onchain, you competitors
+u0002nd right now onchain, you have bearer cryptocurrencies, you have have bearer cryptocurrencies, you have have bearer cryptocurrencies, you have stable coins
+u0002 looked at it this stable coins
+u0002 looked at it this stable coins
+u0002 looked at it this morning
+u0002 think there's $7 billion of morning
+u0002 think there's $7 billion of morning
+u0002 think there's $7 billion of tokenized money market mutual funds
+u0002ut tokenized money market mutual funds
+u0002ut tokenized money market mutual funds
+u0002ut with this market structure bill, you're with this market structure bill, you're with this market structure bill, you're going to get a lot of other assets that going to get a lot of other assets that going to get a lot of other assets that are put on these chains
+u0002nd it's are put on these chains
+u0002nd it's are put on these chains
+u0002nd it's incomprehensible to me that we're going incomprehensible to me that we're going incomprehensible to me that we're going to have government agencies with Excel to have government agencies with Excel to have government agencies with Excel files three months late reporting just files three months late reporting just files three months late reporting just trading volumes
+u0002o where is this going trading volumes
+u0002o where is this going trading volumes
+u0002o where is this going as it relates to data on blockchains and as it relates to data on blockchains and as it relates to data on blockchains and how are you guys thinking about it? how are you guys thinking about it? how are you guys thinking about it? >> There's a time equation to all of this. >> There's a time equation to all of this. >> There's a time equation to all of this
+u0002ou could go get that tick data over You could go get that tick data over You could go get that tick data over here
+u0002ou could go you said reports on here
+u0002ou could go you said reports on here
+u0002ou could go you said reports on Excel
+u0002ne of the biggest changes in Excel
+u0002ne of the biggest changes in Excel
+u0002ne of the biggest changes in this entire AI evolution or revolution this entire AI evolution or revolution this entire AI evolution or revolution is the time to outcome. if you had all is the time to outcome. if you had all is the time to outcome. if you had all that data at your fingertips that you that data at your fingertips that you that data at your fingertips that you were just talking about
+u0002nd I said, were just talking about
+u0002nd I said, were just talking about
+u0002nd I said, "Mack, go figure out some analysis, you "Mack, go figure out some analysis, you "Mack, go figure out some analysis, you know, in yesterday's world, if it was a know, in yesterday's world, if it was a know, in yesterday's world, if it was a consulting side, you're going to go put consulting side, you're going to go put consulting side, you're going to go put them in spreadsheets and do X, Y, and Z. them in spreadsheets and do X, Y, and Z. them in spreadsheets and do X, Y, and Z
+u0002f it's the engineering side, you're If it's the engineering side, you're If it's the engineering side, you're going to go write queries and QA and do going to go write queries and QA and do going to go write queries and QA and do a bunch of stuff
+u0002ours and hours of a bunch of stuff
+u0002ours and hours of a bunch of stuff
+u0002ours and hours of work, probably some pair coding, work, probably some pair coding, work, probably some pair coding, whatever
+u0002ike challenging
+u0002ou're now whatever
+u0002ike challenging
+u0002ou're now whatever
+u0002ike challenging
+u0002ou're now doing that in minutes
+u0002nd you don't doing that in minutes
+u0002nd you don't doing that in minutes
+u0002nd you don't need to know any of that other stuff. need to know any of that other stuff. need to know any of that other stuff. you can start building off other you can start building off other you can start building off other people's artifacts or start on your own. people's artifacts or start on your own. people's artifacts or start on your own
+u0002t's the level up of what's possible It's the level up of what's possible It's the level up of what's possible that you can't have done before
+u0002'll that you can't have done before
+u0002'll that you can't have done before
+u0002'll give you an example
+u0002ome folks in our give you an example
+u0002ome folks in our give you an example
+u0002ome folks in our system figured out that not that you can system figured out that not that you can system figured out that not that you can understand trading potential or where understand trading potential or where understand trading potential or where should I trade
+u0002bout 50% of people that should I trade
+u0002bout 50% of people that should I trade
+u0002bout 50% of people that are using our AI systems use it for are using our AI systems use it for are using our AI systems use it for trading
+u0002ey, what's this wallet doing? trading
+u0002ey, what's this wallet doing? trading
+u0002ey, what's this wallet doing
+u0002ow would I trade like that
+u0002hat are How would I trade like that
+u0002hat are How would I trade like that
+u0002hat are the best trades that are happening here? the best trades that are happening here? the best trades that are happening here
+u0002ere are some ideas
+u0002ut here's what Here are some ideas
+u0002ut here's what Here are some ideas
+u0002ut here's what somebody did in next level
+u0002ey, can you somebody did in next level
+u0002ey, can you somebody did in next level
+u0002ey, can you determine if my trading activity looks determine if my trading activity looks determine if my trading activity looks like I'm a human or a bot
+u0002his was like I'm a human or a bot
+u0002his was like I'm a human or a bot
+u0002his was their prompt, their wallet
+u0002s this their prompt, their wallet
+u0002s this their prompt, their wallet
+u0002s this wallet likely a bot or user
+u0002heck this wallet likely a bot or user
+u0002heck this wallet likely a bot or user
+u0002heck this wallet
+u0002hat its position is on Monad? wallet
+u0002hat its position is on Monad? wallet
+u0002hat its position is on Monad
+u0002tudy the specific protocols this user Study the specific protocols this user Study the specific protocols this user engages with frequently
+u0002nd then it engages with frequently
+u0002nd then it engages with frequently
+u0002nd then it comes out with a report that says, comes out with a report that says, comes out with a report that says, "Here's the types of behaviors you're "Here's the types of behaviors you're "Here's the types of behaviors you're using that make you look like a bot. using that make you look like a bot. using that make you look like a bot
+u0002ere's the trades that don't." All Here's the trades that don't." All Here's the trades that don't." All that's super important as you're getting that's super important as you're getting that's super important as you're getting to not can I analyze this, but can I to not can I analyze this, but can I to not can I analyze this, but can I actually get to a different level of actually get to a different level of actually get to a different level of understanding of what I do if I understanding of what I do if I understanding of what I do if I understand trading patterns
+u0002t's kind understand trading patterns
+u0002t's kind understand trading patterns
+u0002t's kind of wild
+u0002ou couldn't even think of that of wild
+u0002ou couldn't even think of that of wild
+u0002ou couldn't even think of that before. before. before. >> That's really fascinating
+u0002 mean, I >> That's really fascinating
+u0002 mean, I >> That's really fascinating
+u0002 mean, I remember in the early days when I first remember in the early days when I first remember in the early days when I first started looking at blockchains when I started looking at blockchains when I started looking at blockchains when I worked at Fidelity, one of the reasons worked at Fidelity, one of the reasons worked at Fidelity, one of the reasons why I met Nick was because he was why I met Nick was because he was why I met Nick was because he was running this open source data project running this open source data project running this open source data project that would actually just tell you how that would actually just tell you how that would actually just tell you how many addresses and what the volume of many addresses and what the volume of many addresses and what the volume of transactions were happening on chain. transactions were happening on chain. transactions were happening on chain
+u0002nd I was just trying to figure out is And I was just trying to figure out is And I was just trying to figure out is anyone using these things
+u0002s this just anyone using these things
+u0002s this just anyone using these things
+u0002s this just a technology with no use case
+u0002hese a technology with no use case
+u0002hese a technology with no use case
+u0002hese days, it just seems like you can go days, it just seems like you can go days, it just seems like you can go incredibly deep
+u0002'm curious how you and incredibly deep
+u0002'm curious how you and incredibly deep
+u0002'm curious how you and your customers are thinking about using your customers are thinking about using your customers are thinking about using the platform to understand the economic the platform to understand the economic the platform to understand the economic activity happening on these chains. activity happening on these chains. activity happening on these chains. >> I think I'd started ask an analyst in >> I think I'd started ask an analyst in >> I think I'd started ask an analyst in the previous days
+u0002re there the previous days
+u0002re there the previous days
+u0002re there transactions
+u0002s there volume happening? transactions
+u0002s there volume happening? transactions
+u0002s there volume happening
+u0002ou're now getting into the intelligence You're now getting into the intelligence You're now getting into the intelligence level
+u0002his is frankly why this data level
+u0002his is frankly why this data level
+u0002his is frankly why this data needs to shift into AI platforms
+u0002ou needs to shift into AI platforms
+u0002ou needs to shift into AI platforms
+u0002ou got to move before beyond sort of got to move before beyond sort of got to move before beyond sort of one-dimensional here's a chart that one-dimensional here's a chart that one-dimensional here's a chart that shows growth to hey what is the patterns shows growth to hey what is the patterns shows growth to hey what is the patterns of behaviors happening in stables that of behaviors happening in stables that of behaviors happening in stables that may actually be more about what are may actually be more about what are may actually be more about what are likely scenarios to occur based on the likely scenarios to occur based on the likely scenarios to occur based on the evolution of things that have been evolution of things that have been evolution of things that have been happening in the stable market
+u0002eople happening in the stable market
+u0002eople happening in the stable market
+u0002eople expect more answers than just chart go expect more answers than just chart go expect more answers than just chart go up and these systems give you that up and these systems give you that up and these systems give you that opportunity
+u0002ave you ever thought about opportunity
+u0002ave you ever thought about opportunity
+u0002ave you ever thought about the amount of capital that is spent in the amount of capital that is spent in the amount of capital that is spent in financial services to get delayed data? financial services to get delayed data? financial services to get delayed data
+u0002t's just staggering
+u0002ompanies are It's just staggering
+u0002ompanies are It's just staggering
+u0002ompanies are paying for cerule reports on aum of paying for cerule reports on aum of paying for cerule reports on aum of their competitors and transaction their competitors and transaction their competitors and transaction volumes and things
+u0002t just seems like volumes and things
+u0002t just seems like volumes and things
+u0002t just seems like that whole paradigm is going to change that whole paradigm is going to change that whole paradigm is going to change as a result of these assets being on as a result of these assets being on as a result of these assets being on chain. chain. chain. >> Yes
+u0002ou and I kicked off this journey >> Yes
+u0002ou and I kicked off this journey >> Yes
+u0002ou and I kicked off this journey seven or eight years ago and that thesis seven or eight years ago and that thesis seven or eight years ago and that thesis was the very beginning of the journey was the very beginning of the journey was the very beginning of the journey where you said this is coming
+u0002 just where you said this is coming
+u0002 just where you said this is coming
+u0002 just think you're seeing the evolution go think you're seeing the evolution go think you're seeing the evolution go from this is coming
+u0002t hasn't from this is coming
+u0002t hasn't from this is coming
+u0002t hasn't materialized yet
+u0002et's use some data materialized yet
+u0002et's use some data materialized yet
+u0002et's use some data and analytics to help people start to and analytics to help people start to and analytics to help people start to sort of be able to see into these sort of be able to see into these sort of be able to see into these patterns that are occurring
+u0002ut almost patterns that are occurring
+u0002ut almost patterns that are occurring
+u0002ut almost your thesis right at the very beginning your thesis right at the very beginning your thesis right at the very beginning when you were coming over to 207 South when you were coming over to 207 South when you were coming over to 207 South Street and whiteboarding with us 2016 Street and whiteboarding with us 2016 Street and whiteboarding with us 2016 2017, it's here
+u0002here are people now 2017, it's here
+u0002here are people now 2017, it's here
+u0002here are people now really moving the traditional finance really moving the traditional finance really moving the traditional finance information flow on chain with stables information flow on chain with stables information flow on chain with stables and everything else. your intelligence and everything else. your intelligence and everything else. your intelligence needs to be further along
+u0002t doesn't needs to be further along
+u0002t doesn't needs to be further along
+u0002t doesn't end at just how much volume is happening end at just how much volume is happening end at just how much volume is happening on USDC
+u0002ou even ask some of the on USDC
+u0002ou even ask some of the on USDC
+u0002ou even ask some of the biggest institutions and they're like, I biggest institutions and they're like, I biggest institutions and they're like, I don't understand the patterns of that, don't understand the patterns of that, don't understand the patterns of that, who's using it, but if I look at it who's using it, but if I look at it who's using it, but if I look at it against every other stable coin, what is against every other stable coin, what is against every other stable coin, what is it indicating the change to traditional it indicating the change to traditional it indicating the change to traditional finance is happening is in flight that finance is happening is in flight that finance is happening is in flight that you need a much deeper intelligence you need a much deeper intelligence you need a much deeper intelligence system to get to. system to get to. system to get to. >> It's been interesting
+u0002 mean, if you >> It's been interesting
+u0002 mean, if you >> It's been interesting
+u0002 mean, if you had asked me back when we were having had asked me back when we were having had asked me back when we were having those initial whiteboarding sessions the those initial whiteboarding sessions the those initial whiteboarding sessions the timing of when you'd have dollars on timing of when you'd have dollars on timing of when you'd have dollars on chain and securities on chain, I would chain and securities on chain, I would chain and securities on chain, I would have said it would be sooner and didn't have said it would be sooner and didn't have said it would be sooner and didn't foresee a world where you'd have the guy foresee a world where you'd have the guy foresee a world where you'd have the guy who taught crypto at MIT coming in and who taught crypto at MIT coming in and who taught crypto at MIT coming in and just blocking banks and broker dealers just blocking banks and broker dealers just blocking banks and broker dealers from participating
+u0002o, obviously that from participating
+u0002o, obviously that from participating
+u0002o, obviously that set it back
+u0002ut I guess at the same set it back
+u0002ut I guess at the same set it back
+u0002ut I guess at the same time that all of the regulatory blockers time that all of the regulatory blockers time that all of the regulatory blockers were happening, the blockchains were happening, the blockchains were happening, the blockchains themselves have just gotten so much themselves have just gotten so much themselves have just gotten so much better, faster, cheaper, stronger
+u0002hat better, faster, cheaper, stronger
+u0002hat better, faster, cheaper, stronger
+u0002hat has it been like to just monitor that has it been like to just monitor that has it been like to just monitor that evolution
+u0002bviously, it has an impact evolution
+u0002bviously, it has an impact evolution
+u0002bviously, it has an impact on the types of customers that you bring on the types of customers that you bring on the types of customers that you bring into the flip side fold. into the flip side fold. into the flip side fold. >> It's pretty interesting
+u0002 had a >> It's pretty interesting
+u0002 had a >> It's pretty interesting
+u0002 had a conversation this morning with a conversation this morning with a conversation this morning with a blockchain and I'll tell you what blockchain and I'll tell you what blockchain and I'll tell you what they're actually faced with as they're actually faced with as they're actually faced with as traditional finance really does take traditional finance really does take traditional finance really does take center stage here
+u0002hat evolution has center stage here
+u0002hat evolution has center stage here
+u0002hat evolution has happened
+u0002 think many of those happened
+u0002 think many of those happened
+u0002 think many of those blockchains were fighting over how's blockchains were fighting over how's blockchains were fighting over how's that going to happen and are we going to that going to happen and are we going to that going to happen and are we going to be center when it does
+u0002 don't think be center when it does
+u0002 don't think be center when it does
+u0002 don't think it's played out like everybody's it's played out like everybody's it's played out like everybody's thought
+u0002he thing that's actually thought
+u0002he thing that's actually thought
+u0002he thing that's actually happening is many of those nonstable happening is many of those nonstable happening is many of those nonstable coinoriented or multialue, they're coinoriented or multialue, they're coinoriented or multialue, they're faster or whatever, but maybe don't have faster or whatever, but maybe don't have faster or whatever, but maybe don't have a stable coin offering that is as deep a stable coin offering that is as deep a stable coin offering that is as deep as a USDC or folks like that
+u0002hey're as a USDC or folks like that
+u0002hey're as a USDC or folks like that
+u0002hey're actually faced with a pretty untenable actually faced with a pretty untenable actually faced with a pretty untenable dilemma
+u0002he market still perceives dilemma
+u0002he market still perceives dilemma
+u0002he market still perceives value where there's vanity metrics value where there's vanity metrics value where there's vanity metrics occurring
+u0002verybody now realizes it's occurring
+u0002verybody now realizes it's occurring
+u0002verybody now realizes it's mostly bots and that's only come up in mostly bots and that's only come up in mostly bots and that's only come up in the past two years or so
+u0002he bots have the past two years or so
+u0002he bots have the past two years or so
+u0002he bots have really taken over most of these chains. really taken over most of these chains. really taken over most of these chains
+u0002o, they're faced with this dilemma So, they're faced with this dilemma So, they're faced with this dilemma where we can make the charts look good where we can make the charts look good where we can make the charts look good by using growth tactics that are to like by using growth tactics that are to like by using growth tactics that are to like get bots to do things that just show get bots to do things that just show get bots to do things that just show movement or wash trades or whatever the movement or wash trades or whatever the movement or wash trades or whatever the hell it is
+u0002r we can make sure we get hell it is
+u0002r we can make sure we get hell it is
+u0002r we can make sure we get like real humans and quality users and like real humans and quality users and like real humans and quality users and that actually transacts better on the that actually transacts better on the that actually transacts better on the chain
+u0002t's real customers
+u0002ut the chain
+u0002t's real customers
+u0002ut the chain
+u0002t's real customers
+u0002ut the market of basic intelligence, go look at market of basic intelligence, go look at market of basic intelligence, go look at dashboard doesn't like that very much. dashboard doesn't like that very much. dashboard doesn't like that very much
+u0002hey're like, "Oh, chart doesn't go up." They're like, "Oh, chart doesn't go up." They're like, "Oh, chart doesn't go up." It's not about the chart
+u0002s this a real It's not about the chart
+u0002s this a real It's not about the chart
+u0002s this a real business or not
+u0002hese blockchains are business or not
+u0002hese blockchains are business or not
+u0002hese blockchains are faced with one of the worst dilemmas faced with one of the worst dilemmas faced with one of the worst dilemmas ever
+u0002o I sort of falsify the real ever
+u0002o I sort of falsify the real ever
+u0002o I sort of falsify the real growth to look good
+u0002ecause it's like growth to look good
+u0002ecause it's like growth to look good
+u0002ecause it's like looking at everything in 1D or black and looking at everything in 1D or black and looking at everything in 1D or black and white when everything is in color and 3D white when everything is in color and 3D white when everything is in color and 3D dashboard is 1D
+u0002on't you think at the dashboard is 1D
+u0002on't you think at the dashboard is 1D
+u0002on't you think at the protocol level it'll eventually converge protocol level it'll eventually converge protocol level it'll eventually converge around are you competing to be some form around are you competing to be some form around are you competing to be some form of internet money in which case maybe of internet money in which case maybe of internet money in which case maybe there's some valuation framework that there's some valuation framework that there's some valuation framework that you could apply as a store of value or you could apply as a store of value or you could apply as a store of value or are you competing to have transactions are you competing to have transactions are you competing to have transactions happening on your chain in which case we happening on your chain in which case we happening on your chain in which case we could think about cash flows but could think about cash flows but could think about cash flows but ultimately if you're in the latter camp ultimately if you're in the latter camp ultimately if you're in the latter camp to your point I think you have to have to your point I think you have to have to your point I think you have to have real businesses building things on top real businesses building things on top real businesses building things on top of your infrastructure it's almost like of your infrastructure it's almost like of your infrastructure it's almost like what good is swift or a if no one's what good is swift or a if no one's what good is swift or a if no one's using it a thousand%
+u0002 think you're using it a thousand%
+u0002 think you're using it a thousand%
+u0002 think you're seeing the store of money, the store of seeing the store of money, the store of seeing the store of money, the store of value case play out
+u0002hat's where all value case play out
+u0002hat's where all value case play out
+u0002hat's where all the traditional finance dollars wants to the traditional finance dollars wants to the traditional finance dollars wants to go and it's rational
+u0002t's exactly our go and it's rational
+u0002t's exactly our go and it's rational
+u0002t's exactly our thesis back in the day
+u0002hen traditional thesis back in the day
+u0002hen traditional thesis back in the day
+u0002hen traditional finance changes the rails to this, finance changes the rails to this, finance changes the rails to this, everything opens up
+u0002ime is shorter, everything opens up
+u0002ime is shorter, everything opens up
+u0002ime is shorter, trust is easier, all that stuff
+u0002t's trust is easier, all that stuff
+u0002t's trust is easier, all that stuff
+u0002t's that second part where if you were that second part where if you were that second part where if you were building a blockchain for years that was building a blockchain for years that was building a blockchain for years that was considered a premium L1 or L2 but kind considered a premium L1 or L2 but kind considered a premium L1 or L2 but kind of were just trying to attract new of were just trying to attract new of were just trying to attract new products or projects or cool ideas and products or projects or cool ideas and products or projects or cool ideas and it's not in the store of money
+u0002ou're it's not in the store of money
+u0002ou're it's not in the store of money
+u0002ou're fighting to either make yourself look fighting to either make yourself look fighting to either make yourself look pretty by enabling bots to do things or pretty by enabling bots to do things or pretty by enabling bots to do things or you're going to maybe be thoughtful you're going to maybe be thoughtful you're going to maybe be thoughtful about a smaller number of customers about a smaller number of customers about a smaller number of customers actually using the products you have or actually using the products you have or actually using the products you have or probably you need to shift entirely to a probably you need to shift entirely to a probably you need to shift entirely to a store of money or something of that store of money or something of that store of money or something of that nature
+u0002hat's why you need nature
+u0002hat's why you need nature
+u0002hat's why you need intelligence, not just a dashboard cuz intelligence, not just a dashboard cuz intelligence, not just a dashboard cuz it just doesn't mean much. it just doesn't mean much. it just doesn't mean much. >> It doesn't do the industry any favors. >> It doesn't do the industry any favors. >> It doesn't do the industry any favors
+u0002s an industry, we've probably overhyped As an industry, we've probably overhyped As an industry, we've probably overhyped certain categories that just haven't certain categories that just haven't certain categories that just haven't come to fruition. particularly around come to fruition. particularly around come to fruition. particularly around these decentralized internet these decentralized internet these decentralized internet architecture use cases
+u0002ile storage is architecture use cases
+u0002ile storage is architecture use cases
+u0002ile storage is a thing, but it's not at scale. a thing, but it's not at scale. a thing, but it's not at scale
+u0002ecentralized compute
+u0002ome of these Decentralized compute
+u0002ome of these Decentralized compute
+u0002ome of these categories, I would say, just weren't categories, I would say, just weren't categories, I would say, just weren't ready for prime time
+u0002 actually heard ready for prime time
+u0002 actually heard ready for prime time
+u0002 actually heard Anatoli on the All-In podcast a couple Anatoli on the All-In podcast a couple Anatoli on the All-In podcast a couple weeks ago talking about what are the weeks ago talking about what are the weeks ago talking about what are the next breakout use cases
+u0002nd I agreed next breakout use cases
+u0002nd I agreed next breakout use cases
+u0002nd I agreed with what he said around a lot of the with what he said around a lot of the with what he said around a lot of the things that were attempted in 2017, things that were attempted in 2017, things that were attempted in 2017, 2018, didn't work, probably will break 2018, didn't work, probably will break 2018, didn't work, probably will break out
+u0002 guess it kind of looks like the out
+u0002 guess it kind of looks like the out
+u0002 guess it kind of looks like the internet in that capacity where you have internet in that capacity where you have internet in that capacity where you have bunch of things didn't work until bunch of things didn't work until bunch of things didn't work until broadband. broadband. broadband. >> Exactly
+u0002nd then Amazon and Netflix and >> Exactly
+u0002nd then Amazon and Netflix and >> Exactly
+u0002nd then Amazon and Netflix and all the other things that could be all the other things that could be all the other things that could be possible with that
+u0002he previous world possible with that
+u0002he previous world possible with that
+u0002he previous world order was I need to figure out if it order was I need to figure out if it order was I need to figure out if it looks like it's working
+u0002o you might go looks like it's working
+u0002o you might go looks like it's working
+u0002o you might go to a SQL level analyst and say help me to a SQL level analyst and say help me to a SQL level analyst and say help me track TVL and momentum for DAPs on my track TVL and momentum for DAPs on my track TVL and momentum for DAPs on my platform and others
+u0002ou've got a first platform and others
+u0002ou've got a first platform and others
+u0002ou've got a first case issue here as the space matures. case issue here as the space matures. case issue here as the space matures
+u0002ow long does that take
+u0002hat's the How long does that take
+u0002hat's the How long does that take
+u0002hat's the quality control process
+u0002o that might quality control process
+u0002o that might quality control process
+u0002o that might take a couple hours
+u0002t might have a take a couple hours
+u0002t might have a take a couple hours
+u0002t might have a error in it
+u0002akes a while to decode it. error in it
+u0002akes a while to decode it. error in it
+u0002akes a while to decode it
+u0002hatever
+u0002he new world order is we want Whatever
+u0002he new world order is we want Whatever
+u0002he new world order is we want to track TVL and momentum for adapts to track TVL and momentum for adapts to track TVL and momentum for adapts across all ecosystems
+u0002ut I also want across all ecosystems
+u0002ut I also want across all ecosystems
+u0002ut I also want to grow TVL across my EVM footprint. to grow TVL across my EVM footprint. to grow TVL across my EVM footprint
+u0002ou're moving into action stage, not You're moving into action stage, not You're moving into action stage, not look back, look forward stage
+u0002ow look back, look forward stage
+u0002ow look back, look forward stage
+u0002ow number one, to do this work, it takes 10 number one, to do this work, it takes 10 number one, to do this work, it takes 10 minutes
+u0002ou write it in human form and minutes
+u0002ou write it in human form and minutes
+u0002ou write it in human form and your AI systems are getting you not only your AI systems are getting you not only your AI systems are getting you not only the dashboard you want but the the dashboard you want but the the dashboard you want but the intelligence being thoughtful in how you intelligence being thoughtful in how you intelligence being thoughtful in how you prompt that much like any AI system prompt that much like any AI system prompt that much like any AI system matters over the last 30 days on each of matters over the last 30 days on each of matters over the last 30 days on each of these five chains
+u0002his is a real prompt these five chains
+u0002his is a real prompt these five chains
+u0002his is a real prompt someone put in there
+u0002et me token someone put in there
+u0002et me token someone put in there
+u0002et me token transfer volume into the contract by transfer volume into the contract by transfer volume into the contract by chain and by token
+u0002 very human chain and by token
+u0002 very human chain and by token
+u0002 very human language way of deciding what you're language way of deciding what you're language way of deciding what you're going to build
+u0002nd then show me what going to build
+u0002nd then show me what going to build
+u0002nd then show me what actions have grown TVL for quality actions have grown TVL for quality actions have grown TVL for quality wallets in EVM footprints
+u0002nd now wallets in EVM footprints
+u0002nd now wallets in EVM footprints
+u0002nd now you're going to get a strategy
+u0002t's you're going to get a strategy
+u0002t's you're going to get a strategy
+u0002t's amazing
+u0002nd then you optimize like amazing
+u0002nd then you optimize like amazing
+u0002nd then you optimize like anything else
+u0002hat would you used to do anything else
+u0002hat would you used to do anything else
+u0002hat would you used to do in that case
+u0002ou would call like a in that case
+u0002ou would call like a in that case
+u0002ou would call like a consultant and be like, "Help me with a consultant and be like, "Help me with a consultant and be like, "Help me with a strategy." But in 10 minutes, you're strategy." But in 10 minutes, you're strategy." But in 10 minutes, you're getting a real form strategy. getting a real form strategy. getting a real form strategy. >> It's a token design agency via LLM. >> It's a token design agency via LLM. >> It's a token design agency via LLM. >> Totally
+u0002ll the token design agencies >> Totally
+u0002ll the token design agencies >> Totally
+u0002ll the token design agencies should be quaking in their boots at this should be quaking in their boots at this should be quaking in their boots at this point
+u0002hat are you seeing in terms of point
+u0002hat are you seeing in terms of point
+u0002hat are you seeing in terms of how fast the LOMs are evolving
+u0002nd I'm how fast the LOMs are evolving
+u0002nd I'm how fast the LOMs are evolving
+u0002nd I'm sure that has downstream impacts on just sure that has downstream impacts on just sure that has downstream impacts on just your product motion. your product motion. your product motion. >> Here's the key for blockchain data or >> Here's the key for blockchain data or >> Here's the key for blockchain data or any large data system
+u0002f you dump a any large data system
+u0002f you dump a any large data system
+u0002f you dump a bunch of data into the system, it does bunch of data into the system, it does bunch of data into the system, it does like any AI system
+u0002t tries to like any AI system
+u0002t tries to like any AI system
+u0002t tries to rationalize what you're asking to an rationalize what you're asking to an rationalize what you're asking to an outcome
+u0002nd if you just pop a bunch of outcome
+u0002nd if you just pop a bunch of outcome
+u0002nd if you just pop a bunch of data in and say go find TVL and maybe data in and say go find TVL and maybe data in and say go find TVL and maybe you don't properly say in this chain or you don't properly say in this chain or you don't properly say in this chain or this year or this type of data science this year or this type of data science this year or this type of data science workflow, it actually will go maybe pull workflow, it actually will go maybe pull workflow, it actually will go maybe pull the wrong table first and join it this the wrong table first and join it this the wrong table first and join it this way and naturally like a user you get way and naturally like a user you get way and naturally like a user you get frustrated much like in a typical AI frustrated much like in a typical AI frustrated much like in a typical AI system when you ask a question you're system when you ask a question you're system when you ask a question you're like why did it say that
+u0002h it like why did it say that
+u0002h it like why did it say that
+u0002h it hallucinated
+u0002t's not quite that
+u0002t's hallucinated
+u0002t's not quite that
+u0002t's hallucinated
+u0002t's not quite that
+u0002t's actually about workflows
+u0002he thing you actually about workflows
+u0002he thing you actually about workflows
+u0002he thing you need to do is you need to actually need to do is you need to actually need to do is you need to actually understand how a data scientist would understand how a data scientist would understand how a data scientist would consider that problem and build certain consider that problem and build certain consider that problem and build certain types of workflows that teaches the AI types of workflows that teaches the AI types of workflows that teaches the AI system to look in certain orders and do system to look in certain orders and do system to look in certain orders and do certain things
+u0002 lot of people use our certain things
+u0002 lot of people use our certain things
+u0002 lot of people use our system for airdrop analysis or I'm system for airdrop analysis or I'm system for airdrop analysis or I'm trying to do this airdrop, help me build trying to do this airdrop, help me build trying to do this airdrop, help me build a strategy that takes these types of a strategy that takes these types of a strategy that takes these types of addresses out or put these in
+u0002ou kind addresses out or put these in
+u0002ou kind addresses out or put these in
+u0002ou kind of need to teach it how to look at of need to teach it how to look at of need to teach it how to look at addresses in a certain way
+u0002o the addresses in a certain way
+u0002o the addresses in a certain way
+u0002o the systems are getting smarter because systems are getting smarter because systems are getting smarter because we're starting to build workflows
+u0002he we're starting to build workflows
+u0002he we're starting to build workflows
+u0002he data is all there
+u0002ou could put data is all there
+u0002ou could put data is all there
+u0002ou could put anyone's data in there, whoever, doing anyone's data in there, whoever, doing anyone's data in there, whoever, doing nansen, doesn't matter
+u0002hey're all nansen, doesn't matter
+u0002hey're all nansen, doesn't matter
+u0002hey're all going to dump their data in these going to dump their data in these going to dump their data in these systems
+u0002he workflows are the things systems
+u0002he workflows are the things systems
+u0002he workflows are the things that matter
+u0002hey're getting smarter
+u0002 that matter
+u0002hey're getting smarter
+u0002 that matter
+u0002hey're getting smarter
+u0002 was given a use case ago by one of our was given a use case ago by one of our was given a use case ago by one of our advisers who said, "You could build advisers who said, "You could build advisers who said, "You could build Google right now." The problem isn't Google right now." The problem isn't Google right now." The problem isn't that you are technically smart enough. that you are technically smart enough. that you are technically smart enough
+u0002he problem is that you don't know the The problem is that you don't know the The problem is that you don't know the potholes they've stepped in already and potholes they've stepped in already and potholes they've stepped in already and you're going to step in 10,000 of them you're going to step in 10,000 of them you're going to step in 10,000 of them on your journey to trying to build a on your journey to trying to build a on your journey to trying to build a better search engine and you'll never better search engine and you'll never better search engine and you'll never get there
+u0002hey're so far ahead
+u0002t's get there
+u0002hey're so far ahead
+u0002t's get there
+u0002hey're so far ahead
+u0002t's the same in LLMs
+u0002ll the folks who are the same in LLMs
+u0002ll the folks who are the same in LLMs
+u0002ll the folks who are building the right workflows and building the right workflows and building the right workflows and structures that when you ask a question, structures that when you ask a question, structures that when you ask a question, it knows how to think about it
+u0002hat's it knows how to think about it
+u0002hat's it knows how to think about it
+u0002hat's what's going to make the LLM smarter. what's going to make the LLM smarter. what's going to make the LLM smarter. >> How has that insight informed just your >> How has that insight informed just your >> How has that insight informed just your hiring practices and how you're building hiring practices and how you're building hiring practices and how you're building the team
+u0002ow has that evolved over the team
+u0002ow has that evolved over the team
+u0002ow has that evolved over time? time? time
+u0002veryone in our system at flip side Everyone in our system at flip side Everyone in our system at flip side codes direct in cursor or otherwise that codes direct in cursor or otherwise that codes direct in cursor or otherwise that changes the behavior profile of your changes the behavior profile of your changes the behavior profile of your engineers or data scientists
+u0002 mean we engineers or data scientists
+u0002 mean we engineers or data scientists
+u0002 mean we all saw Brian Armstrong throw out all saw Brian Armstrong throw out all saw Brian Armstrong throw out anybody that wasn't building with AI anybody that wasn't building with AI anybody that wasn't building with AI first which is totally right
+u0002t was first which is totally right
+u0002t was first which is totally right
+u0002t was maybe heavy-handed but totally right. maybe heavy-handed but totally right. maybe heavy-handed but totally right
+u0002ow when we're hiring we think a lot Now when we're hiring we think a lot Now when we're hiring we think a lot about the ability to educate or about the ability to educate or about the ability to educate or articulate the workflows you're going articulate the workflows you're going articulate the workflows you're going into
+u0002e could hire the best data into
+u0002e could hire the best data into
+u0002e could hire the best data scientists in the world, but if they scientists in the world, but if they scientists in the world, but if they can't say, "Wait, wait, this is how I can't say, "Wait, wait, this is how I can't say, "Wait, wait, this is how I process that equation
+u0002his is how I get process that equation
+u0002his is how I get process that equation
+u0002his is how I get to an answer." We can't pull that out, to an answer." We can't pull that out, to an answer." We can't pull that out, extract it, and turn it into a workflow extract it, and turn it into a workflow extract it, and turn it into a workflow design
+u0002nd so, we care a lot about design
+u0002nd so, we care a lot about design
+u0002nd so, we care a lot about maybe the articulation or the ability maybe the articulation or the ability maybe the articulation or the ability for someone to document what they're for someone to document what they're for someone to document what they're doing as much as the ability to be able doing as much as the ability to be able doing as much as the ability to be able to code itself
+u0002t to code itself
+u0002t to code itself
+u0002t >> almost brings the engineer up a level >> almost brings the engineer up a level >> almost brings the engineer up a level towards more of the product manager
+u0002t towards more of the product manager
+u0002t towards more of the product manager
+u0002t sounds like sounds like sounds like >> a little bit
+u0002he whole system is >> a little bit
+u0002he whole system is >> a little bit
+u0002he whole system is changing
+u0002roduct managers are no longer changing
+u0002roduct managers are no longer changing
+u0002roduct managers are no longer writing specs because engineers move writing specs because engineers move writing specs because engineers move faster
+u0002he data scientists are doing faster
+u0002he data scientists are doing faster
+u0002he data scientists are doing the product manager specking which is the product manager specking which is the product manager specking which is actually not about your front end or actually not about your front end or actually not about your front end or your overall design
+u0002t's about your overall design
+u0002t's about your overall design
+u0002t's about workflows
+u0002veryone's role has changed. workflows
+u0002veryone's role has changed. workflows
+u0002veryone's role has changed. >> It's fascinating
+u0002ow are you seeing >> It's fascinating
+u0002ow are you seeing >> It's fascinating
+u0002ow are you seeing just the industry at large now? just the industry at large now? just the industry at large now
+u0002bviously post FTX saw just a lot of Obviously post FTX saw just a lot of Obviously post FTX saw just a lot of churn in the startups, a lot of churn in the startups, a lot of churn in the startups, a lot of windowns
+u0002hat's it like out there right windowns
+u0002hat's it like out there right windowns
+u0002hat's it like out there right now when you're talking to other now when you're talking to other now when you're talking to other entrepreneurs
+u0002undraising is hard for entrepreneurs
+u0002undraising is hard for entrepreneurs
+u0002undraising is hard for everybody all the way up the stack funds everybody all the way up the stack funds everybody all the way up the stack funds are having trouble with their LPs
+u0002nd are having trouble with their LPs
+u0002nd are having trouble with their LPs
+u0002nd one investor said to me, fundraising is one investor said to me, fundraising is one investor said to me, fundraising is hard except if you're open AI. hard except if you're open AI. hard except if you're open AI
+u0002ll the money is getting sucked into All the money is getting sucked into All the money is getting sucked into these systems that are changing the these systems that are changing the these systems that are changing the whole ecosystem
+u0002ow the problem is whole ecosystem
+u0002ow the problem is whole ecosystem
+u0002ow the problem is going to be I mean we've all been going to be I mean we've all been going to be I mean we've all been through this before
+u0002here's bubble through this before
+u0002here's bubble through this before
+u0002here's bubble behavior that's happening
+u0002ll it takes behavior that's happening
+u0002ll it takes behavior that's happening
+u0002ll it takes is for open AI to stumble a little bit is for open AI to stumble a little bit is for open AI to stumble a little bit or they're like it's going to deflate a or they're like it's going to deflate a or they're like it's going to deflate a bunch of stuff around it
+u0002t's going to bunch of stuff around it
+u0002t's going to bunch of stuff around it
+u0002t's going to be like a housing crisis
+u0002t's not that be like a housing crisis
+u0002t's not that be like a housing crisis
+u0002t's not that it's changing everything
+u0002t's just that it's changing everything
+u0002t's just that it's changing everything
+u0002t's just that it's getting so valued in a way where it's getting so valued in a way where it's getting so valued in a way where it's really hard to uphold that value. it's really hard to uphold that value. it's really hard to uphold that value
+u0002ut entrepreneurs, you've got But entrepreneurs, you've got But entrepreneurs, you've got multiffactors
+u0002ne, it's hard to raise multiffactors
+u0002ne, it's hard to raise multiffactors
+u0002ne, it's hard to raise capital because everything's going to capital because everything's going to capital because everything's going to AI
+u0002o, you better have a deeper AI part AI
+u0002o, you better have a deeper AI part AI
+u0002o, you better have a deeper AI part of your business
+u0002wo, your time to of your business
+u0002wo, your time to of your business
+u0002wo, your time to market
+u0002f you can't prove it on your market
+u0002f you can't prove it on your market
+u0002f you can't prove it on your own, get to five million ARR without any own, get to five million ARR without any own, get to five million ARR without any outside capital, you're sort of not outside capital, you're sort of not outside capital, you're sort of not building correct anymore
+u0002hat's been a building correct anymore
+u0002hat's been a building correct anymore
+u0002hat's been a big change
+u0002o you've design systems for big change
+u0002o you've design systems for big change
+u0002o you've design systems for how a company gets started has changed how a company gets started has changed how a company gets started has changed entirely
+u0002 think we've gotten to the entirely
+u0002 think we've gotten to the entirely
+u0002 think we've gotten to the brass tax spot of entrepreneurship. brass tax spot of entrepreneurship. brass tax spot of entrepreneurship. there was a lot of sort of promotion and there was a lot of sort of promotion and there was a lot of sort of promotion and fluff going on touting your excellence fluff going on touting your excellence fluff going on touting your excellence in something and now it's like I in something and now it's like I in something and now it's like I actually just got to prove it because actually just got to prove it because actually just got to prove it because everybody can see exactly what's everybody can see exactly what's everybody can see exactly what's happening and systems let you prove it happening and systems let you prove it happening and systems let you prove it before you talk about it. before you talk about it. before you talk about it. >> It is fascinating
+u0002 mean if you think >> It is fascinating
+u0002 mean if you think >> It is fascinating
+u0002 mean if you think about this in a historical context some about this in a historical context some about this in a historical context some of the capex here reminds me a little of the capex here reminds me a little of the capex here reminds me a little bit about fixed line communications the bit about fixed line communications the bit about fixed line communications the amount of capital that went into that amount of capital that went into that amount of capital that went into that and obviously we got the internet out of and obviously we got the internet out of and obviously we got the internet out of that so that was great but there were a that so that was great but there were a that so that was great but there were a lot of corpses along the way
+u0002t's lot of corpses along the way
+u0002t's lot of corpses along the way
+u0002t's interesting to see companies like Meta interesting to see companies like Meta interesting to see companies like Meta and Oracle fundamentally change their and Oracle fundamentally change their and Oracle fundamentally change their approach to the capital markets and approach to the capital markets and approach to the capital markets and start burning a lot more cash here in start burning a lot more cash here in start burning a lot more cash here in order to keep up
+u0002o, I think you're order to keep up
+u0002o, I think you're order to keep up
+u0002o, I think you're right that at some point the amount of right that at some point the amount of right that at some point the amount of leverage in that part of the system in leverage in that part of the system in leverage in that part of the system in the AI market, I don't know if it'll the AI market, I don't know if it'll the AI market, I don't know if it'll burst, but there will be some burst, but there will be some burst, but there will be some correction
+u0002t'll be interesting to see correction
+u0002t'll be interesting to see correction
+u0002t'll be interesting to see what the downstream impacts are there. what the downstream impacts are there. what the downstream impacts are there. >> It's going to hit all of us
+u0002ou always >> It's going to hit all of us
+u0002ou always >> It's going to hit all of us
+u0002ou always should focus on your own business, not should focus on your own business, not should focus on your own business, not what's happening outside your business what's happening outside your business what's happening outside your business as you got to build something as you got to build something as you got to build something sustainable
+u0002f that cracks over there, sustainable
+u0002f that cracks over there, sustainable
+u0002f that cracks over there, have enough capital
+u0002now that your have enough capital
+u0002now that your have enough capital
+u0002now that your customer is maybe going to get into some customer is maybe going to get into some customer is maybe going to get into some pain
+u0002o have enough room to work a pain
+u0002o have enough room to work a pain
+u0002o have enough room to work a little differently if your customers get little differently if your customers get little differently if your customers get challenged
+u0002t's going to happen
+u0002ou challenged
+u0002t's going to happen
+u0002ou challenged
+u0002t's going to happen
+u0002ou don't know exactly how
+u0002o just don't don't know exactly how
+u0002o just don't don't know exactly how
+u0002o just don't run out of money. run out of money. run out of money. >> That's the number one job, right? >> That's the number one job, right? >> That's the number one job, right? >> The number one job
+u0002ust don't run out >> The number one job
+u0002ust don't run out >> The number one job
+u0002ust don't run out of money
+u0002o whatever you got to do, cut of money
+u0002o whatever you got to do, cut of money
+u0002o whatever you got to do, cut your team faster, do more with less, or your team faster, do more with less, or your team faster, do more with less, or whatever it is, but survive
+u0002t's been whatever it is, but survive
+u0002t's been whatever it is, but survive
+u0002t's been interesting to see just the growth interesting to see just the growth interesting to see just the growth pockets within digital assets with pockets within digital assets with pockets within digital assets with stable coins really bursting on the stable coins really bursting on the stable coins really bursting on the scene over the past 5 years
+u0002ou'll have scene over the past 5 years
+u0002ou'll have scene over the past 5 years
+u0002ou'll have tokenized securities here in the near tokenized securities here in the near tokenized securities here in the near future
+u0002he other one that I don't think future
+u0002he other one that I don't think future
+u0002he other one that I don't think we've talked about as much is these we've talked about as much is these we've talked about as much is these prediction markets and just the amount prediction markets and just the amount prediction markets and just the amount of onchain activity happening in that of onchain activity happening in that of onchain activity happening in that category
+u0002urious if you have a category
+u0002urious if you have a category
+u0002urious if you have a perspective on that and whether there's perspective on that and whether there's perspective on that and whether there's interesting insights to glean from some interesting insights to glean from some interesting insights to glean from some of these platforms
+u0002e just saw a tweet of these platforms
+u0002e just saw a tweet of these platforms
+u0002e just saw a tweet which we're trying to like hide from it which we're trying to like hide from it which we're trying to like hide from it a little bit which is someone who a little bit which is someone who a little bit which is someone who literally called out Kashi in the literally called out Kashi in the literally called out Kashi in the prediction markets but what's happening prediction markets but what's happening prediction markets but what's happening at flip side and a couple other spots at flip side and a couple other spots at flip side and a couple other spots are where the real edge is starting to are where the real edge is starting to are where the real edge is starting to lie and this might be the beginning of lie and this might be the beginning of lie and this might be the beginning of the next frontier of how people actually the next frontier of how people actually the next frontier of how people actually behave
+u0002he prediction markets almost in behave
+u0002he prediction markets almost in behave
+u0002he prediction markets almost in some ways are still one-dimensional some ways are still one-dimensional some ways are still one-dimensional humans going back and forth and debating humans going back and forth and debating humans going back and forth and debating these things
+u0002ut if you had an these things
+u0002ut if you had an these things
+u0002ut if you had an intelligent system that's looking at intelligent system that's looking at intelligent system that's looking at multiple factors to make the types of multiple factors to make the types of multiple factors to make the types of predictive bets, everything changes
+u0002 predictive bets, everything changes
+u0002 predictive bets, everything changes
+u0002 think those are really interesting think those are really interesting think those are really interesting platforms
+u0002hey tap into the social platforms
+u0002hey tap into the social platforms
+u0002hey tap into the social norms of competition and value creation norms of competition and value creation norms of competition and value creation and everybody wants to know the answers and everybody wants to know the answers and everybody wants to know the answers and bet on the answers
+u0002hey're tapping and bet on the answers
+u0002hey're tapping and bet on the answers
+u0002hey're tapping into all the psychological behaviors, into all the psychological behaviors, into all the psychological behaviors, but you're going to have to have AI but you're going to have to have AI but you're going to have to have AI systems or intelligent systems that systems or intelligent systems that systems or intelligent systems that start to maybe automate those or help start to maybe automate those or help start to maybe automate those or help those move faster than the human those move faster than the human those move faster than the human capacity to sort of compete is capacity to sort of compete is capacity to sort of compete is occurring
+u0002'd imagine there's going to occurring
+u0002'd imagine there's going to occurring
+u0002'd imagine there's going to be AI systems that are operate on their be AI systems that are operate on their be AI systems that are operate on their own as their own behaviors competing own as their own behaviors competing own as their own behaviors competing with each other in a predictive way. with each other in a predictive way. with each other in a predictive way. >> I'm sure people are trying to do that >> I'm sure people are trying to do that >> I'm sure people are trying to do that already
+u0002ou remember in the early days already
+u0002ou remember in the early days already
+u0002ou remember in the early days when DraftKings came out, people were when DraftKings came out, people were when DraftKings came out, people were scraping screens and trying to put in scraping screens and trying to put in scraping screens and trying to put in more bets over time programmatically
+u0002 more bets over time programmatically
+u0002 more bets over time programmatically
+u0002 don't even know if they had an API don't even know if they had an API don't even know if they had an API initially
+u0002'd imagine you'll see initially
+u0002'd imagine you'll see initially
+u0002'd imagine you'll see similar type of dynamics there
+u0002nd it similar type of dynamics there
+u0002nd it similar type of dynamics there
+u0002nd it just seems like the regulatory just seems like the regulatory just seems like the regulatory environment now allowing these things to environment now allowing these things to environment now allowing these things to exist in the US will also change that exist in the US will also change that exist in the US will also change that where you almost have this new financial where you almost have this new financial where you almost have this new financial market emerge. market emerge. market emerge. >> If the stock market is some form of >> If the stock market is some form of >> If the stock market is some form of gambling, prediction markets just take gambling, prediction markets just take gambling, prediction markets just take it to a new level
+u0002t's Reddit armies it to a new level
+u0002t's Reddit armies it to a new level
+u0002t's Reddit armies were bad until Reddit armies were just were bad until Reddit armies were just were bad until Reddit armies were just part of the process by which you're able part of the process by which you're able part of the process by which you're able to capitalize on returns. to capitalize on returns. to capitalize on returns. >> Well, I guess with a lot of things, if >> Well, I guess with a lot of things, if >> Well, I guess with a lot of things, if you can figure out a way to tax it, you can figure out a way to tax it, you can figure out a way to tax it, sometimes it comes into the light
+u0002t sometimes it comes into the light
+u0002t sometimes it comes into the light
+u0002t might be the same thing
+u0002o, maybe back might be the same thing
+u0002o, maybe back might be the same thing
+u0002o, maybe back to the product side, what are you seeing to the product side, what are you seeing to the product side, what are you seeing actually people put in as prompts and actually people put in as prompts and actually people put in as prompts and what are the interesting behaviors that what are the interesting behaviors that what are the interesting behaviors that are notable since you launched the are notable since you launched the are notable since you launched the product
+u0002 know it's only been a few product
+u0002 know it's only been a few product
+u0002 know it's only been a few weeks. weeks. weeks. >> There's more basic prompting that people >> There's more basic prompting that people >> There's more basic prompting that people are starting to learn over time and talk are starting to learn over time and talk are starting to learn over time and talk about one from yesterday
+u0002se the trade about one from yesterday
+u0002se the trade about one from yesterday
+u0002se the trade adjusted fair value workflow
+u0002o make adjusted fair value workflow
+u0002o make adjusted fair value workflow
+u0002o make sure you call workflows, learn what sure you call workflows, learn what sure you call workflows, learn what workflows matter
+u0002se the trade adjusted workflows matter
+u0002se the trade adjusted workflows matter
+u0002se the trade adjusted fair value workflow to analyze a fair value workflow to analyze a fair value workflow to analyze a specific contract address to find over specific contract address to find over specific contract address to find over and undervalued NFTTS
+u0002all a workflow. and undervalued NFTTS
+u0002all a workflow. and undervalued NFTTS
+u0002all a workflow
+u0002hat's a prompt engineer
+u0002ake sure That's a prompt engineer
+u0002ake sure That's a prompt engineer
+u0002ake sure you're thinking about that
+u0002all a table you're thinking about that
+u0002all a table you're thinking about that
+u0002all a table if you think about call the monad table if you think about call the monad table if you think about call the monad table or call whatever table and use that to or call whatever table and use that to or call whatever table and use that to derive some intelligence
+u0002'll just do a derive some intelligence
+u0002'll just do a derive some intelligence
+u0002'll just do a rundown of some of the things people are rundown of some of the things people are rundown of some of the things people are using the system for
+u0002his is yesterday. using the system for
+u0002his is yesterday. using the system for
+u0002his is yesterday
+u0002e also use the a intelligence platform We also use the a intelligence platform We also use the a intelligence platform just to say tell us the types of things just to say tell us the types of things just to say tell us the types of things people are asking about so that we people are asking about so that we people are asking about so that we continue to refine it
+u0002o advanced defi continue to refine it
+u0002o advanced defi continue to refine it
+u0002o advanced defi analysis much like a pretypical editor analysis much like a pretypical editor analysis much like a pretypical editor SQL debugging and complex analytics SQL debugging and complex analytics SQL debugging and complex analytics multiCT queries with error multiCT queries with error multiCT queries with error troubleshooting happening real time troubleshooting happening real time troubleshooting happening real time security and research focus
+u0002o people security and research focus
+u0002o people security and research focus
+u0002o people are looking at smart contract exploits, are looking at smart contract exploits, are looking at smart contract exploits, copycat cases, bite code deployment copycat cases, bite code deployment copycat cases, bite code deployment attacks
+u0002hey're referencing academic attacks
+u0002hey're referencing academic attacks
+u0002hey're referencing academic research next to some addresses
+u0002 lot research next to some addresses
+u0002 lot research next to some addresses
+u0002 lot of strategic growth campaigns
+u0002lip side of strategic growth campaigns
+u0002lip side of strategic growth campaigns
+u0002lip side analyzes 700 million addresses daily analyzes 700 million addresses daily analyzes 700 million addresses daily basically to know which ones will be basically to know which ones will be basically to know which ones will be performant, which ones are bots, which performant, which ones are bots, which performant, which ones are bots, which ones aren't, all that stuff
+u0002o you can ones aren't, all that stuff
+u0002o you can ones aren't, all that stuff
+u0002o you can ask the platform, generate a strategic ask the platform, generate a strategic ask the platform, generate a strategic growth campaign for me using scoring growth campaign for me using scoring growth campaign for me using scoring systems
+u0002gain, you got to ask it where systems
+u0002gain, you got to ask it where systems
+u0002gain, you got to ask it where to go
+u0002ots of typical stuff, historical to go
+u0002ots of typical stuff, historical to go
+u0002ots of typical stuff, historical price, analytics, all that stuff
+u0002ne price, analytics, all that stuff
+u0002ne price, analytics, all that stuff
+u0002ne thing that's super interesting is the thing that's super interesting is the thing that's super interesting is the system is multil- language because AI system is multil- language because AI system is multil- language because AI can understand everything
+u0002ere's just a can understand everything
+u0002ere's just a can understand everything
+u0002ere's just a rundown yesterday of the languages used. rundown yesterday of the languages used. rundown yesterday of the languages used
+u0002hinese, Vietnamese, Korean, Arabic, Chinese, Vietnamese, Korean, Arabic, Chinese, Vietnamese, Korean, Arabic, Turkish, Bengalian, French, and English Turkish, Bengalian, French, and English Turkish, Bengalian, French, and English just in a day
+u0002his thing's out there. just in a day
+u0002his thing's out there. just in a day
+u0002his thing's out there. >> I'd be fascinated
+u0002'd need to start >> I'd be fascinated
+u0002'd need to start >> I'd be fascinated
+u0002'd need to start doing some more queries on it myself doing some more queries on it myself doing some more queries on it myself just around the time of day that certain just around the time of day that certain just around the time of day that certain things happen
+u0002f you could pinpoint things happen
+u0002f you could pinpoint things happen
+u0002f you could pinpoint geographic regions that are more active geographic regions that are more active geographic regions that are more active than others just based on the time zone, than others just based on the time zone, than others just based on the time zone, that seems to me like an underexplored that seems to me like an underexplored that seems to me like an underexplored part of this market. part of this market. part of this market. >> Try to write that in SQL and do it in a >> Try to write that in SQL and do it in a >> Try to write that in SQL and do it in a time that gets you somewhere at a cost time that gets you somewhere at a cost time that gets you somewhere at a cost that makes sense versus asking the that makes sense versus asking the that makes sense versus asking the system to just do that for you
+u0002ll system to just do that for you
+u0002ll system to just do that for you
+u0002ll those things become possible. those things become possible. those things become possible. >> All right, this is great, Dave
+u0002ho >> All right, this is great, Dave
+u0002ho >> All right, this is great, Dave
+u0002ho could have imagined that we'd be talking could have imagined that we'd be talking could have imagined that we'd be talking about LLMs back in 2016, talking about about LLMs back in 2016, talking about about LLMs back in 2016, talking about crypto data and asset management back crypto data and asset management back crypto data and asset management back then
+u0002 didn't have this one on the then
+u0002 didn't have this one on the then
+u0002 didn't have this one on the bingo card, but I love the direction. bingo card, but I love the direction. bingo card, but I love the direction
+u0002here can we send people that want to Where can we send people that want to Where can we send people that want to use the product, learn more about Flip use the product, learn more about Flip use the product, learn more about Flip Side
+u0002ide
+u0002ide? >> If we did have it on the bingo card, >> If we did have it on the bingo card, >> If we did have it on the bingo card, maybe we would have started Anthropic maybe we would have started Anthropic maybe we would have started Anthropic and then you and I would be having this and then you and I would be having this and then you and I would be having this call from a private plane. call from a private plane. call from a private plane. >> Different story. >> Different story. >> Different story. >> Yeah, different story
+u0002nyway, >> Yeah, different story
+u0002nyway, >> Yeah, different story
+u0002nyway, everyone's done okay
+u0002e're pretty good. everyone's done okay
+u0002e're pretty good. everyone's done okay
+u0002e're pretty good
+u0002o, you should go to So, you should go to So, you should go to flipsidecrypto.xyzhat
+u0002 think pretty soon actually our front I think pretty soon actually our front I think pretty soon actually our front page of our website will just be the page of our website will just be the page of our website will just be the chat product
+u0002o, pretty easy
+u0002y the chat product
+u0002o, pretty easy
+u0002y the chat product
+u0002o, pretty easy
+u0002y the way, you can use that in claude if you way, you can use that in claude if you way, you can use that in claude if you have a team's account
+u0002ften times have a team's account
+u0002ften times have a team's account
+u0002ften times that's really interesting because you've that's really interesting because you've that's really interesting because you've got your own data put in there for other got your own data put in there for other got your own data put in there for other things
+u0002o you could either use our things
+u0002o you could either use our things
+u0002o you could either use our interface which it does multi- AI interface which it does multi- AI interface which it does multi- AI systems uses cloud or uses Gemini or systems uses cloud or uses Gemini or systems uses cloud or uses Gemini or other places or you could install other places or you could install other places or you could install directly into cloud
+u0002ll that's on the directly into cloud
+u0002ll that's on the directly into cloud
+u0002ll that's on the front of the site but pretty simple. front of the site but pretty simple. front of the site but pretty simple
+u0002ead over there give it a try
+u0002ike Head over there give it a try
+u0002ike Head over there give it a try
+u0002ike anything you got to learn how to use the anything you got to learn how to use the anything you got to learn how to use the system
+u0002o, you start easy, but as you system
+u0002o, you start easy, but as you system
+u0002o, you start easy, but as you get more complex, if you have deeper get more complex, if you have deeper get more complex, if you have deeper questions, reach out to us
+u0002e have a questions, reach out to us
+u0002e have a questions, reach out to us
+u0002e have a bunch of prompt engineers who will teach bunch of prompt engineers who will teach bunch of prompt engineers who will teach you some pretty nifty tricks. you some pretty nifty tricks. you some pretty nifty tricks. >> Well, thanks again for coming on the >> Well, thanks again for coming on the >> Well, thanks again for coming on the podcast
+u0002ongrats on the new product
+u0002 podcast
+u0002ongrats on the new product
+u0002 podcast
+u0002ongrats on the new product
+u0002 think it's awesome. think it's awesome. think it's awesome. >> Thanks, Matt. >> Thanks, Matt. >> Thanks, Matt. >> Thanks for listening to another episode >> Thanks for listening to another episode >> Thanks for listening to another episode of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o learn more about Castle Island, visit learn more about Castle Island, visit learn more about Castle Island, visit castle island.vc. castle island.vc. castle island.vc
+u0002nd to listen to all of our podcast And to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle episodes, please visit castle episodes, please visit castle island.vc/mpodcast
+u0002C/mpodcast island.vc/mpodcast
+u0002C/mpodcast island.vc/mpodcast
+u0002C/mpodcast or just click on the tab on our website. or just click on the tab on our website. or just click on the tab on our website
+u0002hanks for listening. 

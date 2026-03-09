@@ -1,0 +1,679 @@
+Today I sat down with PBJ, the founder Today I sat down with PBJ, the founder Today I sat down with PBJ, the founder of Purple
+u0002urple is a first-in-class of Purple
+u0002urple is a first-in-class of Purple
+u0002urple is a first-in-class crypto perpetual exchange launching on crypto perpetual exchange launching on crypto perpetual exchange launching on the Monad blockchain
+u0002 was fortunate the Monad blockchain
+u0002 was fortunate the Monad blockchain
+u0002 was fortunate enough to have this conversation with enough to have this conversation with enough to have this conversation with PBJ shortly ahead of the anticipated PBJ shortly ahead of the anticipated PBJ shortly ahead of the anticipated Monad and Purple launch this fall
+u0002e Monad and Purple launch this fall
+u0002e Monad and Purple launch this fall
+u0002e discussed perpetual or perp exchanges discussed perpetual or perp exchanges discussed perpetual or perp exchanges and the role they play in crypto and the role they play in crypto and the role they play in crypto markets, Hyperlquid's recent success, markets, Hyperlquid's recent success, markets, Hyperlquid's recent success, how per could expand to other markets, how per could expand to other markets, how per could expand to other markets, and what makes Monad unique in the and what makes Monad unique in the and what makes Monad unique in the backdrop of many other new blockchains. backdrop of many other new blockchains. backdrop of many other new blockchains
+u0002 hope you enjoy our conversation
+u0002att I hope you enjoy our conversation
+u0002att I hope you enjoy our conversation
+u0002att Walsh and Nick Carter are partners at Walsh and Nick Carter are partners at Walsh and Nick Carter are partners at Castle Island Ventures
+u0002ll of these Castle Island Ventures
+u0002ll of these Castle Island Ventures
+u0002ll of these expressed by them or the guests on this expressed by them or the guests on this expressed by them or the guests on this podcast are solely their opinions and do podcast are solely their opinions and do podcast are solely their opinions and do not reflect the opinions of Castle not reflect the opinions of Castle not reflect the opinions of Castle Island Ventures
+u0002uests and host may Island Ventures
+u0002uests and host may Island Ventures
+u0002uests and host may maintain positions in the assets maintain positions in the assets maintain positions in the assets discussed in this podcast
+u0002ou should discussed in this podcast
+u0002ou should discussed in this podcast
+u0002ou should not treat any opinion expressed by not treat any opinion expressed by not treat any opinion expressed by anyone on this podcast as a specific anyone on this podcast as a specific anyone on this podcast as a specific inducement to make a particular inducement to make a particular inducement to make a particular investment or follow a particular investment or follow a particular investment or follow a particular strategy, but only as an expression of strategy, but only as an expression of strategy, but only as an expression of their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is forformational purposes only. forformational purposes only. forformational purposes only. >> Brought down by bad mortgage >> Brought down by bad mortgage >> Brought down by bad mortgage investments
+u0002ehman, which has 25,000 investments
+u0002ehman, which has 25,000 investments
+u0002ehman, which has 25,000 employees will be liquidated. employees will be liquidated. employees will be liquidated. >> The federal government loans American >> The federal government loans American >> The federal government loans American International Group, AIG, $85 billion
+u0002nternational Group, AIG, $85 billion
+u0002nternational Group, AIG, $85 billion. >> This is a different kind of market and >> This is a different kind of market and >> This is a different kind of market and THE FED IS ASLEEP
+u0002he federal THE FED IS ASLEEP
+u0002he federal THE FED IS ASLEEP
+u0002he federal government is stepping in to stabilize government is stepping in to stabilize government is stepping in to stabilize Fanny May and Freddy Mack, the two Fanny May and Freddy Mack, the two Fanny May and Freddy Mack, the two mortgage giants that have been mortgage giants that have been mortgage giants that have been threatened by the housing crisis. threatened by the housing crisis. threatened by the housing crisis. >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 billion pounds more into Britain's billion pounds more into Britain's billion pounds more into Britain's ailing economy with a new round of ailing economy with a new round of ailing economy with a new round of constituted easing. constituted easing. constituted easing. >> You print a couple trillion dollars and >> You print a couple trillion dollars and >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry. all of a sudden people start to worry
+u0002o out of this worry, we have something So out of this worry, we have something So out of this worry, we have something called the Bitcoin
+u0002itcoin called the Bitcoin
+u0002itcoin called the Bitcoin
+u0002itcoin PBJ, great to see you
+u0002hanks for coming PBJ, great to see you
+u0002hanks for coming PBJ, great to see you
+u0002hanks for coming on
+u0002xcited to chat today. on
+u0002xcited to chat today. on
+u0002xcited to chat today. >> Thanks for having me on. >> Thanks for having me on. >> Thanks for having me on. >> I want to kick off hitting on some of >> I want to kick off hitting on some of >> I want to kick off hitting on some of the subject matter. you spend a lot of the subject matter. you spend a lot of the subject matter. you spend a lot of your day on
+u0002o boil things down, I your day on
+u0002o boil things down, I your day on
+u0002o boil things down, I think a lot gets glossed over in crypto. think a lot gets glossed over in crypto. think a lot gets glossed over in crypto
+u0002eople talk about different products, People talk about different products, People talk about different products, different narratives, and perpetual different narratives, and perpetual different narratives, and perpetual futures have undoubtedly been one
+u0002an futures have undoubtedly been one
+u0002an futures have undoubtedly been one
+u0002an you speak to what PERPS actually are and you speak to what PERPS actually are and you speak to what PERPS actually are and why people use them
+u0002hat are they good why people use them
+u0002hat are they good why people use them
+u0002hat are they good for? for? for? >> Perks are basically a derivative >> Perks are basically a derivative >> Perks are basically a derivative instrument
+u0002t allows you to speculate instrument
+u0002t allows you to speculate instrument
+u0002t allows you to speculate or hedge with leverage on the price or hedge with leverage on the price or hedge with leverage on the price action of an asset
+u0002ut unlike spot, you action of an asset
+u0002ut unlike spot, you action of an asset
+u0002ut unlike spot, you don't actually need to hold the don't actually need to hold the don't actually need to hold the underlying instrument
+u0002here's some underlying instrument
+u0002here's some underlying instrument
+u0002here's some trady parallels like options and trady parallels like options and trady parallels like options and futures, but those instruments usually futures, but those instruments usually futures, but those instruments usually have an expiration or you have to take have an expiration or you have to take have an expiration or you have to take delivery
+u0002erpetuals don't have an delivery
+u0002erpetuals don't have an delivery
+u0002erpetuals don't have an expiration
+u0002o, you can go on holding expiration
+u0002o, you can go on holding expiration
+u0002o, you can go on holding the instrument as long as you have the instrument as long as you have the instrument as long as you have margin and are paying your funding. margin and are paying your funding. margin and are paying your funding. >> And why is that attractive to people >> And why is that attractive to people >> And why is that attractive to people whether you're a frequent trader, a whether you're a frequent trader, a whether you're a frequent trader, a typical crypto user
+u0002hat's the draw typical crypto user
+u0002hat's the draw typical crypto user
+u0002hat's the draw there
+u0002o one of the things that happens there
+u0002o one of the things that happens there
+u0002o one of the things that happens in for example options is they have in for example options is they have in for example options is they have expiration
+u0002o you'll have options for expiration
+u0002o you'll have options for expiration
+u0002o you'll have options for let's say every month
+u0002hat happens let's say every month
+u0002hat happens let's say every month
+u0002hat happens there is liquidity gets fragmented
+u0002n there is liquidity gets fragmented
+u0002n there is liquidity gets fragmented
+u0002n perpetual since there's no real options perpetual since there's no real options perpetual since there's no real options you have a lot more liquidity in each of you have a lot more liquidity in each of you have a lot more liquidity in each of these instruments
+u0002o each of these these instruments
+u0002o each of these these instruments
+u0002o each of these markets have just one market for it
+u0002o markets have just one market for it
+u0002o markets have just one market for it
+u0002o you just have a better trading you just have a better trading you just have a better trading experience in terms of slippage and experience in terms of slippage and experience in terms of slippage and execution
+u0002t's also a lot more simpler execution
+u0002t's also a lot more simpler execution
+u0002t's also a lot more simpler for retail traders to understand
+u0002ou for retail traders to understand
+u0002ou for retail traders to understand
+u0002ou don't have to do all this crazy blacks don't have to do all this crazy blacks don't have to do all this crazy blacks math and options math for it
+u0002t's just math and options math for it
+u0002t's just math and options math for it
+u0002t's just based on leverage and price action
+u0002ou based on leverage and price action
+u0002ou based on leverage and price action
+u0002ou have a very easy understanding of what's have a very easy understanding of what's have a very easy understanding of what's happening with the product
+u0002o if price happening with the product
+u0002o if price happening with the product
+u0002o if price goes up and you have a 5x leverage, you goes up and you have a 5x leverage, you goes up and you have a 5x leverage, you have a 5x return on that
+u0002nd vice have a 5x return on that
+u0002nd vice have a 5x return on that
+u0002nd vice versa, it could go against you and you versa, it could go against you and you versa, it could go against you and you could get liquidated
+u0002o the simplicity could get liquidated
+u0002o the simplicity could get liquidated
+u0002o the simplicity and the liquidity being all in one and the liquidity being all in one and the liquidity being all in one market makes it a very retailfriendly market makes it a very retailfriendly market makes it a very retailfriendly product. product. product. >> And for folks listening by proxy how >> And for folks listening by proxy how >> And for folks listening by proxy how much of crypto trading is happening via much of crypto trading is happening via much of crypto trading is happening via per today versus via spot or options or per today versus via spot or options or per today versus via spot or options or any other mechanism. any other mechanism. any other mechanism. >> It's orders of magnitude more
+u0002 think >> It's orders of magnitude more
+u0002 think >> It's orders of magnitude more
+u0002 think Binance is a good proxy
+u0002 want to say Binance is a good proxy
+u0002 want to say Binance is a good proxy
+u0002 want to say 9010 or derivatives versus spot again 9010 or derivatives versus spot again 9010 or derivatives versus spot again because you can take leverage and each because you can take leverage and each because you can take leverage and each dollar can go 10 to 50 times in notional dollar can go 10 to 50 times in notional dollar can go 10 to 50 times in notional just that value transacted on just that value transacted on just that value transacted on derivatives are just a lot higher than derivatives are just a lot higher than derivatives are just a lot higher than spot similar to traditional markets spot similar to traditional markets spot similar to traditional markets where futures markets are in trillions where futures markets are in trillions where futures markets are in trillions and equities markets might be in and equities markets might be in and equities markets might be in billions
+u0002nd this is a good segue billions
+u0002nd this is a good segue billions
+u0002nd this is a good segue because I think if you look back because I think if you look back because I think if you look back historically at per crypto was a lot of historically at per crypto was a lot of historically at per crypto was a lot of centralized exchange usage, Binance centralized exchange usage, Binance centralized exchange usage, Binance being a big one obviously, but more being a big one obviously, but more being a big one obviously, but more recently we've seen the emergence of recently we've seen the emergence of recently we've seen the emergence of hyperlquid as a major player
+u0002o on the hyperlquid as a major player
+u0002o on the hyperlquid as a major player
+u0002o on the back of that last point, how much of per back of that last point, how much of per back of that last point, how much of per trading today is uncentralized exchanges trading today is uncentralized exchanges trading today is uncentralized exchanges versus decentralized exchanges
+u0002nd how versus decentralized exchanges
+u0002nd how versus decentralized exchanges
+u0002nd how do you think Hyperlid was able to enter do you think Hyperlid was able to enter do you think Hyperlid was able to enter this market so effectively where there this market so effectively where there this market so effectively where there was a lot of Binance and centralized was a lot of Binance and centralized was a lot of Binance and centralized exchange usage
+u0002t's still dominated by exchange usage
+u0002t's still dominated by exchange usage
+u0002t's still dominated by central exchanges
+u0002 don't have the central exchanges
+u0002 don't have the central exchanges
+u0002 don't have the specific numbers, but there's this great specific numbers, but there's this great specific numbers, but there's this great analytics dashboard that compares analytics dashboard that compares analytics dashboard that compares Hyperlquid versus central exchanges
+u0002nd Hyperlquid versus central exchanges
+u0002nd Hyperlquid versus central exchanges
+u0002nd I think the last time I saw it was I think the last time I saw it was I think the last time I saw it was between 10 to 15% of Binance
+u0002nd that's between 10 to 15% of Binance
+u0002nd that's between 10 to 15% of Binance
+u0002nd that's just a single central exchange
+u0002yperlid just a single central exchange
+u0002yperlid just a single central exchange
+u0002yperlid has done a lot of great things
+u0002've has done a lot of great things
+u0002've has done a lot of great things
+u0002've talked about this in some of my Twitter talked about this in some of my Twitter talked about this in some of my Twitter posts, but they were there at the right posts, but they were there at the right posts, but they were there at the right time
+u0002o what usually der trading has time
+u0002o what usually der trading has time
+u0002o what usually der trading has happened on let's say bitmax buy a bit happened on let's say bitmax buy a bit happened on let's say bitmax buy a bit binance FTX have all been leaders there binance FTX have all been leaders there binance FTX have all been leaders there and around 2122 when the FTX saga got and around 2122 when the FTX saga got and around 2122 when the FTX saga got unfolded people were just tired of unfolded people were just tired of unfolded people were just tired of trading on central exchanges and taking trading on central exchanges and taking trading on central exchanges and taking on this custodian risk hyperlquid on this custodian risk hyperlquid on this custodian risk hyperlquid founders had talked about that there was founders had talked about that there was founders had talked about that there was just a missing part in the market where just a missing part in the market where just a missing part in the market where there was a decentralized exchange there there was a decentralized exchange there there was a decentralized exchange there to fill that void dydx was going through to fill that void dydx was going through to fill that void dydx was going through these numerous pivots from stark these numerous pivots from stark these numerous pivots from stark darkware to their own L1 and people were darkware to their own L1 and people were darkware to their own L1 and people were just lost and maze there
+u0002o they timed just lost and maze there
+u0002o they timed just lost and maze there
+u0002o they timed the market really well and then they the market really well and then they the market really well and then they really hyperfocused on the product
+u0002o really hyperfocused on the product
+u0002o really hyperfocused on the product
+u0002o they just wanted it to be something they just wanted it to be something they just wanted it to be something where it just worked like failed where it just worked like failed where it just worked like failed transactions or gas bikes or needing to transactions or gas bikes or needing to transactions or gas bikes or needing to sign everything with a MetaMask wallet sign everything with a MetaMask wallet sign everything with a MetaMask wallet just felt like it was trading on a just felt like it was trading on a just felt like it was trading on a central exchange
+u0002 think the really central exchange
+u0002 think the really central exchange
+u0002 think the really cool things that they did was because cool things that they did was because cool things that they did was because they had a background in market making, they had a background in market making, they had a background in market making, they understood primitives that worked, they understood primitives that worked, they understood primitives that worked, which is a central order book
+u0002 think which is a central order book
+u0002 think which is a central order book
+u0002 think if you look around in the space, there if you look around in the space, there if you look around in the space, there wasn't really a chain you can put that wasn't really a chain you can put that wasn't really a chain you can put that on that was a general purpose chain
+u0002ou on that was a general purpose chain
+u0002ou on that was a general purpose chain
+u0002ou necessarily had to build your own chain necessarily had to build your own chain necessarily had to build your own chain and that's what they did
+u0002o the other and that's what they did
+u0002o the other and that's what they did
+u0002o the other part that they included there was the part that they included there was the part that they included there was the HLP
+u0002gain, you can see GMX popularized HLP
+u0002gain, you can see GMX popularized HLP
+u0002gain, you can see GMX popularized GLP
+u0002upiter also used that, but both of GLP
+u0002upiter also used that, but both of GLP
+u0002upiter also used that, but both of those products were for AMMs and they're those products were for AMMs and they're those products were for AMMs and they're a lot more programmatic
+u0002et it and a lot more programmatic
+u0002et it and a lot more programmatic
+u0002et it and forget it
+u0002LP changed it a little bit forget it
+u0002LP changed it a little bit forget it
+u0002LP changed it a little bit with the fact that because they had this with the fact that because they had this with the fact that because they had this market experience, they were able to market experience, they were able to market experience, they were able to market on their own club
+u0002hey were market on their own club
+u0002hey were market on their own club
+u0002hey were using passive LP liquidity there
+u0002hat using passive LP liquidity there
+u0002hat using passive LP liquidity there
+u0002hat basically shortcircuited the need for basically shortcircuited the need for basically shortcircuited the need for market makers
+u0002t allowed them to have market makers
+u0002t allowed them to have market makers
+u0002t allowed them to have deeper liquidity so people could trade deeper liquidity so people could trade deeper liquidity so people could trade in size on a decentralized exchange
+u0002nd in size on a decentralized exchange
+u0002nd in size on a decentralized exchange
+u0002nd eventually that also helped them list eventually that also helped them list eventually that also helped them list tokens faster which is like a huge thing tokens faster which is like a huge thing tokens faster which is like a huge thing for an exchange to stay attractive. for an exchange to stay attractive. for an exchange to stay attractive
+u0002gain to close out that point they also Again to close out that point they also Again to close out that point they also made some really good decisions like made some really good decisions like made some really good decisions like prioritizing cancels on their blockchain prioritizing cancels on their blockchain prioritizing cancels on their blockchain consensus or having custom op codes for consensus or having custom op codes for consensus or having custom op codes for funding and solveny checks
+u0002gain, this funding and solveny checks
+u0002gain, this funding and solveny checks
+u0002gain, this is the kind of things and knowledge that is the kind of things and knowledge that is the kind of things and knowledge that they brought with their prior experience they brought with their prior experience they brought with their prior experience of, hey, this is stuff that we would of, hey, this is stuff that we would of, hey, this is stuff that we would like to have in our own decentralized like to have in our own decentralized like to have in our own decentralized exchange
+u0002nd if we're going to be the exchange
+u0002nd if we're going to be the exchange
+u0002nd if we're going to be the facto market maker, we don't want to get facto market maker, we don't want to get facto market maker, we don't want to get run over by professionals because of a run over by professionals because of a run over by professionals because of a lack of information or whatever else. lack of information or whatever else. lack of information or whatever else
+u0002o, we should prioritize cancels
+u0002nd So, we should prioritize cancels
+u0002nd So, we should prioritize cancels
+u0002nd then I think the final stroke of genius then I think the final stroke of genius then I think the final stroke of genius was they were a perplex only and then was they were a perplex only and then was they were a perplex only and then they realized that you know what, we they realized that you know what, we they realized that you know what, we can't just be a single app blockchain. can't just be a single app blockchain. can't just be a single app blockchain
+u0002e've seen how that plays out with these We've seen how that plays out with these We've seen how that plays out with these L2 app chains and other products
+u0002hey L2 app chains and other products
+u0002hey L2 app chains and other products
+u0002hey added this sidecar EVM which allowed added this sidecar EVM which allowed added this sidecar EVM which allowed them to escape that glass ceiling of an them to escape that glass ceiling of an them to escape that glass ceiling of an app chain
+u0002o, we'll see how that plays app chain
+u0002o, we'll see how that plays app chain
+u0002o, we'll see how that plays out for them
+u0002ut I think those out for them
+u0002ut I think those out for them
+u0002ut I think those decisions that they've made along the decisions that they've made along the decisions that they've made along the way have helped them become as way have helped them become as way have helped them become as successful as they are
+u0002eah, I think successful as they are
+u0002eah, I think successful as they are
+u0002eah, I think that's a great overview
+u0002 do want to that's a great overview
+u0002 do want to that's a great overview
+u0002 do want to circle back to one point you made
+u0002 circle back to one point you made
+u0002 circle back to one point you made
+u0002 think that in the wake of the FTX think that in the wake of the FTX think that in the wake of the FTX collapse, call it the 6 months after collapse, call it the 6 months after collapse, call it the 6 months after fall 2022, which was in that window fall 2022, which was in that window fall 2022, which was in that window hyperlid launch like you mentioned, hyperlid launch like you mentioned, hyperlid launch like you mentioned, crypto was at its peak level of distrust crypto was at its peak level of distrust crypto was at its peak level of distrust of centralized financial institutions, of centralized financial institutions, of centralized financial institutions, which is saying a lot obviously for the which is saying a lot obviously for the which is saying a lot obviously for the crypto industry and there was a great crypto industry and there was a great crypto industry and there was a great timing aspect there that probably timing aspect there that probably timing aspect there that probably allowed something like hyperlquid to get allowed something like hyperlquid to get allowed something like hyperlquid to get on that growth trajectory which they've on that growth trajectory which they've on that growth trajectory which they've continued and exceeded
+u0002o you think continued and exceeded
+u0002o you think continued and exceeded
+u0002o you think that skepticism of centralized that skepticism of centralized that skepticism of centralized institutions and at the same time institutions and at the same time institutions and at the same time preference for decentralized finance preference for decentralized finance preference for decentralized finance among a certain subset of crypto users among a certain subset of crypto users among a certain subset of crypto users is still present such that you'll have is still present such that you'll have is still present such that you'll have more players like this potentially more players like this potentially more players like this potentially emerge or do you think there's been some emerge or do you think there's been some emerge or do you think there's been some sort of reversion to comfort using sort of reversion to comfort using sort of reversion to comfort using centralized exchanges? centralized exchanges? centralized exchanges? >> I think the world is more moving towards >> I think the world is more moving towards >> I think the world is more moving towards onchain
+u0002 think the par between onchain
+u0002 think the par between onchain
+u0002 think the par between centralized exchanges and decentralized centralized exchanges and decentralized centralized exchanges and decentralized exchanges is going down significantly. exchanges is going down significantly. exchanges is going down significantly
+u0002o one of the reasons why most of this So one of the reasons why most of this So one of the reasons why most of this trading used to happen on these central trading used to happen on these central trading used to happen on these central exchanges were just was faster
+u0002ou exchanges were just was faster
+u0002ou exchanges were just was faster
+u0002ou could actually market maker
+u0002here could actually market maker
+u0002here could actually market maker
+u0002here wasn't the primitives that market makers wasn't the primitives that market makers wasn't the primitives that market makers expected like a central limit order book expected like a central limit order book expected like a central limit order book or a blockchain that was fast enough to or a blockchain that was fast enough to or a blockchain that was fast enough to market on these order books
+u0002o as these market on these order books
+u0002o as these market on these order books
+u0002o as these decentralized exchange events are being decentralized exchange events are being decentralized exchange events are being built on these faster blockchains, you built on these faster blockchains, you built on these faster blockchains, you start to see even these central start to see even these central start to see even these central exchanges are like hey licensing KYC exchanges are like hey licensing KYC exchanges are like hey licensing KYC regulated exchange type of trajectory regulated exchange type of trajectory regulated exchange type of trajectory when we can also start our own when we can also start our own when we can also start our own decentralized exchange
+u0002o I think the decentralized exchange
+u0002o I think the decentralized exchange
+u0002o I think the world is heading more towards onchain world is heading more towards onchain world is heading more towards onchain 24/7 trading where people just wallet in 24/7 trading where people just wallet in 24/7 trading where people just wallet in a stable coin versus I need to submit my a stable coin versus I need to submit my a stable coin versus I need to submit my passport ID
+u0002 need to do X, Y, and Z passport ID
+u0002 need to do X, Y, and Z passport ID
+u0002 need to do X, Y, and Z before I can withdraw my funds
+u0002hat's before I can withdraw my funds
+u0002hat's before I can withdraw my funds
+u0002hat's just I think a relic of the past and just I think a relic of the past and just I think a relic of the past and we'll start to see more volumes shifted we'll start to see more volumes shifted we'll start to see more volumes shifted towards the central exchanges
+u0002hat's a towards the central exchanges
+u0002hat's a towards the central exchanges
+u0002hat's a great segue though when you're speaking great segue though when you're speaking great segue though when you're speaking about better systems on better about better systems on better about better systems on better blockchains
+u0002hy are you building this blockchains
+u0002hy are you building this blockchains
+u0002hy are you building this product
+u0002hy now
+u0002nd why on Monad
+u0002 product
+u0002hy now
+u0002nd why on Monad
+u0002 product
+u0002hy now
+u0002nd why on Monad
+u0002 think there's been lots of great tweets think there's been lots of great tweets think there's been lots of great tweets about this, but the two things from about this, but the two things from about this, but the two things from crypto that feel like have a definitive crypto that feel like have a definitive crypto that feel like have a definitive product market fit is per and stable product market fit is per and stable product market fit is per and stable coins
+u0002hen there's a new one that coins
+u0002hen there's a new one that coins
+u0002hen there's a new one that launches, one of the things you need to launches, one of the things you need to launches, one of the things you need to make sure is it's either you've seen make sure is it's either you've seen make sure is it's either you've seen this, there's a bunch of stable coin this, there's a bunch of stable coin this, there's a bunch of stable coin L1's launching or HFT style L1's
+u0002n L1's launching or HFT style L1's
+u0002n L1's launching or HFT style L1's
+u0002n these HFT style 01s, you need a flagship these HFT style 01s, you need a flagship these HFT style 01s, you need a flagship product that brings user interest, product that brings user interest, product that brings user interest, capital, and trading activity to capital, and trading activity to capital, and trading activity to generate fees
+u0002he best product for that generate fees
+u0002he best product for that generate fees
+u0002he best product for that is a Perex
+u0002o when we were initially is a Perex
+u0002o when we were initially is a Perex
+u0002o when we were initially thinking about this product, we surveyed thinking about this product, we surveyed thinking about this product, we surveyed the landscape to see what is out there the landscape to see what is out there the landscape to see what is out there and there really isn't or one a club on and there really isn't or one a club on and there really isn't or one a club on a general purpose L1
+u0002ny club that you a general purpose L1
+u0002ny club that you a general purpose L1
+u0002ny club that you see is on an app chain or an L2
+u0002nd the see is on an app chain or an L2
+u0002nd the see is on an app chain or an L2
+u0002nd the second part being there wasn't a EVM L1 second part being there wasn't a EVM L1 second part being there wasn't a EVM L1 that we could build this on
+u0002nd that that we could build this on
+u0002nd that that we could build this on
+u0002nd that part is very important because no matter part is very important because no matter part is very important because no matter how you slice it, the EVM has become the how you slice it, the EVM has become the how you slice it, the EVM has become the JavaScript or blockchain technology
+u0002avaScript or blockchain technology
+u0002avaScript or blockchain technology. >> It's a good comparison. >> It's a good comparison. >> It's a good comparison. >> If you look at the number of assets, >> If you look at the number of assets, >> If you look at the number of assets, collaterals that are on EVM chain, the collaterals that are on EVM chain, the collaterals that are on EVM chain, the amount of developer support, the amount amount of developer support, the amount amount of developer support, the amount of infrastructure support is on EVM of infrastructure support is on EVM of infrastructure support is on EVM chains
+u0002o when you think about it that chains
+u0002o when you think about it that chains
+u0002o when you think about it that way, the only chain that this makes way, the only chain that this makes way, the only chain that this makes sense on is on monad
+u0002eople have tried sense on is on monad
+u0002eople have tried sense on is on monad
+u0002eople have tried to do this on an SVM on Salana, but to do this on an SVM on Salana, but to do this on an SVM on Salana, but there's some issues with Salana where there's some issues with Salana where there's some issues with Salana where it's constrained by accounts and the it's constrained by accounts and the it's constrained by accounts and the need for cranking on a club and that's need for cranking on a club and that's need for cranking on a club and that's something that EVM does not have
+u0002o we something that EVM does not have
+u0002o we something that EVM does not have
+u0002o we were like, okay, obviously Monad's going were like, okay, obviously Monad's going were like, okay, obviously Monad's going to be launching soon
+u0002e talked to the to be launching soon
+u0002e talked to the to be launching soon
+u0002e talked to the founders and there is other EVM chains founders and there is other EVM chains founders and there is other EVM chains that are flat high frequency all at once that are flat high frequency all at once that are flat high frequency all at once but the way they go about reducing but the way they go about reducing but the way they go about reducing latency is by centralizing and Monad did latency is by centralizing and Monad did latency is by centralizing and Monad did not take any shortcuts there
+u0002hey were not take any shortcuts there
+u0002hey were not take any shortcuts there
+u0002hey were rebuilding the system from ground up
+u0002o rebuilding the system from ground up
+u0002o rebuilding the system from ground up
+u0002o they were talking about rewriting the they were talking about rewriting the they were talking about rewriting the firmware for their hardwares completely firmware for their hardwares completely firmware for their hardwares completely overhauling their database
+u0002o they were overhauling their database
+u0002o they were overhauling their database
+u0002o they were doing things the right way
+u0002nd when we doing things the right way
+u0002nd when we doing things the right way
+u0002nd when we thought about building this, we're like, thought about building this, we're like, thought about building this, we're like, who do we expect to be around for the who do we expect to be around for the who do we expect to be around for the next 10 years
+u0002nd it made perfect sense next 10 years
+u0002nd it made perfect sense next 10 years
+u0002nd it made perfect sense to build this on Monad
+u0002nd to go into to build this on Monad
+u0002nd to go into to build this on Monad
+u0002nd to go into the guts of it, we think that the gas the guts of it, we think that the gas the guts of it, we think that the gas budget that it offers, the latency that budget that it offers, the latency that budget that it offers, the latency that Monad has, it was perfect for building a Monad has, it was perfect for building a Monad has, it was perfect for building a order book style perplex
+u0002nd that's order book style perplex
+u0002nd that's order book style perplex
+u0002nd that's what we're building now. what we're building now. what we're building now. >> It's very helpful
+u0002 want to get a sense >> It's very helpful
+u0002 want to get a sense >> It's very helpful
+u0002 want to get a sense of your mapping here, but who do you of your mapping here, but who do you of your mapping here, but who do you look at as the primary customer that you look at as the primary customer that you look at as the primary customer that you guys will be serving post launch
+u0002s it guys will be serving post launch
+u0002s it guys will be serving post launch
+u0002s it folks who might otherwise be using folks who might otherwise be using folks who might otherwise be using Binance or a Hyperlid
+u0002s it EVM users Binance or a Hyperlid
+u0002s it EVM users Binance or a Hyperlid
+u0002s it EVM users who are going to be converted to bigger who are going to be converted to bigger who are going to be converted to bigger per traders or maybe perpetrators on the per traders or maybe perpetrators on the per traders or maybe perpetrators on the EVM using a product they don't love as EVM using a product they don't love as EVM using a product they don't love as much or who do you look at as being that much or who do you look at as being that much or who do you look at as being that target audience? target audience? target audience? >> When you're building exchange, you have >> When you're building exchange, you have >> When you're building exchange, you have to build for both market makers and to build for both market makers and to build for both market makers and takers
+u0002or us, it was very important takers
+u0002or us, it was very important takers
+u0002or us, it was very important when we were building this exchange to when we were building this exchange to when we were building this exchange to one build a very efficient exchange
+u0002 one build a very efficient exchange
+u0002 one build a very efficient exchange
+u0002 know we're getting into the weeds of know we're getting into the weeds of know we're getting into the weeds of this, but it's really important to make this, but it's really important to make this, but it's really important to make sure that you're making the right sure that you're making the right sure that you're making the right trade-offs here because unlike building trade-offs here because unlike building trade-offs here because unlike building on an app chain or an L2 where you on an app chain or an L2 where you on an app chain or an L2 where you control the sequencer, when you build on control the sequencer, when you build on control the sequencer, when you build on a general purpose L1, you have to worry a general purpose L1, you have to worry a general purpose L1, you have to worry about the consensus and the gas budget. about the consensus and the gas budget. about the consensus and the gas budget
+u0002ne of the things that we were very One of the things that we were very One of the things that we were very specific about is makers posting and specific about is makers posting and specific about is makers posting and cancelling on the order book should be cancelling on the order book should be cancelling on the order book should be extremely gas efficient
+u0002f we are able extremely gas efficient
+u0002f we are able extremely gas efficient
+u0002f we are able to do that and Mona does its job, it to do that and Mona does its job, it to do that and Mona does its job, it should make it really easy for market should make it really easy for market should make it really easy for market makers to make on this
+u0002nd that's makers to make on this
+u0002nd that's makers to make on this
+u0002nd that's basically how we optimize this problem basically how we optimize this problem basically how we optimize this problem is to make it so that it's the most is to make it so that it's the most is to make it so that it's the most market maker friendly EVM club out market maker friendly EVM club out market maker friendly EVM club out there
+u0002s far as our user base, I think there
+u0002s far as our user base, I think there
+u0002s far as our user base, I think there's already a hunger for pers. there's already a hunger for pers. there's already a hunger for pers
+u0002here's a ton of interest on hyperlquid There's a ton of interest on hyperlquid There's a ton of interest on hyperlquid lighter
+u0002here's honestly nothing but lighter
+u0002here's honestly nothing but lighter
+u0002here's honestly nothing but per shatter on crypto Twitter
+u0002verybody per shatter on crypto Twitter
+u0002verybody per shatter on crypto Twitter
+u0002verybody knows and understands this
+u0002ne of the knows and understands this
+u0002ne of the knows and understands this
+u0002ne of the other benefits of building on an L1 is other benefits of building on an L1 is other benefits of building on an L1 is that they come with their own that they come with their own that they come with their own incentivized community, their day one incentivized community, their day one incentivized community, their day one users, and that's great
+u0002o, initially, users, and that's great
+u0002o, initially, users, and that's great
+u0002o, initially, it'll help Monad community and users it'll help Monad community and users it'll help Monad community and users start trading with their assets on start trading with their assets on start trading with their assets on Purple and eventually we're going to Purple and eventually we're going to Purple and eventually we're going to start attracting people outside the start attracting people outside the start attracting people outside the Monad ecosystem that want to come trade Monad ecosystem that want to come trade Monad ecosystem that want to come trade on our product because we offer a on our product because we offer a on our product because we offer a distinctive order feature set or distinctive order feature set or distinctive order feature set or different types of orders or different different types of orders or different different types of orders or different types of collateral. types of collateral. types of collateral. >> Yeah, understood
+u0002his is a blunt >> Yeah, understood
+u0002his is a blunt >> Yeah, understood
+u0002his is a blunt comparison, but you would want a DEX on comparison, but you would want a DEX on comparison, but you would want a DEX on an EVM general purpose L1 the same way an EVM general purpose L1 the same way an EVM general purpose L1 the same way that you want Apple Pay
+u0002ike it's that you want Apple Pay
+u0002ike it's that you want Apple Pay
+u0002ike it's compatible with a lot of the other compatible with a lot of the other compatible with a lot of the other financial things you're doing if you're financial things you're doing if you're financial things you're doing if you're a DeFi user. a DeFi user. a DeFi user. >> Exactly
+u0002hen I think about if I'm >> Exactly
+u0002hen I think about if I'm >> Exactly
+u0002hen I think about if I'm starting a new L1, you need the per starting a new L1, you need the per starting a new L1, you need the per exchange, you need a spot exchange, exchange, you need a spot exchange, exchange, you need a spot exchange, probably an AMM, you need some sort of probably an AMM, you need some sort of probably an AMM, you need some sort of lending protocols
+u0002 like thinking of it lending protocols
+u0002 like thinking of it lending protocols
+u0002 like thinking of it in think or biology one of those people in think or biology one of those people in think or biology one of those people talked about how blockchains are talked about how blockchains are talked about how blockchains are countries
+u0002ou need these primitives countries
+u0002ou need these primitives countries
+u0002ou need these primitives there
+u0002ou need the banking system, you there
+u0002ou need the banking system, you there
+u0002ou need the banking system, you need the foreign exchange, you need the need the foreign exchange, you need the need the foreign exchange, you need the stock market and these primitives have stock market and these primitives have stock market and these primitives have to be there in the beginning for any to be there in the beginning for any to be there in the beginning for any other type of activity to kickstart on other type of activity to kickstart on other type of activity to kickstart on that blockchain
+u0002utside of the EVM, do that blockchain
+u0002utside of the EVM, do that blockchain
+u0002utside of the EVM, do you think Salana has gotten that you think Salana has gotten that you think Salana has gotten that ecosystem mix correct or would you have ecosystem mix correct or would you have ecosystem mix correct or would you have criticisms of what they built or places criticisms of what they built or places criticisms of what they built or places where you think they could have a better where you think they could have a better where you think they could have a better experience? experience? experience? >> I think they are definitely the ones >> I think they are definitely the ones >> I think they are definitely the ones that have made the biggest impact
+u0002 that have made the biggest impact
+u0002 that have made the biggest impact
+u0002 think people have a very short memory, think people have a very short memory, think people have a very short memory, but Salana has done some incredible but Salana has done some incredible but Salana has done some incredible things as well
+u0002hey have Jupiter, they things as well
+u0002hey have Jupiter, they things as well
+u0002hey have Jupiter, they have Phoenix, Palm recently, they have have Phoenix, Palm recently, they have have Phoenix, Palm recently, they have Camino and all these other products that Camino and all these other products that Camino and all these other products that are Solana specific
+u0002hey're not just are Solana specific
+u0002hey're not just are Solana specific
+u0002hey're not just copy pasted from the EVM
+u0002o that's one copy pasted from the EVM
+u0002o that's one copy pasted from the EVM
+u0002o that's one of the things that they went through of the things that they went through of the things that they went through which is a lot of growth pains where you which is a lot of growth pains where you which is a lot of growth pains where you needed to learn a completely new needed to learn a completely new needed to learn a completely new programming language, a completely new programming language, a completely new programming language, a completely new MVM
+u0002o they had to really chew glass MVM
+u0002o they had to really chew glass MVM
+u0002o they had to really chew glass for the first four years and of course for the first four years and of course for the first four years and of course they went through the whole FTX debacle. they went through the whole FTX debacle. they went through the whole FTX debacle
+u0002o it's truly incredible what they've So it's truly incredible what they've So it's truly incredible what they've done and accomplished and they seem to done and accomplished and they seem to done and accomplished and they seem to be going even stronger now with the Anza be going even stronger now with the Anza be going even stronger now with the Anza and Fire Dancer
+u0002o I would definitely and Fire Dancer
+u0002o I would definitely and Fire Dancer
+u0002o I would definitely not count them out
+u0002 think Hyperlquid not count them out
+u0002 think Hyperlquid not count them out
+u0002 think Hyperlquid has started pushing every off to move has started pushing every off to move has started pushing every off to move faster and focus on you know revenue faster and focus on you know revenue faster and focus on you know revenue generating products and that's generating products and that's generating products and that's definitely a good thing for our whole definitely a good thing for our whole definitely a good thing for our whole ecosystem. ecosystem. ecosystem. >> Yeah, agreed
+u0002oing back a little bit to >> Yeah, agreed
+u0002oing back a little bit to >> Yeah, agreed
+u0002oing back a little bit to how people will use Purple and other per how people will use Purple and other per how people will use Purple and other per exchanges
+u0002hat assets are heavily exchanges
+u0002hat assets are heavily exchanges
+u0002hat assets are heavily traded here
+u0002've been maybe a light traded here
+u0002've been maybe a light traded here
+u0002've been maybe a light user, so you see Bitcoin, ETH, user, so you see Bitcoin, ETH, user, so you see Bitcoin, ETH, unsurprisingly, get a lot of usage, but unsurprisingly, get a lot of usage, but unsurprisingly, get a lot of usage, but will this be virtually any asset
+u0002s it will this be virtually any asset
+u0002s it will this be virtually any asset
+u0002s it a fairly long tail or how do you expect a fairly long tail or how do you expect a fairly long tail or how do you expect people to use the platform in that people to use the platform in that people to use the platform in that sense
+u0002 think the majors are going to sense
+u0002 think the majors are going to sense
+u0002 think the majors are going to be there obviously and then again be there obviously and then again be there obviously and then again benefit of building an ecosystem is when benefit of building an ecosystem is when benefit of building an ecosystem is when those new coins launch there we will those new coins launch there we will those new coins launch there we will have their listings and probably higher have their listings and probably higher have their listings and probably higher open interest and liquidity for those open interest and liquidity for those open interest and liquidity for those longer term I think more and more assets longer term I think more and more assets longer term I think more and more assets will start getting baited and deployed will start getting baited and deployed will start getting baited and deployed on chain so obviously if there's an on chain so obviously if there's an on chain so obviously if there's an oracle and market makers willing to oracle and market makers willing to oracle and market makers willing to quote there's no edge in listing it's quote there's no edge in listing it's quote there's no edge in listing it's pretty much like a race to the bottom pretty much like a race to the bottom pretty much like a race to the bottom there where you have to list as fast as there where you have to list as fast as there where you have to list as fast as possible if there's a token of interest possible if there's a token of interest possible if there's a token of interest whether that's going to be like the whether that's going to be like the whether that's going to be like the stocks or whatever
+u0002 just don't know
+u0002 stocks or whatever
+u0002 just don't know
+u0002 stocks or whatever
+u0002 just don't know
+u0002 think AIM is doing a great job of that, think AIM is doing a great job of that, think AIM is doing a great job of that, but there's challenges there
+u0002hat do but there's challenges there
+u0002hat do but there's challenges there
+u0002hat do you do on the weekend
+u0002o, you have to you do on the weekend
+u0002o, you have to you do on the weekend
+u0002o, you have to wind down markets and start them up wind down markets and start them up wind down markets and start them up again
+u0002 don't think you can do a clo again
+u0002 don't think you can do a clo again
+u0002 don't think you can do a clo there, but there's other products
+u0002 there, but there's other products
+u0002 there, but there's other products
+u0002 think Superstates doing a great job think Superstates doing a great job think Superstates doing a great job there where they're doing primary there where they're doing primary there where they're doing primary issuance on chain
+u0002nd I think as trady issuance on chain
+u0002nd I think as trady issuance on chain
+u0002nd I think as trady and more of finance starts moving and more of finance starts moving and more of finance starts moving onchain those products will be available onchain those products will be available onchain those products will be available for trading 24/7 there will be oracles for trading 24/7 there will be oracles for trading 24/7 there will be oracles for that
+u0002nd again one of the really for that
+u0002nd again one of the really for that
+u0002nd again one of the really cool things that hyperlquid did was cool things that hyperlquid did was cool things that hyperlquid did was HIPP3 allow anybody to like deploy per HIPP3 allow anybody to like deploy per HIPP3 allow anybody to like deploy per markets
+u0002o eventually we would like to markets
+u0002o eventually we would like to markets
+u0002o eventually we would like to get to a study state where if there's a get to a study state where if there's a get to a study state where if there's a per market that we haven't deployed and per market that we haven't deployed and per market that we haven't deployed and somebody else wants to deploy and they somebody else wants to deploy and they somebody else wants to deploy and they have an Oracle market maker service for have an Oracle market maker service for have an Oracle market maker service for that they should be able to do that
+u0002e that they should be able to do that
+u0002e that they should be able to do that
+u0002e want to provide that base level want to provide that base level want to provide that base level infrastructure for them and the order infrastructure for them and the order infrastructure for them and the order book permitted so they can deploy it and book permitted so they can deploy it and book permitted so they can deploy it and have trading happen on it. have trading happen on it. have trading happen on it. >> And to your knowledge are most of these >> And to your knowledge are most of these >> And to your knowledge are most of these trader behaviors on these perp exchanges trader behaviors on these perp exchanges trader behaviors on these perp exchanges fairly simple onedirectional leverage fairly simple onedirectional leverage fairly simple onedirectional leverage long exposure or short on the other end long exposure or short on the other end long exposure or short on the other end or is there usually a more holistic or or is there usually a more holistic or or is there usually a more holistic or sophisticated strategy involved when you sophisticated strategy involved when you sophisticated strategy involved when you look at the typical user? look at the typical user? look at the typical user? >> Unfortunately, it's just so nuanced
+u0002t >> Unfortunately, it's just so nuanced
+u0002t >> Unfortunately, it's just so nuanced
+u0002t depends on the asset
+u0002t depends on the depends on the asset
+u0002t depends on the depends on the asset
+u0002t depends on the strategy
+u0002t depends on the market strategy
+u0002t depends on the market strategy
+u0002t depends on the market conditions
+u0002o generally you can think conditions
+u0002o generally you can think conditions
+u0002o generally you can think institutions are probably focused on the institutions are probably focused on the institutions are probably focused on the blue chips and the majors and they're blue chips and the majors and they're blue chips and the majors and they're trying to hedge their exposure
+u0002etail trying to hedge their exposure
+u0002etail trying to hedge their exposure
+u0002etail are probably more focused on these are probably more focused on these are probably more focused on these longer tail assets where they want high longer tail assets where they want high longer tail assets where they want high volatility be upgrade market listings volatility be upgrade market listings volatility be upgrade market listings upside from those products
+u0002o it truly upside from those products
+u0002o it truly upside from those products
+u0002o it truly depends on the market
+u0002nd then of depends on the market
+u0002nd then of depends on the market
+u0002nd then of course if there's some Fed funding rate course if there's some Fed funding rate course if there's some Fed funding rate cut or whatever, then there's going to cut or whatever, then there's going to cut or whatever, then there's going to be massive volatility in the market be massive volatility in the market be massive volatility in the market where everybody's trying to get out of where everybody's trying to get out of where everybody's trying to get out of position or get into a position
+u0002o it's position or get into a position
+u0002o it's position or get into a position
+u0002o it's truly nuanced
+u0002ut the cool thing about truly nuanced
+u0002ut the cool thing about truly nuanced
+u0002ut the cool thing about this is it's globally participatable. this is it's globally participatable. this is it's globally participatable
+u0002nybody can with a wallet get on and Anybody can with a wallet get on and Anybody can with a wallet get on and speculate or hedge their positions
+u0002nd speculate or hedge their positions
+u0002nd speculate or hedge their positions
+u0002nd that's the beauty of decentralized that's the beauty of decentralized that's the beauty of decentralized finance
+u0002nd to that point about it finance
+u0002nd to that point about it finance
+u0002nd to that point about it being globally accessible, is this being globally accessible, is this being globally accessible, is this mostly desktop behavior, mobile, or how mostly desktop behavior, mobile, or how mostly desktop behavior, mobile, or how are people accessing currently? are people accessing currently? are people accessing currently? >> Yeah, I think the power traders are all >> Yeah, I think the power traders are all >> Yeah, I think the power traders are all still on desktop
+u0002e've talked to a still on desktop
+u0002e've talked to a still on desktop
+u0002e've talked to a bunch of these traders
+u0002o, one of the bunch of these traders
+u0002o, one of the bunch of these traders
+u0002o, one of the things that they would love on mobile is things that they would love on mobile is things that they would love on mobile is a way to get notifications or close a way to get notifications or close a way to get notifications or close position or add margin
+u0002here's lots of position or add margin
+u0002here's lots of position or add margin
+u0002here's lots of nice tools for bots and whatnot
+u0002ut the nice tools for bots and whatnot
+u0002ut the nice tools for bots and whatnot
+u0002ut the newer people that are getting onboarded, newer people that are getting onboarded, newer people that are getting onboarded, the PVP.trade people, the Axiom wallet the PVP.trade people, the Axiom wallet the PVP.trade people, the Axiom wallet traders, they're all mobile first
+u0002o traders, they're all mobile first
+u0002o traders, they're all mobile first
+u0002o again, I think table stakes is building again, I think table stakes is building again, I think table stakes is building a desktop interface and having different a desktop interface and having different a desktop interface and having different UIs for retail professionals and those UIs for retail professionals and those UIs for retail professionals and those type of personas
+u0002ut eventually either type of personas
+u0002ut eventually either type of personas
+u0002ut eventually either that's going to be involving partnering that's going to be involving partnering that's going to be involving partnering with a wallet provider or building your with a wallet provider or building your with a wallet provider or building your own mobile app because that's a crucial own mobile app because that's a crucial own mobile app because that's a crucial market base that is new and interesting market base that is new and interesting market base that is new and interesting perhaps that you're not going to get perhaps that you're not going to get perhaps that you're not going to get from just desktop based trading from just desktop based trading from just desktop based trading experiences. experiences. experiences. >> Yeah, that makes sense
+u0002o you think >> Yeah, that makes sense
+u0002o you think >> Yeah, that makes sense
+u0002o you think over time obviously we see that a large over time obviously we see that a large over time obviously we see that a large proportion of crypto trading is already proportion of crypto trading is already proportion of crypto trading is already per based to your point
+u0002o you think per based to your point
+u0002o you think per based to your point
+u0002o you think over time we see that evolve to almost over time we see that evolve to almost over time we see that evolve to almost all of crypto trading
+u0002o you think that all of crypto trading
+u0002o you think that all of crypto trading
+u0002o you think that the split between spot and per changes the split between spot and per changes the split between spot and per changes in favor of per or do we see any other in favor of per or do we see any other in favor of per or do we see any other notable change to the market structure? notable change to the market structure? notable change to the market structure? >> You still need the spot price
+u0002ou just >> You still need the spot price
+u0002ou just >> You still need the spot price
+u0002ou just need two different prices for this whole need two different prices for this whole need two different prices for this whole thing to work for the funding rate to be thing to work for the funding rate to be thing to work for the funding rate to be calibrated
+u0002ut I think the split might calibrated
+u0002ut I think the split might calibrated
+u0002ut I think the split might continuously stay closer to 8020 or continuously stay closer to 8020 or continuously stay closer to 8020 or 9010
+u0002 think the TAM of the whole 9010
+u0002 think the TAM of the whole 9010
+u0002 think the TAM of the whole industry is growing. the per trading industry is growing. the per trading industry is growing. the per trading time is growing really fast and time is growing really fast and time is growing really fast and alongside with that spot will grow as alongside with that spot will grow as alongside with that spot will grow as well because you need that settling well because you need that settling well because you need that settling asset for the funding rates and the asset for the funding rates and the asset for the funding rates and the prices to track
+u0002t's not going to be prices to track
+u0002t's not going to be prices to track
+u0002t's not going to be 100% one thing inherently needs 100% one thing inherently needs 100% one thing inherently needs something to derive the price from but I something to derive the price from but I something to derive the price from but I think just the general market is going think just the general market is going think just the general market is going to continue growing more trading will to continue growing more trading will to continue growing more trading will continue to move on chain continue to move on chain continue to move on chain >> understood
+u0002'm very excited for other >> understood
+u0002'm very excited for other >> understood
+u0002'm very excited for other asset classes to take on this form asset classes to take on this form asset classes to take on this form factor as well
+u0002hile you're mentioning factor as well
+u0002hile you're mentioning factor as well
+u0002hile you're mentioning about what OIM's doing and having about what OIM's doing and having about what OIM's doing and having equities even if there's a growing equities even if there's a growing equities even if there's a growing period there. period there. period there. >> Yeah, absolutely
+u0002 think again Robin >> Yeah, absolutely
+u0002 think again Robin >> Yeah, absolutely
+u0002 think again Robin Hood has keyed that a little bit
+u0002 Hood has keyed that a little bit
+u0002 Hood has keyed that a little bit
+u0002 think even those equity markets think even those equity markets think even those equity markets understand that if they can get this understand that if they can get this understand that if they can get this onchain some version of it, there's just onchain some version of it, there's just onchain some version of it, there's just a global capital markets that is hungry a global capital markets that is hungry a global capital markets that is hungry to trade those assets today
+u0002ow do you to trade those assets today
+u0002ow do you to trade those assets today
+u0002ow do you trade US stock equities if you are in trade US stock equities if you are in trade US stock equities if you are in let's say India or Nigeria or China
+u0002f let's say India or Nigeria or China
+u0002f let's say India or Nigeria or China
+u0002f those people could somehow get exposure those people could somehow get exposure those people could somehow get exposure to that that's just a lot bigger capital to that that's just a lot bigger capital to that that's just a lot bigger capital base and I'm sure the people at those base and I'm sure the people at those base and I'm sure the people at those companies would love to have that access companies would love to have that access companies would love to have that access to that capital. to that capital. to that capital. >> Yeah, definitely
+u0002ot to mention the >> Yeah, definitely
+u0002ot to mention the >> Yeah, definitely
+u0002ot to mention the traders
+u0002 want to close on a couple traders
+u0002 want to close on a couple traders
+u0002 want to close on a couple points that I was keen to pick your points that I was keen to pick your points that I was keen to pick your brain about and get some insights
+u0002irst brain about and get some insights
+u0002irst brain about and get some insights
+u0002irst off, why should people get excited or off, why should people get excited or off, why should people get excited or care about Monad
+u0002 think there are care about Monad
+u0002 think there are care about Monad
+u0002 think there are reasons that are maybe a bit more reasons that are maybe a bit more reasons that are maybe a bit more obvious in the sense of a very fast EVM obvious in the sense of a very fast EVM obvious in the sense of a very fast EVM general purpose chain, close to general purpose chain, close to general purpose chain, close to Ethereum, but much more performant Ethereum, but much more performant Ethereum, but much more performant obviously, but I'd love your perspective obviously, but I'd love your perspective obviously, but I'd love your perspective if there's anything you would add to if there's anything you would add to if there's anything you would add to that against the current backdrop of that against the current backdrop of that against the current backdrop of things we're seeing like Hyperlid things we're seeing like Hyperlid things we're seeing like Hyperlid Plasma, other chains
+u0002lasma, other chains
+u0002lasma, other chains. >> I think it goes back to that point
+u0002 >> I think it goes back to that point
+u0002 >> I think it goes back to that point
+u0002 made it's just not been possible to made it's just not been possible to made it's just not been possible to build a fully onchain central limit build a fully onchain central limit build a fully onchain central limit order book on an EVM before
+u0002hat's a order book on an EVM before
+u0002hat's a order book on an EVM before
+u0002hat's a very key point because if you just see very key point because if you just see very key point because if you just see what was possible with GMX on arbitum, what was possible with GMX on arbitum, what was possible with GMX on arbitum, there were just all these nice there were just all these nice there were just all these nice composability benefits that came about composability benefits that came about composability benefits that came about with it
+u0002t's really exciting to see with it
+u0002t's really exciting to see with it
+u0002t's really exciting to see what will come about with what we're what will come about with what we're what will come about with what we're building in terms of the composability building in terms of the composability building in terms of the composability benefits and how people use it
+u0002onet benefits and how people use it
+u0002onet benefits and how people use it
+u0002onet allows us to do things that haven't been allows us to do things that haven't been allows us to do things that haven't been possible before
+u0002he other benefit of possible before
+u0002he other benefit of possible before
+u0002he other benefit of building on this L1 is this is the building on this L1 is this is the building on this L1 is this is the beginning of it
+u0002o they're going to beginning of it
+u0002o they're going to beginning of it
+u0002o they're going to continue improving the blockchain. continue improving the blockchain. continue improving the blockchain
+u0002hey're going to make it faster
+u0002here's They're going to make it faster
+u0002here's They're going to make it faster
+u0002here's going to be more gas
+u0002ransaction costs going to be more gas
+u0002ransaction costs going to be more gas
+u0002ransaction costs are going to go down
+u0002nd more are going to go down
+u0002nd more are going to go down
+u0002nd more excitingly, they're also going to again excitingly, they're also going to again excitingly, they're also going to again because of products like Hyperlquid because of products like Hyperlquid because of products like Hyperlquid pushing them try to figure out how to do pushing them try to figure out how to do pushing them try to figure out how to do priority transactions like how can we priority transactions like how can we priority transactions like how can we get purple to have cancel priority in get purple to have cancel priority in get purple to have cancel priority in our consensus or do private transactions our consensus or do private transactions our consensus or do private transactions cuz again these other blockchains have cuz again these other blockchains have cuz again these other blockchains have been talking about allowing people to do been talking about allowing people to do been talking about allowing people to do private transactions
+u0002o the benefit of private transactions
+u0002o the benefit of private transactions
+u0002o the benefit of building on an L1 is every EIP or MIP if building on an L1 is every EIP or MIP if building on an L1 is every EIP or MIP if you want to call it monet improvement you want to call it monet improvement you want to call it monet improvement proposal ends up helping every protocol proposal ends up helping every protocol proposal ends up helping every protocol being built on that chain
+u0002o in essence being built on that chain
+u0002o in essence being built on that chain
+u0002o in essence we have 50 to 100 B highlevel blockchain we have 50 to 100 B highlevel blockchain we have 50 to 100 B highlevel blockchain researchers at category labs working to researchers at category labs working to researchers at category labs working to improve the chain and we can just focus improve the chain and we can just focus improve the chain and we can just focus on building the best perpetual exchange on building the best perpetual exchange on building the best perpetual exchange out there and get trading activity
+u0002nd out there and get trading activity
+u0002nd out there and get trading activity
+u0002nd on a related note, from your view, on a related note, from your view, on a related note, from your view, looking at the community, what's gotten looking at the community, what's gotten looking at the community, what's gotten people excited about Purple
+u0002here is people excited about Purple
+u0002here is people excited about Purple
+u0002here is their anticipation and where is there their anticipation and where is there their anticipation and where is there the excitement? the excitement? the excitement? >> I think we've talked to a whole bunch of >> I think we've talked to a whole bunch of >> I think we've talked to a whole bunch of diverse set of users with us, retail diverse set of users with us, retail diverse set of users with us, retail users, whales, protocols, and whatnot. users, whales, protocols, and whatnot. users, whales, protocols, and whatnot
+u0002or retail users, it's pretty simple
+u0002or retail users, it's pretty simple
+u0002or retail users, it's pretty simple
+u0002hey're like, "Wow, I can have an They're like, "Wow, I can have an They're like, "Wow, I can have an airdrop on Monet
+u0002 can use those assets airdrop on Monet
+u0002 can use those assets airdrop on Monet
+u0002 can use those assets right there
+u0002 don't have to bridge it right there
+u0002 don't have to bridge it right there
+u0002 don't have to bridge it to another ecosystem to go trade on to another ecosystem to go trade on to another ecosystem to go trade on Hyperlid, for example." For your Hyperlid, for example." For your Hyperlid, for example." For your advanced users, there's pain points. advanced users, there's pain points. advanced users, there's pain points
+u0002yper liquid's done a great job, but Kyper liquid's done a great job, but Kyper liquid's done a great job, but they're doing a ton of things
+u0002hey're they're doing a ton of things
+u0002hey're they're doing a ton of things
+u0002hey're doing an L1, an EVM, a Perfect Exchange. doing an L1, an EVM, a Perfect Exchange. doing an L1, an EVM, a Perfect Exchange
+u0002o, that's a lot of stuff that they're So, that's a lot of stuff that they're So, that's a lot of stuff that they're focused on
+u0002e want to basically fill focused on
+u0002e want to basically fill focused on
+u0002e want to basically fill the gaps that they can't fill
+u0002o, one the gaps that they can't fill
+u0002o, one the gaps that they can't fill
+u0002o, one of them is advanced features like hidden of them is advanced features like hidden of them is advanced features like hidden liquidity or iceberg orders
+u0002he other liquidity or iceberg orders
+u0002he other liquidity or iceberg orders
+u0002he other thing that we can do is allow for newer thing that we can do is allow for newer thing that we can do is allow for newer collateral types
+u0002o again going back to collateral types
+u0002o again going back to collateral types
+u0002o again going back to the point of building on an EVM chain is the point of building on an EVM chain is the point of building on an EVM chain is it would be nice if we can allow users it would be nice if we can allow users it would be nice if we can allow users to use a non USDC collateral
+u0002o one of to use a non USDC collateral
+u0002o one of to use a non USDC collateral
+u0002o one of the easiest things that we can do is the easiest things that we can do is the easiest things that we can do is one-click basis trade
+u0002et's just say one-click basis trade
+u0002et's just say one-click basis trade
+u0002et's just say Kaito for example
+u0002f you stake Kaio and Kaito for example
+u0002f you stake Kaio and Kaito for example
+u0002f you stake Kaio and you hold it, you get these future air you hold it, you get these future air you hold it, you get these future air drops
+u0002ut the problem that you have drops
+u0002ut the problem that you have drops
+u0002ut the problem that you have today is Kaito price fluctuates
+u0002nd the today is Kaito price fluctuates
+u0002nd the today is Kaito price fluctuates
+u0002nd the real benefit that you're looking to have real benefit that you're looking to have real benefit that you're looking to have is just these future air drops and you is just these future air drops and you is just these future air drops and you just want to lock in the price of Kaio. just want to lock in the price of Kaio. just want to lock in the price of Kaio
+u0002f you want to lock that in today, what If you want to lock that in today, what If you want to lock that in today, what you need to do is get some more USDC, go you need to do is get some more USDC, go you need to do is get some more USDC, go to a DEX or central exchange that's to a DEX or central exchange that's to a DEX or central exchange that's Kaito open 1x short
+u0002ow you have to Kaito open 1x short
+u0002ow you have to Kaito open 1x short
+u0002ow you have to maintain that short position whether maintain that short position whether maintain that short position whether it's adding margin or funding or it's adding margin or funding or it's adding margin or funding or whatever else
+u0002hat we want to allow whatever else
+u0002hat we want to allow whatever else
+u0002hat we want to allow people to do is use that state Kaito as people to do is use that state Kaito as people to do is use that state Kaito as collateral to do a 1x short kai perk. collateral to do a 1x short kai perk. collateral to do a 1x short kai perk
+u0002hat that in essence does is it What that in essence does is it What that in essence does is it basically gives you unlimited basically gives you unlimited basically gives you unlimited liquidation price because positions liquidation price because positions liquidation price because positions perfectly hedged
+u0002he underlying perfectly hedged
+u0002he underlying perfectly hedged
+u0002he underlying collateral balances out the per leg. collateral balances out the per leg. collateral balances out the per leg
+u0002bviously, we're not going to be allowed Obviously, we're not going to be allowed Obviously, we're not going to be allowed to 100% hedge
+u0002ut even if you give 80 to 100% hedge
+u0002ut even if you give 80 to 100% hedge
+u0002ut even if you give 80 90% LTV, that's still a huge benefit for 90% LTV, that's still a huge benefit for 90% LTV, that's still a huge benefit for most people because they get to hold the most people because they get to hold the most people because they get to hold the token future staking rewards, airdrops, token future staking rewards, airdrops, token future staking rewards, airdrops, and whatnot
+u0002o, that's the cool thing and whatnot
+u0002o, that's the cool thing and whatnot
+u0002o, that's the cool thing about building on a general purpose R1 about building on a general purpose R1 about building on a general purpose R1 is there's going to be more collateral is there's going to be more collateral is there's going to be more collateral types. we can possibly allow people to types. we can possibly allow people to types. we can possibly allow people to do these types of one-click basis do these types of one-click basis do these types of one-click basis trading
+u0002nd then the last thing I was trading
+u0002nd then the last thing I was trading
+u0002nd then the last thing I was going to say is we also have these going to say is we also have these going to say is we also have these vaults similar to HLP
+u0002here's going to vaults similar to HLP
+u0002here's going to vaults similar to HLP
+u0002here's going to be PLP vault, but unlike HLP again be PLP vault, but unlike HLP again be PLP vault, but unlike HLP again because we're building on a general because we're building on a general because we're building on a general purpose one, we get support from purpose one, we get support from purpose one, we get support from Fireblocks
+u0002hat that allows us to do is Fireblocks
+u0002hat that allows us to do is Fireblocks
+u0002hat that allows us to do is you can hedge your risk on central you can hedge your risk on central you can hedge your risk on central exchange
+u0002asically, a jelly jelly exchange
+u0002asically, a jelly jelly exchange
+u0002asically, a jelly jelly situation is a lot harder to happen on situation is a lot harder to happen on situation is a lot harder to happen on our product because let's just say our product because let's just say our product because let's just say there's a new listing and the vault is there's a new listing and the vault is there's a new listing and the vault is taking one direction on our per decks. taking one direction on our per decks. taking one direction on our per decks
+u0002t would then take the opposite It would then take the opposite It would then take the opposite direction on a central exchange because direction on a central exchange because direction on a central exchange because we can use Fireblocks
+u0002t just makes the we can use Fireblocks
+u0002t just makes the we can use Fireblocks
+u0002t just makes the product a lot more resilient and there's product a lot more resilient and there's product a lot more resilient and there's not these issues of potential bankruns not these issues of potential bankruns not these issues of potential bankruns on the protocol. on the protocol. on the protocol. >> Completely understood
+u0002 like that Kaido >> Completely understood
+u0002 like that Kaido >> Completely understood
+u0002 like that Kaido example you gave
+u0002t's like anyone who's example you gave
+u0002t's like anyone who's example you gave
+u0002t's like anyone who's tried to maintain points exposure, tried to maintain points exposure, tried to maintain points exposure, anything like that has come across that anything like that has come across that anything like that has come across that scenario in crypto where you want to be scenario in crypto where you want to be scenario in crypto where you want to be exposed to that, but you don't want to exposed to that, but you don't want to exposed to that, but you don't want to have the full volatility of the have the full volatility of the have the full volatility of the underlying asset. underlying asset. underlying asset. >> Exactly. >> Exactly. >> Exactly. >> PBJ, man, thanks for coming on
+u0002t's >> PBJ, man, thanks for coming on
+u0002t's >> PBJ, man, thanks for coming on
+u0002t's been a pleasure chatting and hopefully been a pleasure chatting and hopefully been a pleasure chatting and hopefully we can do it again soon. we can do it again soon. we can do it again soon. >> Awesome
+u0002hank you for having me. >> Awesome
+u0002hank you for having me. >> Awesome
+u0002hank you for having me. >> Thanks for listening to another episode >> Thanks for listening to another episode >> Thanks for listening to another episode of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o learn more about Castle Island, visit learn more about Castle Island, visit learn more about Castle Island, visit castle island.vc. castle island.vc. castle island.vc
+u0002nd to listen to all of our podcast And to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle episodes, please visit castle episodes, please visit castle island.vc/mpodcast island.vc/mpodcast island.vc/mpodcast or just click on the tab on our website. or just click on the tab on our website. or just click on the tab on our website
+u0002hanks for listening. 

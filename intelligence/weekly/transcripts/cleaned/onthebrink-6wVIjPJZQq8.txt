@@ -1,0 +1,507 @@
+Security is probably the most important and underdis discussed issue facing the crypto industry today
+ccording to chain analysis, over $2.2 billion of crypto was stolen in 2024 alone
+and per data from Elliptic, North Korean adversaries have been responsible for an estimated $6 billion in crypto theft and that number continues to rise. that number continues to rise
+nfortunately, AI is only enhancing the Unfortunately, AI is only enhancing the capabilities of attackers and the ease of exploiting vulnerable code
+odels can and are being leveraged by hackers to identify potential vulnerabilities while at the same time we are seeing an increase in the amount of code being deployed faster than ever and often frankly without the same care
+in a world of a lot of open-source code, this poses a substantial threat to all of us who use digital financial systems in one way or another
+in the midst of this way or another
+in the midst of this transition, I sat down with Gio Vignyone, the founder of Octane Security, to discuss the current crypto security landscape
+ctane is a cryptofocused cyber security company that helps customers battle test code before product launch, a process which is known as pre-eployment or offensive security
+io had recognized that crypto security
+io had recognized that crypto security up until recently was static and cumbersome, relying on one-time manual audits and periodic vulnerability testing, and sought to build out a more continuous and effective platform. continuous and effective platform
+tarting with pre-eployment, we Starting with pre-eployment, we discussed where hacks are occurring, how teams can best position and evolve to protect themselves and users, and how to be vigilant as a crypto and internet user
+hope you enjoy our conversation. user
+hope you enjoy our conversation. >> Matt Walsh and Nick Carter are partners at Castle [music] Island Ventures
+ll views expressed by them or the guests on this podcast are solely their opinions and do not reflect the opinions of Castle Island Ventures
+uest and host may maintain [music] positions in the assets discussed in this podcast
+we should not treat any opinion expressed by anyone on this podcast as a specific inducement to make a particular investment or follow a particular strategy, but only as an expression of their personal opinion
+this podcast is [music] forformational purposes only. [music] forformational purposes only
+rought down by bad mortgage Brought down by bad mortgage investments, Lehman, which has 25,000 employees will be liquidated. [music] >> The federal government loans American International Group AIG $85 billion
+this is a different kind of market AND This is a different kind of market AND THE FED IS ASLEEP
+HE FED IS ASLEEP. >> The federal government is stepping in to stabilize [music] Fanny May and Freddy Mack, the two mortgage giants that have been threatened by the housing crisis. [music] >> The Bank of England has pumped 75 billion pounds more into Britain's ailing economy with a new round of quantitative easing. >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry
+to out of this worry, we have something So out of this worry, we have something [music] called a Bitcoin
+itcoin >> Gio, great to see you
+et's dive right >> Gio, great to see you
+et's dive right in
+that do people not know or get wrong in
+that do people not know or get wrong about security in crypto currently? >> I think there's a lot of things that go into security, especially in the crypto ecosystem
+ainly because the risk ecosystem
+ainly because the risk profile in this space is probably the highest out of any space I've ever seen. highest out of any space I've ever seen
+ffectively, all hacks lead to the Effectively, all hacks lead to the equivalent of bank account liquidations where end users actually lose digital assets, tokens, real money
+to, security is really important
+and I think a lot is really important
+and I think a lot of people actually overlook how important it is
+'ve seen a lot of important it is
+'ve seen a lot of people in my time working in the space think that a single manual audit is equivalent to being secure when that's really not the case
+My definition of good redeployment security, meaning security that comes before your team goes live on chain is about understanding your risk profile
+to having a known risk profile, understanding where exploits can happen because no code is ever 100% secure. because no code is ever 100% secure
+there will always be trade-offs, but There will always be trade-offs, but it's important that you understand where those risks lie and you have defenses around them
+and then also understanding around them
+and then also understanding how much in terms of resources you plan to allocate to both pre and post- deployment security
+to be honest, that's really important
+and then I also that's really important
+and then I also think it's important to build a structure in your pre-eployment security risk profile
+to what we recommend to a risk profile
+to what we recommend to a lot of our customers is using tooling and infrastructure as you're writing your source code that's going to go live and hopefully manage billions of dollars in user assets
+and some of that infrastructure can be tools like Octane which are like AI powered security vulnerability analysis tools
+ut it can also be static detectors, static analyzers like slither from trail bits or anything that ensures and enforces code level security in the development pipeline
+we also recommend to our pipeline
+we also recommend to our customers at least two different manual audits from different firms on commits right before they go live
+that's really important to spot check exactly what's going live is going to be secure
+public audit competition can be really helpful as well
+we recommend that to our customers
+and I also think it's our customers
+and I also think it's really important to have a live bug bounty so that when people do find vulnerabilities in your source code, they have a process for responsible disclosure and everything's already laid out and you don't get in a bad scenario with security researchers
+and then of course, last thing I'll say to this is when you're thinking about building a security risk profile, you also want to think about operational security
+to, have you performed incident response practice
+ave you simulated attack practice
+ave you simulated attack scenarios and redteamed
+and does your team understand how to respond to that? team understand how to respond to that
+ll of that that I just said is really All of that I just said is really focused on smart contractbased security and how we think about smart contract based security
+there's a ton of other based security
+there's a ton of other security processes you should think about if you're actually deploying more than just smart contracts as well as backends, APIs, and other systems. >> That's a great landscape and it's interesting to your point that's just a narrow segment of securing a protocol or securing a company
+ots of thoughts, but off the bat to your first point about the risk profile of crypto, I think it's a funny dynamic because people who get into crypto at least over the last few years probably have had a risk appetite from the outset
+to you're trying to reconcile high stakes and getting people to be security aligned when they probably inherently had a risk appetite to begin with, which to your point, I think can be probably a difficult task from a behavioral standpoint. >> I would definitely say so
+we've had our fair share of customers who are definitely risk on when it comes to security and we do our best to try to guide them into the direction of really thinking about this from first principles
+to your point though, I principles
+to your point though, I think one of the things that we've seen help in this scenario a lot is people having full-time on staff folks for security purposes
+it's like having a security purposes
+it's like having a lead security engineer, a CISO, or a head of something security
+there's different parts of the security profile you want to cover with different people, but it really helps to have somebody full-time just thinking about this. >> Yeah
+to that point about the kinds of >> Yeah
+to that point about the kinds of customers you're speaking to, do you guys find yourselves doing a lot of education to the point of having those bases covered that you mentioned? bases covered that you mentioned
+ecause I think about the emergence of a Because I think about the emergence of a lot of different crypto companies
+lot of Coinbase's job in the early days was things like telling people to write down their private key and don't forget your private key
+and that's not necessarily private key
+and that's not necessarily their business, but it's a key part of what they're doing because they suffer if their customers still have a bad experience elsewhere. >> That's something that we take very seriously as well
+lot of our team comes from great security firms like Trail of Bits and Open Zeppelin and a bunch of others as well, but they have a lot of experience dealing with the security landscape in crypto as a whole. security landscape in crypto as a whole
+to, one of our big missions at Octane So, one of our big missions at Octane and something that all of our team members definitely carry with them as they're working with teams is to make sure that teams that work with us go live in a secure way and avoid hacks and exploits
+and that means more than just exploits
+and that means more than just integrating Octane and just having our AI code analysis platform find and detect vulnerabilities
+it means way more than that
+it's like thinking very more than that
+it's like thinking very thoroughly about security, going over that risk profile that we talked about. that risk profile that we talked about
+to where do you guys sit in a stack or So where do you guys sit in a stack or in a platform of offerings that a protocol might put into place? >> We actually like to think of ourselves as a holistic solution here from the pre-eployment standpoint
+we don't do anything post deployment really
+to from a pre-eployment perspective, we have our core product which is our continuous vulnerability analysis tool that effectively on every pull request finds new vulnerabilities that the development team might accidentally introduce
+we also build remediations for those which means automatically generated code diffs
+we talk through exploit scenarios diffs
+we talk through exploit scenarios of how these hacks could happen and that's surfaced 24/7 for users
+it takes somewhere between 15 to 40 minutes per PR to run and the team gets effectively close to an audit report on a report request
+ut we also have a team of very request
+ut we also have a team of very seasoned security researchers which have over a million dollars in confirmed bug bounty payouts and competition winnings and have also worked at great firms like Open Zeppelin
+and our security research Open Zeppelin
+and our security research team will come in and do point in time manual reviews for teams right before they go live
+to we like to make sure they go live
+to we like to make sure that teams that work with us can get a holistic solution provided to them from a pre-eployment security standpoint
+and we also recommend other providers for teams getting their bug bounty listed or getting an audit competition done. >> And maybe to synthesize, you guys are doing review of these pull requests. doing review of these pull requests
+ike you said, you're looking at what's Like you said, you're looking at what's been built from a pre-eployment perspective, then setting up bug bounty security researchers
+there can things go wrong most likely or most frequently? go wrong most likely or most frequently
+to also to clarify our main offering is So also to clarify our main offering is our software where we have detectors that run that provide code analysis. that run that provide code analysis
+laces that we see things go wrong is Places that we see things go wrong is when we're dealing with teams who are very risk and they are very keen to deploy quickly
+they have some deadline deploy quickly
+they have some deadline in their head of when they need to get this code live and they rush the process and they don't think about it from the very first day of starting to build. very first day of starting to build
+they come to us and they're like, "Hey, They come to us and they're like, "Hey, we're planning to go live in five days. we're planning to go live in five days
+we've done nothing for security." That's We've done nothing for security." That's when we really have to try to convince them this is a bad idea because security should be something that starts from the beginning of development
+ou should have tooling infrastructure baked in from the start
+it's like this concept of shifting security left
+it's really important
+we see things go wrong with important
+we see things go wrong with teams or like we see the most risk for teams that come in or having security as an afterthought. >> Given you guys are a software first solution, do you interface with every customer? because I imagine in that case you'd want to be selective about customers you work with so that you're not halfervicing a client that's putting out an unsafe solution but I wonder can they just self-service or how do you deal with that? >> Yeah, so we don't offer pure self-service today
+art of the reason self-service today
+art of the reason for this is our product is extremely performant
+f people just run our performant
+f people just run our product on any codebase out there, it creates potential risk
+we don't want this product being used actually offensively
+we want it being used offensively
+we want it being used defensively for the teams. >> What would that look like? >> Yeah, it's the stuff I think that North Korea is doing right now at the moment actually
+it's essentially taking code actually
+it's essentially taking code bases out there running an [clears throat] AI platform to find and simulate vulnerabilities and then using that maliciously
+that would be the that maliciously
+that would be the worst case scenario and that's what I think groups like Lazarus and those kind of folks are doing at the moment
+we never want that to happen
+to we do never want that to happen
+to we do manually onboard every team, but in that process, we also get the opportunity to educate them on security, which obviously we're super thankful about. obviously we're super thankful about
+ot every team are we going to be able Not every team are we going to be able to convince to go through the whole process that I set up, but we at least try to convince every team to think about security from first principles, even though a lot of that doesn't correspond to revenue for us
+it's just something that we think is the right thing to do
+eah, I think your point thing to do
+eah, I think your point about being able to use the same sort of screening technology offensively is a really important one because I think people think of offensive security today as I need to do so in the case that adversaries are doing traditional hacking, but a whole another frame is I need to do this analysis because it's the exact same framework that might be applied from the other side
+and therefore, if you haven't gone to that scope, then you're just begging to have a vulnerability. >> Yeah, exactly
+the way I think about it >> Yeah, exactly
+the way I think about it is teams should think about security defensively a lot of the time
+they should think how do I defend my system against adversaries and adversaries like nation state adversaries or sanctioned nations will try to do this if they see that you have hundreds of millions tens of millions billions of dollars in digital assets in your protocol
+they will try to hack you
+there's entire will try to hack you
+there's entire groups and departments built for this to effectively fund weapon programs in North Korea or nuclear programs
+to I also think from our perspective, every team we get the chance to work with is an opportunity for us to limit the potential risk on a global level of fund extradition to sanction nations for bad uses
+hese groups like Lazarus and uses
+hese groups like Lazarus and folks like that, they are probably building AI systems to find vulnerabilities and code bases and a lot of the code in crypto is open source. of the code in crypto is open source
+the smart contract code, the stuff that The smart contract code, the stuff that holds the digital assets, it's open source
+ome of it is immutable, which source
+ome of it is immutable, which means it can be very difficult to rescue funds
+and then a lot of these hacks are funds
+and then a lot of these hacks are going to effectively lead to direct fund loss
+to I think offensively there are loss
+to I think offensively there are bad people using AI to find vulnerabilities in code bases
+and I think every team needs to start thinking about how do I use AI to make sure that I'm protected defensively from these other teams that are going to inevitably go after us. >> That also just increases the amount and the ease to attack
+f you think it's sort of like vibe coding but vibe hacking, >> vibe hacking and vibe security
+ow have you seen the amount of adversarial activity evolve in the time you've been around this space? >> I think it's gotten really bad
+think it's scaled up a lot
+ybit was Lazarus, it's scaled up a lot
+ybit was Lazarus, I believe, and groups like chain analysis and the US Department of Treasury have done a lot of reviews and documented a lot of this movement of funds and it's definitely picked up a lot
+think in total hacks there's been lot
+think in total hacks there's been over 11 billion now
+that is like a significant amount of DeFi related hacks
+and do you remember the exact hacks
+and do you remember the exact number currently in DeFi? >> That sounds approximately right. >> The total amount stored in DeFi. >> Oh, total amount stored
+eah, TVL is I'm trying to think in the 80 billion range maybe
+to, sorry. 80 billion might range maybe
+to, sorry. 80 billion might be a So, it's probably double that. >> So, I looked it up
+it's 150 billion
+to, if you think about 11 billion of So, if you think about 11 billion of that being stolen is insane
+it's nearly 10% of all of our TVL
+and by the way, 10% of all of our TVL
+and by the way, 2025, we've gone off a lot
+it used to be 40 billion in TVL just a few years ago. >> So it's a higher percentage on that basis. >> Way higher
+to I think in my time being >> Way higher
+to I think in my time being around the ecosystem, the number of hacks have gone up
+the amount being hacked has gone up by 1.5 billion
+think that comes from the fact that there's more TVL being held
+dversaries are getting much smarter
+I is being are getting much smarter
+I is being adopted now to hack code bases as well and teams really need to start thinking about security for first principles. about security for first principles
+that being said, today compared to maybe That being said, today compared to maybe two years ago when I started Octane, I've seen a dramatic shift in terms of the way that these teams are handling security that we're working with. security that we're working with
+rotocol teams, infrastructure teams, Protocol teams, infrastructure teams, L1s, they're all really thinking about security from a mature perspective for the most part, which is really encouraging
+to I think the threat encouraging
+to I think the threat vectors are going up but our responses to those threat vectors and our focus on pre-eployment security has also gone up as an ecosystem >> from a builder's perspective because you mentioned I imagine you get varying levels of scenario where someone shipped a full product and okay I need to do security now or they have a launch in two weeks and okay I need to make sure nothing bad happens that's better than not doing that but in an ideal world obviously security is a day one thought which I think that a lot of thoughtful founders make that decision, but today I don't think we're collectively at that state yet
+ow important is it that security is a day one thought
+and how much do you see debt, whether it's operational debt, whether it's tech debt, because people haven't been security focused from day one and they've already done this build out
+the biggest bull case I can give to this for any founder listening is it will be cheaper for you to approach this from day one even though you don't think it is
+that we see is a lot of founders is
+that we see is a lot of founders will just wait until they're ready for deployment, be like, "Okay, now I got to do security." But here's what happens. do security." But here's what happens
+they get one big manual audit that cost They get one big manual audit that cost them somewhere between 50 and $200,000. them somewhere between 50 and $200,000
+the manual audit comes back with a ton The manual audit comes back with a ton of highs and criticals
+to, your security profile on chain is just terrible
+ou have a lot of different terrible
+ou have a lot of different things to fix because you didn't start thinking about this until you're right about to deploy
+kay, so now what happens
+it's going to be a couple weeks happens
+it's going to be a couple weeks before you fix all of that and get all the audit process actually wrapped up. the audit process actually wrapped up
+and then you're probably going to need And then you're probably going to need to get another manual audit for a couple reasons
+ne, you don't want just one, reasons
+ne, you don't want just one, but two, if you had that many highs and criticals, there's probably more
+and so now you're at somewhere between $100 and $400,000 in security spend
+and then you're going to wrap up that process. you're going to wrap up that process
+and then maybe you'll do one more
+opefully you don't have a ton of highs Hopefully you don't have a ton of highs and criticals after that second one
+and then you'll get ready to deploy
+ut then you'll get ready to deploy
+ut this whole process is now taking you multiple months
+to now you're in a multiple months
+to now you're in a worse spot because if you start security from day one, you will have AI and automated tooling catching a significant amount of those vulnerabilities early upfront continuously
+to when you go for upfront continuously
+to when you go for those spot checks, those manual audits, hopefully your vulnerability count will be extremely low because you're already aware of a lot of the potential risks that you've been introducing in your continuous development pipeline
+and then that process speeds up
+emediation then that process speeds up
+emediation time is faster. the number of audits you'll have to do is hopefully lower. you'll have to do is hopefully lower
+and overall, this is how we get to help And overall, this is how we get to help teams save money on security
+and I think this the security ecosystem at the moment up to today or up to maybe 2025 has been so focused on manual audits and doing that process that I mentioned and has spent so much money on this that it has been inaccessible to a lot of builders
+and my hope is that with builders
+and my hope is that with Octane, with automation of pre-eployment security and point in time manual checks that are surgical, we're going to enable more people to build in crypto because security becomes more accessible
+to yeah, that's my long ramble on that. >> No, I think that's a really important point and we see this from the venture side. teams that don't pay for security for the first part of their build because they can't afford it because it's a very all or nothing offering or process
+and because of that, you're in process
+and because of that, you're in this debt situation you're talking about
+ne thing I'll add to this about
+ne thing I'll add to this morning, Bunny Protocol, which got hacked, they had to shut down
+they posted this on Twitter
+they said, posted this on Twitter
+they said, "We're not going to be able to relaunch. "We're not going to be able to relaunch
+we've looked at the costs of doing the We've looked at the costs of doing the manual audits to go live again." They said six to seven figures, quote from their tweet
+that is insane
+there are their tweet
+that is insane
+there are their tweet
+that is insane
+there are ways to I think avoid that
+that being ways to I think avoid that
+that being said, bunny protocol is incredibly complex
+it's uni swap v4 hooks
+it is complex
+it's uni swap v4 hooks
+it is complex
+it's uni swap v4 hooks
+it is going to be an intensive security process regardless, but I do think that leveraging automation and using AI and infrastructure and tooling that way will hopefully bring some of those costs down in the future
+and also we have been in the future
+and also we have been able to catch a lot of vulnerabilities that were missed in manual reviews
+to hopefully from a security risk perspective, Octane and similar types of infrastructure can enable better risk profiles. >> As we talk about cost and operational security practices, I'm curious for your view, especially with your founder hat on, you've raised funds, so you're budgeting
+to you have a benchmark for budgeting
+to you have a benchmark for how much teams should be spending on security relative to their budget, relative to the amount of funding they have? >> That's a good question
+think it really depends on what your risk profile looks like
+and by that I mean, is your looks like
+and by that I mean, is your protocol going to be handling lots of dollars in volume of assets or is it going to not maybe handle a lot of digital assets
+and depending on that, I digital assets
+and depending on that, I might have different answers
+ut I think because most teams in crypto are falling in the bucket of handling a lot of user funds, I would recommend if you do it right, I think you can budget somewhere between maybe 25 to 100k a year or somewhere in that range depending on also how much code you're planning to deploy
+think infrastructure and tooling automation, some is free, some is paid
+think you should definitely bake that into your budget because I think it will save money on the overall budget and increase security
+and you should also budget for security
+and you should also budget for putting up bug bounties, getting manual audits done, getting audit competitions done
+and I think depending on your done
+and I think depending on your cadence of code deployment, you could get that all done within that range a year for most startup founders and maybe the preede to series A range
+that we've seen is as teams start to scale up in size and protocols grow, we see an increase in volume of the onchain products being deployed
+and so that should equate to an increase in volume on security spend
+think it's important for investors whether it's funds or angels to be aware of too because if you want to invest in a protocol and maybe it's a small financing and they want to get a product to market quickly you have to make sure that the security budgets in there >> 100%
+the security budget definitely >> 100%
+the security budget definitely needs to be in there but I think it doesn't need to be as crazy as it's been for the past few years. >> Do you want to touch on that
+ou feel like people have been forced to overspend on security in recent times. overspend on security in recent times
+'ve seen teams have massive budgets for I've seen teams have massive budgets for security and I think that's fantastic
+think it's really great that some teams can do that
+think unis swap had a $20 can do that
+think unis swap had a $20 million budget
+don't want to misquote million budget
+don't want to misquote but I think that's it for their V4 hooks cuz they had a big audit competition. cuz they had a big audit competition
+they had a big bug bounty and then they They had a big bug bounty and then they had a bunch of manual audits done
+and I mean that code is being used to build a bunch of different protocols on top of it
+to it's really important
+ut yeah, it
+to it's really important
+ut yeah, it
+to it's really important
+ut yeah, I think security spend has been very high over the past few years
+think it's because manual auditing prices are very high
+do think there's a lot very high
+do think there's a lot of manual auditing firms that produce really really good outputs and I think there's some that don't produce great outputs
+think it's about how you outputs
+think it's about how you approach that process, which vendors you go with for that and how you think about chopping up that budget across multiple parts of the pre-eployment security spend
+on't just get one manual audit, spend
+on't just get one manual audit, please
+to that point about security please
+to that point about security budgeting, how would you assess what is effective spend there
+ecause I imagine in some cases maybe you'll have a heavily funded project and they know they need to spend $4 million on security
+to they're going to go and try security
+to they're going to go and try and spend $4 million
+and I wonder from your view there's any burying their head in the sand if there are some things where it's okay there's a lot of spend here whereas this would be important. here whereas this would be important
+ow do you look at how that security How do you look at how that security budgeting is happening and then what is valuable along that stack in your view? >> The way that I would stack it up is what you're paying for from your budget actually leading to more security risks being discovered and at what rate
+to I think tooling automation can discover a lot of security risk fairly on and continuously
+also think it can speed continuously
+also think it can speed up some of your processes in audit remediations
+to we've had customers remediations
+to we've had customers that find vulnerabilities in the code changes that they're making themselves before they send those code changes back to auditors and they can fix those security issues that they've introduced before sending it back to auditors which then saves them an extra cycle
+to I think as long as tooling and infrastructure is producing a good amount of net new vulnerabilities for you, your manual audits are producing a good amount of new vulnerabilities that are difficult to find and that are correctly classified in severity and you're understanding your operational risks with these security tools and manual reviews
+and then you're also manual reviews
+and then you're also setting yourself up for success with bug bounties
+think that's a pretty good bounties
+think that's a pretty good workflow to be able to budget effectively
+m I catching a lot of bugs effectively
+m I catching a lot of bugs with the money I'm spending
+m I building good processes in case things go wrong
+ou can also learn a lot about go wrong
+ou can also learn a lot about this by seeing how very seasoned teams approach this like unis swer which are our customers
+ut yeah, I think they do our customers
+ut yeah, I think they do this really really well and maybe branching off of producing good security practices for an organization themselves
+in crypto we have this ethos themselves
+in crypto we have this ethos called composability where you want things to work very well together
+and from my perspective, one of the things that comes with that is a lot of counterparty risk in that the workflow of a given product might be you link your Phantom wallet to Deck Screener, which runs Meteora in the background, which might be sourcing liquidity from somewhere else, and you're sometimes using four or five different products at the same time, and a company code bases, could be more code bases
+ow do you talk with customers or people in the industry generally about balancing risk in that regard? because if you are one product in that stack along that usage experience, a vulnerability or an exploit to one of those other accompanying products is really detrimental to you. >> So your question is how do you think about managing risk when you have a lot of different composable products. >> Yeah
+and when you're relying on other >> Yeah
+and when you're relying on other products in your own workflow >> as an enduser or as a business. >> As a business first, but then maybe as an end user. >> Yes
+to I think as a business first what >> Yes
+to I think as a business first what we recommend is every product that you're going to use and you're going to integrate with is a new place for vulnerability to be introduced and risk to your system to occur
+to first thing that we also see a lot of teams doing is they'll go through the manual audit reports of these teams
+f somebody is going to integrate, let's say, Curve or A into their system, whether it's their backend system that's routing orders or it's their onchain protocol, if they're going to start doing this, read up on their documentation
+ook at how many their documentation
+ook at how many audits they've got
+lot of the time audits they've got
+lot of the time there are known risk that are noted in the documentation of these protocols. the documentation of these protocols
+and we've seen a lot of customers have And we've seen a lot of customers have vulnerabilities introduced in those exact locations where people are calling crosschain to another protocol
+and we've actually seen that be missed by a lot of manual auditors as well because sometimes teams don't consider those ancient
+to they don't look as deeply ancient
+to they don't look as deeply into that and we've caught vulnerabilities that were missed by manual reviews using Octane because we compile all the dependencies and look at the source code flow across and into dependencies as well >> which is just funny when to your point they've already been publicly reported. >> Yeah
+ut it's tricky like for engineers >> Yeah
+ut it's tricky like for engineers there's a lot going on
+there's a lot of different pieces to the puzzle
+lot of security they're trying to manage on their own side
+to yeah, a lot of devs their own side
+to yeah, a lot of devs will look into the documentation of these protocols
+ut sometimes there can these protocols
+ut sometimes there can be risks introduced on those integration points a lot of the time actually
+to yeah, I think looking into the docs there, reading up on the source code that you're actually integrating with is really important
+and then also for a really important
+and then also for a business I think making sure that all of those external touch points are managed so you have some information feed to know if those protocols are hacked or exploited or there is a bug and you make sure to keep active tabs on that and there's companies that provide these types of information streams and also do onchain monitoring and I think that's very helpful to get those alerts immediately to compile everything on your protocol side make sure your user problems don't get lost And how about from the end user perspective
+to I think you brought up an interesting point there
+personally try and go point there
+personally try and go with the very simple heristic of like if I can use two apps or two platforms as opposed to five then I'll air that direction
+ut I'm curious how you look direction
+ut I'm curious how you look at it from the end user perspective. >> Yeah, I think that's helpful minimizing the number of forms that you're using
+think that's really really helpful
+also think you should definitely take into account how teams are handling security
+and you can see this sometimes security
+and you can see this sometimes socially, but also in documentation, too
+re they posting about their code too
+re they posting about their code reviews
+re they posting about tooling reviews
+re they posting about tooling infrastructure that they're integrating? infrastructure that they're integrating
+that's normally a pretty positive sign
+f they're not, that's probably red flag If they're not, that's probably red flag if they don't have any listed auto reports or anything like that
+and then I also think as an end user, there's a lot of different things that can go wrong on the browser level
+eople can inject JavaScript into your computer and then you could end up processing a transaction you didn't expect, which is would happen with Bybit to a degree
+to I also think that's really important making sure you have concealed contained environments
+ou don't click on URLs environments
+ou don't click on URLs that are fishing emails and if you do you make sure to wipe your computer clean of any malware that you might have downloaded
+to I think all of that is downloaded
+to I think all of that is really important on the end user side too. >> In that vein because I did want to ask you from your vantage point where are most exploits happening today? >> I think it's really around centralization risk
+to I think it's centralization risk
+to I think it's around private keys that have access to privileged roles on code bases and misuse of those private keys or someone being able to acquire those private keys through social engineering
+and I think that's actually where some of the biggest hacks have happened like by bit for example
+ut also 7 days ago Haxos for example
+ut also 7 days ago Haxos accidentally minted $300 trillion of BYUd
+and I think that goes to show you BYUd
+and I think that goes to show you centralization is a really important thing
+and we also see this a lot with thing
+and we also see this a lot with proxies
+to we published a blog post proxies
+to we published a blog post recently on Octane about the risk of having upgradable proxies and private keys that control those upgradeable proxies
+ow to manage security around proxies
+ow to manage security around that. and think about multi- signature wallets
+there's a bunch of things that wallets
+there's a bunch of things that we wrote in there
+think that's a really good deep dive into how to manage centralization risk, especially around proxy code bases
+and proxies are really useful because if there is a hack or an exploit, you have the ability hopefully if you set up proxy right to upgrade the functionality and avoid the exploit continuing
+ut it does come with its continuing
+ut it does come with its own risk
+to that goes back to my thing own risk
+to that goes back to my thing that I said earlier too about understanding where all of your risk is and why you're taking it that way. >> I like your point
+think these individual behavioral private key behaviors, centralization around one person having privilege access is to your point a threat vector right now. your point a threat vector right now
+without a doubt, I've for a long time Without a doubt, I've for a long time thought there's room for what I'd call almost an onchain notary business in that you would have someone if I want to sign something or if I want to issue a transaction, they would almost be a fail safe and be like, "Hey, I don't like what you just signed." or in the case of Bybit, that behavior requires almost sign off from an impartial notary who's I don't know if I'd call it a trusted party or a sound one
+and I'm almost surprised it hasn't emerged yet because I think we see a lot of these rush the moment type exploits. >> I think Immunifi is actually doing this now and I think it's a great offering
+think so
+ut basically, there's think so
+ut basically, there's security companies now that are acting as third party intermediaries that can advise on multi- signature transactions or movement of funds and upgradability proxies
+and I think that's really proxies
+and I think that's really good
+think the crypto ecosystem really needs that
+to I do ecosystem really needs that
+to I do think that's starting to become a product and offering and service that more of these security companies are offering and I think it's great
+and one of the main criticisms I hear from, let's call it, Wall Street, is that you need reversibility, which I don't know if crypto can ever have true reversibility, but I think the ability to almost decline bad transactions that were initiated by someone is a good medium ground, at least for the time being. >> That's another security risk, >> 100%
+omebody to then reverse the chain >> 100%
+omebody to then reverse the chain and then do a whole bunch of stuff
+lot of the time that stuff does happen. chains do enable that on the chain level depending on the scenario and I think the fork from Ethereum versus Ethereum Classic was based on a reorg of that nature due to a bad hack I think but yeah I do think that being able to have reversibility is great from a user perspective but it also is not so great because it means that there's a centralized entity that can effectively undo transactions it makes sense for Wall Street and bigger enterpris is to have that concern and for some of them I think private blockchains and different types of blockchains that can provide solutions like that would be useful. >> Agreed
+'m going to circle back to talk >> Agreed
+'m going to circle back to talk about Octane a little bit more detail
+wanted to touch on first you mentioned how you guys are sitting at the pre-eployment stage
+ho do you like for pre-eployment stage
+ho do you like for post- deployment
+is there anyone that post- deployment
+is there anyone that you prescribe for customers or that you are partial to? >> Yeah, we've definitely worked with a bunch of post- deployment providers
+think that teams should go out and evaluate all providers, but I'd say we've seen some great work from Guard Rail as well as Hyper Native and Hexagate, a few others, but I would definitely recommend checking them all out
+and I think they all have their own out
+and I think they all have their own unique edge over each other
+to try to stay impartial, but yeah, I think those three have been quite impressive from what I've seen
+and then again going back this fuller stack to come full circle now that we've talked about where a lot of the needs all the pain points are
+there do you guys and Octane sit are
+there do you guys and Octane sit exactly
+hy do customers find you and exactly
+hy do customers find you and what's your vision for what you guys want to continue to be? >> So let me start with the vision side. >> So let me start with the vision side
+ne of our most important missions in One of our most important missions in the company is to make sure that teams we work with deploy securely and don't get hacked
+the vision for the company get hacked
+the vision for the company is effectively automating code level security
+to taking the creation of security
+to taking the creation of source code and going all the way up to the deployment of source code and making sure that we can actually automate a lot of the security processes of finding vulnerabilities, confirming vulnerabilities, producing remediations for vulnerabilities, meaning code fixes, and actually creating potential exploit paths relative to each bug
+and if we can surface that all in a really intuitive, easy to understand way to developers, it speeds up the security process for them
+it adds additional security for their teams
+we're covering more parts of the code
+we're finding more parts of the code
+we're finding more types of bugs and it's an additional layer there that's really really important
+and then going all the really important
+and then going all the way to deployment, we have our security research team that can perform these point in time manual checks for our teams
+ut yeah, our long-term vision is teams
+ut yeah, our long-term vision is to really scale the automation part of it so that our AI systems are effectively handling 95% of the bulk of vulnerability identification and remediation
+to yeah, we sit squarely in remediation
+to yeah, we sit squarely in the pre-eployment security pipeline, which means before you go live and on every pull request of new code, our software will run all of our AI models and find vulnerabilities that are introduced relative to code changes
+and we can also run a full code base over Octane so we can do point in time checks using our AI as well
+and we like to try to get teams all the way up to deployment and securely thereafter
+love the direction you guys are going with the point in time checks because I think there was a period where security was very static in terms of manual audits
+there wasn't live monitoring. audits
+there wasn't live monitoring
+and another great insight I heard at one And another great insight I heard at one point was you can never be perfect
+ou can never completely mitigate the chance that something will happen to your protocol or what you built
+ut the way that these adversaries think is they're trying to target the weak elk in the pack
+to, you're trying to make your pack
+to, you're trying to make your protocol just look like one that is robust and people are going to say, "Oh, I don't want to look to attack this protocol
+they're working with Octane protocol
+they're working with Octane and they've had their manual audits and they have live monitoring." And if you can do that, you position yourself in a really good place. >> Yeah
+ou actually become less of a >> Yeah
+ou actually become less of a target
+f you have a bug bounty that's target
+f you have a bug bounty that's live and you've gone through all these crazy security procedures, adversaries don't want to spend as much time trying to hack you because there's other easier targets out there
+it's really interesting and I think not only does it help from a pure security perspective, but it also helps from an optics perspective like you're saying. perspective like you're saying
+ompletely agree with you
+ompletely agree with you. >> What are your best stories if you have any from your experience in and around this area? >> One of my favorite stories here is we rearchitected a lot of our product this year and we call Octane V2. >> Why was that? >> We rearchitected because we realized that there's a much better way to approach the problem of automatic code detection
+to we took a lot of the detection
+to we took a lot of the learnings from our first version of Octane and then just rewired the whole thing and it's now exponentially more performant
+ur false positive rate is performant
+ur false positive rate is extremely low
+omewhere between 3 to maybe 7% of findings that will ever surface are invalid findings. will ever surface are invalid findings
+the rest are either true valid issues The rest are either true valid issues that people are either going to change their code based on or they're going to not change their code and accept the risk
+and both of those two are risk
+and both of those two are important things for teams to understand
+to when we rearchitected understand
+to when we rearchitected this whole version of the product about like two months ago, I had the founder of Covenant, which is a protocol that's going live pretty soon
+we came to me and he was like, I'm happy to make a bet with you if Octane can find a vulnerability in this code that's higher critical
+will work with you guys on critical
+will work with you guys on annual contract
+and the code was annual contract
+and the code was already audited once as well
+to we ran Octane same day
+and after it was done Octane same day
+and after it was done about 30 to 45 minutes later, I hit him up and I'm like, "Hey, we found the crit." And he was like, "No way." So we jumped on the call and I showed him the vulnerability
+we was like, "Yeah, this vulnerability
+we was like, "Yeah, this is real." And then there were a bunch of other vulnerabilities we found as well, which he really appreciated
+ed to a bunch of code changes
+ut I thought bunch of code changes
+ut I thought that was really impressive
+that was one that was really impressive
+that was one of the ways that I've seen this system be incredible in terms of value creation for someone
+and that was a really good for someone
+and that was a really good story that happened in August or September this year, 2025
+eptember this year, 2025. >> Yeah, I love that sales cycle. you guys should run that
+think I'd heard about a web builder something like that who would just send DMs and be like, "Hey, this is what your newly designed website looks like
+ould you like it?" And they looks like
+ould you like it?" And they started to convert a lot of business. >> It works
+ur goal with a lot of these >> It works
+ur goal with a lot of these teams is to show, not tell
+to, we often put teams on a one or two week pilot period where we scan their code using Octane
+we walk them through the Octane
+we walk them through the findings
+we bring in our manual findings
+we bring in our manual security team to provide guidance on remediations if they have further questions and then they end up finding the vulnerability so useful that pretty much every single time they want to be a manual customer with us and it's really quick for them to get that value too because it's just a scan on our side effectively
+to that process works effectively
+to that process works really well
+we have a very high really well
+we have a very high conversion rate off that. >> Very cool
+io, it's been great getting >> Very cool
+io, it's been great getting to hear your insights
+that should people do if they want to get in touch with you guys? that they want to explore working with Octane. >> It's been great to talk to you
+this was really fun
+really enjoyed the really fun
+really enjoyed the opportunity getting to share my story and then also share how I think about pre-eployment security and what I've seen in the space
+to get in touch with me, feel free to shoot me an email gioctane.curity or just fill out our form on our website if you want to schedule a demo and try the product
+ut yeah, thanks again for the product
+ut yeah, thanks again for having me, man
+this was great. >> Yeah, of course
+opefully your inbox is >> Yeah, of course
+opefully your inbox is full of security wary builders now. full of security wary builders now
+eah, that'd be awesome
+appy to help
+eah, that'd be awesome
+appy to help
+eah, that'd be awesome
+appy to help. >> Awesome
+hanks again
+hanks for >> Awesome
+hanks again
+hanks for >> Awesome
+hanks again
+hanks for listening to another episode of On the Brink with Castle Island
+to learn more about Castle Island, visit castle island.vc. [music] And to listen to all of our podcast episodes, please visit castle island.vc/mpodcast [music] or just click on the tab on our website. or just click on the tab on our website
+hanks for listening.

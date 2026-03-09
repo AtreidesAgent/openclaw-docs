@@ -1,0 +1,1067 @@
+Today on the podcast, I sat down with Today on the podcast, I sat down with Today on the podcast, I sat down with Pelle Brenard, the co-founder and CEO of Pelle Brenard, the co-founder and CEO of Pelle Brenard, the co-founder and CEO of Notab Benet
+u0002otaben is a leading Notab Benet
+u0002otaben is a leading Notab Benet
+u0002otaben is a leading compliance software company that enables compliance software company that enables compliance software company that enables companies transacting on blockchains to companies transacting on blockchains to companies transacting on blockchains to comply with the travel rule and other comply with the travel rule and other comply with the travel rule and other know your customer obligations
+u0002hey're know your customer obligations
+u0002hey're know your customer obligations
+u0002hey're also big players in the stable coin also big players in the stable coin also big players in the stable coin category, and they've launched a new category, and they've launched a new category, and they've launched a new product called Flow, which is product called Flow, which is product called Flow, which is simplifying payments and compliance for simplifying payments and compliance for simplifying payments and compliance for stable coins
+u0002 think you'll enjoy this stable coins
+u0002 think you'll enjoy this stable coins
+u0002 think you'll enjoy this one
+u0002o, without further ado, here is my one
+u0002o, without further ado, here is my one
+u0002o, without further ado, here is my conversation with Pelle at Nota Ben. conversation with Pelle at Nota Ben. conversation with Pelle at Nota Ben
+u0002att Walsh and Nick Carter are partners Matt Walsh and Nick Carter are partners Matt Walsh and Nick Carter are partners at Castle Island Ventures
+u0002ll views at Castle Island Ventures
+u0002ll views at Castle Island Ventures
+u0002ll views expressed by them or the guests on this expressed by them or the guests on this expressed by them or the guests on this podcast are solely their opinions and do podcast are solely their opinions and do podcast are solely their opinions and do not reflect the opinions of Castle not reflect the opinions of Castle not reflect the opinions of Castle Island Ventures
+u0002uest and may maintain Island Ventures
+u0002uest and may maintain Island Ventures
+u0002uest and may maintain positions in the assets discussed in positions in the assets discussed in positions in the assets discussed in this podcast
+u0002e should not treat any this podcast
+u0002e should not treat any this podcast
+u0002e should not treat any opinion expressed by anyone on this opinion expressed by anyone on this opinion expressed by anyone on this podcast as a specific inducement to make podcast as a specific inducement to make podcast as a specific inducement to make a particular investment or follow a a particular investment or follow a a particular investment or follow a particular strategy, but only as an particular strategy, but only as an particular strategy, but only as an expression of their personal opinion. expression of their personal opinion. expression of their personal opinion
+u0002his podcast is forformational purposes This podcast is forformational purposes This podcast is forformational purposes only. only. only. >> Brought down by Bad Mortgage >> Brought down by Bad Mortgage >> Brought down by Bad Mortgage Investments, Lehman, which has 25,000 Investments, Lehman, which has 25,000 Investments, Lehman, which has 25,000 employees will be liquidated
+u0002he employees will be liquidated
+u0002he employees will be liquidated
+u0002he federal government loans American federal government loans American federal government loans American International Group AIG $85 billion
+u0002nternational Group AIG $85 billion
+u0002nternational Group AIG $85 billion. >> This is a different kind of mortgage AND >> This is a different kind of mortgage AND >> This is a different kind of mortgage AND THE FED IS ASLEEP
+u0002HE FED IS ASLEEP
+u0002HE FED IS ASLEEP. >> The federal government is stepping it to >> The federal government is stepping it to >> The federal government is stepping it to stabilize Fanny May and Freddy Mack, the stabilize Fanny May and Freddy Mack, the stabilize Fanny May and Freddy Mack, the two mortgage giants that have been two mortgage giants that have been two mortgage giants that have been threatened by the housing crisis. threatened by the housing crisis. threatened by the housing crisis. >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 billion pounds more into Britain's billion pounds more into Britain's billion pounds more into Britain's ailing economy with a new round of ailing economy with a new round of ailing economy with a new round of constitutive easing. constitutive easing. constitutive easing. >> You print a couple trillion dollars and >> You print a couple trillion dollars and >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry. all of a sudden people start to worry
+u0002o out of this worry, we have something So out of this worry, we have something So out of this worry, we have something called the Bitcoin
+u0002itcoin called the Bitcoin
+u0002itcoin called the Bitcoin
+u0002itcoin >> Pelle
+u0002ell, thanks so much for coming >> Pelle
+u0002ell, thanks so much for coming >> Pelle
+u0002ell, thanks so much for coming back on the show
+u0002t's been a while back on the show
+u0002t's been a while back on the show
+u0002t's been a while since you were on. since you were on. since you were on. >> Yeah
+u0002nd a lot's happened since then. >> Yeah
+u0002nd a lot's happened since then. >> Yeah
+u0002nd a lot's happened since then
+u0002t must be four years or something
+u0002t must be four years or something
+u0002t must be four years or something. >> That's unbelievable
+u0002ell, we've been >> That's unbelievable
+u0002ell, we've been >> That's unbelievable
+u0002ell, we've been involved with Notaben for a very long involved with Notaben for a very long involved with Notaben for a very long time and happy enough to be on your time and happy enough to be on your time and happy enough to be on your board of directors, which has been a lot board of directors, which has been a lot board of directors, which has been a lot of fun
+u0002aybe just as a good way to of fun
+u0002aybe just as a good way to of fun
+u0002aybe just as a good way to start for folks that didn't listen to start for folks that didn't listen to start for folks that didn't listen to the first episode, give us a little bit the first episode, give us a little bit the first episode, give us a little bit of background on you and the company. of background on you and the company. of background on you and the company
+u0002o, I've been involved with crypto So, I've been involved with crypto So, I've been involved with crypto payments and identity for a very long payments and identity for a very long payments and identity for a very long time and was always really keen to get time and was always really keen to get time and was always really keen to get crypto into the everyday economy and crypto into the everyday economy and crypto into the everyday economy and solve a lot of the issues that I know a solve a lot of the issues that I know a solve a lot of the issues that I know a lot of other people in the industry also lot of other people in the industry also lot of other people in the industry also keen to doing
+u0002rior to founding not keen to doing
+u0002rior to founding not keen to doing
+u0002rior to founding not Benm, we built a lot of the core Benm, we built a lot of the core Benm, we built a lot of the core technology behind decentralized identity technology behind decentralized identity technology behind decentralized identity at at at including a lot of the basics like including a lot of the basics like including a lot of the basics like decentralized identifiers, verifiable decentralized identifiers, verifiable decentralized identifiers, verifiable credentials that's now embedded in credentials that's now embedded in credentials that's now embedded in seemingly even Apple products, Swiss seemingly even Apple products, Swiss seemingly even Apple products, Swiss identity, European identity, whole bunch identity, European identity, whole bunch identity, European identity, whole bunch of different areas around the world
+u0002ow of different areas around the world
+u0002ow of different areas around the world
+u0002ow it's just core tech
+u0002he reason we it's just core tech
+u0002he reason we it's just core tech
+u0002he reason we founded not better was when the first founded not better was when the first founded not better was when the first hints at regulatory clarity came in 2019 hints at regulatory clarity came in 2019 hints at regulatory clarity came in 2019 released their guidance or the first released their guidance or the first released their guidance or the first draft guidance of essentially a roadmap draft guidance of essentially a roadmap draft guidance of essentially a roadmap for regulatory clarity and for those who for regulatory clarity and for those who for regulatory clarity and for those who don't know FATF is the financial action don't know FATF is the financial action don't know FATF is the financial action task force and what they do is they set task force and what they do is they set task force and what they do is they set recommendations for global regulators recommendations for global regulators recommendations for global regulators and sometimes regulators take them up on and sometimes regulators take them up on and sometimes regulators take them up on it sometimes they implement it eagerly it sometimes they implement it eagerly it sometimes they implement it eagerly but the interesting thing is this but the interesting thing is this but the interesting thing is this particular guidelines was actually set particular guidelines was actually set particular guidelines was actually set in place by Trump during the first reign in place by Trump during the first reign in place by Trump during the first reign whatever the term whatever the term whatever the term >> first administration
+u0002eah. >> first administration
+u0002eah. >> first administration
+u0002eah. >> Yeah
+u0002irst administration
+u0002eah. where >> Yeah
+u0002irst administration
+u0002eah. where >> Yeah
+u0002irst administration
+u0002eah. where Fininsen under his instructions Fininsen under his instructions Fininsen under his instructions basically set in place this movement basically set in place this movement basically set in place this movement with FATF that they wanted regulatory with FATF that they wanted regulatory with FATF that they wanted regulatory clarity globally because the US actually clarity globally because the US actually clarity globally because the US actually at that point was the place with most at that point was the place with most at that point was the place with most regulatory clarity and that set things regulatory clarity and that set things regulatory clarity and that set things in motion that also led us to found a in motion that also led us to found a in motion that also led us to found a Bennett because one of the requirements Bennett because one of the requirements Bennett because one of the requirements there was that crypto companies and there was that crypto companies and there was that crypto companies and stable coins which are very emergent stable coins which are very emergent stable coins which are very emergent back then companies are required to back then companies are required to back then companies are required to implement payment regulation which are implement payment regulation which are implement payment regulation which are known as the travel rule
+u0002o we set out known as the travel rule
+u0002o we set out known as the travel rule
+u0002o we set out then Alice and I and my other then Alice and I and my other then Alice and I and my other co-founders to build this and we said co-founders to build this and we said co-founders to build this and we said sure clarity is here within a year it's sure clarity is here within a year it's sure clarity is here within a year it's there it's great fantastic and we there it's great fantastic and we there it's great fantastic and we started building the network and we were started building the network and we were started building the network and we were very clear it was a network that has to very clear it was a network that has to very clear it was a network that has to be built and these things don't happen be built and these things don't happen be built and these things don't happen overnight but we were still probably a overnight but we were still probably a overnight but we were still probably a little bit too optimistic about the little bit too optimistic about the little bit too optimistic about the regulatory clarity but it's there now regulatory clarity but it's there now regulatory clarity but it's there now and it's pretty much global took some and it's pretty much global took some and it's pretty much global took some time but it's giving so many time but it's giving so many time but it's giving so many opportunities for companies and for the opportunities for companies and for the opportunities for companies and for the technology right now so it's very technology right now so it's very technology right now so it's very exciting to be part of I would venture exciting to be part of I would venture exciting to be part of I would venture to say that most normal people have not to say that most normal people have not to say that most normal people have not heard of the travel rule and don't know heard of the travel rule and don't know heard of the travel rule and don't know what it is
+u0002n fact, I was not as what it is
+u0002n fact, I was not as what it is
+u0002n fact, I was not as familiar with this until about 2015
+u0002 familiar with this until about 2015
+u0002 familiar with this until about 2015
+u0002 remember having a conversation with remember having a conversation with remember having a conversation with Jerry Breuro at Coin Center around the Jerry Breuro at Coin Center around the Jerry Breuro at Coin Center around the need for companies to emerge that would need for companies to emerge that would need for companies to emerge that would help bigger financial institutions help bigger financial institutions help bigger financial institutions comply with the travel rule
+u0002o, I had a comply with the travel rule
+u0002o, I had a comply with the travel rule
+u0002o, I had a prepared mind for when we met and you prepared mind for when we met and you prepared mind for when we met and you started talking about the travel rule. started talking about the travel rule. started talking about the travel rule
+u0002o, maybe a little bit of background on So, maybe a little bit of background on So, maybe a little bit of background on just what that rule is and how to be in just what that rule is and how to be in just what that rule is and how to be in compliance with it
+u0002his is going to compliance with it
+u0002his is going to compliance with it
+u0002his is going to sound funny for a CEO who founded a sound funny for a CEO who founded a sound funny for a CEO who founded a company that helps companies implement company that helps companies implement company that helps companies implement the travel rule
+u0002e really wish travel the travel rule
+u0002e really wish travel the travel rule
+u0002e really wish travel rule which has been around for many many rule which has been around for many many rule which has been around for many many years in traditional payments goes back years in traditional payments goes back years in traditional payments goes back to being something just a technicality to being something just a technicality to being something just a technicality that no one actually has to deal with. that no one actually has to deal with. that no one actually has to deal with
+u0002he reason for that is in traditional The reason for that is in traditional The reason for that is in traditional payments there's no such thing as a payments there's no such thing as a payments there's no such thing as a travel service provider
+u0002t's a travel service provider
+u0002t's a travel service provider
+u0002t's a technical detail
+u0002t's a technical technical detail
+u0002t's a technical technical detail
+u0002t's a technical requirement that's implemented through requirement that's implemented through requirement that's implemented through Swift or through Visa or Mastercard or Swift or through Visa or Mastercard or Swift or through Visa or Mastercard or any of these existing payment networks. any of these existing payment networks. any of these existing payment networks
+u0002hey all implement the travel rule and They all implement the travel rule and They all implement the travel rule and then it goes into companies existing then it goes into companies existing then it goes into companies existing transaction monitoring frameworks
+u0002o transaction monitoring frameworks
+u0002o transaction monitoring frameworks
+u0002o people don't know about it and people people don't know about it and people people don't know about it and people think it's this new thing for crypto. think it's this new thing for crypto. think it's this new thing for crypto
+u0002o, it's something that's been around
+u0002 No, it's something that's been around
+u0002 No, it's something that's been around
+u0002 think it's been part of the BSA in the think it's been part of the BSA in the think it's been part of the BSA in the US since the '90s
+u0002nd really Swift US since the '90s
+u0002nd really Swift US since the '90s
+u0002nd really Swift implemented it before then anyway
+u0002o implemented it before then anyway
+u0002o implemented it before then anyway
+u0002o the requirements just basically said, the requirements just basically said, the requirements just basically said, well transmit the stuff that's part of a well transmit the stuff that's part of a well transmit the stuff that's part of a regular payment message, just make sure regular payment message, just make sure regular payment message, just make sure it's accurate and then transmit that it's accurate and then transmit that it's accurate and then transmit that along
+u0002nd that's really what the travel along
+u0002nd that's really what the travel along
+u0002nd that's really what the travel rule does is that it requires and I can rule does is that it requires and I can rule does is that it requires and I can just imagine the collective eyes rolling just imagine the collective eyes rolling just imagine the collective eyes rolling over when they hear what the travel over when they hear what the travel over when they hear what the travel means in it
+u0002ut it's that the means in it
+u0002ut it's that the means in it
+u0002ut it's that the information about the originating information about the originating information about the originating customer and the beneficiary customers customer and the beneficiary customers customer and the beneficiary customers along with the payment message
+u0002hat's along with the payment message
+u0002hat's along with the payment message
+u0002hat's what it comes from
+u0002nd starting a what it comes from
+u0002nd starting a what it comes from
+u0002nd starting a company during co focus on travel rule. company during co focus on travel rule. company during co focus on travel rule
+u0002t was definitely not great for SEO but It was definitely not great for SEO but It was definitely not great for SEO but we still managed to do it at that we still managed to do it at that we still managed to do it at that particular point
+u0002ut essentially the particular point
+u0002ut essentially the particular point
+u0002ut essentially the only requirement is that you transmit only requirement is that you transmit only requirement is that you transmit the same information that is part of a the same information that is part of a the same information that is part of a regular payment message along with it. regular payment message along with it. regular payment message along with it
+u0002nd crypto didn't have a good way of And crypto didn't have a good way of And crypto didn't have a good way of doing it
+u0002here wasn't a messaging layer doing it
+u0002here wasn't a messaging layer doing it
+u0002here wasn't a messaging layer for it
+u0002here's a ledger and ledgers are for it
+u0002here's a ledger and ledgers are for it
+u0002here's a ledger and ledgers are very different than messaging layers. very different than messaging layers. very different than messaging layers
+u0002he public ledgers are public and this The public ledgers are public and this The public ledgers are public and this is private information
+u0002o you need a is private information
+u0002o you need a is private information
+u0002o you need a messaging layer to do it
+u0002nd some of messaging layer to do it
+u0002nd some of messaging layer to do it
+u0002nd some of the early initiatives were trying to do the early initiatives were trying to do the early initiatives were trying to do this in public blockchains
+u0002nd we were this in public blockchains
+u0002nd we were this in public blockchains
+u0002nd we were coming from decentralized identity and coming from decentralized identity and coming from decentralized identity and privacy preserving technology
+u0002e were privacy preserving technology
+u0002e were privacy preserving technology
+u0002e were horrified by this and we said no this is horrified by this and we said no this is horrified by this and we said no this is going to be so bad
+u0002e have to keep going to be so bad
+u0002e have to keep going to be so bad
+u0002e have to keep pushing
+u0002e need a swift like messaging pushing
+u0002e need a swift like messaging pushing
+u0002e need a swift like messaging layer or it would be really bad for the layer or it would be really bad for the layer or it would be really bad for the whole industry. whole industry. whole industry. >> I remember some of those early days you >> I remember some of those early days you >> I remember some of those early days you had people that were actually posting on had people that were actually posting on had people that were actually posting on the Bitcoin forums and you can read them the Bitcoin forums and you can read them the Bitcoin forums and you can read them still
+u0002ou can go on the Linux pages of still
+u0002ou can go on the Linux pages of still
+u0002ou can go on the Linux pages of the Bitcoin forums and you can read the Bitcoin forums and you can read the Bitcoin forums and you can read these various hey we should upgrade these various hey we should upgrade these various hey we should upgrade Bitcoin to enable travel rule Bitcoin to enable travel rule Bitcoin to enable travel rule compliance
+u0002ou had other companies that compliance
+u0002ou had other companies that compliance
+u0002ou had other companies that were maybe looking at the OP return and were maybe looking at the OP return and were maybe looking at the OP return and just putting personal information in the just putting personal information in the just putting personal information in the op return
+u0002ome of these early op return
+u0002ome of these early op return
+u0002ome of these early implementations were pretty scary. implementations were pretty scary. implementations were pretty scary
+u0002urious what you thought of those and Curious what you thought of those and Curious what you thought of those and then maybe talk a little bit more about then maybe talk a little bit more about then maybe talk a little bit more about how you guys implemented it. how you guys implemented it. how you guys implemented it. >> I was always horrified by the idea of >> I was always horrified by the idea of >> I was always horrified by the idea of putting PII on blockchains
+u0002'm still putting PII on blockchains
+u0002'm still putting PII on blockchains
+u0002'm still horrified by a lot of the initiatives horrified by a lot of the initiatives horrified by a lot of the initiatives that are coming out right now that that are coming out right now that that are coming out right now that people are doing with soulbound tokens people are doing with soulbound tokens people are doing with soulbound tokens and ENS names because this is all you and ENS names because this is all you and ENS names because this is all you exposing PII and tying it to an exposing PII and tying it to an exposing PII and tying it to an immutable transaction ledger
+u0002o people immutable transaction ledger
+u0002o people immutable transaction ledger
+u0002o people are just constantly doxing each other are just constantly doxing each other are just constantly doxing each other and themselves because they don't and themselves because they don't and themselves because they don't realize that's actually what's realize that's actually what's realize that's actually what's happening
+u0002o what we do is we implement happening
+u0002o what we do is we implement happening
+u0002o what we do is we implement a messaging layer and it's all built a messaging layer and it's all built a messaging layer and it's all built really behind the scenes using really behind the scenes using really behind the scenes using decentralized identity technology
+u0002o decentralized identity technology
+u0002o decentralized identity technology
+u0002o for a institution like a crypto exchange for a institution like a crypto exchange for a institution like a crypto exchange or a bank we help them create a or a bank we help them create a or a bank we help them create a decentralized identity and we help them decentralized identity and we help them decentralized identity and we help them send messages between each other
+u0002o send messages between each other
+u0002o send messages between each other
+u0002o that's something that we built first as that's something that we built first as that's something that we built first as an in-house temporary solution while we an in-house temporary solution while we an in-house temporary solution while we were waiting for surely the industry were waiting for surely the industry were waiting for surely the industry will build an open messaging system for will build an open messaging system for will build an open messaging system for this and it didn't happen and then FAF this and it didn't happen and then FAF this and it didn't happen and then FAF kept saying can you help push something kept saying can you help push something kept saying can you help push something and we said we don't want to go in and and we said we don't want to go in and and we said we don't want to go in and implement a public standard but in the implement a public standard but in the implement a public standard but in the end we had to so what we do now is we've end we had to so what we do now is we've end we had to so what we do now is we've rolled out a new open public domain rolled out a new open public domain rolled out a new open public domain messaging protocol it's public domain messaging protocol it's public domain messaging protocol it's public domain like the internet it's public domain like the internet it's public domain like the internet it's public domain like Ethereum or Bitcoin is that it's like Ethereum or Bitcoin is that it's like Ethereum or Bitcoin is that it's implemented through improvement implemented through improvement implemented through improvement proposals and this solves this way where proposals and this solves this way where proposals and this solves this way where institutions or individuals can go in institutions or individuals can go in institutions or individuals can go in and send messages around crypto and send messages around crypto and send messages around crypto transactions before they happen. transactions before they happen. transactions before they happen. >> It's definitely something that most >> It's definitely something that most >> It's definitely something that most people would interact with this only in people would interact with this only in people would interact with this only in the context of their crypto exchange or the context of their crypto exchange or the context of their crypto exchange or their custodian
+u0002hey would maybe be their custodian
+u0002hey would maybe be their custodian
+u0002hey would maybe be getting asked some questions and some getting asked some questions and some getting asked some questions and some clickthroughs
+u0002ut is it fair to say clickthroughs
+u0002ut is it fair to say clickthroughs
+u0002ut is it fair to say it's an implementation that the vast the it's an implementation that the vast the it's an implementation that the vast the centralized companies are really tasked centralized companies are really tasked centralized companies are really tasked with
+u0002t is and that's been a struggle with
+u0002t is and that's been a struggle with
+u0002t is and that's been a struggle for a lot of institutions and we've for a lot of institutions and we've for a lot of institutions and we've really been there helping them through really been there helping them through really been there helping them through this process because it's difficult if this process because it's difficult if this process because it's difficult if you're a crypto exchange and you were you're a crypto exchange and you were you're a crypto exchange and you were founded maybe in 2016 or 17 something founded maybe in 2016 or 17 something founded maybe in 2016 or 17 something like that you had a very simple like that you had a very simple like that you had a very simple withdrawal mechanism where someone withdrawal mechanism where someone withdrawal mechanism where someone enters a wallet address and maybe you enters a wallet address and maybe you enters a wallet address and maybe you added whitelisting to it
+u0002ow you have added whitelisting to it
+u0002ow you have added whitelisting to it
+u0002ow you have to essentially ask for the same to essentially ask for the same to essentially ask for the same information that you ask for on a wire information that you ask for on a wire information that you ask for on a wire transfer form
+u0002o you have to ask who transfer form
+u0002o you have to ask who transfer form
+u0002o you have to ask who are you sending it to and it's a are you sending it to and it's a are you sending it to and it's a complicated thing for people to start complicated thing for people to start complicated thing for people to start implementing both from a technical and implementing both from a technical and implementing both from a technical and product side but also from a compliance product side but also from a compliance product side but also from a compliance what do I now do with this information what do I now do with this information what do I now do with this information so typically it's something that the so typically it's something that the so typically it's something that the institution do but it also does provide institution do but it also does provide institution do but it also does provide that information and that step that if that information and that step that if that information and that step that if it's implemented correctly end users do it's implemented correctly end users do it's implemented correctly end users do need to be part of the situation and one need to be part of the situation and one need to be part of the situation and one of the reasons I think this is actually of the reasons I think this is actually of the reasons I think this is actually good is because you shouldn't want a good is because you shouldn't want a good is because you shouldn't want a company to transmit stuff that you don't company to transmit stuff that you don't company to transmit stuff that you don't know is happening you should be brought know is happening you should be brought know is happening you should be brought into that situation if you are the end into that situation if you are the end into that situation if you are the end customer
+u0002nd you can also use it to customer
+u0002nd you can also use it to customer
+u0002nd you can also use it to make sure that you're sending the money make sure that you're sending the money make sure that you're sending the money to the right address
+u0002've been involved to the right address
+u0002've been involved to the right address
+u0002've been involved with Bitcoin since 2010 and early with Bitcoin since 2010 and early with Bitcoin since 2010 and early financial crypto projects since the '9s. financial crypto projects since the '9s. financial crypto projects since the '9s
+u0002o, I am fully aware of what happens So, I am fully aware of what happens So, I am fully aware of what happens when you sign a transaction
+u0002nd it when you sign a transaction
+u0002nd it when you sign a transaction
+u0002nd it still scares me entering the Bitcoin still scares me entering the Bitcoin still scares me entering the Bitcoin address
+u0002nd I know what's happening. address
+u0002nd I know what's happening. address
+u0002nd I know what's happening
+u0002'm perfectly capable of managing my I'm perfectly capable of managing my I'm perfectly capable of managing my keys and all of that
+u0002 try to avoid keys and all of that
+u0002 try to avoid keys and all of that
+u0002 try to avoid doing as much as possible because just doing as much as possible because just doing as much as possible because just copying and pasting a blockchain copying and pasting a blockchain copying and pasting a blockchain address, a Bitcoin address, it's scary. address, a Bitcoin address, it's scary. address, a Bitcoin address, it's scary. >> Yeah, it's a white knuckle experience. >> Yeah, it's a white knuckle experience. >> Yeah, it's a white knuckle experience
+u0002ust look at the buy bit incident
+u0002ust look at the buy bit incident
+u0002ust look at the buy bit incident
+u0002here's a lot of things that could go There's a lot of things that could go There's a lot of things that could go wrong. wrong. wrong. >> It's so scary
+u0002 try to avoid it as much >> It's so scary
+u0002 try to avoid it as much >> It's so scary
+u0002 try to avoid it as much as possible
+u0002nd probably actually as possible
+u0002nd probably actually as possible
+u0002nd probably actually allows product people to go in and build allows product people to go in and build allows product people to go in and build better, safer products where end users better, safer products where end users better, safer products where end users can skip that part of it and ensure that can skip that part of it and ensure that can skip that part of it and ensure that the funds are going where they're the funds are going where they're the funds are going where they're supposed to go to because that's supposed to go to because that's supposed to go to because that's actually the reason for the travel rule. actually the reason for the travel rule. actually the reason for the travel rule
+u0002t's there to be able to ensure that It's there to be able to ensure that It's there to be able to ensure that you're sending money to the right place. you're sending money to the right place. you're sending money to the right place
+u0002nd honestly, that's great
+u0002hat's great And honestly, that's great
+u0002hat's great And honestly, that's great
+u0002hat's great UX that you can do that, but people UX that you can do that, but people UX that you can do that, but people sometimes try to hide it away behind. sometimes try to hide it away behind. sometimes try to hide it away behind
+u0002ur users aren't used to it
+u0002ut it's a Our users aren't used to it
+u0002ut it's a Our users aren't used to it
+u0002ut it's a benefit
+u0002t's a superpower for benefit
+u0002t's a superpower for benefit
+u0002t's a superpower for customers
+u0002t's also superpower for customers
+u0002t's also superpower for customers
+u0002t's also superpower for institutions because it gives them a lot institutions because it gives them a lot institutions because it gives them a lot of capabilities that they aren't able to of capabilities that they aren't able to of capabilities that they aren't able to do without the trial
+u0002t's an do without the trial
+u0002t's an do without the trial
+u0002t's an interesting and it's a little bit of a interesting and it's a little bit of a interesting and it's a little bit of a scary rule in a lot of ways because if scary rule in a lot of ways because if scary rule in a lot of ways because if you don't comply with this, you could you don't comply with this, you could you don't comply with this, you could actually go to jail in certain actually go to jail in certain actually go to jail in certain countries
+u0002 mean, under the Bank countries
+u0002 mean, under the Bank countries
+u0002 mean, under the Bank Secrecy Act in the US, chief compliance Secrecy Act in the US, chief compliance Secrecy Act in the US, chief compliance officers and companies have what's officers and companies have what's officers and companies have what's called strict liability, I believe is called strict liability, I believe is called strict liability, I believe is the term, for some of these violations. the term, for some of these violations. the term, for some of these violations
+u0002o, an interesting product to sell So, an interesting product to sell So, an interesting product to sell probably because it's not a question of probably because it's not a question of probably because it's not a question of am I going to be in compliance, it's am I going to be in compliance, it's am I going to be in compliance, it's just how will I be in compliance
+u0002lso, just how will I be in compliance
+u0002lso, just how will I be in compliance
+u0002lso, frankly, it's imperfect right now frankly, it's imperfect right now frankly, it's imperfect right now because most of the world is because most of the world is because most of the world is implementing it right now and we're implementing it right now and we're implementing it right now and we're seeing the compliance rates really, seeing the compliance rates really, seeing the compliance rates really, really go up, which is better for really go up, which is better for really go up, which is better for everyone because it makes it easier for everyone because it makes it easier for everyone because it makes it easier for the end users to verify that their the end users to verify that their the end users to verify that their transactions going to the right place transactions going to the right place transactions going to the right place and easier for compliance officers to do and easier for compliance officers to do and easier for compliance officers to do that as well
+u0002ut it is scary in the that as well
+u0002ut it is scary in the that as well
+u0002ut it is scary in the beginning, but it leads us to a whole beginning, but it leads us to a whole beginning, but it leads us to a whole bunch of new opportunities for the bunch of new opportunities for the bunch of new opportunities for the industry
+u0002nd that's something that we industry
+u0002nd that's something that we industry
+u0002nd that's something that we are very focused on and actually are very focused on and actually are very focused on and actually something that the whole reason we did something that the whole reason we did something that the whole reason we did this was we decided five years ago we this was we decided five years ago we this was we decided five years ago we wanted to build swift for crypto and now wanted to build swift for crypto and now wanted to build swift for crypto and now that's been implemented
+u0002e have 250 that's been implemented
+u0002e have 250 that's been implemented
+u0002e have 250 plus institutions with compliance teams plus institutions with compliance teams plus institutions with compliance teams that have operationalized
+u0002t's built that have operationalized
+u0002t's built that have operationalized
+u0002t's built into the product
+u0002hey're doing into the product
+u0002hey're doing into the product
+u0002hey're doing real-time authorization
+u0002hey build real-time authorization
+u0002hey build real-time authorization
+u0002hey build trusted networks
+u0002hey perform due trusted networks
+u0002hey perform due trusted networks
+u0002hey perform due diligence on each other
+u0002t's integrated diligence on each other
+u0002t's integrated diligence on each other
+u0002t's integrated in backends whether they're trading in backends whether they're trading in backends whether they're trading firms, whether they're retail
+u0002nd that firms, whether they're retail
+u0002nd that firms, whether they're retail
+u0002nd that is amazing
+u0002 mean it's just really is amazing
+u0002 mean it's just really is amazing
+u0002 mean it's just really amazing to see the enthusiasm the way amazing to see the enthusiasm the way amazing to see the enthusiasm the way people have implemented and yes the people have implemented and yes the people have implemented and yes the rules and as you said there's a reason rules and as you said there's a reason rules and as you said there's a reason why people are implementing but people why people are implementing but people why people are implementing but people actually starting to see the benefits of actually starting to see the benefits of actually starting to see the benefits of this now and we're starting to hear that this now and we're starting to hear that this now and we're starting to hear that a lot more from customers who came in a lot more from customers who came in a lot more from customers who came in from traditional payments or traditional from traditional payments or traditional from traditional payments or traditional finance and saying oh finally we can finance and saying oh finally we can finance and saying oh finally we can actually do this now because we can actually do this now because we can actually do this now because we can actually implement payments using the actually implement payments using the actually implement payments using the travel rule rather than having to KYC travel rule rather than having to KYC travel rule rather than having to KYC our customers counterparts which is what our customers counterparts which is what our customers counterparts which is what you have to do without the travel rule you have to do without the travel rule you have to do without the travel rule rule
+u0002o it becomes again like a rule
+u0002o it becomes again like a rule
+u0002o it becomes again like a superpower for the companies. superpower for the companies. superpower for the companies. >> When we initially invested in not in the >> When we initially invested in not in the >> When we initially invested in not in the seed round, a lot of the action around seed round, a lot of the action around seed round, a lot of the action around payments was using Bitcoin and Ethereum, payments was using Bitcoin and Ethereum, payments was using Bitcoin and Ethereum, but you're starting to see stable coins but you're starting to see stable coins but you're starting to see stable coins pop onto the scene
+u0002nd I would say pop onto the scene
+u0002nd I would say pop onto the scene
+u0002nd I would say these days in my mind that is the killer these days in my mind that is the killer these days in my mind that is the killer use case for payments is just the stable use case for payments is just the stable use case for payments is just the stable coins
+u0002o you guys were really early to coins
+u0002o you guys were really early to coins
+u0002o you guys were really early to seeing that. maybe talk a little bit seeing that. maybe talk a little bit seeing that. maybe talk a little bit about the new product that you're about the new product that you're about the new product that you're launching and how stable coins factors launching and how stable coins factors launching and how stable coins factors into building this swiftl like system into building this swiftl like system into building this swiftl like system for the cryptocurrency ecosystem. for the cryptocurrency ecosystem. for the cryptocurrency ecosystem. >> So this is something that Alice and I >> So this is something that Alice and I >> So this is something that Alice and I we've been so excited
+u0002t's been part of we've been so excited
+u0002t's been part of we've been so excited
+u0002t's been part of our plan for the last 5 years
+u0002e were our plan for the last 5 years
+u0002e were our plan for the last 5 years
+u0002e were waiting for stable coin to get the waiting for stable coin to get the waiting for stable coin to get the adoption that it has and I think the adoption that it has and I think the adoption that it has and I think the final exciting step was genius act in final exciting step was genius act in final exciting step was genius act in the US
+u0002f course, there's still more to the US
+u0002f course, there's still more to the US
+u0002f course, there's still more to come in the US, but globally, it's come in the US, but globally, it's come in the US, but globally, it's interesting
+u0002he first administration of interesting
+u0002he first administration of interesting
+u0002he first administration of Trump's push to FATF has really created Trump's push to FATF has really created Trump's push to FATF has really created regulatory clarity almost everywhere in regulatory clarity almost everywhere in regulatory clarity almost everywhere in the world already
+u0002o whether it's from the world already
+u0002o whether it's from the world already
+u0002o whether it's from the UK, EU, Switzerland, Singapore, Hong the UK, EU, Switzerland, Singapore, Hong the UK, EU, Switzerland, Singapore, Hong Kong, Korea, most places, they have Kong, Korea, most places, they have Kong, Korea, most places, they have really good guidelines now for companies really good guidelines now for companies really good guidelines now for companies who do it
+u0002nd we've seen already a lot who do it
+u0002nd we've seen already a lot who do it
+u0002nd we've seen already a lot of companies there who are processing of companies there who are processing of companies there who are processing significant payment transaction volume significant payment transaction volume significant payment transaction volume that they just wouldn't have been able that they just wouldn't have been able that they just wouldn't have been able to do in the past
+u0002ut it's very to do in the past
+u0002ut it's very to do in the past
+u0002ut it's very exciting to see
+u0002 said we were founded exciting to see
+u0002 said we were founded exciting to see
+u0002 said we were founded to create Swift for crypto
+u0002o now we to create Swift for crypto
+u0002o now we to create Swift for crypto
+u0002o now we realized with stable coins, with the realized with stable coins, with the realized with stable coins, with the ecosystem, with all the fantastic ecosystem, with all the fantastic ecosystem, with all the fantastic infrastructure providers that are there, infrastructure providers that are there, infrastructure providers that are there, we actually can do one better
+u0002e can we actually can do one better
+u0002e can we actually can do one better
+u0002e can now actually build the better Swift
+u0002nd now actually build the better Swift
+u0002nd now actually build the better Swift
+u0002nd no, I did not say the better Swift just no, I did not say the better Swift just no, I did not say the better Swift just for stable coins
+u0002o, I'm saying the for stable coins
+u0002o, I'm saying the for stable coins
+u0002o, I'm saying the better Swift
+u0002nd stable coins is part better Swift
+u0002nd stable coins is part better Swift
+u0002nd stable coins is part of what makes it better
+u0002nd everyone of what makes it better
+u0002nd everyone of what makes it better
+u0002nd everyone agrees that stable coins solve so many agrees that stable coins solve so many agrees that stable coins solve so many issues with correspondent banking, but issues with correspondent banking, but issues with correspondent banking, but it still needs this additional layer to it still needs this additional layer to it still needs this additional layer to be able to operationalize it
+u0002nd that's be able to operationalize it
+u0002nd that's be able to operationalize it
+u0002nd that's really what we've launched here Monday really what we've launched here Monday really what we've launched here Monday at our second annual summit in New York. at our second annual summit in New York. at our second annual summit in New York
+u0002e launched not flow, which is a new We launched not flow, which is a new We launched not flow, which is a new payment product that sits on top of our payment product that sits on top of our payment product that sits on top of our existing nota network
+u0002nd we've been existing nota network
+u0002nd we've been existing nota network
+u0002nd we've been working with a lot of great design working with a lot of great design working with a lot of great design partners who in many cases are existing partners who in many cases are existing partners who in many cases are existing customers and partners such as Bitso customers and partners such as Bitso customers and partners such as Bitso who've been a longtime customer and are who've been a longtime customer and are who've been a longtime customer and are leaders in stable coins in Mexico and leaders in stable coins in Mexico and leaders in stable coins in Mexico and Brazil for example and orbital and also Brazil for example and orbital and also Brazil for example and orbital and also custody players like Zodia and wallet custody players like Zodia and wallet custody players like Zodia and wallet providers like defense
+u0002t's been great providers like defense
+u0002t's been great providers like defense
+u0002t's been great to get everyone together talk about how to get everyone together talk about how to get everyone together talk about how do we make this work because it's not do we make this work because it's not do we make this work because it's not something a single company can do
+u0002ou something a single company can do
+u0002ou something a single company can do
+u0002ou have to make sure the economics works, have to make sure the economics works, have to make sure the economics works, compliance works, the trust works, the compliance works, the trust works, the compliance works, the trust works, the different workflows work
+u0002ust like all different workflows work
+u0002ust like all different workflows work
+u0002ust like all of this was built for Swift over of this was built for Swift over of this was built for Swift over actually probably hundreds of years and actually probably hundreds of years and actually probably hundreds of years and then every decade or so there was a new then every decade or so there was a new then every decade or so there was a new optimization that happened and we've optimization that happened and we've optimization that happened and we've been trying to do all of this over the been trying to do all of this over the been trying to do all of this over the summer get all of these companies summer get all of these companies summer get all of these companies involved and get them going and involved and get them going and involved and get them going and integrated and people are so integrated and people are so integrated and people are so enthusiastic and they immediately see enthusiastic and they immediately see enthusiastic and they immediately see the benefit of this
+u0002o what not to the benefit of this
+u0002o what not to the benefit of this
+u0002o what not to benefit flow is is very different from benefit flow is is very different from benefit flow is is very different from other stable coin payment networks that other stable coin payment networks that other stable coin payment networks that you might have heard of or stable coin you might have heard of or stable coin you might have heard of or stable coin focused blockchains as well
+u0002t's a B2B focused blockchains as well
+u0002t's a B2B focused blockchains as well
+u0002t's a B2B focused payment network
+u0002o when I say focused payment network
+u0002o when I say focused payment network
+u0002o when I say B2B focused, it's designed to be able to B2B focused, it's designed to be able to B2B focused, it's designed to be able to request payment of an invoice for request payment of an invoice for request payment of an invoice for example and have the payment come in and example and have the payment come in and example and have the payment come in and be immediately reconciled
+u0002o, it's be immediately reconciled
+u0002o, it's be immediately reconciled
+u0002o, it's designed using all of these bus designed using all of these bus designed using all of these bus mechanisms and real-time authorization mechanisms and real-time authorization mechanisms and real-time authorization tools that companies are already using tools that companies are already using tools that companies are already using at scale globally, taking them in and at scale globally, taking them in and at scale globally, taking them in and essentially creating this payment essentially creating this payment essentially creating this payment network to just basically take the network to just basically take the network to just basically take the underlying stable coin movement and underlying stable coin movement and underlying stable coin movement and operationalize it within businesses at operationalize it within businesses at operationalize it within businesses at scale
+u0002nd this brings a ton of scale
+u0002nd this brings a ton of scale
+u0002nd this brings a ton of opportunities because this is where I opportunities because this is where I opportunities because this is where I say we're going after the Swift market. say we're going after the Swift market. say we're going after the Swift market
+u0002e're going after this $120 trillion B2B We're going after this $120 trillion B2B We're going after this $120 trillion B2B Swift market
+u0002nd it's available for us Swift market
+u0002nd it's available for us Swift market
+u0002nd it's available for us because we can do things like tie because we can do things like tie because we can do things like tie payments into the workflow way better payments into the workflow way better payments into the workflow way better than Swift can because we offer pull than Swift can because we offer pull than Swift can because we offer pull payments
+u0002nd that's a unique thing that payments
+u0002nd that's a unique thing that payments
+u0002nd that's a unique thing that no one's really been able to solve no one's really been able to solve no one's really been able to solve before crypto or stable coins
+u0002here's before crypto or stable coins
+u0002here's before crypto or stable coins
+u0002here's been some experiments trying to get it been some experiments trying to get it been some experiments trying to get it working with smart contracts, but working with smart contracts, but working with smart contracts, but they're not really going to work at they're not really going to work at they're not really going to work at scale because you need to create scale because you need to create scale because you need to create something that works across blockchains, something that works across blockchains, something that works across blockchains, across stable coins, handle fiat across stable coins, handle fiat across stable coins, handle fiat conversion, forex conversion, all of conversion, forex conversion, all of conversion, forex conversion, all of these different aspects of it
+u0002pp these different aspects of it
+u0002pp these different aspects of it
+u0002pp permissioning, risk management, fraud permissioning, risk management, fraud permissioning, risk management, fraud management, all of these things have to management, all of these things have to management, all of these things have to happen
+u0002nd that's what we built is this happen
+u0002nd that's what we built is this happen
+u0002nd that's what we built is this network that allow companies that are network that allow companies that are network that allow companies that are already doing all of these different already doing all of these different already doing all of these different parts, giving them the opportunity and parts, giving them the opportunity and parts, giving them the opportunity and possibility to then authorize a possibility to then authorize a possibility to then authorize a transaction in real time
+u0002nd these pull transaction in real time
+u0002nd these pull transaction in real time
+u0002nd these pull transactions can then be tied directly transactions can then be tied directly transactions can then be tied directly into business workflows
+u0002hat's really into business workflows
+u0002hat's really into business workflows
+u0002hat's really appealing about it to me is that if you appealing about it to me is that if you appealing about it to me is that if you think about it through the context of an think about it through the context of an think about it through the context of an exchange, a VAS, even a business that's exchange, a VAS, even a business that's exchange, a VAS, even a business that's trying to meet payroll, the trying to meet payroll, the trying to meet payroll, the reconciliation challenges here are just reconciliation challenges here are just reconciliation challenges here are just enormous
+u0002hen you think about the enormous
+u0002hen you think about the enormous
+u0002hen you think about the different blockchains that transmit different blockchains that transmit different blockchains that transmit stable coins, spinning up new wallet stable coins, spinning up new wallet stable coins, spinning up new wallet addresses, the risks that you fat finger addresses, the risks that you fat finger addresses, the risks that you fat finger something and send stable coins into a something and send stable coins into a something and send stable coins into a black hole
+u0002o, it seems like this is black hole
+u0002o, it seems like this is black hole
+u0002o, it seems like this is solving not only a compliance challenge, solving not only a compliance challenge, solving not only a compliance challenge, but an operational challenge of just but an operational challenge of just but an operational challenge of just sending a payment
+u0002s that a fair way to sending a payment
+u0002s that a fair way to sending a payment
+u0002s that a fair way to think about it? think about it? think about it? >> Yeah, absolutely
+u0002nd not just for the >> Yeah, absolutely
+u0002nd not just for the >> Yeah, absolutely
+u0002nd not just for the businesses providing the payment businesses providing the payment businesses providing the payment services, but for the corporates or services, but for the corporates or services, but for the corporates or businesses using this
+u0002t's a massive businesses using this
+u0002t's a massive businesses using this
+u0002t's a massive issues
+u0002 know from our head of finance, issues
+u0002 know from our head of finance, issues
+u0002 know from our head of finance, our VP of finance who's amazing and he's our VP of finance who's amazing and he's our VP of finance who's amazing and he's been one of our big internal design been one of our big internal design been one of our big internal design partners as we work through this because partners as we work through this because partners as we work through this because we take we have customers all over the we take we have customers all over the we take we have customers all over the world
+u0002e have this issue
+u0002e send world
+u0002e have this issue
+u0002e send world
+u0002e have this issue
+u0002e send invoices out
+u0002e have to trace them. invoices out
+u0002e have to trace them. invoices out
+u0002e have to trace them
+u0002eople are always asking can we pay with People are always asking can we pay with People are always asking can we pay with stable coins and we have done it a stable coins and we have done it a stable coins and we have done it a little bit in the past but it's very little bit in the past but it's very little bit in the past but it's very very difficult to tie these transactions very difficult to tie these transactions very difficult to tie these transactions into our accounts receivables flow
+u0002t into our accounts receivables flow
+u0002t into our accounts receivables flow
+u0002t would be great if we could also perform would be great if we could also perform would be great if we could also perform payments with it, but it's also payments with it, but it's also payments with it, but it's also difficult to tie stable card difficult to tie stable card difficult to tie stable card transactions into account payable flow. transactions into account payable flow. transactions into account payable flow
+u0002o all of these business So all of these business So all of these business reconciliations, it's a giant headache. reconciliations, it's a giant headache. reconciliations, it's a giant headache
+u0002nd honestly, Swift doesn't necessarily And honestly, Swift doesn't necessarily And honestly, Swift doesn't necessarily do it particularly well, but at least a do it particularly well, but at least a do it particularly well, but at least a Swift mess has context
+u0002nd that context Swift mess has context
+u0002nd that context Swift mess has context
+u0002nd that context is essentially the travel rule is essentially the travel rule is essentially the travel rule information, which is the who, and then information, which is the who, and then information, which is the who, and then it has a memo field
+u0002 think it's an 80 it has a memo field
+u0002 think it's an 80 it has a memo field
+u0002 think it's an 80 character memo field, which provides character memo field, which provides character memo field, which provides context
+u0002nd that's all you could fit in context
+u0002nd that's all you could fit in context
+u0002nd that's all you could fit in an old TX back in the day
+u0002o that's all an old TX back in the day
+u0002o that's all an old TX back in the day
+u0002o that's all you have
+u0002nd it's funny seeing several you have
+u0002nd it's funny seeing several you have
+u0002nd it's funny seeing several of the new stable coin blockchains, they of the new stable coin blockchains, they of the new stable coin blockchains, they saying, "Oh, we'll have a memo field." saying, "Oh, we'll have a memo field." saying, "Oh, we'll have a memo field." And I'm like, first of all, that better And I'm like, first of all, that better And I'm like, first of all, that better be encrypted
+u0002econdly, a single data be encrypted
+u0002econdly, a single data be encrypted
+u0002econdly, a single data field is not enough
+u0002o we actually for field is not enough
+u0002o we actually for field is not enough
+u0002o we actually for the first time allow companies to embed the first time allow companies to embed the first time allow companies to embed a full invoice using the global standard a full invoice using the global standard a full invoice using the global standard for e invoice, which is UBL that can be for e invoice, which is UBL that can be for e invoice, which is UBL that can be embedded directly within the payment embedded directly within the payment embedded directly within the payment requests
+u0002o the business who's requests
+u0002o the business who's requests
+u0002o the business who's receiving it, they can forward directly receiving it, they can forward directly receiving it, they can forward directly to the accounts payable department
+u0002t to the accounts payable department
+u0002t to the accounts payable department
+u0002t can be handled by them, authorized by can be handled by them, authorized by can be handled by them, authorized by them
+u0002hen when it gets paid, it ties them
+u0002hen when it gets paid, it ties them
+u0002hen when it gets paid, it ties directly to the accounts receivable
+u0002o directly to the accounts receivable
+u0002o directly to the accounts receivable
+u0002o everything gets automatically everything gets automatically everything gets automatically reconciled
+u0002his is why pull payments reconciled
+u0002his is why pull payments reconciled
+u0002his is why pull payments are so powerful
+u0002isa and Mastercard, are so powerful
+u0002isa and Mastercard, are so powerful
+u0002isa and Mastercard, they do a great job at this
+u0002his is why they do a great job at this
+u0002his is why they do a great job at this
+u0002his is why everyone says credit cards are expensive everyone says credit cards are expensive everyone says credit cards are expensive and the interchange fee is expensive. and the interchange fee is expensive. and the interchange fee is expensive
+u0002ut you know what
+u0002or a merchant, it But you know what
+u0002or a merchant, it But you know what
+u0002or a merchant, it solves a massive issue
+u0002t solves that solves a massive issue
+u0002t solves that solves a massive issue
+u0002t solves that reconciliation issue
+u0002t solves being reconciliation issue
+u0002t solves being reconciliation issue
+u0002t solves being tied directly into the fulfillment tied directly into the fulfillment tied directly into the fulfillment process
+u0002nd if we can do that for process
+u0002nd if we can do that for process
+u0002nd if we can do that for larger scale transactions of larger scale transactions of larger scale transactions of transactions that may not be economical transactions that may not be economical transactions that may not be economical to do using Visa or Mastercard, Rails, to do using Visa or Mastercard, Rails, to do using Visa or Mastercard, Rails, that is a great market for the industry that is a great market for the industry that is a great market for the industry to go for and that's actually how I to go for and that's actually how I to go for and that's actually how I think we can really go for this large think we can really go for this large think we can really go for this large market
+u0002t's such an interesting market market
+u0002t's such an interesting market market
+u0002t's such an interesting market structure right now because I think structure right now because I think structure right now because I think about you guys as sitting a level or two about you guys as sitting a level or two about you guys as sitting a level or two up the stack from the underlying up the stack from the underlying up the stack from the underlying blockchains that are transmitting these blockchains that are transmitting these blockchains that are transmitting these stable coins and then of course you have stable coins and then of course you have stable coins and then of course you have the issuers that are coming in and I the issuers that are coming in and I the issuers that are coming in and I think you're going to see a lot more think you're going to see a lot more think you're going to see a lot more issuers come into this market now with issuers come into this market now with issuers come into this market now with the Genius Act passing in the United the Genius Act passing in the United the Genius Act passing in the United States and just clear regulatory States and just clear regulatory States and just clear regulatory frameworks but it feels very bulcanized frameworks but it feels very bulcanized frameworks but it feels very bulcanized both on the blockchain level with these both on the blockchain level with these both on the blockchain level with these new L1s launching that are just doing new L1s launching that are just doing new L1s launching that are just doing stable coins and also at the issuer stable coins and also at the issuer stable coins and also at the issuer level
+u0002o, how are you seeing that level
+u0002o, how are you seeing that level
+u0002o, how are you seeing that unfolding in terms of just the cast of unfolding in terms of just the cast of unfolding in terms of just the cast of characters that are issuing these stable characters that are issuing these stable characters that are issuing these stable coins and the underlying databases that coins and the underlying databases that coins and the underlying databases that are transmitting the stable coins? are transmitting the stable coins? are transmitting the stable coins? >> I think it's great that there are a lot >> I think it's great that there are a lot >> I think it's great that there are a lot of new stable coins coming and we'll see of new stable coins coming and we'll see of new stable coins coming and we'll see a lot more in the US, but we're also a lot more in the US, but we're also a lot more in the US, but we're also seeing a lot globally and actually seeing a lot globally and actually seeing a lot globally and actually having that is going to be fantastic. having that is going to be fantastic. having that is going to be fantastic
+u0002t's going to give a lot of diversity to It's going to give a lot of diversity to It's going to give a lot of diversity to the market
+u0002 was at Stripe's New York the market
+u0002 was at Stripe's New York the market
+u0002 was at Stripe's New York tour the other day where they launched tour the other day where they launched tour the other day where they launched their opens assurance platform which was their opens assurance platform which was their opens assurance platform which was fantastic
+u0002hey also made the point that fantastic
+u0002hey also made the point that fantastic
+u0002hey also made the point that having this duopoly of circle and tether having this duopoly of circle and tether having this duopoly of circle and tether is bad for industry and people are is bad for industry and people are is bad for industry and people are scared to just rely on either of these scared to just rely on either of these scared to just rely on either of these two
+u0002o having some more diversity in two
+u0002o having some more diversity in two
+u0002o having some more diversity in there is going to be great
+u0002here's there is going to be great
+u0002here's there is going to be great
+u0002here's still issues there, but one of the still issues there, but one of the still issues there, but one of the largest issues I see is liquidity for largest issues I see is liquidity for largest issues I see is liquidity for smaller stable coins, but that's one smaller stable coins, but that's one smaller stable coins, but that's one thing that Stripe's been working on as thing that Stripe's been working on as thing that Stripe's been working on as part of this framework that there's part of this framework that there's part of this framework that there's always going to be direct onetoone always going to be direct onetoone always going to be direct onetoone liquidity between all of the stable liquidity between all of the stable liquidity between all of the stable coins as part of the open issue
+u0002o coins as part of the open issue
+u0002o coins as part of the open issue
+u0002o that's a way of doing it and I'm sure that's a way of doing it and I'm sure that's a way of doing it and I'm sure we'll see many other interesting ways of we'll see many other interesting ways of we'll see many other interesting ways of handling it
+u0002nd when it comes to the handling it
+u0002nd when it comes to the handling it
+u0002nd when it comes to the layer ones that are stable coin focused, layer ones that are stable coin focused, layer ones that are stable coin focused, it may initially seem silly if you come it may initially seem silly if you come it may initially seem silly if you come from a crypto background
+u0002hy can't you from a crypto background
+u0002hy can't you from a crypto background
+u0002hy can't you just use Ethereum or Salana
+u0002nd they're just use Ethereum or Salana
+u0002nd they're just use Ethereum or Salana
+u0002nd they're not actually the first by the way. not actually the first by the way. not actually the first by the way
+u0002here's the Gnosis chain which uses a There's the Gnosis chain which uses a There's the Gnosis chain which uses a die as its underlying fee mechanism as die as its underlying fee mechanism as die as its underlying fee mechanism as well
+u0002nd the fee mechanism is really well
+u0002nd the fee mechanism is really well
+u0002nd the fee mechanism is really one of the important parts of it because one of the important parts of it because one of the important parts of it because we've heard for a long time that we've heard for a long time that we've heard for a long time that companies can't pay gas in ETH
+u0002hey companies can't pay gas in ETH
+u0002hey companies can't pay gas in ETH
+u0002hey want to pay it in dollars
+u0002'm sure want to pay it in dollars
+u0002'm sure want to pay it in dollars
+u0002'm sure people can figure that out eventually people can figure that out eventually people can figure that out eventually and it wouldn't necessarily be that and it wouldn't necessarily be that and it wouldn't necessarily be that easy, but it's certainly easier that you easy, but it's certainly easier that you easy, but it's certainly easier that you could do it in a stable coin
+u0002o, we'll could do it in a stable coin
+u0002o, we'll could do it in a stable coin
+u0002o, we'll see how that plays out
+u0002n the see how that plays out
+u0002n the see how that plays out
+u0002n the performance side, that's also fine, but performance side, that's also fine, but performance side, that's also fine, but I'm not 100% bought into Salana is I'm not 100% bought into Salana is I'm not 100% bought into Salana is pretty performant and there are ways for pretty performant and there are ways for pretty performant and there are ways for them to localize and optimize payments them to localize and optimize payments them to localize and optimize payments for optimized transactions for payment for optimized transactions for payment for optimized transactions for payment purposes as well
+u0002o, I don't know, but purposes as well
+u0002o, I don't know, but purposes as well
+u0002o, I don't know, but let's see
+u0002t's an interesting market. let's see
+u0002t's an interesting market. let's see
+u0002t's an interesting market
+u0002'm all for free markets and all for I'm all for free markets and all for I'm all for free markets and all for competition
+u0002o, it's great to see the competition
+u0002o, it's great to see the competition
+u0002o, it's great to see the diversity. diversity. diversity. >> Yeah, I think you're just going to see >> Yeah, I think you're just going to see >> Yeah, I think you're just going to see different categories emerge
+u0002 struggle different categories emerge
+u0002 struggle different categories emerge
+u0002 struggle to see a world where any of the existing to see a world where any of the existing to see a world where any of the existing stable coins that exist today could stable coins that exist today could stable coins that exist today could actually satisfy the need to settle an actually satisfy the need to settle an actually satisfy the need to settle an overnight repo transaction that is overnight repo transaction that is overnight repo transaction that is denominated in the billions of dollars denominated in the billions of dollars denominated in the billions of dollars between banks
+u0002o I think you'll also between banks
+u0002o I think you'll also between banks
+u0002o I think you'll also just see new categories of stable coins just see new categories of stable coins just see new categories of stable coins that pop up and some are more focused on that pop up and some are more focused on that pop up and some are more focused on B2B use cases
+u0002ome might be just B2B use cases
+u0002ome might be just B2B use cases
+u0002ome might be just industrial scale huge money movement industrial scale huge money movement industrial scale huge money movement overnight transactions between banks or overnight transactions between banks or overnight transactions between banks or things like that
+u0002 would say one issue things like that
+u0002 would say one issue things like that
+u0002 would say one issue that I am seeing is on a lot of the that I am seeing is on a lot of the that I am seeing is on a lot of the business who are involved with the business who are involved with the business who are involved with the space
+u0002hey're already really struggling space
+u0002hey're already really struggling space
+u0002hey're already really struggling with their own preunding requirements. with their own preunding requirements. with their own preunding requirements
+u0002nd one of the promises of Tablecoin is And one of the promises of Tablecoin is And one of the promises of Tablecoin is that there's no more correspondent that there's no more correspondent that there's no more correspondent banking
+u0002et the irony is that banking
+u0002et the irony is that banking
+u0002et the irony is that unfortunately many of these absolutely unfortunately many of these absolutely unfortunately many of these absolutely incredible companies who've been able to incredible companies who've been able to incredible companies who've been able to just really execute and just build just really execute and just build just really execute and just build fantastic stable coin infrastructure, fantastic stable coin infrastructure, fantastic stable coin infrastructure, they ironically had to build their own they ironically had to build their own they ironically had to build their own closed correspondent banking networks closed correspondent banking networks closed correspondent banking networks because that's how they have to do to because that's how they have to do to because that's how they have to do to connect a fiat connection
+u0002very fiat connect a fiat connection
+u0002very fiat connect a fiat connection
+u0002very fiat connection requires essentially a connection requires essentially a connection requires essentially a correspondent banking account for them correspondent banking account for them correspondent banking account for them with serious amounts of preunding and with serious amounts of preunding and with serious amounts of preunding and that's a very very big issue
+u0002t's very that's a very very big issue
+u0002t's very that's a very very big issue
+u0002t's very expensive to manage all of that, not expensive to manage all of that, not expensive to manage all of that, not just the preunding part of it, the just the preunding part of it, the just the preunding part of it, the technical integrations and legal technical integrations and legal technical integrations and legal requirements
+u0002nd what we actually hear requirements
+u0002nd what we actually hear requirements
+u0002nd what we actually hear from them is that they're seeing this from them is that they're seeing this from them is that they're seeing this advent of stable coins, many many stable advent of stable coins, many many stable advent of stable coins, many many stable coins and many many blockchains
+u0002here's coins and many many blockchains
+u0002here's coins and many many blockchains
+u0002here's not necessarily a legal agreement, a not necessarily a legal agreement, a not necessarily a legal agreement, a bilateral agreement that they have to do bilateral agreement that they have to do bilateral agreement that they have to do to do that, but they still have the to do that, but they still have the to do that, but they still have the additional technical integration and additional technical integration and additional technical integration and refunding
+u0002o, some of them are quite refunding
+u0002o, some of them are quite refunding
+u0002o, some of them are quite worried about that
+u0002ut one thing that worried about that
+u0002ut one thing that worried about that
+u0002ut one thing that we are trying to do with flow we build we are trying to do with flow we build we are trying to do with flow we build it in a way to actually solve a lot of it in a way to actually solve a lot of it in a way to actually solve a lot of these issues that they have and all of these issues that they have and all of these issues that they have and all of them take this the largest issues that them take this the largest issues that them take this the largest issues that they face
+u0002o these operational burdens they face
+u0002o these operational burdens they face
+u0002o these operational burdens of having bilateral agreements and of having bilateral agreements and of having bilateral agreements and preunding
+u0002o with not benefit flow preunding
+u0002o with not benefit flow preunding
+u0002o with not benefit flow we've built it in a way that they can we've built it in a way that they can we've built it in a way that they can just focus on their particular market. just focus on their particular market. just focus on their particular market
+u0002o if they want to own a fiat component So if they want to own a fiat component So if they want to own a fiat component they can do so. but they can focus on they can do so. but they can focus on they can do so. but they can focus on maybe their locality just where they are maybe their locality just where they are maybe their locality just where they are rather than having to build these rather than having to build these rather than having to build these agreements around the world because the agreements around the world because the agreements around the world because the flow network automatically handles that. flow network automatically handles that. flow network automatically handles that
+u0002o that at least eliminates some of the So that at least eliminates some of the So that at least eliminates some of the preunding part of it
+u0002ut ultimately I preunding part of it
+u0002ut ultimately I preunding part of it
+u0002ut ultimately I think the market will probably handle think the market will probably handle think the market will probably handle the rest of this
+u0002ut it was interesting the rest of this
+u0002ut it was interesting the rest of this
+u0002ut it was interesting to hear hear that from our partners that to hear hear that from our partners that to hear hear that from our partners that they are actually seeing all of these they are actually seeing all of these they are actually seeing all of these new blockchains as the equivalent of new blockchains as the equivalent of new blockchains as the equivalent of preunding that they have to do for preunding that they have to do for preunding that they have to do for liquidity purposes. liquidity purposes. liquidity purposes. >> Yeah, you bring up preunding
+u0002t's very >> Yeah, you bring up preunding
+u0002t's very >> Yeah, you bring up preunding
+u0002t's very interesting because part of the reason interesting because part of the reason interesting because part of the reason why credit cards are so appealing is why credit cards are so appealing is why credit cards are so appealing is because you can have deferred because you can have deferred because you can have deferred settlement
+u0002here's effectively credit settlement
+u0002here's effectively credit settlement
+u0002here's effectively credit in the system
+u0002o you think that folks in the system
+u0002o you think that folks in the system
+u0002o you think that folks will come along and try to do something will come along and try to do something will come along and try to do something in the stable coin space, maybe inject in the stable coin space, maybe inject in the stable coin space, maybe inject credit into a network like this and credit into a network like this and credit into a network like this and allow for people to have a deferred allow for people to have a deferred allow for people to have a deferred settlement? settlement? settlement? >> There's no reason why they couldn't do >> There's no reason why they couldn't do >> There's no reason why they couldn't do that
+u0002ssentially, what we do is we just that
+u0002ssentially, what we do is we just that
+u0002ssentially, what we do is we just build this messaging system
+u0002 merchant build this messaging system
+u0002 merchant build this messaging system
+u0002 merchant sends a payment request to their sends a payment request to their sends a payment request to their customer
+u0002t then is settled through customer
+u0002t then is settled through customer
+u0002t then is settled through their customers wallet provider or bank their customers wallet provider or bank their customers wallet provider or bank and how that funds get to the other and how that funds get to the other and how that funds get to the other side
+u0002e help them negotiate the side
+u0002e help them negotiate the side
+u0002e help them negotiate the settlement of the stable coin and maybe settlement of the stable coin and maybe settlement of the stable coin and maybe there's a potential liquidity step in there's a potential liquidity step in there's a potential liquidity step in there, but there's no reason why we there, but there's no reason why we there, but there's no reason why we couldn't have a credit aspect of that as couldn't have a credit aspect of that as couldn't have a credit aspect of that as well
+u0002o reason at all
+u0002o there's no well
+u0002o reason at all
+u0002o there's no well
+u0002o reason at all
+u0002o there's no reason for this somewhat artificial reason for this somewhat artificial reason for this somewhat artificial separation or historical separation of separation or historical separation of separation or historical separation of credit and debit cards today
+u0002e can credit and debit cards today
+u0002e can credit and debit cards today
+u0002e can actually handle that
+u0002t's something actually handle that
+u0002t's something actually handle that
+u0002t's something that someone can just start offering that someone can just start offering that someone can just start offering companies within our network or start companies within our network or start companies within our network or start doing themselves. doing themselves. doing themselves. >> That is probably the accelerant at least >> That is probably the accelerant at least >> That is probably the accelerant at least for payments in the US market where for payments in the US market where for payments in the US market where credit cards are such a dominant payment credit cards are such a dominant payment credit cards are such a dominant payment device
+u0002ou see really the growth of device
+u0002ou see really the growth of device
+u0002ou see really the growth of stable coins in my mind
+u0002he first phase stable coins in my mind
+u0002he first phase stable coins in my mind
+u0002he first phase here is just people outside the US that here is just people outside the US that here is just people outside the US that want to store their wealth in dollars want to store their wealth in dollars want to store their wealth in dollars has been driving a lot of this
+u0002ut to has been driving a lot of this
+u0002ut to has been driving a lot of this
+u0002ut to actually get that deferred settlement I actually get that deferred settlement I actually get that deferred settlement I think would be huge
+u0002aybe we could talk think would be huge
+u0002aybe we could talk think would be huge
+u0002aybe we could talk a little bit about just how you guys a little bit about just how you guys a little bit about just how you guys have thought about crafting the have thought about crafting the have thought about crafting the financial incentives to be a member of financial incentives to be a member of financial incentives to be a member of this network and to actually participate this network and to actually participate this network and to actually participate because I think there's some very because I think there's some very because I think there's some very obvious cost savings opportunities on obvious cost savings opportunities on obvious cost savings opportunities on the reconciliation front
+u0002bviously, the reconciliation front
+u0002bviously, the reconciliation front
+u0002bviously, you're in compliance with the travel you're in compliance with the travel you're in compliance with the travel rule which is a big win, but how do you rule which is a big win, but how do you rule which is a big win, but how do you see this evolving in terms of just the see this evolving in terms of just the see this evolving in terms of just the revenue opportunities for some of the revenue opportunities for some of the revenue opportunities for some of the folks that are in the network? folks that are in the network? folks that are in the network? >> It's a great question and something >> It's a great question and something >> It's a great question and something we've been thinking a lot about
+u0002ur we've been thinking a lot about
+u0002ur we've been thinking a lot about
+u0002ur initial idea for this was to let's make initial idea for this was to let's make initial idea for this was to let's make sure all the participants in the sure all the participants in the sure all the participants in the transaction flow are fully incentivized transaction flow are fully incentivized transaction flow are fully incentivized through the network and through the through the network and through the through the network and through the messaging to it
+u0002nd then after talking messaging to it
+u0002nd then after talking messaging to it
+u0002nd then after talking with a lot of our design partners, we with a lot of our design partners, we with a lot of our design partners, we had a very convoluted idea first
+u0002h, had a very convoluted idea first
+u0002h, had a very convoluted idea first
+u0002h, this would be the fairest way of doing this would be the fairest way of doing this would be the fairest way of doing it
+u0002nd then the equivalent of the it
+u0002nd then the equivalent of the it
+u0002nd then the equivalent of the acquiring bank, so the PSP or VAS who acquiring bank, so the PSP or VAS who acquiring bank, so the PSP or VAS who starts the payment transaction, they starts the payment transaction, they starts the payment transaction, they said, well, we already have a business said, well, we already have a business said, well, we already have a business model
+u0002on't mess with our business model
+u0002on't mess with our business model
+u0002on't mess with our business model. we're quite happy with what we're model. we're quite happy with what we're model. we're quite happy with what we're doing
+u0002o we said, oh, okay, that doing
+u0002o we said, oh, okay, that doing
+u0002o we said, oh, okay, that simplifies things a little bit
+u0002nd then simplifies things a little bit
+u0002nd then simplifies things a little bit
+u0002nd then we're realizing if someone needs to do a we're realizing if someone needs to do a we're realizing if someone needs to do a forex step like a liquidity provider, forex step like a liquidity provider, forex step like a liquidity provider, they already have a business model. they already have a business model. they already have a business model
+u0002allet providers, they already have Wallet providers, they already have Wallet providers, they already have business models
+u0002o what we've actually business models
+u0002o what we've actually business models
+u0002o what we've actually ended up with is a somewhat variant of ended up with is a somewhat variant of ended up with is a somewhat variant of the interchange fee, the much maligned the interchange fee, the much maligned the interchange fee, the much maligned interchange fee, even though it's interchange fee, even though it's interchange fee, even though it's maligned by a lot of people is actually maligned by a lot of people is actually maligned by a lot of people is actually provides a lot of value
+u0002his is what's provides a lot of value
+u0002his is what's provides a lot of value
+u0002his is what's allowed companies like RAMP and many allowed companies like RAMP and many allowed companies like RAMP and many other very innovative companies start other very innovative companies start other very innovative companies start building incredible businesses
+u0002o we've building incredible businesses
+u0002o we've building incredible businesses
+u0002o we've essentially built a model
+u0002t's not as essentially built a model
+u0002t's not as essentially built a model
+u0002t's not as large of an interchange fee, but we large of an interchange fee, but we large of an interchange fee, but we built a fair model around that where built a fair model around that where built a fair model around that where essentially the equivalent of the card essentially the equivalent of the card essentially the equivalent of the card issuers which could be crypto wallet issuers which could be crypto wallet issuers which could be crypto wallet providers, exchanges, they can start providers, exchanges, they can start providers, exchanges, they can start earning revenue because they are number earning revenue because they are number earning revenue because they are number one they KYC their customers
+u0002hey make one they KYC their customers
+u0002hey make one they KYC their customers
+u0002hey make sure that this is a good safe customer sure that this is a good safe customer sure that this is a good safe customer and they can verify the identity to the and they can verify the identity to the and they can verify the identity to the merchant
+u0002hat's a real value
+u0002lso, merchant
+u0002hat's a real value
+u0002lso, merchant
+u0002hat's a real value
+u0002lso, they're keeping the fund safe
+u0002o, they're keeping the fund safe
+u0002o, they're keeping the fund safe
+u0002o, they've earned that part similar to that they've earned that part similar to that they've earned that part similar to that interchange fee, but it's going to be a interchange fee, but it's going to be a interchange fee, but it's going to be a lot more transparent what the actual lot more transparent what the actual lot more transparent what the actual pricing settles up to. we're still pricing settles up to. we're still pricing settles up to. we're still working on, but we're getting there
+u0002nd working on, but we're getting there
+u0002nd working on, but we're getting there
+u0002nd companies really like it because it companies really like it because it companies really like it because it protects their existing business model, protects their existing business model, protects their existing business model, provides them additional revenue, provides them additional revenue, provides them additional revenue, eliminates again these complex bilateral eliminates again these complex bilateral eliminates again these complex bilateral agreements that everyone hates that you agreements that everyone hates that you agreements that everyone hates that you have to do if you're working with a have to do if you're working with a have to do if you're working with a partner
+u0002ven in stable coins, you're partner
+u0002ven in stable coins, you're partner
+u0002ven in stable coins, you're working with a partner who's doing fiat working with a partner who's doing fiat working with a partner who's doing fiat on the other side
+u0002ow, you have to do on the other side
+u0002ow, you have to do on the other side
+u0002ow, you have to do commercial negotiation
+u0002his just commercial negotiation
+u0002his just commercial negotiation
+u0002his just provides transparency all along
+u0002nd provides transparency all along
+u0002nd provides transparency all along
+u0002nd it's a win for end customers, for the it's a win for end customers, for the it's a win for end customers, for the business customers, but also to the business customers, but also to the business customers, but also to the businesses within it
+u0002t provides I businesses within it
+u0002t provides I businesses within it
+u0002t provides I think also a lot of opportunity for new think also a lot of opportunity for new think also a lot of opportunity for new innovation in the space
+u0002here's this innovation in the space
+u0002here's this innovation in the space
+u0002here's this great book written by Dehawk, the great book written by Dehawk, the great book written by Dehawk, the founder of Visa
+u0002t's called One from founder of Visa
+u0002t's called One from founder of Visa
+u0002t's called One from Many
+u0002nd it just talks about some of Many
+u0002nd it just talks about some of Many
+u0002nd it just talks about some of the pain points and just what was the pain points and just what was the pain points and just what was breaking with this bulcanization of breaking with this bulcanization of breaking with this bulcanization of credit cards in the early days and the credit cards in the early days and the credit cards in the early days and the banks having these issues, compliance banks having these issues, compliance banks having these issues, compliance requirements, the merchants all being requirements, the merchants all being requirements, the merchants all being upset and then Visa came about almost as upset and then Visa came about almost as upset and then Visa came about almost as this attempt to fix this and originally this attempt to fix this and originally this attempt to fix this and originally was a consortium and obviously then was a consortium and obviously then was a consortium and obviously then turned into an operating business
+u0002ut turned into an operating business
+u0002ut turned into an operating business
+u0002ut is it oversimplifying to say that this is it oversimplifying to say that this is it oversimplifying to say that this feels a lot like that where you have feels a lot like that where you have feels a lot like that where you have this bulcanized liquidity landscape in this bulcanized liquidity landscape in this bulcanized liquidity landscape in stable coins
+u0002ou have all these cast of stable coins
+u0002ou have all these cast of stable coins
+u0002ou have all these cast of characters that need to engage and you characters that need to engage and you characters that need to engage and you guys are following a similar network guys are following a similar network guys are following a similar network playbook here. playbook here. playbook here. >> Absolutely
+u0002o we've been trying to >> Absolutely
+u0002o we've been trying to >> Absolutely
+u0002o we've been trying to build something that actually makes build something that actually makes build something that actually makes sense for the businesses who are sense for the businesses who are sense for the businesses who are involved who are actually doing the involved who are actually doing the involved who are actually doing the money movement keeping funds safe and money movement keeping funds safe and money movement keeping funds safe and that's also really what D discovered. that's also really what D discovered. that's also really what D discovered
+u0002t's a very interesting book
+u0002 love it It's a very interesting book
+u0002 love it It's a very interesting book
+u0002 love it actually
+u0002 have a favorite quote for it actually
+u0002 have a favorite quote for it actually
+u0002 have a favorite quote for it where D discovered I believe is when where D discovered I believe is when where D discovered I believe is when they were doing they had a twoe design they were doing they had a twoe design they were doing they had a twoe design session where they really built the Visa session where they really built the Visa session where they really built the Visa network as it is today
+u0002hey designed network as it is today
+u0002hey designed network as it is today
+u0002hey designed all the processes in Salelo and he said all the processes in Salelo and he said all the processes in Salelo and he said the first thing that they realized is the first thing that they realized is the first thing that they realized is the primary function of the card was to the primary function of the card was to the primary function of the card was to identify the buyer to seller and seller identify the buyer to seller and seller identify the buyer to seller and seller to buyer and you brought that up and to buyer and you brought that up and to buyer and you brought that up and that's really the function of the travel that's really the function of the travel that's really the function of the travel rule and that's what we've been doing rule and that's what we've been doing rule and that's what we've been doing over the last 5 years
+u0002hen I read that over the last 5 years
+u0002hen I read that over the last 5 years
+u0002hen I read that a couple of years ago, I was like, we're a couple of years ago, I was like, we're a couple of years ago, I was like, we're along the right path here
+u0002his is along the right path here
+u0002his is along the right path here
+u0002his is basically what we're doing on this. basically what we're doing on this. basically what we're doing on this. >> It's a unique book
+u0002ven the way it's >> It's a unique book
+u0002ven the way it's >> It's a unique book
+u0002ven the way it's written is just it's a little strange. written is just it's a little strange. written is just it's a little strange
+u0002ike he has this inner monologue Like he has this inner monologue Like he has this inner monologue throughout the book
+u0002ut a lot of the throughout the book
+u0002ut a lot of the throughout the book
+u0002ut a lot of the same pain points, I think, that exist. same pain points, I think, that exist. same pain points, I think, that exist
+u0002nd I guess building these new payment And I guess building these new payment And I guess building these new payment systems is always complicated, but when systems is always complicated, but when systems is always complicated, but when you're starting by just solving acute you're starting by just solving acute you're starting by just solving acute pain points, it seems to have been how pain points, it seems to have been how pain points, it seems to have been how Visa was able to be so successful
+u0002isa was able to be so successful
+u0002isa was able to be so successful. >> You can't come in as a massive player. >> You can't come in as a massive player. >> You can't come in as a massive player
+u0002nd Bank of America came in initially as And Bank of America came in initially as And Bank of America came in initially as this massive player
+u0002hey said, "Here's this massive player
+u0002hey said, "Here's this massive player
+u0002hey said, "Here's Visa
+u0002ou just do what we say." And the Visa
+u0002ou just do what we say." And the Visa
+u0002ou just do what we say." And the member banks were not having it
+u0002nd member banks were not having it
+u0002nd member banks were not having it
+u0002nd that's also what we're seeing some of that's also what we're seeing some of that's also what we're seeing some of the other initiatives that are happening the other initiatives that are happening the other initiatives that are happening with 10,000 lb gorillas in certain with 10,000 lb gorillas in certain with 10,000 lb gorillas in certain markets who are trying to this is what markets who are trying to this is what markets who are trying to this is what you do
+u0002nd that's not what you do
+u0002f you do
+u0002nd that's not what you do
+u0002f you do
+u0002nd that's not what you do
+u0002f you actually want to build a real you actually want to build a real you actually want to build a real network, you need an open loop network. network, you need an open loop network. network, you need an open loop network
+u0002nd we can argue whether Visa is fully And we can argue whether Visa is fully And we can argue whether Visa is fully open loop, but they essentially built a open loop, but they essentially built a open loop, but they essentially built a great de facto open loop network because great de facto open loop network because great de facto open loop network because they were able to really bring people they were able to really bring people they were able to really bring people into the governance, build agreement on into the governance, build agreement on into the governance, build agreement on it and build something that worked for it and build something that worked for it and build something that worked for everyone
+u0002nd that's also what we're everyone
+u0002nd that's also what we're everyone
+u0002nd that's also what we're trying to do here
+u0002'm an old school trying to do here
+u0002'm an old school trying to do here
+u0002'm an old school crypto guy
+u0002or me, the open loop is crypto guy
+u0002or me, the open loop is crypto guy
+u0002or me, the open loop is part of crypto is incredibly important. part of crypto is incredibly important. part of crypto is incredibly important
+u0002nd you see a lot of companies in the And you see a lot of companies in the And you see a lot of companies in the space who are trying to build closed space who are trying to build closed space who are trying to build closed networks and people who come from the networks and people who come from the networks and people who come from the industry who should know better are industry who should know better are industry who should know better are building these closed loop networks
+u0002nd building these closed loop networks
+u0002nd building these closed loop networks
+u0002nd it's very frustrating to me that okay it's very frustrating to me that okay it's very frustrating to me that okay now you've achieved a certain market now you've achieved a certain market now you've achieved a certain market power and now let's just close it in. power and now let's just close it in. power and now let's just close it in
+u0002nd I'm like that's not what you built And I'm like that's not what you built And I'm like that's not what you built your business on
+u0002ou built your your business on
+u0002ou built your your business on
+u0002ou built your business on an openloop network and business on an openloop network and business on an openloop network and everyone's seeing what's happening and everyone's seeing what's happening and everyone's seeing what's happening and no one wants to be part of these closed no one wants to be part of these closed no one wants to be part of these closed loop networks
+u0002o that's really one of loop networks
+u0002o that's really one of loop networks
+u0002o that's really one of our strength is that we built everything our strength is that we built everything our strength is that we built everything we do around open loop
+u0002ou know we do around open loop
+u0002ou know we do around open loop
+u0002ou know obviously as a business we have obviously as a business we have obviously as a business we have limitations where we can do business but limitations where we can do business but limitations where we can do business but we build it on top of open protocols we build it on top of open protocols we build it on top of open protocols that anyone can be part of and at a core that anyone can be part of and at a core that anyone can be part of and at a core we build the tools to allow companies to we build the tools to allow companies to we build the tools to allow companies to manage their own risk appetite because manage their own risk appetite because manage their own risk appetite because that's also I think a misunderstanding that's also I think a misunderstanding that's also I think a misunderstanding that a lot of crypto libertarians and I that a lot of crypto libertarians and I that a lot of crypto libertarians and I am such a crypto libertarian but a lot am such a crypto libertarian but a lot am such a crypto libertarian but a lot of crypto libertarians make the mistake of crypto libertarians make the mistake of crypto libertarians make the mistake that you should be able to transact with that you should be able to transact with that you should be able to transact with whoever you want to transact with. whoever you want to transact with. whoever you want to transact with
+u0002bsolutely true
+u0002ou should also be able Absolutely true
+u0002ou should also be able Absolutely true
+u0002ou should also be able to not transact with the people that you to not transact with the people that you to not transact with the people that you don't want to transact with
+u0002hat's also don't want to transact with
+u0002hat's also don't want to transact with
+u0002hat's also foundational right of the libertarian foundational right of the libertarian foundational right of the libertarian argument
+u0002ut people forget that part of argument
+u0002ut people forget that part of argument
+u0002ut people forget that part of it
+u0002nd we provide people the tools to it
+u0002nd we provide people the tools to it
+u0002nd we provide people the tools to be able to decide who they want to be able to decide who they want to be able to decide who they want to transact with, who they don't want to transact with, who they don't want to transact with, who they don't want to transact with
+u0002hat's equally important transact with
+u0002hat's equally important transact with
+u0002hat's equally important because otherwise we are essentially in because otherwise we are essentially in because otherwise we are essentially in communism
+u0002nd I don't think that's communism
+u0002nd I don't think that's communism
+u0002nd I don't think that's actually what we want. actually what we want. actually what we want. >> No, that's not what we want
+u0002ut it's a >> No, that's not what we want
+u0002ut it's a >> No, that's not what we want
+u0002ut it's a great point
+u0002 guess history of great point
+u0002 guess history of great point
+u0002 guess history of financial services would lead you to the financial services would lead you to the financial services would lead you to the conclusion I think that open networks conclusion I think that open networks conclusion I think that open networks always win despite the fact that closed always win despite the fact that closed always win despite the fact that closed networks are always attempted might be networks are always attempted might be networks are always attempted might be the way I would phrase that
+u0002nd you see the way I would phrase that
+u0002nd you see the way I would phrase that
+u0002nd you see a little bit of that in the crypto a little bit of that in the crypto a little bit of that in the crypto ecosystem now where you have custodians ecosystem now where you have custodians ecosystem now where you have custodians looking at the tokenized security market looking at the tokenized security market looking at the tokenized security market and almost wanting to displace the DTC and almost wanting to displace the DTC and almost wanting to displace the DTC and hey everything will be custody in my and hey everything will be custody in my and hey everything will be custody in my bank
+u0002t's impossible for me to imagine bank
+u0002t's impossible for me to imagine bank
+u0002t's impossible for me to imagine that working just as it would be that working just as it would be that working just as it would be impossible to imagine a stable coin impossible to imagine a stable coin impossible to imagine a stable coin issuer owning the network and just issuer owning the network and just issuer owning the network and just creating the industry standard on top of creating the industry standard on top of creating the industry standard on top of their own stable coin
+u0002ut I do think their own stable coin
+u0002ut I do think their own stable coin
+u0002ut I do think we'll probably see attempts like that. we'll probably see attempts like that. we'll probably see attempts like that
+u0002'm curious if you agree that it'll be I'm curious if you agree that it'll be I'm curious if you agree that it'll be messy here for a while before the open messy here for a while before the open messy here for a while before the open system wins. system wins. system wins. >> Absolutely
+u0002 mean, we've seen it just >> Absolutely
+u0002 mean, we've seen it just >> Absolutely
+u0002 mean, we've seen it just in the crypto travel rule space and I in the crypto travel rule space and I in the crypto travel rule space and I will not mention names
+u0002nyone who knows will not mention names
+u0002nyone who knows will not mention names
+u0002nyone who knows what's happening know exactly who I'm what's happening know exactly who I'm what's happening know exactly who I'm talking about, but there's been talking about, but there's been talking about, but there's been definitely clear attempts of creating definitely clear attempts of creating definitely clear attempts of creating closed loop networks where large players closed loop networks where large players closed loop networks where large players wanted to essentially build a network to wanted to essentially build a network to wanted to essentially build a network to control and manage their position
+u0002nd control and manage their position
+u0002nd control and manage their position
+u0002nd you see all the large players build you see all the large players build you see all the large players build competing networks to be able to protect competing networks to be able to protect competing networks to be able to protect themselves against the largest themselves against the largest themselves against the largest competitor's network
+u0002nd then there competitor's network
+u0002nd then there competitor's network
+u0002nd then there have been a few attempts at creating have been a few attempts at creating have been a few attempts at creating public domain open protocols and none of public domain open protocols and none of public domain open protocols and none of them have really quite worked
+u0002nd then them have really quite worked
+u0002nd then them have really quite worked
+u0002nd then we've been trying to build an open we've been trying to build an open we've been trying to build an open network but build the tooling to allow network but build the tooling to allow network but build the tooling to allow people to actually implement this people to actually implement this people to actually implement this because the openloop network requires a because the openloop network requires a because the openloop network requires a special set of tooling and we saw that special set of tooling and we saw that special set of tooling and we saw that with the internet as well
+u0002nd I used to with the internet as well
+u0002nd I used to with the internet as well
+u0002nd I used to run my own email service
+u0002 did it for a run my own email service
+u0002 did it for a run my own email service
+u0002 did it for a long time until I just gave up and said long time until I just gave up and said long time until I just gave up and said okay Google here I'm with you it's fine okay Google here I'm with you it's fine okay Google here I'm with you it's fine on that point but it is something that on that point but it is something that on that point but it is something that we're still going to see happening
+u0002nd we're still going to see happening
+u0002nd we're still going to see happening
+u0002nd I think on the travel rule part of it, I think on the travel rule part of it, I think on the travel rule part of it, it's mostly settled now that open it's mostly settled now that open it's mostly settled now that open networks work and we have significant networks work and we have significant networks work and we have significant transaction volume
+u0002 think we have much transaction volume
+u0002 think we have much transaction volume
+u0002 think we have much more transaction volume I believe than more transaction volume I believe than more transaction volume I believe than the closed networks unless you count the closed networks unless you count the closed networks unless you count interity volume between the sponsor interity volume between the sponsor interity volume between the sponsor institution of set closed network
+u0002o I institution of set closed network
+u0002o I institution of set closed network
+u0002o I think open works but there will always think open works but there will always think open works but there will always be these attempts always be attempts at be these attempts always be attempts at be these attempts always be attempts at building these closed networks
+u0002he building these closed networks
+u0002he building these closed networks
+u0002he temptation is so strong
+u0002h yeah, we're temptation is so strong
+u0002h yeah, we're temptation is so strong
+u0002h yeah, we're going to use our market position
+u0002e're going to use our market position
+u0002e're going to use our market position
+u0002e're going to control it
+u0002e're gonna set the going to control it
+u0002e're gonna set the going to control it
+u0002e're gonna set the price
+u0002e're gonna prioritize our stable price
+u0002e're gonna prioritize our stable price
+u0002e're gonna prioritize our stable coin, etc., etc
+u0002nd people see what it coin, etc., etc
+u0002nd people see what it coin, etc., etc
+u0002nd people see what it is
+u0002nd sometime people want to join, is
+u0002nd sometime people want to join, is
+u0002nd sometime people want to join, just do I have to join
+u0002ut everyone just do I have to join
+u0002ut everyone just do I have to join
+u0002ut everyone knows about it and knows what's knows about it and knows what's knows about it and knows what's happening and they knows the risk of happening and they knows the risk of happening and they knows the risk of that, which is also why it's been a very that, which is also why it's been a very that, which is also why it's been a very different sales process bringing the different sales process bringing the different sales process bringing the sign partners on than the early days of sign partners on than the early days of sign partners on than the early days of trying to sell Travel Rule
+u0002eople 100% trying to sell Travel Rule
+u0002eople 100% trying to sell Travel Rule
+u0002eople 100% want to be part of this and see the want to be part of this and see the want to be part of this and see the value of it
+u0002his next question is value of it
+u0002his next question is value of it
+u0002his next question is probably outside of the bounds of what probably outside of the bounds of what probably outside of the bounds of what you're building now with Nota Benet, but you're building now with Nota Benet, but you're building now with Nota Benet, but you're someone that was involved in the you're someone that was involved in the you're someone that was involved in the cipher punk movement
+u0002ou were crypto cipher punk movement
+u0002ou were crypto cipher punk movement
+u0002ou were crypto before blockchains were around
+u0002ou're before blockchains were around
+u0002ou're before blockchains were around
+u0002ou're in the weeds here and obviously was a in the weeds here and obviously was a in the weeds here and obviously was a pretty revolutionary concept
+u0002f you pretty revolutionary concept
+u0002f you pretty revolutionary concept
+u0002f you think about the promise of owning your think about the promise of owning your think about the promise of owning your own data, owning your own identity and own data, owning your own identity and own data, owning your own identity and some of what the world will probably some of what the world will probably some of what the world will probably look like in 20 to 30 years around not look like in 20 to 30 years around not look like in 20 to 30 years around not being a contributor to social networks being a contributor to social networks being a contributor to social networks that just monetize your eyeballs and that just monetize your eyeballs and that just monetize your eyeballs and being able to port your social graph being able to port your social graph being able to port your social graph from service to service and really the from service to service and really the from service to service and really the consumer being in power with his or her consumer being in power with his or her consumer being in power with his or her digital identity
+u0002here are we in that digital identity
+u0002here are we in that digital identity
+u0002here are we in that journey and curious just around the journey and curious just around the journey and curious just around the general blockchain identity space? what general blockchain identity space? what general blockchain identity space? what you're excited about right now. you're excited about right now. you're excited about right now. >> It's a tricky area because I always had >> It's a tricky area because I always had >> It's a tricky area because I always had great hopes for a lot of the great hopes for a lot of the great hopes for a lot of the possibilities of this technology, but possibilities of this technology, but possibilities of this technology, but it's a really difficult thing to sell to it's a really difficult thing to sell to it's a really difficult thing to sell to end users and really for it to work end users and really for it to work end users and really for it to work according to the ideals that everyone according to the ideals that everyone according to the ideals that everyone has
+u0002ou have to sell it to the end has
+u0002ou have to sell it to the end has
+u0002ou have to sell it to the end users
+u0002usiness users will be there. users
+u0002usiness users will be there. users
+u0002usiness users will be there
+u0002hat's not the problem
+u0002ut you have to That's not the problem
+u0002ut you have to That's not the problem
+u0002ut you have to sell it to the end users
+u0002nd it's been sell it to the end users
+u0002nd it's been sell it to the end users
+u0002nd it's been very very tricky thing to do
+u0002nd very very tricky thing to do
+u0002nd very very tricky thing to do
+u0002nd unfortunately, it may be that unfortunately, it may be that unfortunately, it may be that governments have to push it
+u0002nd I'm not governments have to push it
+u0002nd I'm not governments have to push it
+u0002nd I'm not necessarily a fan of that either because necessarily a fan of that either because necessarily a fan of that either because I think people need to own their I think people need to own their I think people need to own their identity
+u0002ut there's so many missed identity
+u0002ut there's so many missed identity
+u0002ut there's so many missed opportunities that have been here
+u0002nd I opportunities that have been here
+u0002nd I opportunities that have been here
+u0002nd I think a lot of it is also this idea that think a lot of it is also this idea that think a lot of it is also this idea that oh we need one identity
+u0002ut the reality oh we need one identity
+u0002ut the reality oh we need one identity
+u0002ut the reality is there's no such thing as one is there's no such thing as one is there's no such thing as one identity
+u0002e all have many different identity
+u0002e all have many different identity
+u0002e all have many different identities out there
+u0002here's work identities out there
+u0002here's work identities out there
+u0002here's work identity
+u0002here's a lot of people in identity
+u0002here's a lot of people in identity
+u0002here's a lot of people in crypto have multiple Twitter identities crypto have multiple Twitter identities crypto have multiple Twitter identities or ex identities
+u0002nd there's so many or ex identities
+u0002nd there's so many or ex identities
+u0002nd there's so many different identities in your everyday. different identities in your everyday. different identities in your everyday
+u0002o you really want them all in a Do you really want them all in a Do you really want them all in a centralized profile that maybe you centralized profile that maybe you centralized profile that maybe you control, maybe you don't
+u0002lso control, maybe you don't
+u0002lso control, maybe you don't
+u0002lso libertarian ideal that I control all libertarian ideal that I control all libertarian ideal that I control all interactions, all data I have
+u0002ut the interactions, all data I have
+u0002ut the interactions, all data I have
+u0002ut the reality is most of the data you have is reality is most of the data you have is reality is most of the data you have is related to interactions you have with related to interactions you have with related to interactions you have with others
+u0002o now do you also control their others
+u0002o now do you also control their others
+u0002o now do you also control their versions of that data
+u0002o it starts versions of that data
+u0002o it starts versions of that data
+u0002o it starts becoming very tricky and most people are becoming very tricky and most people are becoming very tricky and most people are not really looking at that
+u0002lockchains not really looking at that
+u0002lockchains not really looking at that
+u0002lockchains provide some interesting ways of doing provide some interesting ways of doing provide some interesting ways of doing it where you can prove certain parts of it where you can prove certain parts of it where you can prove certain parts of it
+u0002ut I think it's going to be a while it
+u0002ut I think it's going to be a while it
+u0002ut I think it's going to be a while before we see a system and I don't before we see a system and I don't before we see a system and I don't actually think we necessarily want a actually think we necessarily want a actually think we necessarily want a system
+u0002t's quite interesting to see
+u0002 system
+u0002t's quite interesting to see
+u0002 system
+u0002t's quite interesting to see
+u0002 live in Switzerland and Switzerland live in Switzerland and Switzerland live in Switzerland and Switzerland there has been several votes to the there has been several votes to the there has been several votes to the country to approve digital identity over country to approve digital identity over country to approve digital identity over the years and most of them have failed. the years and most of them have failed. the years and most of them have failed
+u0002t actually was just passed a week ago It actually was just passed a week ago It actually was just passed a week ago and I was interested to see that the and I was interested to see that the and I was interested to see that the reason why it passed was the past reason why it passed was the past reason why it passed was the past versions were centralized identities versions were centralized identities versions were centralized identities built on old-fashioned open ID built on old-fashioned open ID built on old-fashioned open ID technology
+u0002ut the one that actually technology
+u0002ut the one that actually technology
+u0002ut the one that actually passed is now based on decentralized passed is now based on decentralized passed is now based on decentralized identities like the same identifiers identities like the same identifiers identities like the same identifiers that we built at Dupport
+u0002 haven't that we built at Dupport
+u0002 haven't that we built at Dupport
+u0002 haven't looked into the technology
+u0002ut okay, looked into the technology
+u0002ut okay, looked into the technology
+u0002ut okay, that's kind of cool that for government that's kind of cool that for government that's kind of cool that for government purposes
+u0002hat's also a great thing in purposes
+u0002hat's also a great thing in purposes
+u0002hat's also a great thing in Switzerland
+u0002hey are going to be very Switzerland
+u0002hey are going to be very Switzerland
+u0002hey are going to be very very clear because it's really probably very clear because it's really probably very clear because it's really probably one of the most libertarian countries in one of the most libertarian countries in one of the most libertarian countries in the world
+u0002t's going to be used for the world
+u0002t's going to be used for the world
+u0002t's going to be used for just specific purposes like government just specific purposes like government just specific purposes like government purposes and not for getting a bank purposes and not for getting a bank purposes and not for getting a bank account or anything like that
+u0002o that's account or anything like that
+u0002o that's account or anything like that
+u0002o that's great to see
+u0002 will say one thing that great to see
+u0002 will say one thing that great to see
+u0002 will say one thing that does worry me constantly is the idea does worry me constantly is the idea does worry me constantly is the idea that CK starts or CK proofs is the that CK starts or CK proofs is the that CK starts or CK proofs is the solution
+u0002nd I think we need to look at solution
+u0002nd I think we need to look at solution
+u0002nd I think we need to look at these as they're just technologies
+u0002ut these as they're just technologies
+u0002ut these as they're just technologies
+u0002ut in most cases, the reason why identity in most cases, the reason why identity in most cases, the reason why identity is important is that you want to is important is that you want to is important is that you want to correlate a person to an activity
+u0002nd correlate a person to an activity
+u0002nd correlate a person to an activity
+u0002nd that's true whether it's an identity that's true whether it's an identity that's true whether it's an identity between you and Nick, for example. between you and Nick, for example. between you and Nick, for example
+u0002ou're correlating your relationship You're correlating your relationship You're correlating your relationship being partners and working together
+u0002t being partners and working together
+u0002t being partners and working together
+u0002t wouldn't work if you couldn't correlate wouldn't work if you couldn't correlate wouldn't work if you couldn't correlate your day-to-day interactions
+u0002ou need your day-to-day interactions
+u0002ou need your day-to-day interactions
+u0002ou need that correlation part of it
+u0002o, the that correlation part of it
+u0002o, the that correlation part of it
+u0002o, the idea of building a non-correlatable idea of building a non-correlatable idea of building a non-correlatable identity system, it removes the overall identity system, it removes the overall identity system, it removes the overall point of identity because the point of point of identity because the point of point of identity because the point of identity is not to prove that you're not identity is not to prove that you're not identity is not to prove that you're not on a sanctions list
+u0002hat's not actually on a sanctions list
+u0002hat's not actually on a sanctions list
+u0002hat's not actually the point
+u0002nd that's not the point of the point
+u0002nd that's not the point of the point
+u0002nd that's not the point of KYC either
+u0002he point of KYC is that KYC either
+u0002he point of KYC is that KYC either
+u0002he point of KYC is that someone needs to be able to correlate someone needs to be able to correlate someone needs to be able to correlate you with your transactions so they can you with your transactions so they can you with your transactions so they can make decisions on it
+u0002o if you're now make decisions on it
+u0002o if you're now make decisions on it
+u0002o if you're now building a non-correlatable identity, it building a non-correlatable identity, it building a non-correlatable identity, it doesn't quite work
+u0002nd unfortunately, I doesn't quite work
+u0002nd unfortunately, I doesn't quite work
+u0002nd unfortunately, I see a lot of super smart people fall see a lot of super smart people fall see a lot of super smart people fall into the trap that this technology is so into the trap that this technology is so into the trap that this technology is so cool and we can solve everything with cool and we can solve everything with cool and we can solve everything with it
+u0002ut then I tend to point out the it
+u0002ut then I tend to point out the it
+u0002ut then I tend to point out the idea and I've actually seen companies idea and I've actually seen companies idea and I've actually seen companies that say, "Oh, we're CK KYC." And I'm that say, "Oh, we're CK KYC." And I'm that say, "Oh, we're CK KYC." And I'm like, "You do know the CK negates the like, "You do know the CK negates the like, "You do know the CK negates the second K." And people don't quite second K." And people don't quite second K." And people don't quite realize it
+u0002nd it's sad because it's realize it
+u0002nd it's sad because it's realize it
+u0002nd it's sad because it's very cool technology
+u0002t's very very very cool technology
+u0002t's very very very cool technology
+u0002t's very very cool technology
+u0002t has tons of cool technology
+u0002t has tons of cool technology
+u0002t has tons of applications including applications to applications including applications to applications including applications to tie permissioning applications
+u0002ut it's tie permissioning applications
+u0002ut it's tie permissioning applications
+u0002ut it's not identity
+u0002rovisioning is different not identity
+u0002rovisioning is different not identity
+u0002rovisioning is different than identity
+u0002nd I think they're great than identity
+u0002nd I think they're great than identity
+u0002nd I think they're great applications for it
+u0002nd once we learn applications for it
+u0002nd once we learn applications for it
+u0002nd once we learn to use it for that, I think it's going to use it for that, I think it's going to use it for that, I think it's going to be a lot better
+u0002nd I think once we to be a lot better
+u0002nd I think once we to be a lot better
+u0002nd I think once we learn to use it, CK rollups is already learn to use it, CK rollups is already learn to use it, CK rollups is already used at scale
+u0002hat's a fantastic use used at scale
+u0002hat's a fantastic use used at scale
+u0002hat's a fantastic use case for it. case for it. case for it. >> Totally
+u0002ell, that was a super >> Totally
+u0002ell, that was a super >> Totally
+u0002ell, that was a super thoughtful answer and it'll be really thoughtful answer and it'll be really thoughtful answer and it'll be really interesting to look at how this evolves. interesting to look at how this evolves. interesting to look at how this evolves
+u0002bviously, some of the social networks Obviously, some of the social networks Obviously, some of the social networks in the blockchain space are making some in the blockchain space are making some in the blockchain space are making some attempts here
+u0002o, good place to keep an attempts here
+u0002o, good place to keep an attempts here
+u0002o, good place to keep an eye on Telle
+u0002his has been great
+u0002uper eye on Telle
+u0002his has been great
+u0002uper eye on Telle
+u0002his has been great
+u0002uper excited about what you're doing with excited about what you're doing with excited about what you're doing with Notaben and Flow, the new product
+u0002here Notaben and Flow, the new product
+u0002here Notaben and Flow, the new product
+u0002here can we send folks to learn more? can we send folks to learn more? can we send folks to learn more? >> Just go to our website, not.id/flow. >> Just go to our website, not.id/flow. >> Just go to our website, not.id/flow
+u0002ou can learn about our great new You can learn about our great new You can learn about our great new product as well
+u0002e have a fantastic product as well
+u0002e have a fantastic product as well
+u0002e have a fantastic white paper that goes into the details white paper that goes into the details white paper that goes into the details of why this is needed and what we're of why this is needed and what we're of why this is needed and what we're doing. doing. doing. >> Awesome
+u0002ell, thanks so much for coming >> Awesome
+u0002ell, thanks so much for coming >> Awesome
+u0002ell, thanks so much for coming back on
+u0002e'll do it again soon. back on
+u0002e'll do it again soon. back on
+u0002e'll do it again soon. >> Thanks a lot, Matt
+u0002ake care. >> Thanks a lot, Matt
+u0002ake care. >> Thanks a lot, Matt
+u0002ake care. >> Thanks for listening to another episode >> Thanks for listening to another episode >> Thanks for listening to another episode of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o learn more about Castle Island, visit learn more about Castle Island, visit learn more about Castle Island, visit castle island.vc. castle island.vc. castle island.vc
+u0002nd to listen to all of our podcast And to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle episodes, please visit castle episodes, please visit castle island.vc/mpodcast island.vc/mpodcast island.vc/mpodcast or just click on the tab on our website. or just click on the tab on our website. or just click on the tab on our website
+u0002hanks for listening. 

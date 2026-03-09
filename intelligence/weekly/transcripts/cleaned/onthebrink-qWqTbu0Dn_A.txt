@@ -1,0 +1,587 @@
+Today on the podcast, I sat down with Mike Kagny, the founder of Figure
+igure is a company that went public in Figure is a company that went public in September and that has several exciting lines of business, including a heliloc origination business and a markets division
+they also started the division
+they also started the providence blockchain, which is the underlying technology for many of its core activities
+it was great to chat core activities
+it was great to chat with Mike
+eally liked talking about with Mike
+eally liked talking about the impact of stable coins on the banking sector and some of the issues that are being debated with respect to the market structure bill and how figure is thinking about that. think you'll enjoy this one
+to, without further ado, here is my conversation with Mike Kagny of Figure
+att Walsh and Nick Carter of Figure
+att Walsh and Nick Carter are partners at Castle [music] Island Ventures
+ll views expressed by them or Ventures
+ll views expressed by them or the guests on this podcast are solely their opinions and do not reflect the opinions of Castle Island Ventures. [music] Guest and host may maintain positions in the assets discussed in this podcast
+ou should not treat any this podcast
+ou should not treat any opinion expressed by anyone on this podcast as a specific inducement to make a particular investment or follow a particular strategy, but only as an expression of their personal [music] opinion
+this podcast is forformational opinion
+this podcast is forformational purposes only. brought down by bad mortgage investments
+ehman, which has 25,000 employees, will be liquidated. >> The federal government loans American International [music] Group, AIG, $85 billion
+roup, AIG, $85 billion. >> This is a different kind of mortgage, AND THE FED IS ASLEEP
+ND THE FED IS ASLEEP. >> THE federal government is stepping in to stabilize Fanny [music] May and Freddy Mack, the two mortgage giants that have been threatened by the housing crisis. >> The Bank of England has pumped 75 billion pounds more into Britain's ailing economy with a new round of constituted easing. >> You print a couple trillion dollars and all of a sudden, people start to worry. all of a sudden, people start to worry
+to out of this worry, we have something So out of this worry, we have something called the Bitcoin
+itcoin >> Mike, thanks for joining us on the podcast today. >> Thanks for having me. >> I guess congrats are in order
+irst of all, you went public I think less than a month ago
+to was it on September 11th? month ago
+to was it on September 11th
+to congratulations
+that's that been So congratulations
+that's that been like? >> It's been good
+ook, I mean being >> It's been good
+ook, I mean being public is a step in a long process. public is a step in a long process
+we're in this for the long game and we We're in this for the long game and we see an enormous amount of value that we're going to be able to create out of public blockchain and its application of financial services
+ut it was an financial services
+ut it was an important milestone
+reat for the team. important milestone
+reat for the team
+it's testament to all the work that's It's testament to all the work that's gone in, especially given the last four years of regulatory Edwin that we've had being able to come out public, not just to make it through the regulatory process, but have a public markets want to have access to blockchain businesses, public blockchain businesses
+it's great to see and I think super encouraging for the ecosystem. >> When we started to shift from a political and regulatory climate, did you see that line of sight towards going public
+as that a catalyst for your public
+as that a catalyst for your business? >> Yeah, I mean if you think about last year, 2024, we were trying to go public. year, 2024, we were trying to go public
+we were gap profitable last year and the We were gap profitable last year and the regulators just made it really, really difficult
+we were blockchain business. difficult
+we were blockchain business
+we did a lot of stuff in crypto
+we had We did a lot of stuff in crypto
+we had a lot of infrastructure around blockchain and crypto
+in an effort to try to go public, I split the company in two
+said, well, look, I'll take the two
+said, well, look, I'll take the really heavy blockchain stuff and put it over into Figure Markets
+and I brought in my Canopon to run Figure
+ike and I in my Canopon to run Figure
+ike and I have worked together for a long time
+we was the chief revenue officer at SoFi when I was CEO there
+it just became apparent that we weren't going to be able to go even by splitting the business apart
+and so what happened in business apart
+and so what happened in November when the election occurred, we started thinking, well, this has pretty significant ramifications for the SEC. significant ramifications for the SEC
+and that was one of the considerations, And that was one of the considerations, but it was also is there a public market appetite for this
+went to the bankers and I said, "Hey, does it make sense to recombine the business?" I gave them the story of why we would recombine and the direction that we would take the business and they said, "Yeah, it makes absolute sense." The reality was it was going to be hard to take them public separate anyway because there was so much interdependence
+nvestors don't like being invested in a public entity when there's a private entity that's critical to the operations and I understand that
+we said, "All right, understand that
+we said, "All right, well, let's go ahead and do this recombination." And we started talking about retesting the IPO waters
+and it was actually one of my investors that came in and said, "This is the incredible time
+ou need to do this." incredible time
+ou need to do this." And we just gone through this massive pain of separating the business
+and it was brutal, miserable
+and I'm like, was brutal, miserable
+and I'm like, "All right, it's a sunk cost
+can't make the decision based on how miserable that experience was
+we have to think about what is best for our shareholders." And it became pretty clear pretty quick that recombining was best
+ut in the beginning when we were best
+ut in the beginning when we were working through with the bankers, Goldman was left on our S1 and Goldman went through and they're like, "God, you really want to tone down the blockchain stuff." And they really wanted to make it like a fintech 2.0, which SoFi pioneered
+and I'm like, "But it's not pioneered
+and I'm like, "But it's not that." And they're like, "Yeah, but you know, you should talk about your loan origination system." I'm like, "But we give the loan origination system away for free." We might talk about the blockchain and and the fact that we built like oh market on blockchain and we're the only ones who have done that and it creates liquidity and like all this hugely differentiated stuff and I literally just fought with the bankers for like the first couple of months and they're like don't use the word DeFi and I'm like what do you mean
+'m a very true decentralized blockchain person. true decentralized blockchain person
+there's lots of like Coinbase is a set There's lots of like Coinbase is a set other than Bass which is moderately decentralized but it's a centralized brokerage exchange and I'm a decentralized person and I don't take custody of anything and I believe in the true premise of decentralization and the value that brings through blockchain
+see three value props of blockchain. see three value props of blockchain
+there's transactional efficiency, There's transactional efficiency, there's liquidity and there's DeFi from a financing standpoint
+to me, DeFi is the most powerful thing
+hen you connect sources and uses of capital, you unlock huge opportunities of rent disarm mediation
+the whole premise is we're mediation
+the whole premise is we're trying to get to DeFi
+eFi is the promised land here when we no longer have warehouses with you, Goldman Sachs. have warehouses with you, Goldman Sachs
+it's all on
+and they're like, yeah, you It's all on
+and they're like, yeah, you know, that scares people
+on't talk about that
+lah blah blah
+'m like, about that
+lah blah blah
+'m like, about that
+lah blah blah
+'m like, well, I'm absolutely going to talk about I'm fighting the whole time
+hen the circle goes public and then they come back
+they're like, "Hey, Mike, we back
+they're like, "Hey, Mike, we really think you should emphasize DeFi. >> Put a little blockchain on it. >> All the stuff that you're doing." And I'm like, "You kidding me?" Oh, okay
+ou guys are right
+ood thing we've got You guys are right
+ood thing we've got you bankers here to help us. [laughter] >> I love that story. >> Let's emphasize DeFi
+the buy side was there from the very beginning
+that we had with the buy side was a discussion that I think we made very accessible to them
+that we did is we talked through, them
+that we did is we talked through, hey, we used credit to demonstrate two of these three things
+we've demonstrated transactional efficiency. demonstrated transactional efficiency
+we demonstrated liquidity
+and now what We demonstrated liquidity
+and now what we're trying to do is demonstrate DeFi in the financing site
+we launched this product democratized prime
+that's how we're doing the DeFi approach
+ut we're also taking assets to other L1
+was on also taking assets to other L1
+was on a call this morning
+we're taking a call this morning
+we're taking yields, which is our stable coin and loan participation onto Salana and SUI and other networks as part of what our ambitions are
+we've demonstrated that on the credit side and what I said is look, I'm going to do something very interesting for you, the buy side
+'m going to do a second QIP
+'m going to do a second version of figure
+'m going to try to launch a second QIP and that equity will be Perry pursuit to the NASDAQ security, right? same rights to profit, same governance, same everything, but it's only going to be on the blockchain
+it's not going to trade on the DTCC
+it's not going to trade on the NASDAQ
+it's going to trade on our NASDAQ
+it's going to trade on our alternative trading system
+and our ATS is unique in that it's an actual deep ATS
+ou and I face off directly and ATS
+ou and I face off directly and transact there
+there's no intermediation, no custodial construct, just bilateral settlement
+and I think it's the only ATS that can do that, by the way
+ther people might argue with the way
+ther people might argue with me on that
+and they're like, "Well, that's great, Mike, but why would you do that
+the NASDAQ works fine." And I that
+the NASDAQ works fine." And I said, "It does." And so, let's be cognizant about where the value prop is. cognizant about where the value prop is
+think there's some transactional I think there's some transactional efficiency here, just like I cut 150 basis points of cost out of the securization process
+'ll cut some cost securization process
+'ll cut some cost out of this
+ike the transfer agent now out of this
+ike the transfer agent now is just listening to the blockchain
+ou don't have notification
+ike there's don't have notification
+ike there's some opportunity cost that's out there. some opportunity cost that's out there
+ot a huge number
+and they're like, Not a huge number
+and they're like, "Oh, is it liquidity
+re we going to "Oh, is it liquidity
+re we going to trade this 247?" And I'm like, well, you can, but I don't know how valuable that is
+lot of people are touting 247. is
+lot of people are touting 247
+it's so important, blah, blah
+'ve been on FTX to lift them out of I've been on FTX to lift them out of bankruptcy, and they had a US equity per business that traded 247
+and I can tell you, if all that mattered was 247, that business would have been flying
+and it wasn't
+it was sideways. 247 isn't wasn't
+it was sideways. 247 isn't actually a real value prop either
+ut here's where it's going to matter for you guys around DeFi
+ou're going to be able to take that equity and crossc collateralize it and buy Bitcoin and vice versa
+ou're going to be able to vice versa
+ou're going to be able to use Bitcoin and buy that in a way that's fully integrated and seamless
+ou can't do that through Prime Brokerage
+ou can't do that in your Robin Hood account because it's segmented out
+ut more interesting, today when you guys lend stock out and it goes on special, it's suddenly yielding 40% because there's a squeeze
+ou don't get the 40%
+our squeeze
+ou don't get the 40%
+our squeeze
+ou don't get the 40%
+our prime broker is still paying you bonds or not funds anymore, silver or whatever they're indexing to
+ut now you hold the stock, you control it, you let it out yourself
+ou set the rate and you out yourself
+ou set the rate and you get the economic
+and they're like, "That sounds really cool, but what if they don't trade in sync?" I'm like, "I will set it up where our treasury will swap the NMS security for the blockchain security one for one." And that way by definition, however much liquidity there is on the NMS side, there's the same amount of liquidity on the blockchain side and vice versa, whether it's Jump or others
+will get them to come in or others
+will get them to come in and make market on this and cut across. and make market on this and cut across
+and that's when everyone was like, well, And that's when everyone was like, well, what does that mean for DTCC
+and I'm like, no, no, you're not thinking about it the way I'm thinking about it, which is, yeah, there's no DTCC here
+ike, you don't need a registry
+TCC I think you don't need a registry
+TCC I think they generate like $2 billion a year of revenue and they hold about $50 billion of stream capital
+that's rent that's great to release back into the ecosystem but it's tiny in the big realm of economics here
+the more interesting thing and what I think the security is going to demonstrate is well you don't need DTCC but you also don't trade on the NASDAQ you trade on a DEX
+ou and I can take our MetaMask or Phantom or Figure Wallets and attach to that desk and ducks the trade
+ot only is there no centralized exchange, there's no introducing broker
+to, we don't need a introducing broker
+to, we don't need a Robin Hood account or a Schwab account or whatever
+ike, we just attach the or whatever
+ike, we just attach the DAX and trade
+and it's like, well, if DAX and trade
+and it's like, well, if you don't have that introducing broker who deals with margin, who deals with stock loan, DeFi, there's no prime brokeraging
+oldman Crime, which on the brokeraging
+oldman Crime, which on the sell side, the prime brokerage is the crown jewel of the business and they generate a ton of money for these guys, all goes away
+that's what this is going all goes away
+that's what this is going to be able to demonstrate, which is blockchain has two aspects
+there's the disruption of existing financial infrastructure and there's a green field
+quity is clearly a disruption of field
+quity is clearly a disruption of existing financial infrastructure and I think we have a very defined path of how that's going to work
+and I was out I think we did 150 investor pitches as part of our IPO road show
+and about a third of the way through I started pitching everybody this on the buy side. pitching everybody this on the buy side
+and they were like yes
+'m like and And they were like yes
+'m like and what I need you to do is I need you to then say hey this is so good I'm going to go to my other portfolio companies and say why don't you have a second QIP on the blockchain because it's way better for me for both a margining standpoint and stockr run standpoint
+have the same liquidity
+have the same transactional economics
+hy don't you transactional economics
+hy don't you do this
+and I think we're going to be do this
+and I think we're going to be able to affect change from within the way we've always done it, which is we go first
+in the other side, with credit, first
+in the other side, with credit, that's green field
+there is no marketplace for credit
+we created that, marketplace for credit
+we created that, but we did it with our loans first
+ow, we have 170 third parties that originate on our platform, and we're a small amount of that production, but we had to be the first ones to do it
+My hope is by the end of this year we'll have demonstrated the full vertical into DeFi on credit and the horizontal expansion into a new asset class being equity all native onchain where we have a green field example and a disruption example that indisputably demonstrate why blockchain is so important and so powerful. >> I love that and you've gone into market structure in a way that I just love to geek out on
+'d love to get your take geek out on
+'d love to get your take on just what this looks like almost from a regulatory perspective four or five years from now where you have the NMS market then you have these blockchain venues whether they're somewhat decentralized fully decentralized the existing buy side firms and the broker dealers do you see them having a fiduciary obligation to connect to these venues how is best bid best offer like how is that going to work do you think >> so one this is being hotly contested as part of clarity the challenge we have with clarity is with Genius Act
+there was a lot of momentum and a lot of political reason why no one wanted to stand in front of that and it it went through pretty quickly
+ow the banks all feel they got bamboozled on it because post execution they realize Coinbase is paying interest on USDC balances
+ince it's not Circle paying balances
+ince it's not Circle paying interest, it satisfies the Genius Act, but you're still getting interest on coin which is what the banks were trying to avoid
+with Clarity, you're in a much to avoid
+with Clarity, you're in a much different situation where you've got the centralized exchanges that have a very different perspective to the decentralized folks like myself
+care a lot about how do you deal with a transfer agent in DeFi
+and to me, those are things that are super important. are things that are super important
+ell, a centralized exchange doesn't Well, a centralized exchange doesn't care about that
+and then you have the care about that
+and then you have the existing players like ICE and NASDAQ DTCC that are like well how do we take the system we have and apply it to crypto or blockchain assets and I view as lipstick on the pig in terms of that process because the benefit here is to rip everything and start over
+the challenge from the regulatory standpoint and best X is a big issue
+TCC had this view of, hey, we're going to be able to take a DTCC security, we're going to vault it, and we're going to sell a security entitlement to it
+and that security entitlement can be used in DeFi
+it can, you know, blah DeFi
+it can, you know, blah blah blah
+hen they told me this, we blah blah
+hen they told me this, we were at a dinner when they were talking about this
+and I'm like, there's no way about this
+and I'm like, there's no way you can do this, at least not under the current regulatory structure
+ure enough, after they explained this to me, Commissioner Pur did that memo that said, by the way, a security entitlement of an MS security is still an NMS security and still subject to best act. security and still subject to best act
+the issue with best execution is you The issue with best execution is you basically have to direct to best bid best offer at least for a portion of the transaction
+it's unfortunate because transaction
+it's unfortunate because NMS is sort of classic the road to hell is pave with good intentions
+it actually is not a good thing for people in my view, but the reason was it was there to prevent you from being gouged by your broker sending it to offmarket exchanges and so forth
+it's actually created a huge market for order flow and other things that aren't necessarily accreated to consumer market participants
+ut the issue is you have participants
+ut the issue is you have to be able to route the best execution. to be able to route the best execution
+to a blockchain exchange where you and I So a blockchain exchange where you and I are both encumbering the asset and bilaterally transaction
+that's the whole definition of blockchain exchange or decentralized exchange
+we don't take counterparty or settlement risk
+ut that means when I lift your offer or you hit my bid, we swap those assets
+we do not then go and look at across 12 other pools of liquidity as to where we're going to route the trade
+blockchain native ecosystem won't work in an NMS construct
+this is a gap that I think a construct
+this is a gap that I think a lot of people in the space are just getting their arms around and realizing because I think some of the brokerage firms are like, "Oh, we're going to set up our own blockchain and we're going to create securities on them
+we're going to be able to trade Tesla and Intel and Coinbase, whatever." No, you're not because those are NMS securities
+this is why when I talk about what I'm trying to do, I have to do it as a second QIP because it can't be the same security
+can't take the NASDAQ security and put on the blockchain because that's an NMS security no matter how I do it
+to, it has to be a different security that doesn't touch a national market exchange
+hen you have the ability to exchange
+hen you have the ability to create a blockchain native ecosystem where you can transact bilaterally and sell settle self clear
+and the key is to keep that locked in. there's a convertability aspect that you can do at the treasury side to swap that security. the treasury side to swap that security
+ow, there's a bunch of reg Now, there's a bunch of reg considerations, other regulatory considerations you have to have as part of this
+to, it's not trivial at all, of this
+to, it's not trivial at all, but it's doable
+that's kind of what I'm but it's doable
+that's kind of what I'm trying to lean in on. >> That's fascinating
+and you brought up the clarity bill
+mean, how do you the clarity bill
+mean, how do you handicap that getting through at this point
+this is one of many issues that point
+this is one of many issues that people are debating
+it just seems a lot people are debating
+it just seems a lot more complicated than the stable coin bill
+there's sort of two aspects to it bill
+there's sort of two aspects to it which is what is the immediiacy of it in terms of its value to the ecosystem
+think chairman Atkins has been very clear that for example they don't view DeFi as being under SEC purvey there's a question of how do we define DeFi is defi decentralized custody or is it all logic on smart contracts is it governance of market system etc etc and so in the near term I don't know that it's as important to all of us because I think the SEC the first thing they did that was huge is they said we're not using enforcement as a policy tool and that allowed lots of us to be able to wake up in the morning without fear of an arrest warrant being out there or the Friday afternoon wells notices or all the things that were happening give us some degree of comfort
+they've enacted a set of policies or announced a set of intentions that have given a pretty clear indication to the industry what you can do and what you can't do
+the problem is it's not codified in the law. problem is it's not codified in the law
+to just as this is interpretive to the So just as this is interpretive to the current chairperson, another chairperson coming in, they go back to the way it was before
+think we have a longer was before
+think we have a longer runway with clarity
+it's not that we have to get it done this year or the industry is going to suffer
+we've got to get it done in the next two and a half to three years or we're going to introduce a huge amount of uncertainty as to our businesses function against election cycles
+that's not a good election cycles
+that's not a good thing. >> No, it's definitely what we want to avoid. you brought up that dinner we were at and you had some really interesting comments around the banking sector and how certain folks in the banking sector are really freaking out about deposit flight with stable coins. about deposit flight with stable coins
+ow do you think about this
+and maybe How do you think about this
+and maybe I'll ask a follow-up question just around what would you be doing if you're a bank right now? >> I've spoken to a bunch of bank CEOs about this
+the reality is I think if about this
+the reality is I think if you're a regional or super regional bank, your liabilities are going to come under attack and you're going to lose a lot of them
+there are some bank CEOs lot of them
+there are some bank CEOs that say, "Oh, the government will never let that happen
+we're integral to community banking, you know, blah blah blah blah
+don't even understand this administration, the populist ban of this administration, which is around main street not bailing banks out or allowing banks to have these enterprise franchise models that they always underpaid on FDIC insurance historically." And I think there's a recognition of that in the administration
+ou're going to be under administration
+ou're going to be under attack
+that do you do when that attack
+that do you do when that happens
+art of what we're doing and happens
+art of what we're doing and going out and doing a road show and that we're meeting a bunch of these banks and we're saying, "Hey, look, there's three things we want to talk to you about
+ne is this macro event of stable coins. is this macro event of stable coins
+reasury did a study that says if Treasury did a study that says if interest was paid on these coins, 6.6 trillion would leave the bank liabilities, not just retail, but business deposits as well." I agree with that 100%
+think that that's very that 100%
+think that that's very correct and I think it's inevitable. you already have interest being paid on this indirectly and because of that you will just get to direct interest in the notsodistant future and so that deposit flight's going to occur
+that do you do
+art of what we're saying is hey look we Part of what we're saying is hey look we can show you how to originate assets on blockchain how to create liquidity in marketplaces on blockchain and then how to use DeFi to finance those assets
+the paradox of this is the money financing those assets in DeFi used to be in the bank deposit
+ike you and I taking our bank deposit
+ike you and I taking our deposits out now putting it in yield and coin and then making the decision that hey rather than sulfur we want to make six or seven or 8% on a DeFi marketplace lending against loans on an overcolateralized basis
+we're just reallocating those liabilities away from the centralized bank capital allocator to the decentralized people allocator where we all make the decision of allocating to finance those assets
+ut that capital needs to get assets
+ut that capital needs to get tapped
+and we saw this and the banks tapped
+and we saw this and the banks got a preview this the end of 22 when the Fed started to tighten
+ank deposits went from 18.2 trillion to 17.2 trillion
+and the banks had a miserable trillion
+and the banks had a miserable time
+they were selling assets on a time
+they were selling assets on a prior sale basis trying to get everything off the balance sheet
+this is a trillion dollars of liabilities
+to is a trillion dollars of liabilities
+to if two trillion goes or 6.6 trillion, which is the Treasury study for interesting goes, what's going to happen
+ell, absent a solution, you happen
+ell, absent a solution, you have a financial calamity
+overnment's not going to let a financial calamity happen
+egularities step in
+the Fed happen
+egularities step in
+the Fed happen
+egularities step in
+the Fed could do like extending health type structures to create leverage and liquidity for private capital to step into the bank balance sheet void
+it's not enough on its own
+gain, the not enough on its own
+gain, the reality is that 6.6 trillion isn't all going to sit in treasuries
+ou and I aren't going to be content with a 4% yield when we can allocate directly on an over collateralized basis and get seven or eight or whatever it is
+the big thing that we're showing the banks is here's a roadmap to do this
+ow, the second thing that we're talking to them about is and by the way, JP is going to take your deposits
+Pcoin is going to come and they're going to be able to out compete you
+and some of these regional compete you
+and some of these regional banks, I think, are a little bit delusional
+they're like, "Oh, no, no. delusional
+they're like, "Oh, no, no
+we're going to be able to have XYZ coin We're going to be able to have XYZ coin and be competitive." I'm like, "You're not
+this is why you can't win and chase not
+this is why you can't win and chase platinum rewards
+ou just can't
+ou're platinum rewards
+ou just can't
+ou're platinum rewards
+ou just can't
+ou're not going to beat them in this fight. not going to beat them in this fight
+hy don't we give you our yielding Why don't we give you our yielding stable coin
+we have a coin called stable coin
+we have a coin called yields, and it's actually a secured, so it's not subject to the Genius Act, so it can't pay interest
+hy don't we give you the yielding coin
+My the way, we you the yielding coin
+My the way, we can hold in treasuries or bank deposits. can hold in treasuries or bank deposits
+our customer puts a dollar into yields
+we'll hold it on your balance sheet as We'll hold it on your balance sheet as liability
+ou've got to pay interest on liability
+ou've got to pay interest on it
+it's not a free deposit anymore
+ut it
+it's not a free deposit anymore
+ut it
+it's not a free deposit anymore
+ut you don't have all the costs that you had of managing that deposit. had of managing that deposit
+istorically, you get efficiencies that Historically, you get efficiencies that come off of that
+that gives you a defensive position because now you have an explicit yielding point whereas JP and the Genius Act doesn't. the deposit staying with you, the customer relationship staying with you, the economic scrape is staying with you
+ut you have to be cognizant of you're either gonna have a higher cost deposit or it's going to be in treasuries and either way it's going to have some impact on your liabilities and that's why you need this blockchain ecosystem. why you need this blockchain ecosystem
+we're going out on a road show to do We're going out on a road show to do this
+joke the bankers are going to this
+joke the bankers are going to think this is the road show of doom where I should just show up and I'm like everything in your world is over
+ut it's not
+'m saying if you lean in and it's not
+'m saying if you lean in and embrace this technology, you can actually gain a lot of market share from your competitors who have their heads in the sand and are like this will never happen. >> It must be a fascinating thing to be one of these executive teams that's actually zoned in on the problem
+get the impression there's quite a few that just aren't aware of it even yet, which is shocking
+ut it's not just the shocking
+ut it's not just the liability side of the balance sheet that's getting chipped away
+it's just the asset side is also getting chipped away
+f you just look at the growth of away
+f you just look at the growth of private credit, who's financing buyouts these days, banks getting out of certain lines of business
+to, if you almost just do a thought experiment on what it would take to save the banks from a liability perspective right now, it would be like unlimited FDIC insurance and you could actually build stable coins on top of bank deposits within a genius framework
+it's almost like you genius framework
+it's almost like you should be going big and bold with your lobbying efforts
+think what's interesting is almost all the banks recognize this is an issue and all the bank boards are talking about it but some of them do not want to have a discussion about what the solution is. discussion about what the solution is
+it is very topical
+hen we were on our It is very topical
+hen we were on our road show at one point said hey we have a bank that the board wants to talk about this
+ike would you be willing to about this
+ike would you be willing to go over and talk to them
+'m like sure
+and so he comes back he's like yeah they And so he comes back he's like yeah they thought you were too scary and they didn't want you to come in and talk to them
+they wanted somebody else and I them
+they wanted somebody else and I was like, I'm not that scary
+'m more like a pragmatist in terms of what this is, but we're at a point where this will go slow and then all at once
+ut the genie is out of the bottle
+with genius, genie is out of the bottle
+with genius, they're not going to be able to put it back in
+and this is the beginning of back in
+and this is the beginning of narrow banking as it affects the regional banks
+it will not be for the regional banks
+it will not be for the money centers because money centers will actually benefit because part of the genius act is you can hold treasuries or you can hold bank deposits
+P will hold bank deposits and ultimately the margin in stables will go to zero because it's a competitive product and people will figure out ways to pay rewards out. figure out ways to pay rewards out
+there's homogeneity in the product too
+hy is one stable better than the other
+hy is one stable better than the other? the margin will go to the point where the consumer gets the benefit of the bulk of the carrier to flow and then it becomes rewards and application and use cases and other things that I think banks like Chase are going to dominate. banks like Chase are going to dominate
+that could have happened is the What could have happened is the government could have taken a more utilitarian approach and said we're going to create effectively a uniform payment rail for all coin where no coin can be accepted or denied. anything that's conforming is a genius that coin is available for this rail and here's the infrastructure that's not necessarily a capitalistic approach to do it and why I don't think they did it that way there would have been a utility to it unlike in the past when banks would collude together with things like the visa network and so forth I don't think that's going to happen here I think the big money centers are going to lean in and say you know what we can just take this market and they're going to try to do it >> want to rewind the clock a little bit you were the first person in this industry that really took a big market I'm talking about helocks now infused them with this technology
+to what was it that you originally saw that illuminated the fact that a blockchain could be a good implementation for this and thorny issues there to figure out around MNPI and just curious how you went around operationalizing it. >> The original thesis that we had was we could originate any private credit aggregate securitize it on blockchain and create some savings
+that's the first of those three value props
+the transactional efficiency the issue for us one was MNPI
+the issue that we had when we started was proof of work was still the predominant chain
+to Ethereum was still on proof of work at that point
+itcoin obviously was a proof of point
+itcoin obviously was a proof of work chain
+roof of stake was coming to work chain
+roof of stake was coming to fruition and proof of history with Salana
+ut the problem with those Salana
+ut the problem with those networks was they function like a golden data set
+to you put a loan on one of data set
+to you put a loan on one of those networks goes out to all the validators
+ou now have PI at 100 validators
+ou now have PI at 100 different anonymous entities you can't control
+ou can't do that
+we ended up control
+ou can't do that
+we ended up control
+ou can't do that
+we ended up building a blockchain called Provenance that went through a couple of iterations
+the whole premise on iterations
+the whole premise on Providence is one of my loans is five gigs of data
+put it on Providence
+that data goes to an encrypted object That data goes to an encrypted object store and what goes to the validators is a hash of that data that they then write such that if I trade alone with you six months from now, they're going to reference that data to the encrypted object and you're going to be able to tell whether or not that was the actual artifact
+to it's acting as a data artifact
+to it's acting as a data validation agent as opposed to a gold data set
+and we made provenence public. data set
+and we made provenence public
+we own 20% of the utility token on it We own 20% of the utility token on it called hash and the 80% bulk of it's in the foundation and there's private parties that hold it and trade it
+and that was a necessary condition but not sufficient
+and that's what I thought sufficient
+and that's what I thought would work
+and I went to a bunch of would work
+and I went to a bunch of banks
+'ve told this story lots of banks
+'ve told this story lots of times where I'm like, "Hey, you can do this on blockchain
+we'd like to be the this on blockchain
+we'd like to be the 10th bank to do this." And that's when we said, "All right, we'll do it ourselves." in doing it ourselves, we had to be very cognizant of we don't want to fight it out with rocket on first lean mortgage or SoFi personal loans while we're trying to convince the market to use blockchain
+it's not going to work
+and we had to find again the to work
+and we had to find again the greenest field we could play in on credit where we think we could originate a valuable asset and not have to compete with anyone to do it
+and that's why we chose home equity line credit
+it's a mortgage and it is a mortgage asset, but it's one that hasn't been done well and hasn't been used well
+roduct market fit historically has been poor for it. fit historically has been poor for it
+it's a great substitute for personal It's a great substitute for personal loans, for example
+that we were able to loans, for example
+that we were able to do is bring the personal loan experience, so a couple minute application process, your money in a couple days into something that historically took 45 days to get, but was a better product downstream
+that a lot of people don't understand and when we think about moes and competitive moes what we had to do in the beginning is leave a lot of money on the table notably in the beginning people would come to us and say I'll buy your loan I don't want to buy it on blockchain pay you more if you don't make me buy it on blockchain and my capital market people were like can you just sell them 50 million not on blockchain and the rest can be on block and I'm like no absolutely not and we left a lot of money on the table and then we had people come to us and say Hey, I don't like your credit box
+to, if you originate to my credit box, I'll pay one, two, three points more for the loans
+ame situation
+ou do that and loans
+ame situation
+ou do that and loans
+ame situation
+ou do that and then you don't have ubiquity of the asset and liquidity that you can create off of that ubiquity
+the reality is most entities don't have the ability to leave that money on the table
+f you're a mortgage company, you run razor thin margins and you take the money when it's there
+f you're a startup, that there
+f you're a startup, that requires a decent amount of capital and persistence and patient investors where they're like, "Well, why don't you just do fintech 2.0 because we're building fintech 3.0?" I had that experience on multiple fronts early on
+My board giving me crap about, well, you know, this online lender is doing better than you, blah, blah
+and I was like, well, because I'm building into something bigger
+and then I got all something bigger
+and then I got all kinds of grief about, well, you know, BlockFi and FTX are doing better than you
+and I was like, well, because I'm you
+and I was like, well, because I'm not trying to do what they're trying to do
+ltimately, the long game won
+and I do
+ltimately, the long game won
+and I do
+ltimately, the long game won
+and I think that's what we've always persisted and and why we've been very particular on the private capital side and trying to do so on the public capital side as well, is get investors that buy into that long-term vision because there's a lot of distractions and diversions that come up on the road that seem like near-term better opportunity, but take you away from that long-term objective of building real value
+that makes total sense
+and on the markets business, just sense
+and on the markets business, just talking about the long term here, I mean, you don't have to squint too hard to see that this technology and people building things on top of it like yourselves could be a real competitive disruption to CME and some of these bigger shops
+ow do you think about bigger shops
+ow do you think about that and just competing against some of these incumbents and what their reaction function will look like? >> I've never shied away from competing against entrenched interests
+hen we started SoFi, obviously we were pushing hard against banks in general and I think we were very successful building our business off of that
+think we figure it's even broader
+it's not just figure it's even broader
+it's not just the banks per se
+in fact, the banks are the banks per se
+in fact, the banks are more partners with us figure than competitors but a lot of the market structure
+think that's been one of structure
+think that's been one of the challenges with blockchain in that generally innovation happens marginal first order
+it's DTCC figures out a way first order
+it's DTCC figures out a way to get from T+1 to T plus Z. has we've gone from T plus 3 to 2 to1
+that blockchain's doing is basically just blowing everything up and [clears throat] doing it in a completely different way
+and blowing it up means different way
+and blowing it up means that their model doesn't work anymore. that their model doesn't work anymore
+there is no marginal innovation
+There is no marginal innovation
+always joke about this when I see like Visas running stable coin experiments like well stablecoin really work there wouldn't be a Visa network because there's no chargebacks
+eople don't understand what Visa's value properly is
+it's management of that chargeback is
+it's management of that chargeback process
+and we're stable coin, it's process
+and we're stable coin, it's cash
+there is no pullback or cash
+there is no pullback or redemption
+to if they really embraced redemption
+to if they really embraced it, they wouldn't have a model
+we a completely different business
+and so to completely different business
+and so to me, that's what the opportunity is
+and it kind of goes back to those factions of interest within Clarity
+don't think that the winning game is to try to promote a centralized ecosystem into blockchain and crypto assets because I think that the established players are very very good at that centralized ecosystem
+don't think that any crypto ecosystem
+don't think that any crypto exchange for example can stand up against what NASDAQ and ICE have built on a very pursuit basis
+think what you can do is you can do it decentralized because they'll never do it that way and because their model won't work that way and decentralization is better and so I can go through the custodians there's a period of time that Anchorage had this wonderful moat because they were a regulated entity that tested crypto well they don't have the mo and they're being aggressive they're trying to work with tether and others on product and I commend them for that but it's a much more competitive dynamic in centralized custody decentralized custoy the NPC is in my mind the better solution, but it doesn't involve any of those entities, at least in the capacity in which they've always participate
+they could still be node participate
+they could still be node operators on an NPC network
+that's not the same as them holding the asset earning the economic from that
+to, I'm not afraid of the entrenched interest because a lot of what we're doing when you dial it back and look at the true infrastructure is green field
+to even the equities trading that I talked about, it's not that I'm trying to build a better NASDAQ or NY
+don't want the centralized exchange
+'m trying to centralized exchange
+'m trying to build a desk to do this there
+there isn't that competition. >> Maybe one of the last things I'll ask you is just around provenance
+to you guys were really early to this this concept of getting behind your own chain, birthing it
+tripe's doing that now
+ircle's doing that now
+that do now
+ircle's doing that now
+that do now
+ircle's doing that now
+that do you think about that
+and are we going you think about that
+and are we going to see more of these corporate birthed public blockchains versus the Ethereum style blockchain origins? >> One of the things that I've come to terms with, I used to think one blockchain to rule them all
+don't view that anymore
+think that there's view that anymore
+think that there's got to be lots of blockchains and requirement of loss interoperability. requirement of loss interoperability
+and I think that the value proposition And I think that the value proposition of those blockchains will differ significantly and that some will create value
+there's certain idiosyncratic value
+there's certain idiosyncratic aspects of Provenance that don't exist on networks like Salana or SUI where there's ways for them to extract value off of that in terms of people using it. off of that in terms of people using it
+and just like there's value props on And just like there's value props on those other networks too, like Sweet and Salana are both much faster than Provenence
+would argue none of them Provenence
+would argue none of them are as fast as NASDAQ right now
+and that's sort of a pragmatic limitation that will be solved
+we will fix that problem
+it's technology
+it will be problem
+it's technology
+it will be problem
+it's technology
+it will be fixed
+it's just not necessarily fixed
+it's just not necessarily relevant or prevalent today
+ive years ago, people were building chains because they're like, "Hey, we can issue this token and people will pay a lot of money for it." And people were pitching these use cases
+'m like, "I don't understand use cases
+'m like, "I don't understand why you need a blockchain." Well, because we can sell the token
+and I was like, "But blockchain is very limiting in what it does, which is if you do not have a native digital asset on the chain, it's basically worthless technology." Obviously, I get lots of heat from other people in the ecosystem on this and arguing to me about how valuable oracles are and all this other stuff
+ut to me, if you create a native stuff
+ut to me, if you create a native digital asset, blockchain has a lot of value
+f you don't, it doesn't
+lot value
+f you don't, it doesn't
+lot value
+f you don't, it doesn't
+lot of people today are also looking at that in the same way is that, oh, they look at the market cap of Salana, for example, and they're like, well, why don't we have that
+don't know if things are going to converge up to the market cap of Salana or things are going to go the other direction
+don't know if it's the D apps that live on chain that extract the economics or the L1 itself
+bviously, if you look at the itself
+bviously, if you look at the market cap of Mastercard and Visa, it's over a trillion dollars
+kay
+ell, over a trillion dollars
+kay
+ell, over a trillion dollars
+kay
+ell, blockchain could displace that
+it's not blockchain could displace that
+it's not crazy to think a blockchain would have a trillion dollar market cap because it's displacing that economic structure
+ut is it the blockchain or is it the smart contracts and the other applications that are built on top of it that are extracting that or does it all just go back to the ecosystem? is a consumer surplus at the end of the day. >> That's right
+think we're in the very >> That's right
+think we're in the very nent stages of all this and so I understand why everyone wants their own blockchain
+just don't think that it's blockchain
+just don't think that it's practical. >> Well, Mike, I feel like I get smarter every time I hear you talk
+hanks for coming on
+and where can we send people coming on
+and where can we send people to learn more about Figure? >> You can go to figure.com for Figure stuff, figures.com [music] for the cryptoblockchain stuff, and providence.io for what we're working on with that protocol. >> Awesome
+ell, congrats on all the >> Awesome
+ell, congrats on all the success and thanks again for coming on. >> Thanks for having me. >> Thanks for listening to another episode of On the Brink with Castle Island
+to learn more about Castle Island, visit castle island.vc. castle island.vc
+and to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle island.vc/mpodcast or just click on the tab on our website. or just click on the tab on our website
+hanks for listening.

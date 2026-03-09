@@ -1,0 +1,271 @@
+2026-03-08 14:32:15,733 INFO Channel: 0 videos
+2026-03-08 14:32:15,735 INFO Existing cleaned: 0
+2026-03-08 14:32:15,735 INFO New episodes: 0: []
+2026-03-08 14:32:15,735 INFO No new episodes
+2026-03-08 14:40:06,485 INFO Channel: 15 videos
+2026-03-08 14:40:06,487 INFO Existing cleaned: 0
+2026-03-08 14:40:06,487 INFO New episodes: 15: ['q-EMXT9I1cg', 'w7h1NSlCurs', 'TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 14:40:09,245 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=q-EMXT9I1cg' -> SUCCESS
+2026-03-08 14:40:09,288 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt
+
+2026-03-08 14:40:09,288 ERROR VID q-EMXT9I1cg: Clean failed
+2026-03-08 14:40:12,816 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=w7h1NSlCurs' -> SUCCESS
+2026-03-08 14:40:12,856 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt
+
+2026-03-08 14:40:12,856 ERROR VID w7h1NSlCurs: Clean failed
+2026-03-08 14:40:16,114 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=TaaNV1ZdLoQ' -> SUCCESS
+2026-03-08 14:40:16,157 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TaaNV1ZdLoQ.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TaaNV1ZdLoQ.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt
+
+2026-03-08 14:40:16,157 ERROR VID TaaNV1ZdLoQ: Clean failed
+2026-03-08 14:40:19,038 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=gE30j5kq90w' -> SUCCESS
+2026-03-08 14:40:19,079 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-gE30j5kq90w.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-gE30j5kq90w.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt
+
+2026-03-08 14:40:19,079 ERROR VID gE30j5kq90w: Clean failed
+2026-03-08 14:40:21,972 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=MJIRgwQEvMo' -> SUCCESS
+2026-03-08 14:40:22,011 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MJIRgwQEvMo.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MJIRgwQEvMo.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MJIRgwQEvMo.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MJIRgwQEvMo.txt
+
+2026-03-08 14:40:22,011 ERROR VID MJIRgwQEvMo: Clean failed
+2026-03-08 14:40:25,098 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=MxPVDkKUeg4' -> SUCCESS
+2026-03-08 14:40:25,139 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MxPVDkKUeg4.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MxPVDkKUeg4.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MxPVDkKUeg4.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MxPVDkKUeg4.txt
+
+2026-03-08 14:40:25,139 ERROR VID MxPVDkKUeg4: Clean failed
+2026-03-08 14:40:28,174 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=VQdNDQfDNFU' -> SUCCESS
+2026-03-08 14:40:28,211 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-VQdNDQfDNFU.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-VQdNDQfDNFU.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-VQdNDQfDNFU.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-VQdNDQfDNFU.txt
+
+2026-03-08 14:40:28,211 ERROR VID VQdNDQfDNFU: Clean failed
+2026-03-08 14:42:25,433 INFO Channel: 15 videos
+2026-03-08 14:42:25,433 INFO Existing cleaned: 0
+2026-03-08 14:42:25,433 INFO New episodes: 15: ['q-EMXT9I1cg', 'w7h1NSlCurs', 'TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 14:42:27,521 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=q-EMXT9I1cg' -> SUCCESS
+2026-03-08 14:42:27,564 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt
+
+2026-03-08 14:42:27,564 ERROR VID q-EMXT9I1cg: Clean failed
+2026-03-08 14:42:32,341 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=w7h1NSlCurs' -> SUCCESS
+2026-03-08 14:42:32,383 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt
+
+2026-03-08 14:42:32,383 ERROR VID w7h1NSlCurs: Clean failed
+2026-03-08 14:42:36,511 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=TaaNV1ZdLoQ' -> SUCCESS
+2026-03-08 14:42:36,552 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TaaNV1ZdLoQ.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TaaNV1ZdLoQ.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt
+
+2026-03-08 14:42:36,552 ERROR VID TaaNV1ZdLoQ: Clean failed
+2026-03-08 14:42:40,859 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=gE30j5kq90w' -> SUCCESS
+2026-03-08 14:42:40,903 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-gE30j5kq90w.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-gE30j5kq90w.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt
+
+2026-03-08 14:42:40,903 ERROR VID gE30j5kq90w: Clean failed
+2026-03-08 14:42:45,013 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=MJIRgwQEvMo' -> SUCCESS
+2026-03-08 14:42:45,052 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MJIRgwQEvMo.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MJIRgwQEvMo.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MJIRgwQEvMo.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MJIRgwQEvMo.txt
+
+2026-03-08 14:42:45,052 ERROR VID MJIRgwQEvMo: Clean failed
+2026-03-08 14:42:49,169 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=MxPVDkKUeg4' -> SUCCESS
+2026-03-08 14:42:49,214 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MxPVDkKUeg4.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MxPVDkKUeg4.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MxPVDkKUeg4.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MxPVDkKUeg4.txt
+
+2026-03-08 14:42:49,214 ERROR VID MxPVDkKUeg4: Clean failed
+2026-03-08 14:42:53,368 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=VQdNDQfDNFU' -> SUCCESS
+2026-03-08 14:42:53,408 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-VQdNDQfDNFU.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-VQdNDQfDNFU.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-VQdNDQfDNFU.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-VQdNDQfDNFU.txt
+
+2026-03-08 14:42:53,408 ERROR VID VQdNDQfDNFU: Clean failed
+2026-03-08 14:42:57,845 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=6jTrzXxudWw' -> SUCCESS
+2026-03-08 14:42:57,890 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-6jTrzXxudWw.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-6jTrzXxudWw.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-6jTrzXxudWw.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-6jTrzXxudWw.txt
+
+2026-03-08 14:42:57,890 ERROR VID 6jTrzXxudWw: Clean failed
+2026-03-08 14:43:02,321 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=ec8g3ZOZjdk' -> SUCCESS
+2026-03-08 14:43:02,363 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-ec8g3ZOZjdk.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-ec8g3ZOZjdk.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-ec8g3ZOZjdk.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-ec8g3ZOZjdk.txt
+
+2026-03-08 14:43:02,363 ERROR VID ec8g3ZOZjdk: Clean failed
+2026-03-08 14:43:06,765 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=I5JzsLdNSno' -> SUCCESS
+2026-03-08 14:43:06,806 ERROR CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-I5JzsLdNSno.en.vtt' '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-I5JzsLdNSno.txt' -> FAILED: usage: clean_transcripts.py [-h] [--input INPUT] [--output OUTPUT]
+                            [--file FILE] [--inplace]
+clean_transcripts.py: error: unrecognized arguments: /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-I5JzsLdNSno.en.vtt /Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-I5JzsLdNSno.txt
+
+2026-03-08 14:43:06,806 ERROR VID I5JzsLdNSno: Clean failed
+2026-03-08 14:45:16,091 INFO Channel: 15 videos
+2026-03-08 14:45:16,091 INFO Existing cleaned: 0
+2026-03-08 14:45:16,091 INFO New episodes: 15: ['q-EMXT9I1cg', 'w7h1NSlCurs', 'TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 14:45:18,406 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=q-EMXT9I1cg' -> SUCCESS
+2026-03-08 14:45:18,442 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt' -> SUCCESS
+2026-03-08 14:45:18,442 ERROR VID q-EMXT9I1cg: Clean failed
+2026-03-08 14:45:22,579 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=w7h1NSlCurs' -> SUCCESS
+2026-03-08 14:45:22,622 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt' -> SUCCESS
+2026-03-08 14:45:22,622 ERROR VID w7h1NSlCurs: Clean failed
+2026-03-08 14:45:26,651 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=TaaNV1ZdLoQ' -> SUCCESS
+2026-03-08 14:45:26,691 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TaaNV1ZdLoQ.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt' -> SUCCESS
+2026-03-08 14:45:26,691 ERROR VID TaaNV1ZdLoQ: Clean failed
+2026-03-08 14:45:30,868 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=gE30j5kq90w' -> SUCCESS
+2026-03-08 14:45:30,904 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-gE30j5kq90w.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt' -> SUCCESS
+2026-03-08 14:45:30,904 ERROR VID gE30j5kq90w: Clean failed
+2026-03-08 14:45:56,389 INFO Channel: 15 videos
+2026-03-08 14:45:56,390 INFO Existing cleaned: 0
+2026-03-08 14:45:56,390 INFO New episodes: 15: ['q-EMXT9I1cg', 'w7h1NSlCurs', 'TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 14:45:58,343 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=q-EMXT9I1cg' -> SUCCESS
+2026-03-08 14:45:58,412 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt' -> SUCCESS
+2026-03-08 14:45:58,412 ERROR VID q-EMXT9I1cg: Clean failed
+2026-03-08 14:46:02,612 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=w7h1NSlCurs' -> SUCCESS
+2026-03-08 14:46:02,652 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt' -> SUCCESS
+2026-03-08 14:46:02,652 ERROR VID w7h1NSlCurs: Clean failed
+2026-03-08 14:47:56,429 INFO Channel: 15 videos
+2026-03-08 14:47:56,429 INFO Existing cleaned: 0
+2026-03-08 14:47:56,429 INFO New episodes: 15: ['q-EMXT9I1cg', 'w7h1NSlCurs', 'TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 14:47:58,546 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=q-EMXT9I1cg' -> SUCCESS
+2026-03-08 14:47:58,585 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt' -> SUCCESS
+2026-03-08 14:47:58,585 ERROR VID q-EMXT9I1cg: TXT file not created
+2026-03-08 14:48:02,815 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=w7h1NSlCurs' -> SUCCESS
+2026-03-08 14:48:02,854 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt' -> SUCCESS
+2026-03-08 14:48:02,854 ERROR VID w7h1NSlCurs: TXT file not created
+2026-03-08 14:48:07,122 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=TaaNV1ZdLoQ' -> SUCCESS
+2026-03-08 14:48:07,162 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TaaNV1ZdLoQ.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt' -> SUCCESS
+2026-03-08 14:48:07,162 ERROR VID TaaNV1ZdLoQ: TXT file not created
+2026-03-08 14:48:11,301 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=gE30j5kq90w' -> SUCCESS
+2026-03-08 14:48:11,338 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_transcripts.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-gE30j5kq90w.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt' -> SUCCESS
+2026-03-08 14:48:11,339 ERROR VID gE30j5kq90w: TXT file not created
+2026-03-08 14:54:55,009 INFO Channel: 15 videos
+2026-03-08 14:54:55,010 INFO Existing cleaned: 0
+2026-03-08 14:54:55,010 INFO New episodes: 15: ['q-EMXT9I1cg', 'w7h1NSlCurs', 'TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 14:54:57,088 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=q-EMXT9I1cg' -> SUCCESS
+2026-03-08 14:54:57,126 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-q-EMXT9I1cg.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt' -> SUCCESS
+2026-03-08 14:54:57,126 INFO VID q-EMXT9I1cg: TXT OK (11205 bytes)
+2026-03-08 14:54:57,982 ERROR CMD: openclaw agent --agent hawat 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-q-EMXT9I1cg_themes.md'. Match On The Brink format: # grabowski-q-EMXT9I1cg_themes.md then numbered list.' -> FAILED: error: required option '-m, --message <text>' not specified
+
+2026-03-08 14:54:57,983 INFO VID q-EMXT9I1cg: Waiting 6min for themes...
+2026-03-08 14:56:26,178 INFO Channel: 15 videos
+2026-03-08 14:56:26,179 INFO Existing cleaned: 1
+2026-03-08 14:56:26,179 INFO New episodes: 14: ['w7h1NSlCurs', 'TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 14:56:28,360 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=w7h1NSlCurs' -> SUCCESS
+2026-03-08 14:56:28,402 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-w7h1NSlCurs.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt' -> SUCCESS
+2026-03-08 14:56:28,403 INFO VID w7h1NSlCurs: TXT OK (8631 bytes)
+2026-03-08 14:56:52,268 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-w7h1NSlCurs_themes.md'. Match On The Brink format: # grabowski-w7h1NSlCurs_themes.md then numbered list.' -> SUCCESS
+2026-03-08 14:56:52,268 INFO VID w7h1NSlCurs: Waiting 6min for themes...
+2026-03-08 15:22:16,319 INFO Channel: 15 videos
+2026-03-08 15:22:16,320 INFO Existing cleaned: 2
+2026-03-08 15:22:16,320 INFO New episodes: 13: ['TaaNV1ZdLoQ', 'gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 15:22:18,940 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=TaaNV1ZdLoQ' -> SUCCESS
+2026-03-08 15:22:18,985 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TaaNV1ZdLoQ.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt' -> SUCCESS
+2026-03-08 15:22:18,985 INFO VID TaaNV1ZdLoQ: TXT OK (9168 bytes)
+2026-03-08 15:23:25,268 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-TaaNV1ZdLoQ_themes.md'. Match On The Brink format: # grabowski-TaaNV1ZdLoQ_themes.md then numbered list.' -> SUCCESS
+2026-03-08 15:23:25,268 INFO VID TaaNV1ZdLoQ: Waiting 6min for themes...
+2026-03-08 15:25:25,274 INFO VID TaaNV1ZdLoQ: SUCCESS
+2026-03-08 15:26:47,435 INFO Channel: 15 videos
+2026-03-08 15:26:47,435 INFO Existing cleaned: 3
+2026-03-08 15:26:47,435 INFO New episodes: 12: ['gE30j5kq90w', 'MJIRgwQEvMo', 'MxPVDkKUeg4', 'VQdNDQfDNFU', '6jTrzXxudWw', 'ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 15:26:49,933 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=gE30j5kq90w' -> SUCCESS
+2026-03-08 15:26:49,971 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-gE30j5kq90w.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt' -> SUCCESS
+2026-03-08 15:26:49,971 INFO VID gE30j5kq90w: TXT OK (9629 bytes)
+2026-03-08 15:27:27,640 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-gE30j5kq90w_themes.md'. Match On The Brink format: # grabowski-gE30j5kq90w_themes.md then numbered list.' -> SUCCESS
+2026-03-08 15:27:27,640 INFO VID gE30j5kq90w: Waiting 6min for themes...
+2026-03-08 15:29:27,646 INFO VID gE30j5kq90w: SUCCESS
+2026-03-08 15:29:32,165 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=MJIRgwQEvMo' -> SUCCESS
+2026-03-08 15:29:32,200 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MJIRgwQEvMo.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MJIRgwQEvMo.txt' -> SUCCESS
+2026-03-08 15:29:32,200 INFO VID MJIRgwQEvMo: TXT OK (9836 bytes)
+2026-03-08 15:30:07,320 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MJIRgwQEvMo.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-MJIRgwQEvMo_themes.md'. Match On The Brink format: # grabowski-MJIRgwQEvMo_themes.md then numbered list.' -> SUCCESS
+2026-03-08 15:30:07,320 INFO VID MJIRgwQEvMo: Waiting 6min for themes...
+2026-03-08 15:32:07,326 INFO VID MJIRgwQEvMo: SUCCESS
+2026-03-08 15:32:12,061 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=MxPVDkKUeg4' -> SUCCESS
+2026-03-08 15:32:12,099 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-MxPVDkKUeg4.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MxPVDkKUeg4.txt' -> SUCCESS
+2026-03-08 15:32:12,099 INFO VID MxPVDkKUeg4: TXT OK (9042 bytes)
+2026-03-08 15:38:06,553 ERROR CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-MxPVDkKUeg4.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-MxPVDkKUeg4_themes.md'. Match On The Brink format: # grabowski-MxPVDkKUeg4_themes.md then numbered list.' -> FAILED: Gateway agent failed; falling back to embedded: Error: gateway timeout after 330000ms
+Gateway target: ws://127.0.0.1:18789
+Source: local loopback
+Config: /Users/dylansagent/.openclaw/openclaw.json
+Bind: loopback
+[31m[diagnostic][39m [31mlane task error: lane=main durationMs=12089 error="Error: session file locked (timeout 10000ms): pid=82099 /Users/dylansagent/.openclaw/agents/hawat/sessions/75f04b11-8df2-43e0-be9b-0dcef257d03c.jsonl.lock"[39m
+[31m[diagnostic][39m [31mlane task error: lane=session:agent:hawat:main durationMs=12111 error="Error: session file locked (timeout 10000ms): pid=82099 /Users/dylansagent/.openclaw/agents/hawat/sessions/75f04b11-8df2-43e0-be9b-0dcef257d03c.jsonl.lock"[39m
+[31m[diagnostic][39m [31mlane task error: lane=main durationMs=10923 error="Error: session file locked (timeout 10000ms): pid=82099 /Users/dylansagent/.openclaw/agents/hawat/sessions/75f04b11-8df2-43e0-be9b-0dcef257d03c.jsonl.lock"[39m
+[31m[diagnostic][39m [31mlane task error: lane=session:agent:hawat:main durationMs=10934 error="Error: session file locked (timeout 10000ms): pid=82099 /Users/dylansagent/.openclaw/agents/hawat/sessions/75f04b11-8df2-43e0-be9b-0dcef257d03c.jsonl.lock"[39m
+Error: All models failed (3): mor-gateway/kimi-k2.5: Provider mor-gateway has billing issue (skipping all models) (billing) | venice/grok-41-fast: session file locked (timeout 10000ms): pid=82099 /Users/dylansagent/.openclaw/agents/hawat/sessions/75f04b11-8df2-43e0-be9b-0dcef257d03c.jsonl.lock (timeout) | ollama/qwen2.5:7b: session file locked (timeout 10000ms): pid=82099 /Users/dylansagent/.openclaw/agents/hawat/sessions/75f04b11-8df2-43e0-be9b-0dcef257d03c.jsonl.lock (timeout)
+
+2026-03-08 15:38:06,554 INFO VID MxPVDkKUeg4: Waiting 6min for themes...
+2026-03-08 15:40:06,560 INFO VID MxPVDkKUeg4: SUCCESS
+2026-03-08 15:40:12,911 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=VQdNDQfDNFU' -> SUCCESS
+2026-03-08 15:40:12,974 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-VQdNDQfDNFU.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-VQdNDQfDNFU.txt' -> SUCCESS
+2026-03-08 15:40:12,974 INFO VID VQdNDQfDNFU: TXT OK (10789 bytes)
+2026-03-08 15:45:45,050 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-VQdNDQfDNFU.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-VQdNDQfDNFU_themes.md'. Match On The Brink format: # grabowski-VQdNDQfDNFU_themes.md then numbered list.' -> SUCCESS
+2026-03-08 15:45:45,051 INFO VID VQdNDQfDNFU: Waiting 6min for themes...
+2026-03-08 15:47:45,057 INFO VID VQdNDQfDNFU: SUCCESS
+2026-03-08 15:47:51,130 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=6jTrzXxudWw' -> SUCCESS
+2026-03-08 15:47:51,192 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-6jTrzXxudWw.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-6jTrzXxudWw.txt' -> SUCCESS
+2026-03-08 15:47:51,192 INFO VID 6jTrzXxudWw: TXT OK (12738 bytes)
+2026-03-08 15:49:52,066 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/cleaned/grabowski-6jTrzXxudWw.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-6jTrzXxudWw_themes.md'. Match On The Brink format: # grabowski-6jTrzXxudWw_themes.md then numbered list.' -> SUCCESS
+2026-03-08 15:49:52,066 INFO VID 6jTrzXxudWw: Waiting 6min for themes...
+2026-03-08 16:08:48,216 INFO Channel: 15 videos
+2026-03-08 16:08:48,218 INFO Existing cleaned: 8
+2026-03-08 16:08:48,218 INFO New episodes: 7: ['ec8g3ZOZjdk', 'I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 16:08:50,866 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=ec8g3ZOZjdk' -> SUCCESS
+2026-03-08 16:08:50,911 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-ec8g3ZOZjdk.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-ec8g3ZOZjdk.txt' -> SUCCESS
+2026-03-08 16:08:50,912 INFO VID ec8g3ZOZjdk: TXT OK (9485 bytes)
+2026-03-08 16:08:54,440 INFO Channel: 15 videos
+2026-03-08 16:08:54,440 INFO Existing cleaned: 9
+2026-03-08 16:08:54,440 INFO New episodes: 6: ['I5JzsLdNSno', 'W1AABYVsiOs', 'lf9-zulXIic', '7XozSFCH5wc', 'TdW2OAnCzQg', 'PHC6FwyChnA']
+2026-03-08 16:08:56,726 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=I5JzsLdNSno' -> SUCCESS
+2026-03-08 16:08:56,766 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-I5JzsLdNSno.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-I5JzsLdNSno.txt' -> SUCCESS
+2026-03-08 16:08:56,766 INFO VID I5JzsLdNSno: TXT OK (6307 bytes)
+2026-03-08 16:10:20,178 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-ec8g3ZOZjdk.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-ec8g3ZOZjdk_themes.md'. Match On The Brink format: # grabowski-ec8g3ZOZjdk_themes.md then numbered list.' -> SUCCESS
+2026-03-08 16:10:20,178 INFO VID ec8g3ZOZjdk: Waiting 6min for themes...
+2026-03-08 16:12:20,185 ERROR VID ec8g3ZOZjdk: FAILURE: No/invalid theme file
+2026-03-08 16:12:25,656 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=I5JzsLdNSno' -> SUCCESS
+2026-03-08 16:12:25,704 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-I5JzsLdNSno.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-I5JzsLdNSno.txt' -> SUCCESS
+2026-03-08 16:12:25,704 INFO VID I5JzsLdNSno: TXT OK (6307 bytes)
+2026-03-08 16:12:42,299 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-I5JzsLdNSno.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-I5JzsLdNSno_themes.md'. Match On The Brink format: # grabowski-I5JzsLdNSno_themes.md then numbered list.' -> SUCCESS
+2026-03-08 16:12:42,299 INFO VID I5JzsLdNSno: Waiting 6min for themes...
+2026-03-08 16:14:42,305 INFO VID I5JzsLdNSno: SUCCESS
+2026-03-08 16:14:47,178 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=W1AABYVsiOs' -> SUCCESS
+2026-03-08 16:14:47,233 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-W1AABYVsiOs.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-W1AABYVsiOs.txt' -> SUCCESS
+2026-03-08 16:14:47,233 INFO VID W1AABYVsiOs: TXT OK (16136 bytes)
+2026-03-08 16:15:10,379 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-W1AABYVsiOs.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-W1AABYVsiOs_themes.md'. Match On The Brink format: # grabowski-W1AABYVsiOs_themes.md then numbered list.' -> SUCCESS
+2026-03-08 16:15:10,380 INFO VID W1AABYVsiOs: Waiting 6min for themes...
+2026-03-08 16:17:10,386 ERROR VID W1AABYVsiOs: FAILURE: No/invalid theme file
+2026-03-08 16:17:15,635 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=lf9-zulXIic' -> SUCCESS
+2026-03-08 16:17:15,689 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-lf9-zulXIic.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-lf9-zulXIic.txt' -> SUCCESS
+2026-03-08 16:17:15,689 INFO VID lf9-zulXIic: TXT OK (12526 bytes)
+2026-03-08 16:17:33,469 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-lf9-zulXIic.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-lf9-zulXIic_themes.md'. Match On The Brink format: # grabowski-lf9-zulXIic_themes.md then numbered list.' -> SUCCESS
+2026-03-08 16:17:33,469 INFO VID lf9-zulXIic: Waiting 6min for themes...
+2026-03-08 16:19:33,476 ERROR VID lf9-zulXIic: FAILURE: No/invalid theme file
+2026-03-08 16:19:39,190 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=7XozSFCH5wc' -> SUCCESS
+2026-03-08 16:19:39,248 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-7XozSFCH5wc.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-7XozSFCH5wc.txt' -> SUCCESS
+2026-03-08 16:19:39,248 INFO VID 7XozSFCH5wc: TXT OK (5609 bytes)
+2026-03-08 16:21:56,355 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-7XozSFCH5wc.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-7XozSFCH5wc_themes.md'. Match On The Brink format: # grabowski-7XozSFCH5wc_themes.md then numbered list.' -> SUCCESS
+2026-03-08 16:21:56,355 INFO VID 7XozSFCH5wc: Waiting 6min for themes...
+2026-03-08 16:23:56,366 INFO VID 7XozSFCH5wc: SUCCESS
+2026-03-08 16:24:02,244 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=TdW2OAnCzQg' -> SUCCESS
+2026-03-08 16:24:02,303 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-TdW2OAnCzQg.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-TdW2OAnCzQg.txt' -> SUCCESS
+2026-03-08 16:24:02,303 INFO VID TdW2OAnCzQg: TXT OK (6353 bytes)
+2026-03-08 16:24:27,407 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-TdW2OAnCzQg.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-TdW2OAnCzQg_themes.md'. Match On The Brink format: # grabowski-TdW2OAnCzQg_themes.md then numbered list.' -> SUCCESS
+2026-03-08 16:24:27,407 INFO VID TdW2OAnCzQg: Waiting 6min for themes...
+2026-03-08 16:26:27,417 INFO VID TdW2OAnCzQg: SUCCESS
+2026-03-08 16:26:32,898 INFO CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=PHC6FwyChnA' -> SUCCESS
+2026-03-08 16:26:32,955 INFO CMD: python3 '/Users/dylansagent/.openclaw/workspace-business/clean_vtt.py' --input '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-PHC6FwyChnA.en.vtt' --output '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-PHC6FwyChnA.txt' -> SUCCESS
+2026-03-08 16:26:32,955 INFO VID PHC6FwyChnA: TXT OK (11120 bytes)
+2026-03-08 16:26:50,638 INFO CMD: openclaw agent --agent hawat --message 'Extract exactly 9 substantive, distinct themes from '/Users/dylansagent/.openclaw/workspace-business/corpus/videos/grabowski-PHC6FwyChnA.txt' (Grabowski episode). Write to '/Users/dylansagent/.openclaw/workspace-business/intelligence/themes/grabowski-PHC6FwyChnA_themes.md'. Match On The Brink format: # grabowski-PHC6FwyChnA_themes.md then numbered list.' -> SUCCESS
+2026-03-08 16:26:50,638 INFO VID PHC6FwyChnA: Waiting 6min for themes...
+2026-03-08 16:28:50,649 ERROR VID PHC6FwyChnA: FAILURE: No/invalid theme file
+2026-03-08 16:28:53,415 INFO Script complete

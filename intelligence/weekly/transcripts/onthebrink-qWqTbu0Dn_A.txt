@@ -1,0 +1,1068 @@
+Today on the podcast, I sat down with Today on the podcast, I sat down with Today on the podcast, I sat down with Mike Kagny, the founder of Figure
+u0002ike Kagny, the founder of Figure
+u0002ike Kagny, the founder of Figure
+u0002igure is a company that went public in Figure is a company that went public in Figure is a company that went public in September and that has several exciting September and that has several exciting September and that has several exciting lines of business, including a heliloc lines of business, including a heliloc lines of business, including a heliloc origination business and a markets origination business and a markets origination business and a markets division
+u0002hey also started the division
+u0002hey also started the division
+u0002hey also started the providence blockchain, which is the providence blockchain, which is the providence blockchain, which is the underlying technology for many of its underlying technology for many of its underlying technology for many of its core activities
+u0002t was great to chat core activities
+u0002t was great to chat core activities
+u0002t was great to chat with Mike
+u0002eally liked talking about with Mike
+u0002eally liked talking about with Mike
+u0002eally liked talking about the impact of stable coins on the the impact of stable coins on the the impact of stable coins on the banking sector and some of the issues banking sector and some of the issues banking sector and some of the issues that are being debated with respect to that are being debated with respect to that are being debated with respect to the market structure bill and how figure the market structure bill and how figure the market structure bill and how figure is thinking about that. think you'll is thinking about that. think you'll is thinking about that. think you'll enjoy this one
+u0002o, without further ado, enjoy this one
+u0002o, without further ado, enjoy this one
+u0002o, without further ado, here is my conversation with Mike Kagny here is my conversation with Mike Kagny here is my conversation with Mike Kagny of Figure
+u0002att Walsh and Nick Carter of Figure
+u0002att Walsh and Nick Carter of Figure
+u0002att Walsh and Nick Carter are partners at Castle [music] Island are partners at Castle [music] Island are partners at Castle [music] Island Ventures
+u0002ll views expressed by them or Ventures
+u0002ll views expressed by them or Ventures
+u0002ll views expressed by them or the guests on this podcast are solely the guests on this podcast are solely the guests on this podcast are solely their opinions and do not reflect the their opinions and do not reflect the their opinions and do not reflect the opinions of Castle Island Ventures. opinions of Castle Island Ventures. opinions of Castle Island Ventures. [music] Guest and host may maintain [music] Guest and host may maintain [music] Guest and host may maintain positions in the assets discussed in positions in the assets discussed in positions in the assets discussed in this podcast
+u0002ou should not treat any this podcast
+u0002ou should not treat any this podcast
+u0002ou should not treat any opinion expressed by anyone on this opinion expressed by anyone on this opinion expressed by anyone on this podcast as a specific inducement to make podcast as a specific inducement to make podcast as a specific inducement to make a particular investment or follow a a particular investment or follow a a particular investment or follow a particular strategy, but only as an particular strategy, but only as an particular strategy, but only as an expression of their personal [music] expression of their personal [music] expression of their personal [music] opinion
+u0002his podcast is forformational opinion
+u0002his podcast is forformational opinion
+u0002his podcast is forformational purposes only. brought down by bad purposes only. brought down by bad purposes only. brought down by bad mortgage investments
+u0002ehman, which has mortgage investments
+u0002ehman, which has mortgage investments
+u0002ehman, which has 25,000 employees, will be liquidated. 25,000 employees, will be liquidated. 25,000 employees, will be liquidated. >> The federal government loans American >> The federal government loans American >> The federal government loans American International [music] International [music] International [music] Group, AIG, $85 billion
+u0002roup, AIG, $85 billion
+u0002roup, AIG, $85 billion. >> This is a different kind of mortgage, >> This is a different kind of mortgage, >> This is a different kind of mortgage, AND THE FED IS ASLEEP
+u0002ND THE FED IS ASLEEP
+u0002ND THE FED IS ASLEEP. >> THE federal government is stepping in to >> THE federal government is stepping in to >> THE federal government is stepping in to stabilize Fanny [music] May and Freddy stabilize Fanny [music] May and Freddy stabilize Fanny [music] May and Freddy Mack, the two mortgage giants that have Mack, the two mortgage giants that have Mack, the two mortgage giants that have been threatened by the housing crisis. been threatened by the housing crisis. been threatened by the housing crisis. >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 billion pounds more into Britain's billion pounds more into Britain's billion pounds more into Britain's ailing economy with a new round of ailing economy with a new round of ailing economy with a new round of constituted easing. constituted easing. constituted easing. >> You print a couple trillion dollars and >> You print a couple trillion dollars and >> You print a couple trillion dollars and all of a sudden, people start to worry. all of a sudden, people start to worry. all of a sudden, people start to worry
+u0002o out of this worry, we have something So out of this worry, we have something So out of this worry, we have something called the Bitcoin
+u0002itcoin called the Bitcoin
+u0002itcoin called the Bitcoin
+u0002itcoin >> Mike, thanks for joining us on the >> Mike, thanks for joining us on the >> Mike, thanks for joining us on the podcast today. podcast today. podcast today. >> Thanks for having me. >> Thanks for having me. >> Thanks for having me. >> I guess congrats are in order
+u0002irst of >> I guess congrats are in order
+u0002irst of >> I guess congrats are in order
+u0002irst of all, you went public I think less than a all, you went public I think less than a all, you went public I think less than a month ago
+u0002o was it on September 11th? month ago
+u0002o was it on September 11th? month ago
+u0002o was it on September 11th
+u0002o congratulations
+u0002hat's that been So congratulations
+u0002hat's that been So congratulations
+u0002hat's that been like? like? like? >> It's been good
+u0002ook, I mean being >> It's been good
+u0002ook, I mean being >> It's been good
+u0002ook, I mean being public is a step in a long process. public is a step in a long process. public is a step in a long process
+u0002e're in this for the long game and we We're in this for the long game and we We're in this for the long game and we see an enormous amount of value that see an enormous amount of value that see an enormous amount of value that we're going to be able to create out of we're going to be able to create out of we're going to be able to create out of public blockchain and its application of public blockchain and its application of public blockchain and its application of financial services
+u0002ut it was an financial services
+u0002ut it was an financial services
+u0002ut it was an important milestone
+u0002reat for the team. important milestone
+u0002reat for the team. important milestone
+u0002reat for the team
+u0002t's testament to all the work that's It's testament to all the work that's It's testament to all the work that's gone in, especially given the last four gone in, especially given the last four gone in, especially given the last four years of regulatory Edwin that we've had years of regulatory Edwin that we've had years of regulatory Edwin that we've had being able to come out public, not just being able to come out public, not just being able to come out public, not just to make it through the regulatory to make it through the regulatory to make it through the regulatory process, but have a public markets want process, but have a public markets want process, but have a public markets want to have access to blockchain businesses, to have access to blockchain businesses, to have access to blockchain businesses, public blockchain businesses
+u0002t's great public blockchain businesses
+u0002t's great public blockchain businesses
+u0002t's great to see and I think super encouraging for to see and I think super encouraging for to see and I think super encouraging for the ecosystem. the ecosystem. the ecosystem. >> When we started to shift from a >> When we started to shift from a >> When we started to shift from a political and regulatory climate, did political and regulatory climate, did political and regulatory climate, did you see that line of sight towards going you see that line of sight towards going you see that line of sight towards going public
+u0002as that a catalyst for your public
+u0002as that a catalyst for your public
+u0002as that a catalyst for your business? business? business? >> Yeah, I mean if you think about last >> Yeah, I mean if you think about last >> Yeah, I mean if you think about last year, 2024, we were trying to go public. year, 2024, we were trying to go public. year, 2024, we were trying to go public
+u0002e were gap profitable last year and the We were gap profitable last year and the We were gap profitable last year and the regulators just made it really, really regulators just made it really, really regulators just made it really, really difficult
+u0002e were blockchain business. difficult
+u0002e were blockchain business. difficult
+u0002e were blockchain business
+u0002e did a lot of stuff in crypto
+u0002e had We did a lot of stuff in crypto
+u0002e had We did a lot of stuff in crypto
+u0002e had a lot of infrastructure around a lot of infrastructure around a lot of infrastructure around blockchain and crypto
+u0002n an effort to blockchain and crypto
+u0002n an effort to blockchain and crypto
+u0002n an effort to try to go public, I split the company in try to go public, I split the company in try to go public, I split the company in two
+u0002 said, well, look, I'll take the two
+u0002 said, well, look, I'll take the two
+u0002 said, well, look, I'll take the really heavy blockchain stuff and put it really heavy blockchain stuff and put it really heavy blockchain stuff and put it over into Figure Markets
+u0002nd I brought over into Figure Markets
+u0002nd I brought over into Figure Markets
+u0002nd I brought in my Canopon to run Figure
+u0002ike and I in my Canopon to run Figure
+u0002ike and I in my Canopon to run Figure
+u0002ike and I have worked together for a long time
+u0002e have worked together for a long time
+u0002e have worked together for a long time
+u0002e was the chief revenue officer at SoFi was the chief revenue officer at SoFi was the chief revenue officer at SoFi when I was CEO there
+u0002t just became when I was CEO there
+u0002t just became when I was CEO there
+u0002t just became apparent that we weren't going to be apparent that we weren't going to be apparent that we weren't going to be able to go even by splitting the able to go even by splitting the able to go even by splitting the business apart
+u0002nd so what happened in business apart
+u0002nd so what happened in business apart
+u0002nd so what happened in November when the election occurred, we November when the election occurred, we November when the election occurred, we started thinking, well, this has pretty started thinking, well, this has pretty started thinking, well, this has pretty significant ramifications for the SEC. significant ramifications for the SEC. significant ramifications for the SEC
+u0002nd that was one of the considerations, And that was one of the considerations, And that was one of the considerations, but it was also is there a public market but it was also is there a public market but it was also is there a public market appetite for this
+u0002 went to the bankers appetite for this
+u0002 went to the bankers appetite for this
+u0002 went to the bankers and I said, "Hey, does it make sense to and I said, "Hey, does it make sense to and I said, "Hey, does it make sense to recombine the business?" I gave them the recombine the business?" I gave them the recombine the business?" I gave them the story of why we would recombine and the story of why we would recombine and the story of why we would recombine and the direction that we would take the direction that we would take the direction that we would take the business and they said, "Yeah, it makes business and they said, "Yeah, it makes business and they said, "Yeah, it makes absolute sense." The reality was it was absolute sense." The reality was it was absolute sense." The reality was it was going to be hard to take them public going to be hard to take them public going to be hard to take them public separate anyway because there was so separate anyway because there was so separate anyway because there was so much interdependence
+u0002nvestors don't much interdependence
+u0002nvestors don't much interdependence
+u0002nvestors don't like being invested in a public entity like being invested in a public entity like being invested in a public entity when there's a private entity that's when there's a private entity that's when there's a private entity that's critical to the operations and I critical to the operations and I critical to the operations and I understand that
+u0002e said, "All right, understand that
+u0002e said, "All right, understand that
+u0002e said, "All right, well, let's go ahead and do this well, let's go ahead and do this well, let's go ahead and do this recombination." And we started talking recombination." And we started talking recombination." And we started talking about retesting the IPO waters
+u0002nd it about retesting the IPO waters
+u0002nd it about retesting the IPO waters
+u0002nd it was actually one of my investors that was actually one of my investors that was actually one of my investors that came in and said, "This is the came in and said, "This is the came in and said, "This is the incredible time
+u0002ou need to do this." incredible time
+u0002ou need to do this." incredible time
+u0002ou need to do this." And we just gone through this massive And we just gone through this massive And we just gone through this massive pain of separating the business
+u0002nd it pain of separating the business
+u0002nd it pain of separating the business
+u0002nd it was brutal, miserable
+u0002nd I'm like, was brutal, miserable
+u0002nd I'm like, was brutal, miserable
+u0002nd I'm like, "All right, it's a sunk cost
+u0002 can't "All right, it's a sunk cost
+u0002 can't "All right, it's a sunk cost
+u0002 can't make the decision based on how miserable make the decision based on how miserable make the decision based on how miserable that experience was
+u0002e have to think that experience was
+u0002e have to think that experience was
+u0002e have to think about what is best for our about what is best for our about what is best for our shareholders." And it became pretty shareholders." And it became pretty shareholders." And it became pretty clear pretty quick that recombining was clear pretty quick that recombining was clear pretty quick that recombining was best
+u0002ut in the beginning when we were best
+u0002ut in the beginning when we were best
+u0002ut in the beginning when we were working through with the bankers, working through with the bankers, working through with the bankers, Goldman was left on our S1 and Goldman Goldman was left on our S1 and Goldman Goldman was left on our S1 and Goldman went through and they're like, "God, you went through and they're like, "God, you went through and they're like, "God, you really want to tone down the blockchain really want to tone down the blockchain really want to tone down the blockchain stuff." And they really wanted to make stuff." And they really wanted to make stuff." And they really wanted to make it like a fintech 2.0, which SoFi it like a fintech 2.0, which SoFi it like a fintech 2.0, which SoFi pioneered
+u0002nd I'm like, "But it's not pioneered
+u0002nd I'm like, "But it's not pioneered
+u0002nd I'm like, "But it's not that." And they're like, "Yeah, but you that." And they're like, "Yeah, but you that." And they're like, "Yeah, but you know, you should talk about your loan know, you should talk about your loan know, you should talk about your loan origination system." I'm like, "But we origination system." I'm like, "But we origination system." I'm like, "But we give the loan origination system away give the loan origination system away give the loan origination system away for free." We might talk about the for free." We might talk about the for free." We might talk about the blockchain and and the fact that we blockchain and and the fact that we blockchain and and the fact that we built like oh market on blockchain and built like oh market on blockchain and built like oh market on blockchain and we're the only ones who have done that we're the only ones who have done that we're the only ones who have done that and it creates liquidity and like all and it creates liquidity and like all and it creates liquidity and like all this hugely differentiated stuff and I this hugely differentiated stuff and I this hugely differentiated stuff and I literally just fought with the bankers literally just fought with the bankers literally just fought with the bankers for like the first couple of months and for like the first couple of months and for like the first couple of months and they're like don't use the word DeFi and they're like don't use the word DeFi and they're like don't use the word DeFi and I'm like what do you mean
+u0002'm a very I'm like what do you mean
+u0002'm a very I'm like what do you mean
+u0002'm a very true decentralized blockchain person. true decentralized blockchain person. true decentralized blockchain person
+u0002here's lots of like Coinbase is a set There's lots of like Coinbase is a set There's lots of like Coinbase is a set other than Bass which is moderately other than Bass which is moderately other than Bass which is moderately decentralized but it's a centralized decentralized but it's a centralized decentralized but it's a centralized brokerage exchange and I'm a brokerage exchange and I'm a brokerage exchange and I'm a decentralized person and I don't take decentralized person and I don't take decentralized person and I don't take custody of anything and I believe in the custody of anything and I believe in the custody of anything and I believe in the true premise of decentralization and the true premise of decentralization and the true premise of decentralization and the value that brings through blockchain
+u0002 value that brings through blockchain
+u0002 value that brings through blockchain
+u0002 see three value props of blockchain. see three value props of blockchain. see three value props of blockchain
+u0002here's transactional efficiency, There's transactional efficiency, There's transactional efficiency, there's liquidity and there's DeFi from there's liquidity and there's DeFi from there's liquidity and there's DeFi from a financing standpoint
+u0002o me, DeFi is a financing standpoint
+u0002o me, DeFi is a financing standpoint
+u0002o me, DeFi is the most powerful thing
+u0002hen you the most powerful thing
+u0002hen you the most powerful thing
+u0002hen you connect sources and uses of capital, you connect sources and uses of capital, you connect sources and uses of capital, you unlock huge opportunities of rent disarm unlock huge opportunities of rent disarm unlock huge opportunities of rent disarm mediation
+u0002he whole premise is we're mediation
+u0002he whole premise is we're mediation
+u0002he whole premise is we're trying to get to DeFi
+u0002eFi is the trying to get to DeFi
+u0002eFi is the trying to get to DeFi
+u0002eFi is the promised land here when we no longer promised land here when we no longer promised land here when we no longer have warehouses with you, Goldman Sachs. have warehouses with you, Goldman Sachs. have warehouses with you, Goldman Sachs
+u0002t's all on
+u0002nd they're like, yeah, you It's all on
+u0002nd they're like, yeah, you It's all on
+u0002nd they're like, yeah, you know, that scares people
+u0002on't talk know, that scares people
+u0002on't talk know, that scares people
+u0002on't talk about that
+u0002lah blah blah
+u0002'm like, about that
+u0002lah blah blah
+u0002'm like, about that
+u0002lah blah blah
+u0002'm like, well, I'm absolutely going to talk about well, I'm absolutely going to talk about well, I'm absolutely going to talk about I'm fighting the whole time
+u0002hen the I'm fighting the whole time
+u0002hen the I'm fighting the whole time
+u0002hen the circle goes public and then they come circle goes public and then they come circle goes public and then they come back
+u0002hey're like, "Hey, Mike, we back
+u0002hey're like, "Hey, Mike, we back
+u0002hey're like, "Hey, Mike, we really think you should emphasize DeFi. really think you should emphasize DeFi. really think you should emphasize DeFi. >> Put a little blockchain on it. >> Put a little blockchain on it. >> Put a little blockchain on it. >> All the stuff that you're doing." And >> All the stuff that you're doing." And >> All the stuff that you're doing." And I'm like, "You kidding me?" Oh, okay
+u0002'm like, "You kidding me?" Oh, okay
+u0002'm like, "You kidding me?" Oh, okay
+u0002ou guys are right
+u0002ood thing we've got You guys are right
+u0002ood thing we've got You guys are right
+u0002ood thing we've got you bankers here to help us. [laughter] you bankers here to help us. [laughter] you bankers here to help us. [laughter] >> I love that story. >> I love that story. >> I love that story. >> Let's emphasize DeFi
+u0002he buy side was >> Let's emphasize DeFi
+u0002he buy side was >> Let's emphasize DeFi
+u0002he buy side was there from the very beginning
+u0002hat we there from the very beginning
+u0002hat we there from the very beginning
+u0002hat we had with the buy side was a discussion had with the buy side was a discussion had with the buy side was a discussion that I think we made very accessible to that I think we made very accessible to that I think we made very accessible to them
+u0002hat we did is we talked through, them
+u0002hat we did is we talked through, them
+u0002hat we did is we talked through, hey, we used credit to demonstrate two hey, we used credit to demonstrate two hey, we used credit to demonstrate two of these three things
+u0002e've of these three things
+u0002e've of these three things
+u0002e've demonstrated transactional efficiency. demonstrated transactional efficiency. demonstrated transactional efficiency
+u0002e demonstrated liquidity
+u0002nd now what We demonstrated liquidity
+u0002nd now what We demonstrated liquidity
+u0002nd now what we're trying to do is demonstrate DeFi we're trying to do is demonstrate DeFi we're trying to do is demonstrate DeFi in the financing site
+u0002e launched this in the financing site
+u0002e launched this in the financing site
+u0002e launched this product democratized prime
+u0002hat's how product democratized prime
+u0002hat's how product democratized prime
+u0002hat's how we're doing the DeFi approach
+u0002ut we're we're doing the DeFi approach
+u0002ut we're we're doing the DeFi approach
+u0002ut we're also taking assets to other L1
+u0002 was on also taking assets to other L1
+u0002 was on also taking assets to other L1
+u0002 was on a call this morning
+u0002e're taking a call this morning
+u0002e're taking a call this morning
+u0002e're taking yields, which is our stable coin and yields, which is our stable coin and yields, which is our stable coin and loan participation onto Salana and SUI loan participation onto Salana and SUI loan participation onto Salana and SUI and other networks as part of what our and other networks as part of what our and other networks as part of what our ambitions are
+u0002e've demonstrated that ambitions are
+u0002e've demonstrated that ambitions are
+u0002e've demonstrated that on the credit side and what I said is on the credit side and what I said is on the credit side and what I said is look, I'm going to do something very look, I'm going to do something very look, I'm going to do something very interesting for you, the buy side
+u0002'm interesting for you, the buy side
+u0002'm interesting for you, the buy side
+u0002'm going to do a second QIP
+u0002'm going to going to do a second QIP
+u0002'm going to going to do a second QIP
+u0002'm going to do a second version of figure
+u0002'm going do a second version of figure
+u0002'm going do a second version of figure
+u0002'm going to try to launch a second QIP and that to try to launch a second QIP and that to try to launch a second QIP and that equity will be Perry pursuit to the equity will be Perry pursuit to the equity will be Perry pursuit to the NASDAQ security, right? same rights to NASDAQ security, right? same rights to NASDAQ security, right? same rights to profit, same governance, same profit, same governance, same profit, same governance, same everything, but it's only going to be on everything, but it's only going to be on everything, but it's only going to be on the blockchain
+u0002t's not going to be on the blockchain
+u0002t's not going to be on the blockchain
+u0002t's not going to be on DTCC
+u0002t's not going to trade on the DTCC
+u0002t's not going to trade on the DTCC
+u0002t's not going to trade on the NASDAQ
+u0002t's going to trade on our NASDAQ
+u0002t's going to trade on our NASDAQ
+u0002t's going to trade on our alternative trading system
+u0002nd our ATS alternative trading system
+u0002nd our ATS alternative trading system
+u0002nd our ATS is unique in that it's an actual deep is unique in that it's an actual deep is unique in that it's an actual deep ATS
+u0002ou and I face off directly and ATS
+u0002ou and I face off directly and ATS
+u0002ou and I face off directly and transact there
+u0002here's no transact there
+u0002here's no transact there
+u0002here's no intermediation, no custodial construct, intermediation, no custodial construct, intermediation, no custodial construct, just bilateral settlement
+u0002nd I think just bilateral settlement
+u0002nd I think just bilateral settlement
+u0002nd I think it's the only ATS that can do that, by it's the only ATS that can do that, by it's the only ATS that can do that, by the way
+u0002ther people might argue with the way
+u0002ther people might argue with the way
+u0002ther people might argue with me on that
+u0002nd they're like, "Well, me on that
+u0002nd they're like, "Well, me on that
+u0002nd they're like, "Well, that's great, Mike, but why would you do that's great, Mike, but why would you do that's great, Mike, but why would you do that
+u0002he NASDAQ works fine." And I that
+u0002he NASDAQ works fine." And I that
+u0002he NASDAQ works fine." And I said, "It does." And so, let's be said, "It does." And so, let's be said, "It does." And so, let's be cognizant about where the value prop is. cognizant about where the value prop is. cognizant about where the value prop is
+u0002 think there's some transactional I think there's some transactional I think there's some transactional efficiency here, just like I cut 150 efficiency here, just like I cut 150 efficiency here, just like I cut 150 basis points of cost out of the basis points of cost out of the basis points of cost out of the securization process
+u0002'll cut some cost securization process
+u0002'll cut some cost securization process
+u0002'll cut some cost out of this
+u0002ike the transfer agent now out of this
+u0002ike the transfer agent now out of this
+u0002ike the transfer agent now is just listening to the blockchain
+u0002ou is just listening to the blockchain
+u0002ou is just listening to the blockchain
+u0002ou don't have notification
+u0002ike there's don't have notification
+u0002ike there's don't have notification
+u0002ike there's some opportunity cost that's out there. some opportunity cost that's out there. some opportunity cost that's out there
+u0002ot a huge number
+u0002nd they're like, Not a huge number
+u0002nd they're like, Not a huge number
+u0002nd they're like, "Oh, is it liquidity
+u0002re we going to "Oh, is it liquidity
+u0002re we going to "Oh, is it liquidity
+u0002re we going to trade this 247?" And I'm like, well, you trade this 247?" And I'm like, well, you trade this 247?" And I'm like, well, you can, but I don't know how valuable that can, but I don't know how valuable that can, but I don't know how valuable that is
+u0002 lot of people are touting 247. is
+u0002 lot of people are touting 247. is
+u0002 lot of people are touting 247
+u0002t's so important, blah, blah, blah
+u0002t's so important, blah, blah, blah
+u0002t's so important, blah, blah, blah
+u0002've been on FTX to lift them out of I've been on FTX to lift them out of I've been on FTX to lift them out of bankruptcy, and they had a US equity per bankruptcy, and they had a US equity per bankruptcy, and they had a US equity per business that traded 247
+u0002nd I can tell business that traded 247
+u0002nd I can tell business that traded 247
+u0002nd I can tell you, if all that mattered was 247, that you, if all that mattered was 247, that you, if all that mattered was 247, that business would have been flying
+u0002nd it business would have been flying
+u0002nd it business would have been flying
+u0002nd it wasn't
+u0002t was sideways. 247 isn't wasn't
+u0002t was sideways. 247 isn't wasn't
+u0002t was sideways. 247 isn't actually a real value prop either
+u0002ut actually a real value prop either
+u0002ut actually a real value prop either
+u0002ut here's where it's going to matter for here's where it's going to matter for here's where it's going to matter for you guys around DeFi
+u0002ou're going to be you guys around DeFi
+u0002ou're going to be you guys around DeFi
+u0002ou're going to be able to take that equity and crossc able to take that equity and crossc able to take that equity and crossc collateralize it and buy Bitcoin and collateralize it and buy Bitcoin and collateralize it and buy Bitcoin and vice versa
+u0002ou're going to be able to vice versa
+u0002ou're going to be able to vice versa
+u0002ou're going to be able to use Bitcoin and buy that in a way that's use Bitcoin and buy that in a way that's use Bitcoin and buy that in a way that's fully integrated and seamless
+u0002ou can't fully integrated and seamless
+u0002ou can't fully integrated and seamless
+u0002ou can't do that through Prime Brokerage
+u0002ou do that through Prime Brokerage
+u0002ou do that through Prime Brokerage
+u0002ou can't do that in your Robin Hood account can't do that in your Robin Hood account can't do that in your Robin Hood account because it's segmented out
+u0002ut more because it's segmented out
+u0002ut more because it's segmented out
+u0002ut more interesting, today when you guys lend interesting, today when you guys lend interesting, today when you guys lend stock out and it goes on special, it's stock out and it goes on special, it's stock out and it goes on special, it's suddenly yielding 40% because there's a suddenly yielding 40% because there's a suddenly yielding 40% because there's a squeeze
+u0002ou don't get the 40%
+u0002our squeeze
+u0002ou don't get the 40%
+u0002our squeeze
+u0002ou don't get the 40%
+u0002our prime broker is still paying you bonds prime broker is still paying you bonds prime broker is still paying you bonds or not funds anymore, silver or whatever or not funds anymore, silver or whatever or not funds anymore, silver or whatever they're indexing to
+u0002ut now you hold they're indexing to
+u0002ut now you hold they're indexing to
+u0002ut now you hold the stock, you control it, you let it the stock, you control it, you let it the stock, you control it, you let it out yourself
+u0002ou set the rate and you out yourself
+u0002ou set the rate and you out yourself
+u0002ou set the rate and you get the economic
+u0002nd they're like, get the economic
+u0002nd they're like, get the economic
+u0002nd they're like, "That sounds really cool, but what if "That sounds really cool, but what if "That sounds really cool, but what if they don't trade in sync?" I'm like, "I they don't trade in sync?" I'm like, "I they don't trade in sync?" I'm like, "I will set it up where our treasury will will set it up where our treasury will will set it up where our treasury will swap the NMS security for the blockchain swap the NMS security for the blockchain swap the NMS security for the blockchain security one for one." And that way by security one for one." And that way by security one for one." And that way by definition, however much liquidity there definition, however much liquidity there definition, however much liquidity there is on the NMS side, there's the same is on the NMS side, there's the same is on the NMS side, there's the same amount of liquidity on the blockchain amount of liquidity on the blockchain amount of liquidity on the blockchain side and vice versa, whether it's Jump side and vice versa, whether it's Jump side and vice versa, whether it's Jump or others
+u0002 will get them to come in or others
+u0002 will get them to come in or others
+u0002 will get them to come in and make market on this and cut across. and make market on this and cut across. and make market on this and cut across
+u0002nd that's when everyone was like, well, And that's when everyone was like, well, And that's when everyone was like, well, what does that mean for DTCC
+u0002nd I'm what does that mean for DTCC
+u0002nd I'm what does that mean for DTCC
+u0002nd I'm like, no, no, you're not thinking about like, no, no, you're not thinking about like, no, no, you're not thinking about it the way I'm thinking about it, which it the way I'm thinking about it, which it the way I'm thinking about it, which is, yeah, there's no DTCC here
+u0002ike, is, yeah, there's no DTCC here
+u0002ike, is, yeah, there's no DTCC here
+u0002ike, you don't need a registry
+u0002TCC I think you don't need a registry
+u0002TCC I think you don't need a registry
+u0002TCC I think they generate like $2 billion a year of they generate like $2 billion a year of they generate like $2 billion a year of revenue and they hold about $50 billion revenue and they hold about $50 billion revenue and they hold about $50 billion of stream capital
+u0002hat's rent that's of stream capital
+u0002hat's rent that's of stream capital
+u0002hat's rent that's great to release back into the ecosystem great to release back into the ecosystem great to release back into the ecosystem but it's tiny in the big realm of but it's tiny in the big realm of but it's tiny in the big realm of economics here
+u0002he more interesting economics here
+u0002he more interesting economics here
+u0002he more interesting thing and what I think the security is thing and what I think the security is thing and what I think the security is going to demonstrate is well you don't going to demonstrate is well you don't going to demonstrate is well you don't need DTCC but you also don't trade on need DTCC but you also don't trade on need DTCC but you also don't trade on the NASDAQ you trade on a DEX
+u0002ou and I the NASDAQ you trade on a DEX
+u0002ou and I the NASDAQ you trade on a DEX
+u0002ou and I can take our MetaMask or Phantom or can take our MetaMask or Phantom or can take our MetaMask or Phantom or Figure Wallets and attach to that desk Figure Wallets and attach to that desk Figure Wallets and attach to that desk and ducks the trade
+u0002ot only is there and ducks the trade
+u0002ot only is there and ducks the trade
+u0002ot only is there no centralized exchange, there's no no centralized exchange, there's no no centralized exchange, there's no introducing broker
+u0002o, we don't need a introducing broker
+u0002o, we don't need a introducing broker
+u0002o, we don't need a Robin Hood account or a Schwab account Robin Hood account or a Schwab account Robin Hood account or a Schwab account or whatever
+u0002ike, we just attach the or whatever
+u0002ike, we just attach the or whatever
+u0002ike, we just attach the DAX and trade
+u0002nd it's like, well, if DAX and trade
+u0002nd it's like, well, if DAX and trade
+u0002nd it's like, well, if you don't have that introducing broker you don't have that introducing broker you don't have that introducing broker who deals with margin, who deals with who deals with margin, who deals with who deals with margin, who deals with stock loan, DeFi, there's no prime stock loan, DeFi, there's no prime stock loan, DeFi, there's no prime brokeraging
+u0002oldman Crime, which on the brokeraging
+u0002oldman Crime, which on the brokeraging
+u0002oldman Crime, which on the sell side, the prime brokerage is the sell side, the prime brokerage is the sell side, the prime brokerage is the crown jewel of the business and they crown jewel of the business and they crown jewel of the business and they generate a ton of money for these guys, generate a ton of money for these guys, generate a ton of money for these guys, all goes away
+u0002hat's what this is going all goes away
+u0002hat's what this is going all goes away
+u0002hat's what this is going to be able to demonstrate, which is to be able to demonstrate, which is to be able to demonstrate, which is blockchain has two aspects
+u0002here's the blockchain has two aspects
+u0002here's the blockchain has two aspects
+u0002here's the disruption of existing financial disruption of existing financial disruption of existing financial infrastructure and there's a green infrastructure and there's a green infrastructure and there's a green field
+u0002quity is clearly a disruption of field
+u0002quity is clearly a disruption of field
+u0002quity is clearly a disruption of existing financial infrastructure and I existing financial infrastructure and I existing financial infrastructure and I think we have a very defined path of how think we have a very defined path of how think we have a very defined path of how that's going to work
+u0002nd I was out I that's going to work
+u0002nd I was out I that's going to work
+u0002nd I was out I think we did 150 investor pitches as think we did 150 investor pitches as think we did 150 investor pitches as part of our IPO road show
+u0002nd about a part of our IPO road show
+u0002nd about a part of our IPO road show
+u0002nd about a third of the way through I started third of the way through I started third of the way through I started pitching everybody this on the buy side. pitching everybody this on the buy side. pitching everybody this on the buy side
+u0002nd they were like yes
+u0002'm like and And they were like yes
+u0002'm like and And they were like yes
+u0002'm like and what I need you to do is I need you to what I need you to do is I need you to what I need you to do is I need you to then say hey this is so good I'm going then say hey this is so good I'm going then say hey this is so good I'm going to go to my other portfolio companies to go to my other portfolio companies to go to my other portfolio companies and say why don't you have a second QIP and say why don't you have a second QIP and say why don't you have a second QIP on the blockchain because it's way on the blockchain because it's way on the blockchain because it's way better for me for both a margining better for me for both a margining better for me for both a margining standpoint and stockr run standpoint
+u0002 standpoint and stockr run standpoint
+u0002 standpoint and stockr run standpoint
+u0002 have the same liquidity
+u0002 have the same have the same liquidity
+u0002 have the same have the same liquidity
+u0002 have the same transactional economics
+u0002hy don't you transactional economics
+u0002hy don't you transactional economics
+u0002hy don't you do this
+u0002nd I think we're going to be do this
+u0002nd I think we're going to be do this
+u0002nd I think we're going to be able to affect change from within the able to affect change from within the able to affect change from within the way we've always done it, which is we go way we've always done it, which is we go way we've always done it, which is we go first
+u0002n the other side, with credit, first
+u0002n the other side, with credit, first
+u0002n the other side, with credit, that's green field
+u0002here is no that's green field
+u0002here is no that's green field
+u0002here is no marketplace for credit
+u0002e created that, marketplace for credit
+u0002e created that, marketplace for credit
+u0002e created that, but we did it with our loans first
+u0002ow, but we did it with our loans first
+u0002ow, but we did it with our loans first
+u0002ow, we have 170 third parties that originate we have 170 third parties that originate we have 170 third parties that originate on our platform, and we're a small on our platform, and we're a small on our platform, and we're a small amount of that production, but we had to amount of that production, but we had to amount of that production, but we had to be the first ones to do it
+u0002y hope is be the first ones to do it
+u0002y hope is be the first ones to do it
+u0002y hope is by the end of this year we'll have by the end of this year we'll have by the end of this year we'll have demonstrated the full vertical into DeFi demonstrated the full vertical into DeFi demonstrated the full vertical into DeFi on credit and the horizontal expansion on credit and the horizontal expansion on credit and the horizontal expansion into a new asset class being equity all into a new asset class being equity all into a new asset class being equity all native onchain where we have a green native onchain where we have a green native onchain where we have a green field example and a disruption example field example and a disruption example field example and a disruption example that indisputably demonstrate why that indisputably demonstrate why that indisputably demonstrate why blockchain is so important and so blockchain is so important and so blockchain is so important and so powerful. powerful. powerful. >> I love that and you've gone into market >> I love that and you've gone into market >> I love that and you've gone into market structure in a way that I just love to structure in a way that I just love to structure in a way that I just love to geek out on
+u0002'd love to get your take geek out on
+u0002'd love to get your take geek out on
+u0002'd love to get your take on just what this looks like almost from on just what this looks like almost from on just what this looks like almost from a regulatory perspective four or five a regulatory perspective four or five a regulatory perspective four or five years from now where you have the NMS years from now where you have the NMS years from now where you have the NMS market then you have these blockchain market then you have these blockchain market then you have these blockchain venues whether they're somewhat venues whether they're somewhat venues whether they're somewhat decentralized fully decentralized the decentralized fully decentralized the decentralized fully decentralized the existing buy side firms and the broker existing buy side firms and the broker existing buy side firms and the broker dealers do you see them having a dealers do you see them having a dealers do you see them having a fiduciary obligation to connect to these fiduciary obligation to connect to these fiduciary obligation to connect to these venues how is best bid best offer like venues how is best bid best offer like venues how is best bid best offer like how is that going to work do you think how is that going to work do you think how is that going to work do you think >> so one this is being hotly contested as >> so one this is being hotly contested as >> so one this is being hotly contested as part of clarity the challenge we have part of clarity the challenge we have part of clarity the challenge we have with clarity is with Genius Act
+u0002here with clarity is with Genius Act
+u0002here with clarity is with Genius Act
+u0002here was a lot of momentum and a lot of was a lot of momentum and a lot of was a lot of momentum and a lot of political reason why no one wanted to political reason why no one wanted to political reason why no one wanted to stand in front of that and it it went stand in front of that and it it went stand in front of that and it it went through pretty quickly
+u0002ow the banks through pretty quickly
+u0002ow the banks through pretty quickly
+u0002ow the banks all feel they got bamboozled on it all feel they got bamboozled on it all feel they got bamboozled on it because post execution they realize because post execution they realize because post execution they realize Coinbase is paying interest on USDC Coinbase is paying interest on USDC Coinbase is paying interest on USDC balances
+u0002ince it's not Circle paying balances
+u0002ince it's not Circle paying balances
+u0002ince it's not Circle paying interest, it satisfies the Genius Act, interest, it satisfies the Genius Act, interest, it satisfies the Genius Act, but you're still getting interest on but you're still getting interest on but you're still getting interest on coin which is what the banks were trying coin which is what the banks were trying coin which is what the banks were trying to avoid
+u0002ith Clarity, you're in a much to avoid
+u0002ith Clarity, you're in a much to avoid
+u0002ith Clarity, you're in a much different situation where you've got the different situation where you've got the different situation where you've got the centralized exchanges that have a very centralized exchanges that have a very centralized exchanges that have a very different perspective to the different perspective to the different perspective to the decentralized folks like myself
+u0002 care decentralized folks like myself
+u0002 care decentralized folks like myself
+u0002 care a lot about how do you deal with a a lot about how do you deal with a a lot about how do you deal with a transfer agent in DeFi
+u0002nd to me, those transfer agent in DeFi
+u0002nd to me, those transfer agent in DeFi
+u0002nd to me, those are things that are super important. are things that are super important. are things that are super important
+u0002ell, a centralized exchange doesn't Well, a centralized exchange doesn't Well, a centralized exchange doesn't care about that
+u0002nd then you have the care about that
+u0002nd then you have the care about that
+u0002nd then you have the existing players like ICE and NASDAQ existing players like ICE and NASDAQ existing players like ICE and NASDAQ DTCC that are like well how do we take DTCC that are like well how do we take DTCC that are like well how do we take the system we have and apply it to the system we have and apply it to the system we have and apply it to crypto or blockchain assets and I view crypto or blockchain assets and I view crypto or blockchain assets and I view as lipstick on the pig in terms of that as lipstick on the pig in terms of that as lipstick on the pig in terms of that process because the benefit here is to process because the benefit here is to process because the benefit here is to rip everything and start over
+u0002he rip everything and start over
+u0002he rip everything and start over
+u0002he challenge from the regulatory standpoint challenge from the regulatory standpoint challenge from the regulatory standpoint and best X is a big issue
+u0002TCC had this and best X is a big issue
+u0002TCC had this and best X is a big issue
+u0002TCC had this view of, hey, we're going to be able to view of, hey, we're going to be able to view of, hey, we're going to be able to take a DTCC security, we're going to take a DTCC security, we're going to take a DTCC security, we're going to vault it, and we're going to sell a vault it, and we're going to sell a vault it, and we're going to sell a security entitlement to it
+u0002nd that security entitlement to it
+u0002nd that security entitlement to it
+u0002nd that security entitlement can be used in security entitlement can be used in security entitlement can be used in DeFi
+u0002t can, you know, blah blah blah DeFi
+u0002t can, you know, blah blah blah DeFi
+u0002t can, you know, blah blah blah blah blah
+u0002hen they told me this, we blah blah
+u0002hen they told me this, we blah blah
+u0002hen they told me this, we were at a dinner when they were talking were at a dinner when they were talking were at a dinner when they were talking about this
+u0002nd I'm like, there's no way about this
+u0002nd I'm like, there's no way about this
+u0002nd I'm like, there's no way you can do this, at least not under the you can do this, at least not under the you can do this, at least not under the current regulatory structure
+u0002ure current regulatory structure
+u0002ure current regulatory structure
+u0002ure enough, after they explained this to me, enough, after they explained this to me, enough, after they explained this to me, Commissioner Pur did that memo that Commissioner Pur did that memo that Commissioner Pur did that memo that said, by the way, a security entitlement said, by the way, a security entitlement said, by the way, a security entitlement of an MS security is still an NMS of an MS security is still an NMS of an MS security is still an NMS security and still subject to best act. security and still subject to best act. security and still subject to best act
+u0002he issue with best execution is you The issue with best execution is you The issue with best execution is you basically have to direct to best bid basically have to direct to best bid basically have to direct to best bid best offer at least for a portion of the best offer at least for a portion of the best offer at least for a portion of the transaction
+u0002t's unfortunate because transaction
+u0002t's unfortunate because transaction
+u0002t's unfortunate because NMS is sort of classic the road to hell NMS is sort of classic the road to hell NMS is sort of classic the road to hell is pave with good intentions
+u0002t is pave with good intentions
+u0002t is pave with good intentions
+u0002t actually is not a good thing for people actually is not a good thing for people actually is not a good thing for people in my view, but the reason was it was in my view, but the reason was it was in my view, but the reason was it was there to prevent you from being gouged there to prevent you from being gouged there to prevent you from being gouged by your broker sending it to offmarket by your broker sending it to offmarket by your broker sending it to offmarket exchanges and so forth
+u0002t's actually exchanges and so forth
+u0002t's actually exchanges and so forth
+u0002t's actually created a huge market for order flow and created a huge market for order flow and created a huge market for order flow and other things that aren't necessarily other things that aren't necessarily other things that aren't necessarily accreated to consumer market accreated to consumer market accreated to consumer market participants
+u0002ut the issue is you have participants
+u0002ut the issue is you have participants
+u0002ut the issue is you have to be able to route the best execution. to be able to route the best execution. to be able to route the best execution
+u0002o a blockchain exchange where you and I So a blockchain exchange where you and I So a blockchain exchange where you and I are both encumbering the asset and are both encumbering the asset and are both encumbering the asset and bilaterally transaction
+u0002hat's the bilaterally transaction
+u0002hat's the bilaterally transaction
+u0002hat's the whole definition of blockchain exchange whole definition of blockchain exchange whole definition of blockchain exchange or decentralized exchange
+u0002e don't take or decentralized exchange
+u0002e don't take or decentralized exchange
+u0002e don't take counterparty or settlement risk
+u0002ut counterparty or settlement risk
+u0002ut counterparty or settlement risk
+u0002ut that means when I lift your offer or you that means when I lift your offer or you that means when I lift your offer or you hit my bid, we swap those assets
+u0002e do hit my bid, we swap those assets
+u0002e do hit my bid, we swap those assets
+u0002e do not then go and look at across 12 other not then go and look at across 12 other not then go and look at across 12 other pools of liquidity as to where we're pools of liquidity as to where we're pools of liquidity as to where we're going to route the trade
+u0002 blockchain going to route the trade
+u0002 blockchain going to route the trade
+u0002 blockchain native ecosystem won't work in an NMS native ecosystem won't work in an NMS native ecosystem won't work in an NMS construct
+u0002his is a gap that I think a construct
+u0002his is a gap that I think a construct
+u0002his is a gap that I think a lot of people in the space are just lot of people in the space are just lot of people in the space are just getting their arms around and realizing getting their arms around and realizing getting their arms around and realizing because I think some of the brokerage because I think some of the brokerage because I think some of the brokerage firms are like, "Oh, we're going to set firms are like, "Oh, we're going to set firms are like, "Oh, we're going to set up our own blockchain and we're going to up our own blockchain and we're going to up our own blockchain and we're going to create securities on them
+u0002e're going create securities on them
+u0002e're going create securities on them
+u0002e're going to be able to trade Tesla and Intel and to be able to trade Tesla and Intel and to be able to trade Tesla and Intel and Coinbase, whatever." No, you're not Coinbase, whatever." No, you're not Coinbase, whatever." No, you're not because those are NMS securities
+u0002his because those are NMS securities
+u0002his because those are NMS securities
+u0002his is why when I talk about what I'm trying is why when I talk about what I'm trying is why when I talk about what I'm trying to do, I have to do it as a second QIP to do, I have to do it as a second QIP to do, I have to do it as a second QIP because it can't be the same security
+u0002 because it can't be the same security
+u0002 because it can't be the same security
+u0002 can't take the NASDAQ security and put can't take the NASDAQ security and put can't take the NASDAQ security and put on the blockchain because that's an NMS on the blockchain because that's an NMS on the blockchain because that's an NMS security no matter how I do it
+u0002o, it security no matter how I do it
+u0002o, it security no matter how I do it
+u0002o, it has to be a different security that has to be a different security that has to be a different security that doesn't touch a national market doesn't touch a national market doesn't touch a national market exchange
+u0002hen you have the ability to exchange
+u0002hen you have the ability to exchange
+u0002hen you have the ability to create a blockchain native ecosystem create a blockchain native ecosystem create a blockchain native ecosystem where you can transact bilaterally and where you can transact bilaterally and where you can transact bilaterally and sell settle self clear
+u0002nd the key is sell settle self clear
+u0002nd the key is sell settle self clear
+u0002nd the key is to keep that locked in. there's a to keep that locked in. there's a to keep that locked in. there's a convertability aspect that you can do at convertability aspect that you can do at convertability aspect that you can do at the treasury side to swap that security. the treasury side to swap that security. the treasury side to swap that security
+u0002ow, there's a bunch of reg Now, there's a bunch of reg Now, there's a bunch of reg considerations, other regulatory considerations, other regulatory considerations, other regulatory considerations you have to have as part considerations you have to have as part considerations you have to have as part of this
+u0002o, it's not trivial at all, of this
+u0002o, it's not trivial at all, of this
+u0002o, it's not trivial at all, but it's doable
+u0002hat's kind of what I'm but it's doable
+u0002hat's kind of what I'm but it's doable
+u0002hat's kind of what I'm trying to lean in on. trying to lean in on. trying to lean in on. >> That's fascinating
+u0002nd you brought up >> That's fascinating
+u0002nd you brought up >> That's fascinating
+u0002nd you brought up the clarity bill
+u0002 mean, how do you the clarity bill
+u0002 mean, how do you the clarity bill
+u0002 mean, how do you handicap that getting through at this handicap that getting through at this handicap that getting through at this point
+u0002his is one of many issues that point
+u0002his is one of many issues that point
+u0002his is one of many issues that people are debating
+u0002t just seems a lot people are debating
+u0002t just seems a lot people are debating
+u0002t just seems a lot more complicated than the stable coin more complicated than the stable coin more complicated than the stable coin bill
+u0002here's sort of two aspects to it bill
+u0002here's sort of two aspects to it bill
+u0002here's sort of two aspects to it which is what is the immediiacy of it in which is what is the immediiacy of it in which is what is the immediiacy of it in terms of its value to the ecosystem
+u0002 terms of its value to the ecosystem
+u0002 terms of its value to the ecosystem
+u0002 think chairman Atkins has been very think chairman Atkins has been very think chairman Atkins has been very clear that for example they don't view clear that for example they don't view clear that for example they don't view DeFi as being under SEC purvey there's a DeFi as being under SEC purvey there's a DeFi as being under SEC purvey there's a question of how do we define DeFi is question of how do we define DeFi is question of how do we define DeFi is defi decentralized custody or is it all defi decentralized custody or is it all defi decentralized custody or is it all logic on smart contracts is it logic on smart contracts is it logic on smart contracts is it governance of market system etc etc and governance of market system etc etc and governance of market system etc etc and so in the near term I don't know that so in the near term I don't know that so in the near term I don't know that it's as important to all of us because I it's as important to all of us because I it's as important to all of us because I think the SEC the first thing they did think the SEC the first thing they did think the SEC the first thing they did that was huge is they said we're not that was huge is they said we're not that was huge is they said we're not using enforcement as a policy tool and using enforcement as a policy tool and using enforcement as a policy tool and that allowed lots of us to be able to that allowed lots of us to be able to that allowed lots of us to be able to wake up in the morning without fear of wake up in the morning without fear of wake up in the morning without fear of an arrest warrant being out there or the an arrest warrant being out there or the an arrest warrant being out there or the Friday afternoon wells notices or all Friday afternoon wells notices or all Friday afternoon wells notices or all the things that were happening give us the things that were happening give us the things that were happening give us some degree of comfort
+u0002hey've enacted some degree of comfort
+u0002hey've enacted some degree of comfort
+u0002hey've enacted a set of policies or announced a set of a set of policies or announced a set of a set of policies or announced a set of intentions that have given a pretty intentions that have given a pretty intentions that have given a pretty clear indication to the industry what clear indication to the industry what clear indication to the industry what you can do and what you can't do
+u0002he you can do and what you can't do
+u0002he you can do and what you can't do
+u0002he problem is it's not codified in the law. problem is it's not codified in the law. problem is it's not codified in the law
+u0002o just as this is interpretive to the So just as this is interpretive to the So just as this is interpretive to the current chairperson, another chairperson current chairperson, another chairperson current chairperson, another chairperson coming in, they go back to the way it coming in, they go back to the way it coming in, they go back to the way it was before
+u0002 think we have a longer was before
+u0002 think we have a longer was before
+u0002 think we have a longer runway with clarity
+u0002t's not that we runway with clarity
+u0002t's not that we runway with clarity
+u0002t's not that we have to get it done this year or the have to get it done this year or the have to get it done this year or the industry is going to suffer
+u0002e've got industry is going to suffer
+u0002e've got industry is going to suffer
+u0002e've got to get it done in the next two and a to get it done in the next two and a to get it done in the next two and a half to three years or we're going to half to three years or we're going to half to three years or we're going to introduce a huge amount of uncertainty introduce a huge amount of uncertainty introduce a huge amount of uncertainty as to our businesses function against as to our businesses function against as to our businesses function against election cycles
+u0002hat's not a good election cycles
+u0002hat's not a good election cycles
+u0002hat's not a good thing. thing. thing. >> No, it's definitely what we want to >> No, it's definitely what we want to >> No, it's definitely what we want to avoid. you brought up that dinner we avoid. you brought up that dinner we avoid. you brought up that dinner we were at and you had some really were at and you had some really were at and you had some really interesting comments around the banking interesting comments around the banking interesting comments around the banking sector and how certain folks in the sector and how certain folks in the sector and how certain folks in the banking sector are really freaking out banking sector are really freaking out banking sector are really freaking out about deposit flight with stable coins. about deposit flight with stable coins. about deposit flight with stable coins
+u0002ow do you think about this
+u0002nd maybe How do you think about this
+u0002nd maybe How do you think about this
+u0002nd maybe I'll ask a follow-up question just I'll ask a follow-up question just I'll ask a follow-up question just around what would you be doing if you're around what would you be doing if you're around what would you be doing if you're a bank right now? a bank right now? a bank right now? >> I've spoken to a bunch of bank CEOs >> I've spoken to a bunch of bank CEOs >> I've spoken to a bunch of bank CEOs about this
+u0002he reality is I think if about this
+u0002he reality is I think if about this
+u0002he reality is I think if you're a regional or super regional you're a regional or super regional you're a regional or super regional bank, your liabilities are going to come bank, your liabilities are going to come bank, your liabilities are going to come under attack and you're going to lose a under attack and you're going to lose a under attack and you're going to lose a lot of them
+u0002here are some bank CEOs lot of them
+u0002here are some bank CEOs lot of them
+u0002here are some bank CEOs that say, "Oh, the government will never that say, "Oh, the government will never that say, "Oh, the government will never let that happen
+u0002e're integral to let that happen
+u0002e're integral to let that happen
+u0002e're integral to community banking, you know, blah blah community banking, you know, blah blah community banking, you know, blah blah blah blah blah
+u0002 don't even understand blah blah blah
+u0002 don't even understand blah blah blah
+u0002 don't even understand this administration, the populist ban of this administration, the populist ban of this administration, the populist ban of this administration, which is around this administration, which is around this administration, which is around main street not bailing banks out or main street not bailing banks out or main street not bailing banks out or allowing banks to have these enterprise allowing banks to have these enterprise allowing banks to have these enterprise franchise models that they always franchise models that they always franchise models that they always underpaid on FDIC insurance underpaid on FDIC insurance underpaid on FDIC insurance historically." And I think there's a historically." And I think there's a historically." And I think there's a recognition of that in the recognition of that in the recognition of that in the administration
+u0002ou're going to be under administration
+u0002ou're going to be under administration
+u0002ou're going to be under attack
+u0002hat do you do when that attack
+u0002hat do you do when that attack
+u0002hat do you do when that happens
+u0002art of what we're doing and happens
+u0002art of what we're doing and happens
+u0002art of what we're doing and going out and doing a road show and that going out and doing a road show and that going out and doing a road show and that we're meeting a bunch of these banks and we're meeting a bunch of these banks and we're meeting a bunch of these banks and we're saying, "Hey, look, there's three we're saying, "Hey, look, there's three we're saying, "Hey, look, there's three things we want to talk to you about
+u0002ne things we want to talk to you about
+u0002ne things we want to talk to you about
+u0002ne is this macro event of stable coins. is this macro event of stable coins. is this macro event of stable coins
+u0002reasury did a study that says if Treasury did a study that says if Treasury did a study that says if interest was paid on these coins, 6.6 interest was paid on these coins, 6.6 interest was paid on these coins, 6.6 trillion would leave the bank trillion would leave the bank trillion would leave the bank liabilities, not just retail, but liabilities, not just retail, but liabilities, not just retail, but business deposits as well." I agree with business deposits as well." I agree with business deposits as well." I agree with that 100%
+u0002 think that that's very that 100%
+u0002 think that that's very that 100%
+u0002 think that that's very correct and I think it's inevitable. you correct and I think it's inevitable. you correct and I think it's inevitable. you already have interest being paid on this already have interest being paid on this already have interest being paid on this indirectly and because of that you will indirectly and because of that you will indirectly and because of that you will just get to direct interest in the just get to direct interest in the just get to direct interest in the notsodistant future and so that deposit notsodistant future and so that deposit notsodistant future and so that deposit flight's going to occur
+u0002hat do you do? flight's going to occur
+u0002hat do you do? flight's going to occur
+u0002hat do you do
+u0002art of what we're saying is hey look we Part of what we're saying is hey look we Part of what we're saying is hey look we can show you how to originate assets on can show you how to originate assets on can show you how to originate assets on blockchain how to create liquidity in blockchain how to create liquidity in blockchain how to create liquidity in marketplaces on blockchain and then how marketplaces on blockchain and then how marketplaces on blockchain and then how to use DeFi to finance those assets
+u0002he to use DeFi to finance those assets
+u0002he to use DeFi to finance those assets
+u0002he paradox of this is the money financing paradox of this is the money financing paradox of this is the money financing those assets in DeFi used to be in the those assets in DeFi used to be in the those assets in DeFi used to be in the bank deposit
+u0002ike you and I taking our bank deposit
+u0002ike you and I taking our bank deposit
+u0002ike you and I taking our deposits out now putting it in yield and deposits out now putting it in yield and deposits out now putting it in yield and coin and then making the decision that coin and then making the decision that coin and then making the decision that hey rather than sulfur we want to make hey rather than sulfur we want to make hey rather than sulfur we want to make six or seven or 8% on a DeFi marketplace six or seven or 8% on a DeFi marketplace six or seven or 8% on a DeFi marketplace lending against loans on an lending against loans on an lending against loans on an overcolateralized basis
+u0002e're just overcolateralized basis
+u0002e're just overcolateralized basis
+u0002e're just reallocating those liabilities away from reallocating those liabilities away from reallocating those liabilities away from the centralized bank capital allocator the centralized bank capital allocator the centralized bank capital allocator to the decentralized to the decentralized to the decentralized people allocator where we all make the people allocator where we all make the people allocator where we all make the decision of allocating to finance those decision of allocating to finance those decision of allocating to finance those assets
+u0002ut that capital needs to get assets
+u0002ut that capital needs to get assets
+u0002ut that capital needs to get tapped
+u0002nd we saw this and the banks tapped
+u0002nd we saw this and the banks tapped
+u0002nd we saw this and the banks got a preview this the end of 22 when got a preview this the end of 22 when got a preview this the end of 22 when the Fed started to tighten
+u0002ank the Fed started to tighten
+u0002ank the Fed started to tighten
+u0002ank deposits went from 18.2 trillion to 17.2 deposits went from 18.2 trillion to 17.2 deposits went from 18.2 trillion to 17.2 trillion
+u0002nd the banks had a miserable trillion
+u0002nd the banks had a miserable trillion
+u0002nd the banks had a miserable time
+u0002hey were selling assets on a time
+u0002hey were selling assets on a time
+u0002hey were selling assets on a prior sale basis trying to get prior sale basis trying to get prior sale basis trying to get everything off the balance sheet
+u0002his everything off the balance sheet
+u0002his everything off the balance sheet
+u0002his is a trillion dollars of liabilities
+u0002o is a trillion dollars of liabilities
+u0002o is a trillion dollars of liabilities
+u0002o if two trillion goes or 6.6 trillion, if two trillion goes or 6.6 trillion, if two trillion goes or 6.6 trillion, which is the Treasury study for which is the Treasury study for which is the Treasury study for interesting goes, what's going to interesting goes, what's going to interesting goes, what's going to happen
+u0002ell, absent a solution, you happen
+u0002ell, absent a solution, you happen
+u0002ell, absent a solution, you have a financial calamity
+u0002overnment's have a financial calamity
+u0002overnment's have a financial calamity
+u0002overnment's not going to let a financial calamity not going to let a financial calamity not going to let a financial calamity happen
+u0002egularities step in
+u0002he Fed happen
+u0002egularities step in
+u0002he Fed happen
+u0002egularities step in
+u0002he Fed could do like extending health type could do like extending health type could do like extending health type structures to create leverage and structures to create leverage and structures to create leverage and liquidity for private capital to step liquidity for private capital to step liquidity for private capital to step into the bank balance sheet void
+u0002t's into the bank balance sheet void
+u0002t's into the bank balance sheet void
+u0002t's not enough on its own
+u0002gain, the not enough on its own
+u0002gain, the not enough on its own
+u0002gain, the reality is that 6.6 trillion isn't all reality is that 6.6 trillion isn't all reality is that 6.6 trillion isn't all going to sit in treasuries
+u0002ou and I going to sit in treasuries
+u0002ou and I going to sit in treasuries
+u0002ou and I aren't going to be content with a 4% aren't going to be content with a 4% aren't going to be content with a 4% yield when we can allocate directly on yield when we can allocate directly on yield when we can allocate directly on an over collateralized basis and get an over collateralized basis and get an over collateralized basis and get seven or eight or whatever it is
+u0002he seven or eight or whatever it is
+u0002he seven or eight or whatever it is
+u0002he big thing that we're showing the banks big thing that we're showing the banks big thing that we're showing the banks is here's a roadmap to do this
+u0002ow, the is here's a roadmap to do this
+u0002ow, the is here's a roadmap to do this
+u0002ow, the second thing that we're talking to them second thing that we're talking to them second thing that we're talking to them about is and by the way, JP is going to about is and by the way, JP is going to about is and by the way, JP is going to take your deposits
+u0002Pcoin is going to take your deposits
+u0002Pcoin is going to take your deposits
+u0002Pcoin is going to come and they're going to be able to out come and they're going to be able to out come and they're going to be able to out compete you
+u0002nd some of these regional compete you
+u0002nd some of these regional compete you
+u0002nd some of these regional banks, I think, are a little bit banks, I think, are a little bit banks, I think, are a little bit delusional
+u0002hey're like, "Oh, no, no. delusional
+u0002hey're like, "Oh, no, no. delusional
+u0002hey're like, "Oh, no, no
+u0002e're going to be able to have XYZ coin We're going to be able to have XYZ coin We're going to be able to have XYZ coin and be competitive." I'm like, "You're and be competitive." I'm like, "You're and be competitive." I'm like, "You're not
+u0002his is why you can't win and chase not
+u0002his is why you can't win and chase not
+u0002his is why you can't win and chase platinum rewards
+u0002ou just can't
+u0002ou're platinum rewards
+u0002ou just can't
+u0002ou're platinum rewards
+u0002ou just can't
+u0002ou're not going to beat them in this fight. not going to beat them in this fight. not going to beat them in this fight
+u0002hy don't we give you our yielding Why don't we give you our yielding Why don't we give you our yielding stable coin
+u0002e have a coin called stable coin
+u0002e have a coin called stable coin
+u0002e have a coin called yields, and it's actually a secured, so yields, and it's actually a secured, so yields, and it's actually a secured, so it's not subject to the Genius Act, so it's not subject to the Genius Act, so it's not subject to the Genius Act, so it can't pay interest
+u0002hy don't we give it can't pay interest
+u0002hy don't we give it can't pay interest
+u0002hy don't we give you the yielding coin
+u0002y the way, we you the yielding coin
+u0002y the way, we you the yielding coin
+u0002y the way, we can hold in treasuries or bank deposits. can hold in treasuries or bank deposits. can hold in treasuries or bank deposits
+u0002our customer puts a dollar into yields
+u0002our customer puts a dollar into yields
+u0002our customer puts a dollar into yields
+u0002e'll hold it on your balance sheet as We'll hold it on your balance sheet as We'll hold it on your balance sheet as liability
+u0002ou've got to pay interest on liability
+u0002ou've got to pay interest on liability
+u0002ou've got to pay interest on it
+u0002t's not a free deposit anymore
+u0002ut it
+u0002t's not a free deposit anymore
+u0002ut it
+u0002t's not a free deposit anymore
+u0002ut you don't have all the costs that you you don't have all the costs that you you don't have all the costs that you had of managing that deposit. had of managing that deposit. had of managing that deposit
+u0002istorically, you get efficiencies that Historically, you get efficiencies that Historically, you get efficiencies that come off of that
+u0002hat gives you a come off of that
+u0002hat gives you a come off of that
+u0002hat gives you a defensive position because now you have defensive position because now you have defensive position because now you have an explicit yielding point whereas JP an explicit yielding point whereas JP an explicit yielding point whereas JP and the Genius Act doesn't. the deposit and the Genius Act doesn't. the deposit and the Genius Act doesn't. the deposit staying with you, the customer staying with you, the customer staying with you, the customer relationship staying with you, the relationship staying with you, the relationship staying with you, the economic scrape is staying with you
+u0002ut economic scrape is staying with you
+u0002ut economic scrape is staying with you
+u0002ut you have to be cognizant of you're you have to be cognizant of you're you have to be cognizant of you're either gonna have a higher cost deposit either gonna have a higher cost deposit either gonna have a higher cost deposit or it's going to be in treasuries and or it's going to be in treasuries and or it's going to be in treasuries and either way it's going to have some either way it's going to have some either way it's going to have some impact on your liabilities and that's impact on your liabilities and that's impact on your liabilities and that's why you need this blockchain ecosystem. why you need this blockchain ecosystem. why you need this blockchain ecosystem
+u0002e're going out on a road show to do We're going out on a road show to do We're going out on a road show to do this
+u0002 joke the bankers are going to this
+u0002 joke the bankers are going to this
+u0002 joke the bankers are going to think this is the road show of doom think this is the road show of doom think this is the road show of doom where I should just show up and I'm like where I should just show up and I'm like where I should just show up and I'm like everything in your world is over
+u0002ut everything in your world is over
+u0002ut everything in your world is over
+u0002ut it's not
+u0002'm saying if you lean in and it's not
+u0002'm saying if you lean in and it's not
+u0002'm saying if you lean in and embrace this technology, you can embrace this technology, you can embrace this technology, you can actually gain a lot of market share from actually gain a lot of market share from actually gain a lot of market share from your competitors who have their heads in your competitors who have their heads in your competitors who have their heads in the sand and are like this will never the sand and are like this will never the sand and are like this will never happen. happen. happen. >> It must be a fascinating thing to be one >> It must be a fascinating thing to be one >> It must be a fascinating thing to be one of these executive teams that's actually of these executive teams that's actually of these executive teams that's actually zoned in on the problem
+u0002 get the zoned in on the problem
+u0002 get the zoned in on the problem
+u0002 get the impression there's quite a few that just impression there's quite a few that just impression there's quite a few that just aren't aware of it even yet, which is aren't aware of it even yet, which is aren't aware of it even yet, which is shocking
+u0002ut it's not just the shocking
+u0002ut it's not just the shocking
+u0002ut it's not just the liability side of the balance sheet liability side of the balance sheet liability side of the balance sheet that's getting chipped away
+u0002t's just that's getting chipped away
+u0002t's just that's getting chipped away
+u0002t's just the asset side is also getting chipped the asset side is also getting chipped the asset side is also getting chipped away
+u0002f you just look at the growth of away
+u0002f you just look at the growth of away
+u0002f you just look at the growth of private credit, who's financing buyouts private credit, who's financing buyouts private credit, who's financing buyouts these days, banks getting out of certain these days, banks getting out of certain these days, banks getting out of certain lines of business
+u0002o, if you almost lines of business
+u0002o, if you almost lines of business
+u0002o, if you almost just do a thought experiment on what it just do a thought experiment on what it just do a thought experiment on what it would take to save the banks from a would take to save the banks from a would take to save the banks from a liability perspective right now, it liability perspective right now, it liability perspective right now, it would be like unlimited FDIC insurance would be like unlimited FDIC insurance would be like unlimited FDIC insurance and you could actually build stable and you could actually build stable and you could actually build stable coins on top of bank deposits within a coins on top of bank deposits within a coins on top of bank deposits within a genius framework
+u0002t's almost like you genius framework
+u0002t's almost like you genius framework
+u0002t's almost like you should be going big and bold with your should be going big and bold with your should be going big and bold with your lobbying efforts
+u0002 think what's lobbying efforts
+u0002 think what's lobbying efforts
+u0002 think what's interesting is almost all the banks interesting is almost all the banks interesting is almost all the banks recognize this is an issue and all the recognize this is an issue and all the recognize this is an issue and all the bank boards are talking about it but bank boards are talking about it but bank boards are talking about it but some of them do not want to have a some of them do not want to have a some of them do not want to have a discussion about what the solution is. discussion about what the solution is. discussion about what the solution is
+u0002t is very topical
+u0002hen we were on our It is very topical
+u0002hen we were on our It is very topical
+u0002hen we were on our road show at one point said hey we have road show at one point said hey we have road show at one point said hey we have a bank that the board wants to talk a bank that the board wants to talk a bank that the board wants to talk about this
+u0002ike would you be willing to about this
+u0002ike would you be willing to about this
+u0002ike would you be willing to go over and talk to them
+u0002'm like sure. go over and talk to them
+u0002'm like sure. go over and talk to them
+u0002'm like sure
+u0002nd so he comes back he's like yeah they And so he comes back he's like yeah they And so he comes back he's like yeah they thought you were too scary and they thought you were too scary and they thought you were too scary and they didn't want you to come in and talk to didn't want you to come in and talk to didn't want you to come in and talk to them
+u0002hey wanted somebody else and I them
+u0002hey wanted somebody else and I them
+u0002hey wanted somebody else and I was like, I'm not that scary
+u0002'm more was like, I'm not that scary
+u0002'm more was like, I'm not that scary
+u0002'm more like a pragmatist in terms of what this like a pragmatist in terms of what this like a pragmatist in terms of what this is, but we're at a point where this will is, but we're at a point where this will is, but we're at a point where this will go slow and then all at once
+u0002ut the go slow and then all at once
+u0002ut the go slow and then all at once
+u0002ut the genie is out of the bottle
+u0002ith genius, genie is out of the bottle
+u0002ith genius, genie is out of the bottle
+u0002ith genius, they're not going to be able to put it they're not going to be able to put it they're not going to be able to put it back in
+u0002nd this is the beginning of back in
+u0002nd this is the beginning of back in
+u0002nd this is the beginning of narrow banking as it affects the narrow banking as it affects the narrow banking as it affects the regional banks
+u0002t will not be for the regional banks
+u0002t will not be for the regional banks
+u0002t will not be for the money centers because money centers will money centers because money centers will money centers because money centers will actually benefit because part of the actually benefit because part of the actually benefit because part of the genius act is you can hold treasuries or genius act is you can hold treasuries or genius act is you can hold treasuries or you can hold bank deposits
+u0002P will hold you can hold bank deposits
+u0002P will hold you can hold bank deposits
+u0002P will hold bank deposits and ultimately the margin bank deposits and ultimately the margin bank deposits and ultimately the margin in stables will go to zero because it's in stables will go to zero because it's in stables will go to zero because it's a competitive product and people will a competitive product and people will a competitive product and people will figure out ways to pay rewards out. figure out ways to pay rewards out. figure out ways to pay rewards out
+u0002here's homogeneity in the product too
+u0002here's homogeneity in the product too
+u0002here's homogeneity in the product too
+u0002hy is one stable better than the other
+u0002hy is one stable better than the other
+u0002hy is one stable better than the other? the margin will go to the point where the margin will go to the point where the margin will go to the point where the consumer gets the benefit of the the consumer gets the benefit of the the consumer gets the benefit of the bulk of the carrier to flow and then it bulk of the carrier to flow and then it bulk of the carrier to flow and then it becomes rewards and application and use becomes rewards and application and use becomes rewards and application and use cases and other things that I think cases and other things that I think cases and other things that I think banks like Chase are going to dominate. banks like Chase are going to dominate. banks like Chase are going to dominate
+u0002hat could have happened is the What could have happened is the What could have happened is the government could have taken a more government could have taken a more government could have taken a more utilitarian approach and said we're utilitarian approach and said we're utilitarian approach and said we're going to create effectively a uniform going to create effectively a uniform going to create effectively a uniform payment rail for all coin where no coin payment rail for all coin where no coin payment rail for all coin where no coin can be accepted or denied. anything can be accepted or denied. anything can be accepted or denied. anything that's conforming is a genius that coin that's conforming is a genius that coin that's conforming is a genius that coin is available for this rail and here's is available for this rail and here's is available for this rail and here's the infrastructure that's not the infrastructure that's not the infrastructure that's not necessarily a capitalistic approach to necessarily a capitalistic approach to necessarily a capitalistic approach to do it and why I don't think they did it do it and why I don't think they did it do it and why I don't think they did it that way there would have been a utility that way there would have been a utility that way there would have been a utility to it unlike in the past when banks to it unlike in the past when banks to it unlike in the past when banks would collude together with things like would collude together with things like would collude together with things like the visa network and so forth I don't the visa network and so forth I don't the visa network and so forth I don't think that's going to happen here I think that's going to happen here I think that's going to happen here I think the big money centers are going to think the big money centers are going to think the big money centers are going to lean in and say you know what we can lean in and say you know what we can lean in and say you know what we can just take this market and they're going just take this market and they're going just take this market and they're going to try to do it to try to do it to try to do it >> want to rewind the clock a little bit >> want to rewind the clock a little bit >> want to rewind the clock a little bit you were the first person in this you were the first person in this you were the first person in this industry that really took a big market industry that really took a big market industry that really took a big market I'm talking about helocks now infused I'm talking about helocks now infused I'm talking about helocks now infused them with this technology
+u0002o what was them with this technology
+u0002o what was them with this technology
+u0002o what was it that you originally saw that it that you originally saw that it that you originally saw that illuminated the fact that a blockchain illuminated the fact that a blockchain illuminated the fact that a blockchain could be a good implementation for this could be a good implementation for this could be a good implementation for this and thorny issues there to figure out and thorny issues there to figure out and thorny issues there to figure out around MNPI and just curious how you around MNPI and just curious how you around MNPI and just curious how you went around operationalizing it. went around operationalizing it. went around operationalizing it. >> The original thesis that we had was we >> The original thesis that we had was we >> The original thesis that we had was we could originate any private credit could originate any private credit could originate any private credit aggregate securitize it on blockchain aggregate securitize it on blockchain aggregate securitize it on blockchain and create some savings
+u0002hat's the and create some savings
+u0002hat's the and create some savings
+u0002hat's the first of those three value props
+u0002he first of those three value props
+u0002he first of those three value props
+u0002he transactional efficiency the issue for transactional efficiency the issue for transactional efficiency the issue for us one was MNPI
+u0002he issue that we had us one was MNPI
+u0002he issue that we had us one was MNPI
+u0002he issue that we had when we started was proof of work was when we started was proof of work was when we started was proof of work was still the predominant chain
+u0002o Ethereum still the predominant chain
+u0002o Ethereum still the predominant chain
+u0002o Ethereum was still on proof of work at that was still on proof of work at that was still on proof of work at that point
+u0002itcoin obviously was a proof of point
+u0002itcoin obviously was a proof of point
+u0002itcoin obviously was a proof of work chain
+u0002roof of stake was coming to work chain
+u0002roof of stake was coming to work chain
+u0002roof of stake was coming to fruition and proof of history with fruition and proof of history with fruition and proof of history with Salana
+u0002ut the problem with those Salana
+u0002ut the problem with those Salana
+u0002ut the problem with those networks was they function like a golden networks was they function like a golden networks was they function like a golden data set
+u0002o you put a loan on one of data set
+u0002o you put a loan on one of data set
+u0002o you put a loan on one of those networks goes out to all the those networks goes out to all the those networks goes out to all the validators
+u0002ou now have PI at 100 validators
+u0002ou now have PI at 100 validators
+u0002ou now have PI at 100 different anonymous entities you can't different anonymous entities you can't different anonymous entities you can't control
+u0002ou can't do that
+u0002e ended up control
+u0002ou can't do that
+u0002e ended up control
+u0002ou can't do that
+u0002e ended up building a blockchain called Provenance building a blockchain called Provenance building a blockchain called Provenance that went through a couple of that went through a couple of that went through a couple of iterations
+u0002he whole premise on iterations
+u0002he whole premise on iterations
+u0002he whole premise on Providence is one of my loans is five Providence is one of my loans is five Providence is one of my loans is five gigs of data
+u0002 put it on Providence. gigs of data
+u0002 put it on Providence. gigs of data
+u0002 put it on Providence
+u0002hat data goes to an encrypted object That data goes to an encrypted object That data goes to an encrypted object store and what goes to the validators is store and what goes to the validators is store and what goes to the validators is a hash of that data that they then write a hash of that data that they then write a hash of that data that they then write such that if I trade alone with you six such that if I trade alone with you six such that if I trade alone with you six months from now, they're going to months from now, they're going to months from now, they're going to reference that data to the encrypted reference that data to the encrypted reference that data to the encrypted object and you're going to be able to object and you're going to be able to object and you're going to be able to tell whether or not that was the actual tell whether or not that was the actual tell whether or not that was the actual artifact
+u0002o it's acting as a data artifact
+u0002o it's acting as a data artifact
+u0002o it's acting as a data validation agent as opposed to a gold validation agent as opposed to a gold validation agent as opposed to a gold data set
+u0002nd we made provenence public. data set
+u0002nd we made provenence public. data set
+u0002nd we made provenence public
+u0002e own 20% of the utility token on it We own 20% of the utility token on it We own 20% of the utility token on it called hash and the 80% bulk of it's in called hash and the 80% bulk of it's in called hash and the 80% bulk of it's in the foundation and there's private the foundation and there's private the foundation and there's private parties that hold it and trade it
+u0002nd parties that hold it and trade it
+u0002nd parties that hold it and trade it
+u0002nd that was a necessary condition but not that was a necessary condition but not that was a necessary condition but not sufficient
+u0002nd that's what I thought sufficient
+u0002nd that's what I thought sufficient
+u0002nd that's what I thought would work
+u0002nd I went to a bunch of would work
+u0002nd I went to a bunch of would work
+u0002nd I went to a bunch of banks
+u0002've told this story lots of banks
+u0002've told this story lots of banks
+u0002've told this story lots of times where I'm like, "Hey, you can do times where I'm like, "Hey, you can do times where I'm like, "Hey, you can do this on blockchain
+u0002e'd like to be the this on blockchain
+u0002e'd like to be the this on blockchain
+u0002e'd like to be the 10th bank to do this." And that's when 10th bank to do this." And that's when 10th bank to do this." And that's when we said, "All right, we'll do it we said, "All right, we'll do it we said, "All right, we'll do it ourselves." in doing it ourselves, we ourselves." in doing it ourselves, we ourselves." in doing it ourselves, we had to be very cognizant of we don't had to be very cognizant of we don't had to be very cognizant of we don't want to fight it out with rocket on want to fight it out with rocket on want to fight it out with rocket on first lean mortgage or SoFi personal first lean mortgage or SoFi personal first lean mortgage or SoFi personal loans while we're trying to convince the loans while we're trying to convince the loans while we're trying to convince the market to use blockchain
+u0002t's not going market to use blockchain
+u0002t's not going market to use blockchain
+u0002t's not going to work
+u0002nd we had to find again the to work
+u0002nd we had to find again the to work
+u0002nd we had to find again the greenest field we could play in on greenest field we could play in on greenest field we could play in on credit where we think we could originate credit where we think we could originate credit where we think we could originate a valuable asset and not have to compete a valuable asset and not have to compete a valuable asset and not have to compete with anyone to do it
+u0002nd and that's why with anyone to do it
+u0002nd and that's why with anyone to do it
+u0002nd and that's why we chose home equity line credit
+u0002t's a we chose home equity line credit
+u0002t's a we chose home equity line credit
+u0002t's a mortgage and it is a mortgage asset, but mortgage and it is a mortgage asset, but mortgage and it is a mortgage asset, but it's one that hasn't been done well and it's one that hasn't been done well and it's one that hasn't been done well and hasn't been used well
+u0002roduct market hasn't been used well
+u0002roduct market hasn't been used well
+u0002roduct market fit historically has been poor for it. fit historically has been poor for it. fit historically has been poor for it
+u0002t's a great substitute for personal It's a great substitute for personal It's a great substitute for personal loans, for example
+u0002hat we were able to loans, for example
+u0002hat we were able to loans, for example
+u0002hat we were able to do is bring the personal loan do is bring the personal loan do is bring the personal loan experience, so a couple minute experience, so a couple minute experience, so a couple minute application process, your money in a application process, your money in a application process, your money in a couple days into something that couple days into something that couple days into something that historically took 45 days to get, but historically took 45 days to get, but historically took 45 days to get, but was a better product downstream
+u0002hat a was a better product downstream
+u0002hat a was a better product downstream
+u0002hat a lot of people don't understand and when lot of people don't understand and when lot of people don't understand and when we think about moes and competitive moes we think about moes and competitive moes we think about moes and competitive moes what we had to do in the beginning is what we had to do in the beginning is what we had to do in the beginning is leave a lot of money on the table leave a lot of money on the table leave a lot of money on the table notably in the beginning people would notably in the beginning people would notably in the beginning people would come to us and say I'll buy your loan I come to us and say I'll buy your loan I come to us and say I'll buy your loan I don't want to buy it on blockchain pay don't want to buy it on blockchain pay don't want to buy it on blockchain pay you more if you don't make me buy it on you more if you don't make me buy it on you more if you don't make me buy it on blockchain and my capital market people blockchain and my capital market people blockchain and my capital market people were like can you just sell them 50 were like can you just sell them 50 were like can you just sell them 50 million not on blockchain and the rest million not on blockchain and the rest million not on blockchain and the rest can be on block and I'm like no can be on block and I'm like no can be on block and I'm like no absolutely not and we left a lot of absolutely not and we left a lot of absolutely not and we left a lot of money on the table and then we had money on the table and then we had money on the table and then we had people come to us and say Hey, I don't people come to us and say Hey, I don't people come to us and say Hey, I don't like your credit box
+u0002o, if you like your credit box
+u0002o, if you like your credit box
+u0002o, if you originate to my credit box, I'll pay originate to my credit box, I'll pay originate to my credit box, I'll pay one, two, three points more for the one, two, three points more for the one, two, three points more for the loans
+u0002ame situation
+u0002ou do that and loans
+u0002ame situation
+u0002ou do that and loans
+u0002ame situation
+u0002ou do that and then you don't have ubiquity of the then you don't have ubiquity of the then you don't have ubiquity of the asset and liquidity that you can create asset and liquidity that you can create asset and liquidity that you can create off of that ubiquity
+u0002he reality is off of that ubiquity
+u0002he reality is off of that ubiquity
+u0002he reality is most entities don't have the ability to most entities don't have the ability to most entities don't have the ability to leave that money on the table
+u0002f you're leave that money on the table
+u0002f you're leave that money on the table
+u0002f you're a mortgage company, you run razor thin a mortgage company, you run razor thin a mortgage company, you run razor thin margins and you take the money when it's margins and you take the money when it's margins and you take the money when it's there
+u0002f you're a startup, that there
+u0002f you're a startup, that there
+u0002f you're a startup, that requires a decent amount of capital and requires a decent amount of capital and requires a decent amount of capital and persistence and patient investors where persistence and patient investors where persistence and patient investors where they're like, "Well, why don't you just they're like, "Well, why don't you just they're like, "Well, why don't you just do fintech 2.0 because we're building do fintech 2.0 because we're building do fintech 2.0 because we're building fintech 3.0?" I had that experience on fintech 3.0?" I had that experience on fintech 3.0?" I had that experience on multiple fronts early on
+u0002y board multiple fronts early on
+u0002y board multiple fronts early on
+u0002y board giving me crap about, well, you know, giving me crap about, well, you know, giving me crap about, well, you know, this online lender is doing better than this online lender is doing better than this online lender is doing better than you, blah, blah, blah
+u0002nd I was like, you, blah, blah, blah
+u0002nd I was like, you, blah, blah, blah
+u0002nd I was like, well, because I'm building into well, because I'm building into well, because I'm building into something bigger
+u0002nd then I got all something bigger
+u0002nd then I got all something bigger
+u0002nd then I got all kinds of grief about, well, you know, kinds of grief about, well, you know, kinds of grief about, well, you know, BlockFi and FTX are doing better than BlockFi and FTX are doing better than BlockFi and FTX are doing better than you
+u0002nd I was like, well, because I'm you
+u0002nd I was like, well, because I'm you
+u0002nd I was like, well, because I'm not trying to do what they're trying to not trying to do what they're trying to not trying to do what they're trying to do
+u0002ltimately, the long game won
+u0002nd I do
+u0002ltimately, the long game won
+u0002nd I do
+u0002ltimately, the long game won
+u0002nd I think that's what we've always persisted think that's what we've always persisted think that's what we've always persisted and and why we've been very particular and and why we've been very particular and and why we've been very particular on the private capital side and trying on the private capital side and trying on the private capital side and trying to do so on the public capital side as to do so on the public capital side as to do so on the public capital side as well, is get investors that buy into well, is get investors that buy into well, is get investors that buy into that long-term vision because there's a that long-term vision because there's a that long-term vision because there's a lot of distractions and diversions that lot of distractions and diversions that lot of distractions and diversions that come up on the road that seem like come up on the road that seem like come up on the road that seem like near-term better opportunity, but take near-term better opportunity, but take near-term better opportunity, but take you away from that long-term objective you away from that long-term objective you away from that long-term objective of building real value
+u0002hat makes total of building real value
+u0002hat makes total of building real value
+u0002hat makes total sense
+u0002nd on the markets business, just sense
+u0002nd on the markets business, just sense
+u0002nd on the markets business, just talking about the long term here, I talking about the long term here, I talking about the long term here, I mean, you don't have to squint too hard mean, you don't have to squint too hard mean, you don't have to squint too hard to see that this technology and people to see that this technology and people to see that this technology and people building things on top of it like building things on top of it like building things on top of it like yourselves could be a real competitive yourselves could be a real competitive yourselves could be a real competitive disruption to CME and some of these disruption to CME and some of these disruption to CME and some of these bigger shops
+u0002ow do you think about bigger shops
+u0002ow do you think about bigger shops
+u0002ow do you think about that and just competing against some of that and just competing against some of that and just competing against some of these incumbents and what their reaction these incumbents and what their reaction these incumbents and what their reaction function will look like? function will look like? function will look like? >> I've never shied away from competing >> I've never shied away from competing >> I've never shied away from competing against entrenched interests
+u0002hen we against entrenched interests
+u0002hen we against entrenched interests
+u0002hen we started SoFi, obviously we were pushing started SoFi, obviously we were pushing started SoFi, obviously we were pushing hard against banks in general and I hard against banks in general and I hard against banks in general and I think we were very successful building think we were very successful building think we were very successful building our business off of that
+u0002 think we our business off of that
+u0002 think we our business off of that
+u0002 think we figure it's even broader
+u0002t's not just figure it's even broader
+u0002t's not just figure it's even broader
+u0002t's not just the banks per se
+u0002n fact, the banks are the banks per se
+u0002n fact, the banks are the banks per se
+u0002n fact, the banks are more partners with us figure than more partners with us figure than more partners with us figure than competitors but a lot of the market competitors but a lot of the market competitors but a lot of the market structure
+u0002 think that's been one of structure
+u0002 think that's been one of structure
+u0002 think that's been one of the challenges with blockchain in that the challenges with blockchain in that the challenges with blockchain in that generally innovation happens marginal generally innovation happens marginal generally innovation happens marginal first order
+u0002t's DTCC figures out a way first order
+u0002t's DTCC figures out a way first order
+u0002t's DTCC figures out a way to get from T+1 to T plus Z. has we've to get from T+1 to T plus Z. has we've to get from T+1 to T plus Z. has we've gone from T plus 3 to 2 to1
+u0002hat gone from T plus 3 to 2 to1
+u0002hat gone from T plus 3 to 2 to1
+u0002hat blockchain's doing is basically just blockchain's doing is basically just blockchain's doing is basically just blowing everything up and blowing everything up and blowing everything up and [clears throat] doing it in a completely [clears throat] doing it in a completely [clears throat] doing it in a completely different way
+u0002nd blowing it up means different way
+u0002nd blowing it up means different way
+u0002nd blowing it up means that their model doesn't work anymore. that their model doesn't work anymore. that their model doesn't work anymore
+u0002here is no marginal innovation
+u0002 There is no marginal innovation
+u0002 There is no marginal innovation
+u0002 always joke about this when I see like always joke about this when I see like always joke about this when I see like Visas running stable coin experiments Visas running stable coin experiments Visas running stable coin experiments like well stablecoin really work there like well stablecoin really work there like well stablecoin really work there wouldn't be a Visa network because wouldn't be a Visa network because wouldn't be a Visa network because there's no chargebacks
+u0002eople don't there's no chargebacks
+u0002eople don't there's no chargebacks
+u0002eople don't understand what Visa's value properly understand what Visa's value properly understand what Visa's value properly is
+u0002t's management of that chargeback is
+u0002t's management of that chargeback is
+u0002t's management of that chargeback process
+u0002nd we're stable coin, it's process
+u0002nd we're stable coin, it's process
+u0002nd we're stable coin, it's cash
+u0002here is no pullback or cash
+u0002here is no pullback or cash
+u0002here is no pullback or redemption
+u0002o if they really embraced redemption
+u0002o if they really embraced redemption
+u0002o if they really embraced it, they wouldn't have a model
+u0002e a it, they wouldn't have a model
+u0002e a it, they wouldn't have a model
+u0002e a completely different business
+u0002nd so to completely different business
+u0002nd so to completely different business
+u0002nd so to me, that's what the opportunity is
+u0002nd me, that's what the opportunity is
+u0002nd me, that's what the opportunity is
+u0002nd it kind of goes back to those factions it kind of goes back to those factions it kind of goes back to those factions of interest within Clarity
+u0002 don't of interest within Clarity
+u0002 don't of interest within Clarity
+u0002 don't think that the winning game is to try to think that the winning game is to try to think that the winning game is to try to promote a centralized ecosystem into promote a centralized ecosystem into promote a centralized ecosystem into blockchain and crypto assets because I blockchain and crypto assets because I blockchain and crypto assets because I think that the established players are think that the established players are think that the established players are very very good at that centralized very very good at that centralized very very good at that centralized ecosystem
+u0002 don't think that any crypto ecosystem
+u0002 don't think that any crypto ecosystem
+u0002 don't think that any crypto exchange for example can stand up exchange for example can stand up exchange for example can stand up against what NASDAQ and ICE have built against what NASDAQ and ICE have built against what NASDAQ and ICE have built on a very pursuit basis
+u0002 think what on a very pursuit basis
+u0002 think what on a very pursuit basis
+u0002 think what you can do is you can do it you can do is you can do it you can do is you can do it decentralized because they'll never do decentralized because they'll never do decentralized because they'll never do it that way and because their model it that way and because their model it that way and because their model won't work that way and decentralization won't work that way and decentralization won't work that way and decentralization is better and so I can go through the is better and so I can go through the is better and so I can go through the custodians there's a period of time that custodians there's a period of time that custodians there's a period of time that Anchorage had this wonderful moat Anchorage had this wonderful moat Anchorage had this wonderful moat because they were a regulated entity because they were a regulated entity because they were a regulated entity that tested crypto well they don't have that tested crypto well they don't have that tested crypto well they don't have the mo and they're being aggressive the mo and they're being aggressive the mo and they're being aggressive they're trying to work with tether and they're trying to work with tether and they're trying to work with tether and others on product and I commend them for others on product and I commend them for others on product and I commend them for that but it's a much more competitive that but it's a much more competitive that but it's a much more competitive dynamic in centralized custody dynamic in centralized custody dynamic in centralized custody decentralized custoy the NPC is in my decentralized custoy the NPC is in my decentralized custoy the NPC is in my mind the better solution, but it doesn't mind the better solution, but it doesn't mind the better solution, but it doesn't involve any of those entities, at least involve any of those entities, at least involve any of those entities, at least in the capacity in which they've always in the capacity in which they've always in the capacity in which they've always participate
+u0002hey could still be node participate
+u0002hey could still be node participate
+u0002hey could still be node operators on an NPC network
+u0002hat's not operators on an NPC network
+u0002hat's not operators on an NPC network
+u0002hat's not the same as them holding the asset the same as them holding the asset the same as them holding the asset earning the economic from that
+u0002o, I'm earning the economic from that
+u0002o, I'm earning the economic from that
+u0002o, I'm not afraid of the entrenched interest not afraid of the entrenched interest not afraid of the entrenched interest because a lot of what we're doing when because a lot of what we're doing when because a lot of what we're doing when you dial it back and look at the true you dial it back and look at the true you dial it back and look at the true infrastructure is green field
+u0002o even infrastructure is green field
+u0002o even infrastructure is green field
+u0002o even the equities trading that I talked the equities trading that I talked the equities trading that I talked about, it's not that I'm trying to build about, it's not that I'm trying to build about, it's not that I'm trying to build a better NASDAQ or NY
+u0002 don't want the a better NASDAQ or NY
+u0002 don't want the a better NASDAQ or NY
+u0002 don't want the centralized exchange
+u0002'm trying to centralized exchange
+u0002'm trying to centralized exchange
+u0002'm trying to build a desk to do this there
+u0002here build a desk to do this there
+u0002here build a desk to do this there
+u0002here isn't that competition. isn't that competition. isn't that competition. >> Maybe one of the last things I'll ask >> Maybe one of the last things I'll ask >> Maybe one of the last things I'll ask you is just around provenance
+u0002o you you is just around provenance
+u0002o you you is just around provenance
+u0002o you guys were really early to this this guys were really early to this this guys were really early to this this concept of getting behind your own concept of getting behind your own concept of getting behind your own chain, birthing it
+u0002tripe's doing that chain, birthing it
+u0002tripe's doing that chain, birthing it
+u0002tripe's doing that now
+u0002ircle's doing that now
+u0002hat do now
+u0002ircle's doing that now
+u0002hat do now
+u0002ircle's doing that now
+u0002hat do you think about that
+u0002nd are we going you think about that
+u0002nd are we going you think about that
+u0002nd are we going to see more of these corporate birthed to see more of these corporate birthed to see more of these corporate birthed public blockchains versus the Ethereum public blockchains versus the Ethereum public blockchains versus the Ethereum style blockchain origins? style blockchain origins? style blockchain origins? >> One of the things that I've come to >> One of the things that I've come to >> One of the things that I've come to terms with, I used to think one terms with, I used to think one terms with, I used to think one blockchain to rule them all
+u0002 don't blockchain to rule them all
+u0002 don't blockchain to rule them all
+u0002 don't view that anymore
+u0002 think that there's view that anymore
+u0002 think that there's view that anymore
+u0002 think that there's got to be lots of blockchains and got to be lots of blockchains and got to be lots of blockchains and requirement of loss interoperability. requirement of loss interoperability. requirement of loss interoperability
+u0002nd I think that the value proposition And I think that the value proposition And I think that the value proposition of those blockchains will differ of those blockchains will differ of those blockchains will differ significantly and that some will create significantly and that some will create significantly and that some will create value
+u0002here's certain idiosyncratic value
+u0002here's certain idiosyncratic value
+u0002here's certain idiosyncratic aspects of Provenance that don't exist aspects of Provenance that don't exist aspects of Provenance that don't exist on networks like Salana or SUI where on networks like Salana or SUI where on networks like Salana or SUI where there's ways for them to extract value there's ways for them to extract value there's ways for them to extract value off of that in terms of people using it. off of that in terms of people using it. off of that in terms of people using it
+u0002nd just like there's value props on And just like there's value props on And just like there's value props on those other networks too, like Sweet and those other networks too, like Sweet and those other networks too, like Sweet and Salana are both much faster than Salana are both much faster than Salana are both much faster than Provenence
+u0002 would argue none of them Provenence
+u0002 would argue none of them Provenence
+u0002 would argue none of them are as fast as NASDAQ right now
+u0002nd are as fast as NASDAQ right now
+u0002nd are as fast as NASDAQ right now
+u0002nd that's sort of a pragmatic limitation that's sort of a pragmatic limitation that's sort of a pragmatic limitation that will be solved
+u0002e will fix that that will be solved
+u0002e will fix that that will be solved
+u0002e will fix that problem
+u0002t's technology
+u0002t will be problem
+u0002t's technology
+u0002t will be problem
+u0002t's technology
+u0002t will be fixed
+u0002t's just not necessarily fixed
+u0002t's just not necessarily fixed
+u0002t's just not necessarily relevant or prevalent today
+u0002ive years relevant or prevalent today
+u0002ive years relevant or prevalent today
+u0002ive years ago, people were building chains because ago, people were building chains because ago, people were building chains because they're like, "Hey, we can issue this they're like, "Hey, we can issue this they're like, "Hey, we can issue this token and people will pay a lot of money token and people will pay a lot of money token and people will pay a lot of money for it." And people were pitching these for it." And people were pitching these for it." And people were pitching these use cases
+u0002'm like, "I don't understand use cases
+u0002'm like, "I don't understand use cases
+u0002'm like, "I don't understand why you need a blockchain." Well, why you need a blockchain." Well, why you need a blockchain." Well, because we can sell the token
+u0002nd I was because we can sell the token
+u0002nd I was because we can sell the token
+u0002nd I was like, "But blockchain is very limiting like, "But blockchain is very limiting like, "But blockchain is very limiting in what it does, which is if you do not in what it does, which is if you do not in what it does, which is if you do not have a native digital asset on the have a native digital asset on the have a native digital asset on the chain, it's basically worthless chain, it's basically worthless chain, it's basically worthless technology." Obviously, I get lots of technology." Obviously, I get lots of technology." Obviously, I get lots of heat from other people in the ecosystem heat from other people in the ecosystem heat from other people in the ecosystem on this and arguing to me about how on this and arguing to me about how on this and arguing to me about how valuable oracles are and all this other valuable oracles are and all this other valuable oracles are and all this other stuff
+u0002ut to me, if you create a native stuff
+u0002ut to me, if you create a native stuff
+u0002ut to me, if you create a native digital asset, blockchain has a lot of digital asset, blockchain has a lot of digital asset, blockchain has a lot of value
+u0002f you don't, it doesn't
+u0002 lot value
+u0002f you don't, it doesn't
+u0002 lot value
+u0002f you don't, it doesn't
+u0002 lot of people today are also looking at that of people today are also looking at that of people today are also looking at that in the same way is that, oh, they look in the same way is that, oh, they look in the same way is that, oh, they look at the market cap of Salana, for at the market cap of Salana, for at the market cap of Salana, for example, and they're like, well, why example, and they're like, well, why example, and they're like, well, why don't we have that
+u0002 don't know if don't we have that
+u0002 don't know if don't we have that
+u0002 don't know if things are going to converge up to the things are going to converge up to the things are going to converge up to the market cap of Salana or things are going market cap of Salana or things are going market cap of Salana or things are going to go the other direction
+u0002 don't know to go the other direction
+u0002 don't know to go the other direction
+u0002 don't know if it's the D apps that live on chain if it's the D apps that live on chain if it's the D apps that live on chain that extract the economics or the L1 that extract the economics or the L1 that extract the economics or the L1 itself
+u0002bviously, if you look at the itself
+u0002bviously, if you look at the itself
+u0002bviously, if you look at the market cap of Mastercard and Visa, it's market cap of Mastercard and Visa, it's market cap of Mastercard and Visa, it's over a trillion dollars
+u0002kay
+u0002ell, over a trillion dollars
+u0002kay
+u0002ell, over a trillion dollars
+u0002kay
+u0002ell, blockchain could displace that
+u0002t's not blockchain could displace that
+u0002t's not blockchain could displace that
+u0002t's not crazy to think a blockchain would have a crazy to think a blockchain would have a crazy to think a blockchain would have a trillion dollar market cap because it's trillion dollar market cap because it's trillion dollar market cap because it's displacing that economic structure
+u0002ut displacing that economic structure
+u0002ut displacing that economic structure
+u0002ut is it the blockchain or is it the smart is it the blockchain or is it the smart is it the blockchain or is it the smart contracts and the other applications contracts and the other applications contracts and the other applications that are built on top of it that are that are built on top of it that are that are built on top of it that are extracting that or does it all just go extracting that or does it all just go extracting that or does it all just go back to the ecosystem? is a consumer back to the ecosystem? is a consumer back to the ecosystem? is a consumer surplus at the end of the day. surplus at the end of the day. surplus at the end of the day. >> That's right
+u0002 think we're in the very >> That's right
+u0002 think we're in the very >> That's right
+u0002 think we're in the very nent stages of all this and so I nent stages of all this and so I nent stages of all this and so I understand why everyone wants their own understand why everyone wants their own understand why everyone wants their own blockchain
+u0002 just don't think that it's blockchain
+u0002 just don't think that it's blockchain
+u0002 just don't think that it's practical. practical. practical. >> Well, Mike, I feel like I get smarter >> Well, Mike, I feel like I get smarter >> Well, Mike, I feel like I get smarter every time I hear you talk
+u0002hanks for every time I hear you talk
+u0002hanks for every time I hear you talk
+u0002hanks for coming on
+u0002nd where can we send people coming on
+u0002nd where can we send people coming on
+u0002nd where can we send people to learn more about Figure? to learn more about Figure? to learn more about Figure? >> You can go to figure.com for Figure >> You can go to figure.com for Figure >> You can go to figure.com for Figure stuff, figures.com [music] stuff, figures.com [music] stuff, figures.com [music] for the cryptoblockchain stuff, and for the cryptoblockchain stuff, and for the cryptoblockchain stuff, and providence.io for what we're working on providence.io for what we're working on providence.io for what we're working on with that protocol. with that protocol. with that protocol. >> Awesome
+u0002ell, congrats on all the >> Awesome
+u0002ell, congrats on all the >> Awesome
+u0002ell, congrats on all the success and thanks again for coming on. success and thanks again for coming on. success and thanks again for coming on. >> Thanks for having me. >> Thanks for having me. >> Thanks for having me. >> Thanks for listening to another episode >> Thanks for listening to another episode >> Thanks for listening to another episode of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o learn more about Castle Island, visit learn more about Castle Island, visit learn more about Castle Island, visit castle island.vc. castle island.vc. castle island.vc
+u0002nd to listen to all of our podcast And to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle episodes, please visit castle episodes, please visit castle island.vc/mpodcast island.vc/mpodcast island.vc/mpodcast or just click on the tab on our website. or just click on the tab on our website. or just click on the tab on our website
+u0002hanks for listening. 

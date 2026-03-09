@@ -1,0 +1,470 @@
+On today's episode, I sat down with Raj Perrick, head of stable coins and payments at Monad
+Raj started his career at Visa and over a seven-year tenure where he spent meaningful time across crypto, stable coins, product, risk, security, and AI, he became deeply knowledgeable on the endto-end workings of payment systems
+from there, starting in 2022, he founded Portal, a platform that helps companies use stable coins to move money fast and efficiently
+in July of 2025, the Monad Foundation acquired Portal where Raj now leads the stable coin and payments effort
+Raj is one of the most knowledgeable people I've had the pleasure of listening to talk about stablecoin based finance
+without further ado, I hope you enjoy our conversation
+or disclosure, Castle conversation
+or disclosure, Castle Island is an investor in Monad
+att Walsh and Nick Carter are partners at Castle Island Ventures
+ll views expressed by them or the guests on this podcast are solely their opinions and do not reflect the opinions of Castle Island Ventures
+uest and host may Island Ventures
+uest and host may maintain positions in the assets discussed in this podcast
+ou should not treat any opinion expressed by anyone on this podcast as a specific inducement to make a particular investment or follow a particular strategy but only as an expression of their personal opinion
+this podcast is forformational purposes only
+rought down by bad mortgage investments. down by bad mortgage investments
+ehman, which has 25,000 employees, will Lehman, which has 25,000 employees, will be liquidated. >> The federal government loans American International Group AIG $85 billion
+nternational Group AIG $85 billion. >> This is a different kind of market AND THE FED IS ASLEEP
+HE federal government is stepping in to stabilize Fanny May and Freddy Mack, the two mortgage giants that have been threatened by the housing crisis. >> The Bank of England has pumped 75 billion pounds more into Britain's alien economy with a new round of quantitative easing. >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry
+to out of this worry, we have something So out of this worry, we have something called the Bitcoin
+itcoin >> Raj, thanks for coming on to chat today. >> Raj, thanks for coming on to chat today
+xcited to hear about some of the work Excited to hear about some of the work you're doing and it's been fun to follow
+ike I was saying earlier, if follow
+ike I was saying earlier, if you wouldn't mind to orient our conversation a bit
+ould you talk about Portal and the history there and the path to where you are today? >> First off, excited to be here
+it's always been fun jamming with yourself and the Castle Island team
+My background started at, you know, Dub
+really was enamored by payment systems for most of my career and even now to this day
+lockchains have really caught this day
+lockchains have really caught my eye and I'm a big believer in just open source payment systems
+think that's just a huge opportunity and something we've never seen before
+think with the combination of blockchains, we do have something that we could actually achieve
+from leaving Visa, I spend a lot of time on the crypto product side, launch stable coin settlement, and then realized that there's just a lot of missing infrastructure in the space
+f I'm a fintech or an FI or someone that wants to go build with this infrastructure, there just wasn't really a lot of options
+to, I love to build portal
+we options
+to, I love to build portal
+we options
+to, I love to build portal
+we work with companies like World Remmit, Bitso, PayPal, bunch of earlier stage companies and what I joke boring use cases with stable coins and payments from payroll to neo banking to freelance platforms
+and so it's been exciting to platforms
+and so it's been exciting to see just this convergence of traditional fintech use cases with stable coins also
+bout 7 months ago, we were also
+bout 7 months ago, we were acquired by the Monet Foundation
+to I've got two jobs
+port we still have I've got two jobs
+port we still have Portal as a stablecoin developer platform, but also been spending a ton of time just building out the Monet ecosystem as well
+wesome
+we talk ecosystem as well
+wesome
+we talk ecosystem as well
+wesome
+we talk about this internally because Matt and Nick were at Fidelity and their stories of Fidelity got interested in Bitcoin early on and wanted to make sure that users could buy Bitcoin on the platform and that led them down to create Fel digital assets and we've seen Larry Frink have his tokenization I call it discovery roadmap
+ow did blockchain become a part of your job at Visa and a part of call it your team or a broader focus there
+it's super interesting, but focus there
+it's super interesting, but around the time that I was going down the crypto rabbit hole, I was building a security platform for banks and then intersection of security and payments went down this rabbit hole
+the Facebook Libra Association stuff was starting to pop up
+to, Visa was actually an early pop up
+to, Visa was actually an early member
+the Libra Association obviously member
+the Libra Association obviously a really bold ambitious vision to see this thing out
+bviously, we all know the history
+it didn't actually pan out the history
+it didn't actually pan out the way that people hoped for
+ut that became an accelerant across fintex and payment organizations to be like wait we have to take this technology pretty seriously because some of the largest organizations in the world are actually exploring it also
+it that point I was exploring it also
+it that point I was already seeing Visa send wires through mainframes and banking systems and I was like this just can't be the future
+f we Visa being like a 60 to 70 year company if the next 60 to 70 years is also like this something's wrong
+it made a lot more sense for everything to move to open source systems at some point
+to I would say it's a combination point
+to I would say it's a combination of convergence of you the market pulling myself and Visa but also just realizing what got us here is not going to be where we want to go in the future
+and I think blockchains are going to play a really big role in changing that
+and where do you think this innovation specifically happens and the way I'd ask that question is if you look at some of the payments advances in the last 1015 years I would say that Stripe and Shopify created solutions which drove e-commerce experiences forward and that was very much driven by the innovation of those companies
+hereas you could say someone like an Amazon at the same time created their own closed loop improvements to payments experiences. improvements to payments experiences
+and with that in mind, do you think And with that in mind, do you think there will be startups and new companies that build out endto-end stable coin payment solutions that drive forward innovation for Visas and Fidelities of the world or do you think it'll be those companies catching on to this and building out their own systems? >> Where we are in the maturity cycle, you're obviously seeing a lot of innovation not just happen at the early stage, but the enterprise level too. companies like Stripe, Shopify
+it the same time, I think there's always going to be blind spots that these organizations just they can't meaningfully go after or want to build with
+and that's I think the opportunity with
+and that's I think the opportunity for startups
+still think there's a for startups
+still think there's a lot of opportunity around specific verticals around B2B payments
+don't think some of these larger organizations are going to go after supply chain trade finance and building out bespoke workflows with import exporters. there's no software that exists with Shopify today for like that use case or I think you're starting to see a lot of uptick in companies that are thinking about payroll differently as well because now the user bases are now spread across the world
+it's no longer just a hyper world
+it's no longer just a hyper domestic use case anymore and I think stable coins fit the bill pretty nicely and Stripe's not a payroll company today but that might be an opportunity for another payroll company to capture or an earlier stage company as well
+to I think there's still a lot of room and payments is just such a massive opportunity and I think sometimes when you think about the global payments overall TAM if we're just penetrated to 1% of it there's just a lot of room to run and I think you're going to have a combination of early stage companies and the larger companies eat into that and the last point I think is stable coins have effectively made being a global company a lot easier and faster where a lot of the traditional companies have all this compliance and regulatory and legal overhead or technical debt. legal overhead or technical debt
+they're not able to think about this new They're not able to think about this new paradigm as fast and saying, "Wait, I can be global from day one and build a global fintech or global payment system." I think that paradigm shift is still emerging across most of these organizations. >> Yeah, I agree
+ou said your adoption curve is something we agree on and that will span these organizations whether they build it themselves or call it work with providers
+it the deeper layer, with providers
+it the deeper layer, what do you think of corporate chains and do you think those are a feature where these assets are actually settling
+to you think it's on settling
+to you think it's on permissionless blockchains, permission blockchains, or what do you think that settlement layer question looks like longer term? >> I might be a little jaded because back during my time at Visa as well, dating back to close to a decade, I've seen CBDC's and permissioned blockchains and a lot of this chatter I think has happened for many years
+think what I've realized is that a lot of payment systems that have originated for many years, including Swift, Visa, they actually all start off as credibly neutral organizations
+isa used to be a neutral organizations
+isa used to be a consortium of banks and then these banks agreed on a standard and from there enabled the four-party model
+wift has done the same thing as well, just having a consortium of bank members that are part of it
+ou could even take that part of it
+ou could even take that down to DTCC and just even capital markets and clearing systems as well. payments have always been a credibly neutral system that's grown over time. neutral system that's grown over time
+to, I'm a big believer that there's So, I'm a big believer that there's going to be a lot of experiments and a lot of bets
+f you're a large company lot of bets
+f you're a large company of distribution, it's definitely worth trying because it's an ambitious enough endeavor
+ut, I think the true payment endeavor
+ut, I think the true payment systems that are durable and have last the period of time do start off credibly neutral in some capacity
+and so, I think of blockchains and the set of validators as the early consortium of member banks for like Swift and Visa as well
+and so I think that paradigm is well
+and so I think that paradigm is going to continue to be true moving forward as well. >> That's a great point
+feel like people when talking about stable coin systems or cryptonative companies discuss to what extent think should be decentralized or centralized
+they don't actually think about the histories of decentralized governance outside of blockchain systems. >> Totally
+and this is where for me being >> Totally
+and this is where for me being at Visa and actually seeing the history of Visa Dows and some of the experiments that we see in the crypto space is actually like wait I've actually seen that before
+ou see that with Swift, that before
+ou see that with Swift, you've seen that with Visa
+ou've seen this with like early organizations
+it now has a new catchphrase and a new term associated with it and a new mechanism for votes and governance, but these things are not novel from an organizational standpoint
+with payment systems just being so broadly impactful for like a market, I think people have always realized that you can't have this concentrated across a single ruler or leader
+it does need to be spread out in leader
+it does need to be spread out in a credibly neutral way so that it can provide benefits to the entire globe versus a few cohorts of organizations. >> So do you think whether it's one chain that gets used excessively or multiple blockchains that in that case the key financial players become validators
+is that their role in that ecosystem or where do they position? >> They'll become validators
+think of it today as there's multiple rails
+ven if you unpack debit processing, there's six or seven debit processing rails
+hen you have the credit rails, then you have your domestic schemes, and then you have your global rails like the wires and swifts of the world
+we've always been in a multi- payment rail ecosystem
+and I think with blockchains, you're going to start to see a very similar opportunity where for whatever reason, depending on your use case, if it's crossborder or if you're optimizing for fees or speed, you may try to route volume to a specific rail accordingly just to get to your final destination
+think the same thing is going to apply for blockchains as well
+and so a lot of these organizations will either become members of Swift or they'll become a validator for a blockchain and from there they'll be able to provide the proper governance and controls for how they want to leverage the rail
+ut that's how I typically see things play out
+aybe I'm more pragmatic and just out
+aybe I'm more pragmatic and just referring to the traditional payment space, but I use a lot of those mental models and how I evaluate the blockchain space too. >> And what about stable coin issuers
+is it a couple it proliferation there
+is it a couple major players or how do you look at it? stable coin issuance is really interesting because I think when you see the US and you see like the tethers and circles of the world that have really hit escape velocity they started an experiment almost 10 years ago and have been able to get all the network effects all the first mover advantages you can talk about it in spades with USD stable coins I think now as you're starting to see the BRL stable coin or the MX send or other parts of the world you have to think about them a little differently USD is just a very different beast than like the Mexican peso so even internally how we evaluate working with a stable coin issuer
+we can't think of it as coin issuer
+we can't think of it as like in dollar terms because the demand base and the supply base is just very very different
+to we typically look for very different
+to we typically look for issuers that are either working that have political leverage are working directly with their governments especially in markets where maybe the regulatory landscape might be unclear
+think having that leverage is really critical
+lso having built-in critical
+lso having built-in distribution partners
+it's not enough distribution partners
+it's not enough to just say cool we have a stable coin. to just say cool we have a stable coin
+we're now immediately going to see We're now immediately going to see escape velocity and growth similar to circle if we survive long enough
+ow are you thinking about driving distribution across the existing FI or fintech space
+and then also what's your fintech space
+and then also what's your edge
+is it just cool stable coin edge
+is it just cool stable coin issuance and we do some secret sauce on top or are you thinking about the mechanics of yield
+re you thinking about how to interplay with DeFi effectively as well
+that are the KPIs you're shooting for
+is it circulating supply
+and if you're doing it for a supply
+and if you're doing it for a non-USD stable coin, what does that circulating supply even mean after
+ut I think a lot of these stable coin issuers that I've talked to, it's pretty clear
+ou can tell the ones that are clear
+ou can tell the ones that are thinking about this strategically versus the ones that are seeing the opportunity for what it is today
+and I'm excited to work with some of the best-in-class issuers that are out there
+know there's many on the non-USD side that are actively executing on this
+we're excited to work with them, too
+think excited to work with them, too
+think some people make the argument or take the view that you see over 99% of stable coins in US dollars
+and if they're stable coin believers, they believe that we're arcing towards some degree of global US dollarization. global US dollarization
+ut I take it and it sounds like you But I take it and it sounds like you don't take that view based on the idea that you just need political and regulatory capture, which a lot of these countries or systems just won't concede their monetary independence to dollarization. >> Yeah
+and it's an interesting thing >> Yeah
+and it's an interesting thing that's played out for the last 20 years or so too where you already even without stable coins, countries have been dollarized
+ou have Panama, you have dollarized
+ou have Panama, you have Ecuador, you have Zimbabwe, you have many of these countries that have already adopted dollar without a meaningful difference in technological innovation
+think we still haven't innovation
+think we still haven't seen central banks across many markets crack down on this dollarization yet
+to I think the verdict's still out
+entral I think the verdict's still out
+entral banks were like, "Hey, we're going to innovate and we're going to get ahead of this." And you're starting to see like in India, the RBI is now starting to talk about stable coins a bit more
+the EU has always been pretty forthcoming about it
+they've obviously made it a about it
+they've obviously made it a little harder for these issuers to be successful just based on how the regulations set up
+ut I think we're still in the early days where central bankers don't really feel the impact of stable coins yet in their market
+ut once they do, they're going to either try to innovate and work with the private sector to say, "Let's go build." Or they're going to continue to look the other way. and then they won't be surprised when dollarization takes place in their market as well. >> Do you guys at MONAD aspire to work directly with policy makers in any capacity? >> That's a great question
+it all comes down to who are the policy makers that are willing to listen
+think we're always interested in engaging in discourse with policy makers, but I think sometimes some policy makers just have their own point of view in the world and they're going to rule with an iron fist and we'll continue to do that in their market and some of these regulatory regimes allow for that
+to I think it just really comes down to who's willing to listen, who's willing to innovate, and who's willing to be a long-term thought partner
+ou've seen that shift in the US recently where they are willing to listen, they are willing to actually be collaborative as well. to actually be collaborative as well
+and then release real regulation and And then release real regulation and legislation around it
+those are the policy makers that we would love to engage with all day every day
+and then from there, actually make it a win-win. from there, actually make it a win-win
+ot just here's what we want to do in Not just here's what we want to do in the stable coin space, but what is your market looking for
+that are your institutions and your organizations and your users looking for? and how do we craft the best win-win policy that actually makes your economy effective? actually makes your economy effective
+lso, Also, >> it feels to me like if anything that's even more in the interest of participants outside of the US, of policy makers outside of the US and core companies and banks outside of the US cuz it actually is difficult to compete with Circle and Tether to the point that you made post Genius
+we haven't seen any other stable coin issuers really break out even if they have immense traditional leverage in financial markets
+ut if you're a major bank or markets
+ut if you're a major bank or policy maker in another country, call it like a major economy, it seems in your interest to want to get ahead or be a participant here because people are going to dollarize via stable coins
+and you at least want to offer the accompanying Nigerian naira balance or Mexican peso balance or whatever it is because you'll have this pull of local payments where you can't spend dollars quite directly yet. that seems really in the interest of those parties to me, but I feel like we haven't seen it that much yet. >> I think we've seen it, but not with stable coins yet
+and I'll give you maybe a concrete example is that the organization behind UPI in India has been on this endeavor for the last couple years
+and they have this goal couple years
+and they have this goal that by 2029, they want UPI to be fully integrated into about 20 different countries in their domestic schemes
+and the whole intention is that UPI is really proven to be an effective domestic payment system
+and everyone always talks about it as the best-in-class, but they've realized that it's not connected to Japan or the US or Brazil and all these other markets
+and so it's dominated the domestic markets, but not really this crossber use case. but not really this crossber use case
+and what they've been doing is that And what they've been doing is that they've actually been building out an engineering team and integrating with these other domestic schemes one-off. these other domestic schemes one-off
+they tried this in Singapore
+they just They tried this in Singapore
+they just announced a pilot in Japan
+ut what's announced a pilot in Japan
+ut what's interesting is that if they actually use blockchains instead, they would have global connectivity from day one versus having to do these bespoke integrations. having to do these bespoke integrations
+to I actually think that a lot of So I actually think that a lot of companies that have been thinking about their payment system in a really advanced way, they do want to globalize their currency and their payment systems because they know that it's in their best interest for their economy
+they just haven't been able to make the leap that actually leveraging open source systems like blockchains connected to their domestic systems could actually be a huge accelerant for what they aspire for for the next 5 years could actually be done in like less than a year or maybe two years max and they get fullund whatever some country coverage
+it's a definitely a motivation that I've seen from most countries
+just don't know if they've really connected the dots yet of what's available from a technical standpoint and what they can actually accomplish in the short term too
+that's your view on card payments versus some of these local payment methods
+and I think a lot of people in the US frankly don't even know that you go to areas like East Africa and card payments are not the dominant form of payment. not the dominant form of payment
+they're actually far from it
+to you They're actually far from it
+to you think from an innovation perspective that card payments will continue to be or be increasingly dominant or do you think we see more of these digital native maybe even call them national payment methods
+it's interesting because as you asked me the question, one of the things that we talked about at Visa a lot when I was there is that we didn't think of Mastercard as our competitor
+there was always this view competitor
+there was always this view internally to be like, let's open up the mental model further and not just think of the next publicly traded company that's like a payment card network
+we should be thinking about all payment methods as our competitors
+to that's cash, that's QR code payments or mobile money operators in different markets as well
+those are actually the real well
+those are actually the real competitors there
+or Visa, I think competitors there
+or Visa, I think card payments is one proven to be a really effective business model
+isa still continues to be an efficient business with high margin with 300 million merchants globally
+ike that network effect is really really hard to displace
+and I think as more displace
+and I think as more organizations and more companies and merchants across the world start to then see more maturity in their local payment systems, naturally they're going to want to see cards as an acceptance method
+to I think there's a lot of room for Visa to run and I think they're doing a great job adding new payment options associated with it
+it's a really tough endeavor because you have to hyper like localize for a lot of different markets. localize for a lot of different markets
+think at the same time what I've also I think at the same time what I've also seen is that countries that haven't invested in their own payment system are now inheriting blockchains
+f your government is not going to build your own UPI as an actor in a user in your market, you're going to look for the next best payment system to go towards and that's ideally the cheapest as well. and that's ideally the cheapest as well
+and I think that's where you're starting And I think that's where you're starting to see the USDT on Tron and that inheritance that it has across some of these emerging markets and people are often times shocked by that
+to answer your question directly, card payments still have a lot of room to run
+there's still a lot of market run
+there's still a lot of market structures and infrastructure companies that are required to be stood up
+ut blockchains just being open source and just available anywhere is an easy payment system for a user to inherit with very little upstart cost
+f you want to set up a card issuer, let's just say pick your country
+ou need an issuer processor. bank
+ou need an issuer processor
+there's more pieces involved
+ou have There's more pieces involved
+ou have to make sure it's all fully connected. to make sure it's all fully connected
+it's compliant with Visa rules
+that It's compliant with Visa rules
+that would take you like a year or two, if not longer, depending on your jurisdiction
+ut blockchains can be set jurisdiction
+ut blockchains can be set up today if you really want to as well. up today if you really want to as well
+think your point of the visa view that I think your point of the visa view that the competitor's cash is really interesting because to your earlier point about trying to position in places where you're going to have regulatory capture or tailwinds, I don't think governments can ban cash, at least most of them in the intermediate future, because of things like property rights. because of things like property rights
+ut what you can do is lean into But what you can do is lean into technology that makes cash increasingly inconvenient and try and do this polite push of people in the country to use cash less which I think benefits governments cuz it's easier to make sure people aren't evading taxes and generally have some sense of what people are doing with money which they certainly want
+to that makes a ton of certainly want
+to that makes a ton of sense
+it seems like first off we will sense
+it seems like first off we will collectively be aided by eventually the governments would lean into this sort of technology and hopefully that'll make for better built payment solutions. >> Totally
+and I think if you're a >> Totally
+and I think if you're a government today and you were like, "Hey, we are going to go build a payment system from scratch, you probably have to consider leveraging blockchains and sub capacity just because of how fast other markets are expanding as well
+and you want to leaprog ahead against your competing countries or also just making it available for your own currency to be exported overseas as well
+veryone wants to see more demand for their own currency
+and if it's all just stuck in currency
+and if it's all just stuck in cash at the same time also, then you've basically constrained your economy to a domestic market domestically
+think everyone wants to internationalize their currency, attract foreign investors
+think that's what you want to do in a payment system yet may help you with taxes and all that sort of stuff, but it also helps you in informing better investments from other markets overseas, too. >> In the US, you've had these rumors of CBDC projects within the government
+to you think that government adoption they would require that they build a blockchain internally and run on that ledger or do you think in the foreseeable future that governments would use permissionless blockchains? >> Yes
+and you know this is going back >> Yes
+and you know this is going back I've seen the CBDC research exercise for a long time now and I think you see it flip-flop
+think before you saw public flip-flop
+think before you saw public private partnerships was the big thing and then next thing you know there's these permission blockchain that also pop up as well
+in terms of the speed of innovation, we've seen this with Fed now
+ook forever to get launched
+now
+ook forever to get launched
+now
+ook forever to get launched
+think if there's an endeavor that's serious for like a CBDC, if you're a government, it's a tough design decision, but you may want to opt for a permission system just if you want more control over the different nodes
+think if you want to build with as little tech debt as possible, then permissionless blockchains are going to be the best-in-class for both crossber and domestic use cases and I think present the right paradigm for it
+to, I'm obviously a big believer in permissionless public blockchains
+think that's just the way that things are going to move longer term
+they're just going to move a lot faster than a bottoms up effort for many, many years and then maybe never see the light of day, which is something that we've seen time and time again from some of these governmentbacked technical endeavors as well
+in terms of adoption, some of the well
+in terms of adoption, some of the areas we're talking about, you and I were chatting about agentic payments a little bit, but before we got started, do you think that agents or AI instances can have money accounts at least in the near future
+oes that constitute any near future
+oes that constitute any sort of illicit activity with money or risks there such that that shouldn't happen in your view
+it's really interesting because even just like taking a step back, I see payment systems in reality actually require two parts like it requires authorization and then settlement afterwards
+think blockchains have been historically really good at settlement
+it's the best settlement network possible
+don't think we've quite figured out the authorization side when it comes to blockchains
+think different companies blockchains
+think different companies have been building on top of it
+ou could argue wallet companies might be the authorization layer, but I think ultimately with agents also, there's going to need to be some form of authorization that takes place
+ow, it could also be authorization for the fiat side or the stable coin side
+ust similar to how like today traditional payments work
+think when it comes to payments work
+think when it comes to agent transactions, stable coins and fiat transactions are going to compete every single day and the agents are going to make a hyperrational decision to what they want to achieve
+f they want, hey, this needs to be sent like right now. stable coins are going to make a ton of sense
+f they're like, "No, this transaction, why don't we schedule it for like five days from now?" If that's the rational decision to make for that specific use case, then maybe a swift transfer authorized by a user behind the scenes for an agent actually makes sense as well
+to, when I think about agents transacting, I think of it as hyperrational individuals that are just going to look for the most efficient path and then they're going to be able to do that at really, really high speeds
+and I think what that's high speeds
+and I think what that's going to do is you could argue the agentic commerce stuff, maybe there's open AI plugin with Stripe and maybe that solves the Aentic commerce side
+think there's a whole bigger pie that I'm particularly excited about where you have back office treasury operations that maybe you have a treasurer who's flipping back and forth between a money market account and who's trying to optimize interest every single day. when in reality an agent can actually be given an instruction and then from there process in a high frequency style all these transactions whether it's fiat or stable coins depending on the workflow. stable coins depending on the workflow
+to I think we're just scratching the So I think we're just scratching the surface right now
+bviously the LLM are just getting a lot more mature
+they couldn't do basic math just maybe a few years ago and now they're starting to get a lot smarter and are winning math competitions
+and so I think we're just competitions
+and so I think we're just scratching the surface there but there's a lot of room to run. blockchains are going to play a big role, but also the fiat system is going to have to adopt to this new agogentic world as well. >> I like your point that authorization has been a point that's not well enough served because I agree
+we've talked about chargebacks as being one functionality that could be interesting there potentially some sort of onchain notary
+that do you think
+to you see a notary
+that do you think
+to you see a notary
+that do you think
+to you see a clear-cut potential solution to that issue at least in the near term? >> A lot of these primitives haven't really been built by the blockchains itself. been built by the blockchains itself
+it's been a lot of the organizations It's been a lot of the organizations have been constrained to blockchains for the most part have to build around it. the most part have to build around it
+to we've left that decision to like the So we've left that decision to like the wallet providers, the card issuers to manage themselves and from a risk standpoint and we haven't really built a standardized system around it
+ut that's what you've seen traditional payment systems have done like Visa or Swift
+there's always this messaging Swift
+there's always this messaging layer that has enriched data and transaction information and from there you can like build rules and other policies around those transactions
+to I think we're getting there
+there's still think we're getting there
+there's still some work in the crypton native context in terms of some of these policies, but we haven't really seen it fully realized at a larger scale with some of these payment systems
+think the wallet and payment systems
+think the wallet and card issuing layers are probably the most interesting places, especially as they lean into stable coins a little bit more
+think they'll have a lot of room more
+think they'll have a lot of room to run at this authorization layer. >> Yeah, I think it's a great point that a lot of that calling infrastructure has been built by other providers and in the wake of that, we've seen Stripe acquired bridge and privy monad and you guys teamed up obviously
+to you think you see more consolidation like that where you see these key functions built out outside of blockchains or major financial players and then they expand and go acquire those sorts of businesses to expand their purview and capability. to expand their purview and capability
+they kind of think of it as like what They kind of think of it as like what does the market need
+and I think what's interesting is that if I go to a fintech today, large fintech, and say, "Hey, go use stable coins." And let's say they're signed off on, they're like, "Great, I think stable coins are fantastic." It's like, "Cool, you need an RPC node provider, you need a wallet provider, you need an orchestration company, and by the way, if you want cards, you need an issuing partner also." And so, we've actually made it really difficult as an industry to actually implement this technology
+we've basically have asked technology
+we've basically have asked people to cobble together multiple vendors in order to accomplish their goals. >> It's like a Lego set. >> You would never do that for a traditional B2B sales motion if you're a web 2 company
+ou wouldn't say, "Oh, yeah, buy us, but also you're going to have to buy these three other companies in order to use it effectively." And so, I think the market's typically always right
+the market's telling us that, right
+the market's telling us that, hey, we need to be better and have a better package solution
+think Stripe has recognized that
+think many other has recognized that
+think many other companies have also recognized that as well
+think a lot of companies are well
+think a lot of companies are getting beefier to then expand their set and I think it's ultimately going to provide a better product for the market where we think we're mature but we actually have a lot more maturity that we have to go through before we're ready for the big leagues still
+to I think it's a chapter in our story as an industry but it's a head in the right direction as well
+get asked this question frequently and I'm trying to refine my answer
+to I'm curious for your view, but who do you think are the companies who are less obvious but clear beneficiaries of this technology and more so talking about public companies that people wouldn't think of off the bat but you think will benefit? >> There's a few
+still think banks are actually a big beneficiary of genius compliance
+it's like you get batteries compliance
+it's like you get batteries included to be a stable coin issuer
+ow you could argue what does their business model look like
+re they in the business of deposits
+id that actually work
+to, I think there's a lot more work
+to, I think there's a lot more unpacking that needs to get done
+ut I think genius has actually shown that, hey banks, you guys can innovate
+on't be afraid of touching this technology
+think companies like Fiser are doing a great job of thinking about their FIUSD from first principles
+'m like, hey, let's not just launch a stable coin for the sake of a stable coin, but if we have thousand bank partners that now can use this technology in a compliant fashion, that's something that we should be paying attention to
+sort of definitely like a sneaky winner
+also think existing payment companies think you're pioneers, you're wisers of the world
+think all these folks have world
+think all these folks have really strong payments people and I actually think payments is actually a much deeper rabbit hole than crypto is in some capacity
+think you can argue crypto in totality if you're going to go down DeFi, smart contracts, protocols, still a very deep rabbit hole
+ut if you're constrained to just stable coins and blockchains as what you really need to know from the crypto space, the payment side is actually the deeper rabbit hole that you need to go down
+to I actually think a lot of these companies that have deep payment expertise are going to be able to go down the stable coin rabbit hole fairly fast
+and I think we're seeing that fast
+and I think we're seeing that already with some of these announcements that are coming out like Western unions, the moneygrams, the world remits of the world
+they're not just talking about world
+they're not just talking about it
+they actually have products and it
+they actually have products and engineering teams that are actually around it
+to, I think a lot of those around it
+to, I think a lot of those public companies are going to make strides fairly quickly and they're starting to see more resourcing towards this endeavor as well. >> It's funny as we get clear regulation
+think companies in the space get really excited, but it's also like, okay, now we need to go get this licensing to be compliant
+and to your point, it seems compliant
+and to your point, it seems like banks are really well positioned just already being there
+was talking to Bobin, who's one of the founders of Birch Hill, which is an upand cominging risk curator
+and we're talking about risk curator
+and we're talking about how if you're already a registered RAIA, registered investment advisor, you're pretty well served to go and get into the curation game if you want to and if you think that there's going to be a sizable market at the intersection of tokenized assets and traditional financial asset classes. >> Totally
+think it's just a matter of >> Totally
+think it's just a matter of is it one, what does the demand look like
+that is the quality of assets
+it like
+that is the quality of assets
+it like
+that is the quality of assets
+it just goes back down to the same type of curation that they would do for like their clients anyways
+and then what is available on chain today
+and I think that's where there's still some more maturity that we have to do as a space to we obviously know what those mature assets are, but if you're going to go down to a family office or a high net worth individual and you're curating a vault of some sort for them, you're going to want to make sure it's battle tested in some capacity
+ou've done the underwriting on what the profile of the product is, what's the reserves around the collateral
+to I think all those the collateral
+to I think all those things are definitely batteries included for like these RAAS
+it's just there's more work for them to do and I think they have to assess the demand associated with it as well
+and as we get this proliferation of stable coins of tokenized assets, obviously you still have this core blockchain native crypto asset class like Monad has the Monad token as do most if not all L1's and L2s
+ow do you think these things L2s
+ow do you think these things coexist having those native crypto assets along with stable coins and tokenized assets? >> A lot of it's going to be abstracted away especially depending on your use case as well
+think we're starting to see that with some of the account abstraction primitives that we're seeing pop up in the ecosystem as well where you can now use your stable coins to pay for gas fees and then it's all autoconverted underneath the hood as well
+specially for like a fintech or well
+specially for like a fintech or tradi audience who's like hey we still want to process transactions but it's hard for us to hold crypto on our balance sheet
+they're going to want to balance sheet
+they're going to want to look for some of these primitives to leverage
+ow at the end of the day it leverage
+ow at the end of the day it doesn't mean that the native asset is still not used to actually process the transaction. is still being used, but it's done indirectly sometimes
+to, I think you're going to start to see maybe more of that for like the fintech trifi audience
+think what gets interesting audience
+think what gets interesting is what we talked about these organizations becoming validators
+think that's where it gets really interesting where if they you're starting to see some of these larger organizations saying, "Hey, this validator thing is pretty interesting. validator thing is pretty interesting
+we could actually contribute back and we We could actually contribute back and we can contribute back to the security of the entire network
+there's actually emissions that we can earn from it as well." It's actually a very interesting model that feels similar to other maybe consortiums or organizations we've been a part of
+to I think we're not quite a part of
+to I think we're not quite there yet, but you're starting to see I'm honestly sometimes surprised the number of organizations that proactively ask me about how to become a validator sometimes, but I think that might be something that we see longer term also. something that we see longer term also
+and I think more organizations and And I think more organizations and blockchains that are designed for fintech and institutions will start to like bake that into their overall go to market motion too
+and what would be your messaging to whether it's corporates, companies that are integrating stable coin flows
+ecause I think one of the things we see often, you've probably seen a ton with payments is it's really easy to accumulate tech debt if you make decisions early on that you then wish, oh, I wish we'd structured this differently or you have users in a certain workflow
+to what advice would you give to folks who are making these design decisions as they're working in this space? >> One is what is the actual pain point and problem
+eally just unpack that
+problem
+eally just unpack that
+problem
+eally just unpack that
+think the sake of doing a stable coin innovation project for the sake of doing it is not a good endeavor
+try to really get to the root of it
+good example of that is we see companies that have large treasuries and they want to optimize the most amount of yield, but they still need to do transactions with that with those funds
+table coins present a really good opportunity because you can still tokenize your entire treasury
+ou can earn interest entire treasury
+ou can earn interest on it
+to, you're still optimizing the on it
+to, you're still optimizing the yield for it, but then you can still sling the stable coin thing around to all the counterparties depending on what you're looking for
+to I think unpacking the problem and then from there backing into what does this unlock and what are your future plans for your business is the international expansion which I've heard from many organizations is it okay you know we're seeing a lot of users complain about waiting 5 to 7 days to a week sometimes for these transfers so this presents a new opportunity where we can send transactions quickly or if you want to start to add specific strategies around how you convert back and forth between different FX currencies and maybe using a combination of an MXN DRL and USDC all in stable coins actually present a much better yield optimization plus revenue opportunity for your business as well so that you're not dealing with the analog or like another pain point is preunded accounts across all these different markets
+think that's like what I would really stress a lot of organizations is get really really sharp about the problem because once you're really sharp about it the solution is actually fairly straightforward afterwards
+ou may realize that fiat might solve your problem or you may also realize that stable coins directly impact this and you could actually do a full rehaul and really accelerate your business accordingly as well
+ut I think starting with the problem is what I would say for most of these organizations
+think that's a great organizations
+think that's a great first one
+ome of these large first one
+ome of these large international or multinational organizations, it's amazing the balances they need to keep across accounts, across markets, across different financial payment systems
+and just by creating efficiencies there where they can become more cash efficient or they can pick up margin or spread when converting across currencies or assets. converting across currencies or assets
+it's amazing how much of a difference It's amazing how much of a difference that can make especially for these companies that might be large but are trying to become profitable or increasingly profitable. >> Totally
+mean, I've talked to like >> Totally
+mean, I've talked to like multiple fintexs just in the traditional fiat world where they're maybe growing really fast and then they realize like, oh damn, our cash balance and our opex requirements, it went from 20% of our balance sheet to now like 60 to 70% of the balance sheet because we grew so fast
+to there's like a natural fast
+to there's like a natural graduation for most traditional fintex. graduation for most traditional fintex
+ow well can you grow the business from How well can you grow the business from a transaction volume standpoint, but are you also efficient in like how much you're using your balance sheet accordingly
+and it's not uncommon for a accordingly
+and it's not uncommon for a company and a founder to be like, "Oh, damn
+we're doing so well on growth, but damn
+we're doing so well on growth, but now we need to raise debt or we need to go raise more capital quickly because our runway is now three months for our core business." So, in one side, you think you're growing really fast, on the other side, you have a real big problem. other side, you have a real big problem
+and I think a lot of fintexs have had to And I think a lot of fintexs have had to face that
+and I think an opportunity face that
+and I think an opportunity with stable coins, just given how fast some of these transactions can move, you could potentially think of a new strategy versus just thinking about preunded accounts all the time, too. >> Yeah
+eah, this is a whole another >> Yeah
+eah, this is a whole another conversation, but it's really cool with blockchains how quickly debt capital and working capital can move now too cuz that used to sometimes be a multi-day process and now you can call on these lines quickly and providers can extend them quickly. >> And I think one thing that I've been thinking about quite a bit is we think about programmability a lot in the blockchain world
+to one really knows blockchain world
+to one really knows what it means, but everyone talks about it like it's a cool thing you can do. it like it's a cool thing you can do
+ut I think what we've come to the But I think what we've come to the realization on that for working with 20 plus blockchains on the portal side especially is that programmability without speed is actually really bad UX. without speed is actually really bad UX
+it's like you're not going to wait for It's like you're not going to wait for all these transactions to be fully settled and if I want to borrow and lend or if I want to take debt on and now it's taking me a long time it's also really expensive
+ut with blockchains like Monad if it's millisecond block times you can now do six transactions prior to like whatever you needed to do before
+and so you've now maybe taken on before
+and so you've now maybe taken on a loan
+ou may be able to pay that a loan
+ou may be able to pay that back
+ou can unwrap a token
+ou can do maybe a swap in wrap a token
+ou can do maybe a swap in between as well
+and then you can meet between as well
+and then you can meet the same settlement window that's required for you as well
+and that's something we've seen on the card authorization side where the card off windows are about 3 seconds or so
+in monad, you could technically do about six transactions prior to the card authorization settlement
+and that's a whole new design space that we haven't really fully unlocked yet just because legacy blockchains have been so slow. legacy blockchains have been so slow
+ut I think speed actually unlocks But I think speed actually unlocks programmability
+think we're in the programmability
+think we're in the early days of that design space too. >> Raj, it's always a privilege picking your brain about stable coins and payments
+f people want to get in touch payments
+f people want to get in touch with you or the team, how should they do it and how can you help potential partners? >> First off, I'm on XRP and then you can find me on LinkedIn at Rajparak as well. find me on LinkedIn at Rajparak as well
+and then monad.xyz is where you can find And then monad.xyz is where you can find all things about monad. >> Awesome
+Raj, thanks for coming on
+it's >> Awesome
+Raj, thanks for coming on
+it's >> Awesome
+Raj, thanks for coming on
+it's been a pleasure chatting and looking forward to doing again hopefully soon. >> Always a pleasure nerding out with you. >> Always a pleasure nerding out with you
+hanks for Thanks for having me
+hanks for listening to another episode of On the Brink with Castle Island
+to learn more about Castle Island, visit castle island.vc. island.vc
+and to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle island.vc/mpodcast or just click on the tab on our website. or just click on the tab on our website
+hanks for listening.

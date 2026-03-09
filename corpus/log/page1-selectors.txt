@@ -1,0 +1,158 @@
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Neo News Today &raquo; Feed" href="https://neonewstoday.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Neo News Today &raquo; Comments Feed" href="https://neonewstoday.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Neo News Today &raquo; Posts by Dylan Grabowski Feed" href="https://neonewstoday.com/author/dylan/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='la-icon-maneger-style-css' href='https://neonewstoday.com/wp-content/uploads/la_icon_sets/style.min.css?ver=6.9.1' type='text/css' media='all' />
+--
+                    afterContentArrived();
+                },14);
+            }
+        }
+    })()
+</script><script type='text/javascript'>var SFM_template ="<div class=\"sfm-rollback sfm-color1 sfm-theme-none sfm-label-visible sfm-label-metro  \" style=\"\">\r\n    <div role='button' tabindex='0' aria-haspopup=\"true\" class='sfm-navicon-button x sf_label_default '><div class=\"sfm-navicon\"><\/div>    <\/div>\r\n<\/div>\r\n<div id=\"sfm-sidebar\" style=\"opacity:0\" data-wp-menu-id=\"54\" class=\"sfm-theme-none sfm-hl-semi sfm-indicators\">\r\n    <div class=\"sfm-scroll-wrapper sfm-scroll-main\">\r\n        <div class=\"sfm-scroll\">\r\n            <div class=\"sfm-sidebar-close\"><\/div>\r\n            <div class=\"sfm-logo\">\r\n                                                                        <a href=\"https:\/\/neonewstoday.com\">\r\n                        <img src=\"https:\/\/neonewstoday.com\/wp-content\/uploads\/2023\/01\/NeoNewsToday-Logo.png\" alt=\"\">\r\n                    <\/a>\r\n                                                <div class=\"sfm-title\"><h4>NEONEWSTODAY<\/h4><\/div>\r\n            <\/div>\r\n            <nav class=\"sfm-nav\">\r\n                <div class=\"sfm-va-middle\">\r\n                    <ul id=\"sfm-nav\" class=\"menu\"><li id=\"menu-item-17160\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-17160\"><a href=\"https:\/\/neonewstoday.com\/news\/\">All News<\/a><\/li>\n<li id=\"menu-item-44012\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-44012\"><a href=\"https:\/\/neonewstoday.com\/week-in-review\/\">Weekly Reports<\/a><\/li>\n<li id=\"menu-item-17162\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-17162\"><a href=\"https:\/\/neonewstoday.com\/monthly-reports\/\">Monthly Reports<\/a><\/li>\n<li id=\"menu-item-40462\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-40462\"><a href=\"http:\/\/smarteconomypodcast.com\">Podcast<\/a><\/li>\n<li id=\"menu-item-17164\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-17164\"><a href=\"https:\/\/neonewstoday.com\/videos\/\">Videos<\/a><\/li>\n<li id=\"menu-item-34929\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-34929\"><a target=\"_blank\" href=\"https:\/\/ndapp.org\/wallets\">Find A Wallet<\/a><\/li>\n<li id=\"menu-item-34930\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-34930\"><a target=\"_blank\" href=\"https:\/\/ndapp.org\/exchanges\">Exchanges<\/a><\/li>\n<li id=\"menu-item-30445\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-30445\"><a target=\"_blank\" href=\"https:\/\/ndapp.org\">Neo dApps<\/a><\/li>\n<li id=\"menu-item-30571\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-30571\"><a target=\"_blank\" href=\"https:\/\/ndapp.org\/community-development\">GitHub Activity<\/a><\/li>\n<li id=\"menu-item-40353\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-40353\"><a target=\"_blank\" href=\"http:\/\/ndapp.org\/gasbot\">GasBot<\/a><\/li>\n<li id=\"menu-item-17168\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-17168\"><a href=\"https:\/\/neonewstoday.com\/development-groups\/\">Development Groups<\/a><\/li>\n<li id=\"menu-item-17169\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-17169\"><a href=\"https:\/\/neonewstoday.com\/neo-live\/\">Neo Live<\/a><\/li>\n<li id=\"menu-item-17170\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17170\"><a href=\"#\">Neo Social<\/a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-17171\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-17171\"><a target=\"_blank\" href=\"https:\/\/discord.gg\/rvZFQ5382k\">Discord<\/a><\/li>\n\t<li id=\"menu-item-17172\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-17172\"><a target=\"_blank\" href=\"https:\/\/www.reddit.com\/r\/NEO\/\">Reddit<\/a><\/li>\n\t<li id=\"menu-item-17173\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-17173\"><a target=\"_blank\" href=\"https:\/\/twitter.com\/neo_blockchain\">Twitter<\/a><\/li>\n\t<li id=\"menu-item-17175\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-17175\"><a target=\"_blank\" href=\"https:\/\/github.com\/neo-project\">GitHub<\/a><\/li>\n\t<li id=\"menu-item-17176\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-17176\"><a target=\"_blank\" href=\"https:\/\/t.me\/NEO_EN\">Telegram<\/a><\/li>\n<\/ul>\n<\/li>\n<\/ul>                    <div class=\"sfm-widget-area\"><div class=\"widget\">\n<div class=\"wpml-ls-sidebars-sf_sidebar_widget_area wpml-ls wpml-ls-legacy-list-horizontal\">\n\t<ul role=\"menu\"><li class=\"wpml-ls-slot-sf_sidebar_widget_area wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-list-horizontal\" role=\"none\">\n\t\t\t\t<a href=\"https:\/\/neonewstoday.com\/author\/dylan\/\" class=\"wpml-ls-link\" role=\"menuitem\" >\n                                <img\n            class=\"wpml-ls-flag\"\n            src=\"https:\/\/neonewstoday.com\/wp-content\/plugins\/sitepress-multilingual-cms\/res\/flags\/en.png\"\n            alt=\"English\"\n            \n            \n    \/><\/a>\n\t\t\t<\/li><li class=\"wpml-ls-slot-sf_sidebar_widget_area wpml-ls-item wpml-ls-item-fr wpml-ls-last-item wpml-ls-item-legacy-list-horizontal\" role=\"none\">\n\t\t\t\t<a href=\"https:\/\/neonewstoday.com\/author\/dylan\/?lang=fr\" class=\"wpml-ls-link\" role=\"menuitem\"  aria-label=\"Switch to French\" title=\"Switch to French\" >\n                                <img\n            class=\"wpml-ls-flag\"\n            src=\"https:\/\/neonewstoday.com\/wp-content\/plugins\/sitepress-multilingual-cms\/res\/flags\/fr.png\"\n            alt=\"French\"\n            \n            \n    \/><\/a>\n\t\t\t<\/li><\/ul>\n<\/div>\n<\/div><\/div>\r\n                <\/div>\r\n            <\/nav>\r\n            <ul class=\"sfm-social sfm-social-icons\"><\/ul>\r\n                    <\/div>\r\n    <\/div>\r\n    <div class=\"sfm-sidebar-bg\">\r\n        <!-- eg. https:\/\/www.youtube.com\/watch?v=AgI7OcZ9g60 or https:\/\/www.youtube.com\/watch?v=gU10ALRQ0ww -->\r\n            <\/div>\r\n    <div class=\"sfm-view sfm-view-level-custom\">\r\n        <span class=\"sfm-close\"><\/span>\r\n            <\/div>\r\n<\/div>\r\n<div id=\"sfm-overlay-wrapper\"><div id=\"sfm-overlay\"><\/div><div class=\"sfm-nav-bg_item -top\"><\/div><div class=\"sfm-nav-bg_item -bottom\"><\/div><\/div>"</script>      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+      OneSignalDeferred.push(function(OneSignal) {
+--
+		<a href="https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents.png 800w, https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>March 3, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/">Da Hongfei positions Neo X as AI-agent-native blockchain in new strategy outline</a>			<a href="https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58851" class="masonry__item col-sm-6 post-58851 post type-post status-publish format-standard has-post-thumbnail hentry category-events category-general tag-neo">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/events/da-hongfei-to-join-rachel-wolfson-for-x-live-ama-on-march-3/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2026/03/neo-da-hongfei-ama.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2026/03/neo-da-hongfei-ama.png 800w, https://neonewstoday.com/wp-content/uploads/2026/03/neo-da-hongfei-ama-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2026/03/neo-da-hongfei-ama-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>March 3, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/events/da-hongfei-to-join-rachel-wolfson-for-x-live-ama-on-march-3/">Da Hongfei to join Rachel Wolfson for X Live AMA on March 3</a>			<a href="https://neonewstoday.com/events/da-hongfei-to-join-rachel-wolfson-for-x-live-ama-on-march-3/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58820" class="masonry__item col-sm-6 post-58820 post type-post status-publish format-standard has-post-thumbnail hentry category-week-in-review tag-axlabs tag-frank tag-gas tag-ndapp tag-neospcc tag-nrp tag-r3e">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-23-march-1/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>March 2, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-23-march-1/">Neo News: Week in Review &#8211; February 23 &#8211; March 1</a>			<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-23-march-1/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58784" class="masonry__item col-sm-6 post-58784 post type-post status-publish format-standard has-post-thumbnail hentry category-general category-week-in-review tag-coz tag-frank tag-gas tag-ndapp tag-neobox tag-neospcc tag-nrp tag-r3e">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-16-february-22/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>February 23, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-16-february-22/">Neo News: Week in Review &#8211; February 16 &#8211; February 22</a>			<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-16-february-22/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58603" class="masonry__item col-sm-6 post-58603 post type-post status-publish format-standard has-post-thumbnail hentry category-week-in-review tag-axlabs tag-frank tag-ndapp tag-neospcc tag-r3e">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-9-february-15/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>February 16, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-9-february-15/">Neo News: Week in Review &#8211; February 9 &#8211; February 15</a>			<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-9-february-15/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58518" class="masonry__item col-sm-6 post-58518 post type-post status-publish format-standard has-post-thumbnail hentry category-general category-week-in-review tag-axlabs tag-bneo tag-coz tag-flamingofinance tag-flocks tag-frank tag-gas tag-grantshares tag-neoburger tag-neospcc tag-r3e tag-raijinprotocol tag-spoonos">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-2-february-8/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>February 9, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-2-february-8/">Neo News: Week in Review &#8211; February 2 &#8211; February 8</a>			<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-february-2-february-8/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58427" class="masonry__item col-sm-6 post-58427 post type-post status-publish format-standard has-post-thumbnail hentry category-ai category-general tag-spoonos">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/ai/neo-and-spoonos-announce-winners-of-scoop-ai-tokyo-bowl-hackathon/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2026/02/SpoonOS-Tokyo-Bowl-Results.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2026/02/SpoonOS-Tokyo-Bowl-Results.png 800w, https://neonewstoday.com/wp-content/uploads/2026/02/SpoonOS-Tokyo-Bowl-Results-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2026/02/SpoonOS-Tokyo-Bowl-Results-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>February 4, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/ai/neo-and-spoonos-announce-winners-of-scoop-ai-tokyo-bowl-hackathon/">Neo and SpoonOS announce winners of Scoop AI Tokyo Bowl hackathon</a>			<a href="https://neonewstoday.com/ai/neo-and-spoonos-announce-winners-of-scoop-ai-tokyo-bowl-hackathon/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58440" class="masonry__item col-sm-6 post-58440 post type-post status-publish format-standard has-post-thumbnail hentry category-gaming tag-neox tag-raijinprotocol">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/gaming/raijin-protocol-shares-second-development-update-following-grantshares-funding/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2026/02/raijin-protocol-progress-update.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2026/02/raijin-protocol-progress-update.png 800w, https://neonewstoday.com/wp-content/uploads/2026/02/raijin-protocol-progress-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2026/02/raijin-protocol-progress-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>February 4, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/gaming/raijin-protocol-shares-second-development-update-following-grantshares-funding/">Raijin Protocol shares second development update following GrantShares funding</a>			<a href="https://neonewstoday.com/gaming/raijin-protocol-shares-second-development-update-following-grantshares-funding/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58384" class="masonry__item col-sm-6 post-58384 post type-post status-publish format-standard has-post-thumbnail hentry category-general tag-bneo tag-neo">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/general/neoburger-protocol-to-shut-down-following-forthcoming-governance-update-on-neo-blockchain/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2026/02/neoburger-discontinuing.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2026/02/neoburger-discontinuing.png 800w, https://neonewstoday.com/wp-content/uploads/2026/02/neoburger-discontinuing-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2026/02/neoburger-discontinuing-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>February 3, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/general/neoburger-protocol-to-shut-down-following-forthcoming-governance-update-on-neo-blockchain/">NeoBurger protocol to shut down following forthcoming governance update on Neo blockchain</a>			<a href="https://neonewstoday.com/general/neoburger-protocol-to-shut-down-following-forthcoming-governance-update-on-neo-blockchain/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item--><div id="post-58336" class="masonry__item col-sm-6 post-58336 post type-post status-publish format-standard has-post-thumbnail hentry category-general category-week-in-review tag-coz tag-frank tag-gas tag-ndapp tag-ndmeme tag-neospcc tag-ngr tag-spoonos">
+	<article class="feature feature-1">
+--
+		<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-january-26-february-1/" class="block">
+			<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />		</a>
+		
+		<div class="feature__body boxed boxed--border">
+						<span>February 2, 2026</span>
+			<a class="h5 display-block" href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-january-26-february-1/">Neo News: Week in Review &#8211; January 26 &#8211; February 1</a>			<a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-january-26-february-1/">Read More</a>
+		</div>
+		
+	</article>
+</div><!--end item-->	
+				</div><!--end of masonry container-->
+--
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="heading-block">
+					<ul id="menu-footer-menu" class="list-inline list--hover"><li id="menu-item-4233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4233"><a href="https://neonewstoday.com/contact/">Contact</a></li>
+<li id="menu-item-20117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20117"><a href="https://neonewstoday.com/editorial-policy/">Editorial Policy</a></li>
+<li id="menu-item-4307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4307"><a href="https://neonewstoday.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-4304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4304"><a href="https://neonewstoday.com/privacy-policy/">Privacy Policy</a></li>
+</ul>				</div>
+				<div>
+					
+<ul class="social-list list-inline list--hover stack-footer-social">
+	<li>

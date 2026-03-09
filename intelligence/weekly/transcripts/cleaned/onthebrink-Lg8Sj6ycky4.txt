@@ -1,0 +1,337 @@
+Today I sat down with PBJ, the founder of Purple
+urple is a first-in-class of Purple
+urple is a first-in-class crypto perpetual exchange launching on the Monad blockchain
+was fortunate enough to have this conversation with PBJ shortly ahead of the anticipated Monad and Purple launch this fall
+we discussed perpetual or perp exchanges and the role they play in crypto markets, Hyperlquid's recent success, how per could expand to other markets, and what makes Monad unique in the backdrop of many other new blockchains. backdrop of many other new blockchains
+hope you enjoy our conversation
+att I hope you enjoy our conversation
+att Walsh and Nick Carter are partners at Castle Island Ventures
+ll of these expressed by them or the guests on this podcast are solely their opinions and do not reflect the opinions of Castle Island Ventures
+uests and host may Island Ventures
+uests and host may maintain positions in the assets discussed in this podcast
+ou should not treat any opinion expressed by anyone on this podcast as a specific inducement to make a particular investment or follow a particular strategy, but only as an expression of their personal opinion
+this podcast is forformational purposes only. >> Brought down by bad mortgage investments
+ehman, which has 25,000 investments
+ehman, which has 25,000 employees will be liquidated. >> The federal government loans American International Group, AIG, $85 billion
+nternational Group, AIG, $85 billion. >> This is a different kind of market and THE FED IS ASLEEP
+the federal government is stepping in to stabilize Fanny May and Freddy Mack, the two mortgage giants that have been threatened by the housing crisis. >> The Bank of England has pumped 75 billion pounds more into Britain's ailing economy with a new round of constituted easing. >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry
+to out of this worry, we have something So out of this worry, we have something called the Bitcoin
+itcoin PBJ, great to see you
+hanks for coming PBJ, great to see you
+hanks for coming on
+xcited to chat today. on
+xcited to chat today. >> Thanks for having me on. >> I want to kick off hitting on some of the subject matter. you spend a lot of your day on
+to boil things down, I your day on
+to boil things down, I think a lot gets glossed over in crypto. think a lot gets glossed over in crypto
+eople talk about different products, People talk about different products, different narratives, and perpetual futures have undoubtedly been one
+an you speak to what PERPS actually are and why people use them
+that are they good for? >> Perks are basically a derivative instrument
+it allows you to speculate instrument
+it allows you to speculate or hedge with leverage on the price action of an asset
+ut unlike spot, you don't actually need to hold the underlying instrument
+there's some trady parallels like options and futures, but those instruments usually have an expiration or you have to take delivery
+erpetuals don't have an delivery
+erpetuals don't have an expiration
+to, you can go on holding expiration
+to, you can go on holding the instrument as long as you have margin and are paying your funding. >> And why is that attractive to people whether you're a frequent trader, a typical crypto user
+that's the draw there
+to one of the things that happens there
+to one of the things that happens in for example options is they have expiration
+to you'll have options for expiration
+to you'll have options for let's say every month
+that happens there is liquidity gets fragmented
+in perpetual since there's no real options you have a lot more liquidity in each of these instruments
+to each of these markets have just one market for it
+to you just have a better trading experience in terms of slippage and execution
+it's also a lot more simpler execution
+it's also a lot more simpler for retail traders to understand
+ou don't have to do all this crazy blacks math and options math for it
+it's just based on leverage and price action
+ou have a very easy understanding of what's happening with the product
+to if price goes up and you have a 5x leverage, you have a 5x return on that
+and vice versa, it could go against you and you could get liquidated
+to the simplicity and the liquidity being all in one market makes it a very retailfriendly product. >> And for folks listening by proxy how much of crypto trading is happening via per today versus via spot or options or any other mechanism. >> It's orders of magnitude more
+think Binance is a good proxy
+want to say Binance is a good proxy
+want to say 9010 or derivatives versus spot again because you can take leverage and each dollar can go 10 to 50 times in notional just that value transacted on derivatives are just a lot higher than spot similar to traditional markets where futures markets are in trillions and equities markets might be in billions
+and this is a good segue billions
+and this is a good segue because I think if you look back historically at per crypto was a lot of centralized exchange usage, Binance being a big one obviously, but more recently we've seen the emergence of hyperlquid as a major player
+to on the back of that last point, how much of per trading today is uncentralized exchanges versus decentralized exchanges
+and how do you think Hyperlid was able to enter this market so effectively where there was a lot of Binance and centralized exchange usage
+it's still dominated by exchange usage
+it's still dominated by central exchanges
+don't have the specific numbers, but there's this great analytics dashboard that compares Hyperlquid versus central exchanges
+and I think the last time I saw it was between 10 to 15% of Binance
+and that's just a single central exchange
+yperlid has done a lot of great things
+'ve has done a lot of great things
+'ve talked about this in some of my Twitter posts, but they were there at the right time
+to what usually der trading has time
+to what usually der trading has happened on let's say bitmax buy a bit binance FTX have all been leaders there and around 2122 when the FTX saga got unfolded people were just tired of trading on central exchanges and taking on this custodian risk hyperlquid founders had talked about that there was just a missing part in the market where there was a decentralized exchange there to fill that void dydx was going through these numerous pivots from stark darkware to their own L1 and people were just lost and maze there
+to they timed the market really well and then they really hyperfocused on the product
+to they just wanted it to be something where it just worked like failed transactions or gas bikes or needing to sign everything with a MetaMask wallet just felt like it was trading on a central exchange
+think the really cool things that they did was because they had a background in market making, they understood primitives that worked, which is a central order book
+think if you look around in the space, there wasn't really a chain you can put that on that was a general purpose chain
+ou necessarily had to build your own chain and that's what they did
+to the other part that they included there was the HLP
+gain, you can see GMX popularized HLP
+gain, you can see GMX popularized GLP
+upiter also used that, but both of GLP
+upiter also used that, but both of those products were for AMMs and they're a lot more programmatic
+et it and forget it
+LP changed it a little bit forget it
+LP changed it a little bit with the fact that because they had this market experience, they were able to market on their own club
+they were using passive LP liquidity there
+that basically shortcircuited the need for market makers
+it allowed them to have market makers
+it allowed them to have deeper liquidity so people could trade in size on a decentralized exchange
+and eventually that also helped them list tokens faster which is like a huge thing for an exchange to stay attractive. for an exchange to stay attractive
+gain to close out that point they also Again to close out that point they also made some really good decisions like prioritizing cancels on their blockchain consensus or having custom op codes for funding and solveny checks
+gain, this is the kind of things and knowledge that they brought with their prior experience of, hey, this is stuff that we would like to have in our own decentralized exchange
+and if we're going to be the exchange
+and if we're going to be the facto market maker, we don't want to get run over by professionals because of a lack of information or whatever else. lack of information or whatever else
+to, we should prioritize cancels
+and So, we should prioritize cancels
+and then I think the final stroke of genius was they were a perplex only and then they realized that you know what, we can't just be a single app blockchain. can't just be a single app blockchain
+we've seen how that plays out with these We've seen how that plays out with these L2 app chains and other products
+they added this sidecar EVM which allowed them to escape that glass ceiling of an app chain
+to, we'll see how that plays app chain
+to, we'll see how that plays out for them
+ut I think those decisions that they've made along the way have helped them become as successful as they are
+eah, I think that's a great overview
+do want to that's a great overview
+do want to circle back to one point you made
+think that in the wake of the FTX collapse, call it the 6 months after fall 2022, which was in that window hyperlid launch like you mentioned, crypto was at its peak level of distrust of centralized financial institutions, which is saying a lot obviously for the crypto industry and there was a great timing aspect there that probably allowed something like hyperlquid to get on that growth trajectory which they've continued and exceeded
+to you think that skepticism of centralized institutions and at the same time preference for decentralized finance among a certain subset of crypto users is still present such that you'll have more players like this potentially emerge or do you think there's been some sort of reversion to comfort using centralized exchanges? >> I think the world is more moving towards onchain
+think the par between onchain
+think the par between centralized exchanges and decentralized exchanges is going down significantly. exchanges is going down significantly
+to one of the reasons why most of this So one of the reasons why most of this trading used to happen on these central exchanges were just was faster
+ou could actually market maker
+there could actually market maker
+there wasn't the primitives that market makers expected like a central limit order book or a blockchain that was fast enough to market on these order books
+to as these decentralized exchange events are being built on these faster blockchains, you start to see even these central exchanges are like hey licensing KYC regulated exchange type of trajectory when we can also start our own decentralized exchange
+to I think the decentralized exchange
+to I think the world is heading more towards onchain 24/7 trading where people just wallet in a stable coin versus I need to submit my passport ID
+need to do X, Y, and Z passport ID
+need to do X, Y, and Z before I can withdraw my funds
+that's just I think a relic of the past and we'll start to see more volumes shifted towards the central exchanges
+that's a great segue though when you're speaking about better systems on better blockchains
+hy are you building this blockchains
+hy are you building this product
+hy now
+and why on Monad
+product
+hy now
+and why on Monad
+product
+hy now
+and why on Monad
+think there's been lots of great tweets about this, but the two things from crypto that feel like have a definitive product market fit is per and stable coins
+hen there's a new one that coins
+hen there's a new one that launches, one of the things you need to make sure is it's either you've seen this, there's a bunch of stable coin L1's launching or HFT style L1's
+in these HFT style 01s, you need a flagship product that brings user interest, capital, and trading activity to generate fees
+the best product for that generate fees
+the best product for that is a Perex
+to when we were initially is a Perex
+to when we were initially thinking about this product, we surveyed the landscape to see what is out there and there really isn't or one a club on a general purpose L1
+ny club that you see is on an app chain or an L2
+and the second part being there wasn't a EVM L1 that we could build this on
+and that part is very important because no matter how you slice it, the EVM has become the JavaScript or blockchain technology
+avaScript or blockchain technology. >> It's a good comparison. >> If you look at the number of assets, collaterals that are on EVM chain, the amount of developer support, the amount of infrastructure support is on EVM chains
+to when you think about it that chains
+to when you think about it that way, the only chain that this makes sense on is on monad
+eople have tried to do this on an SVM on Salana, but there's some issues with Salana where it's constrained by accounts and the need for cranking on a club and that's something that EVM does not have
+to we were like, okay, obviously Monad's going to be launching soon
+we talked to the founders and there is other EVM chains that are flat high frequency all at once but the way they go about reducing latency is by centralizing and Monad did not take any shortcuts there
+they were rebuilding the system from ground up
+to they were talking about rewriting the firmware for their hardwares completely overhauling their database
+to they were doing things the right way
+and when we doing things the right way
+and when we thought about building this, we're like, who do we expect to be around for the next 10 years
+and it made perfect sense next 10 years
+and it made perfect sense to build this on Monad
+and to go into the guts of it, we think that the gas budget that it offers, the latency that Monad has, it was perfect for building a order book style perplex
+and that's what we're building now. >> It's very helpful
+want to get a sense of your mapping here, but who do you look at as the primary customer that you guys will be serving post launch
+is it folks who might otherwise be using Binance or a Hyperlid
+is it EVM users who are going to be converted to bigger per traders or maybe perpetrators on the EVM using a product they don't love as much or who do you look at as being that target audience? >> When you're building exchange, you have to build for both market makers and takers
+or us, it was very important takers
+or us, it was very important when we were building this exchange to one build a very efficient exchange
+know we're getting into the weeds of this, but it's really important to make sure that you're making the right trade-offs here because unlike building on an app chain or an L2 where you control the sequencer, when you build on a general purpose L1, you have to worry about the consensus and the gas budget. about the consensus and the gas budget
+ne of the things that we were very One of the things that we were very specific about is makers posting and cancelling on the order book should be extremely gas efficient
+f we are able to do that and Mona does its job, it should make it really easy for market makers to make on this
+and that's basically how we optimize this problem is to make it so that it's the most market maker friendly EVM club out there
+is far as our user base, I think there
+is far as our user base, I think there's already a hunger for pers. there's already a hunger for pers
+there's a ton of interest on hyperlquid There's a ton of interest on hyperlquid lighter
+there's honestly nothing but lighter
+there's honestly nothing but per shatter on crypto Twitter
+verybody knows and understands this
+ne of the knows and understands this
+ne of the other benefits of building on an L1 is that they come with their own incentivized community, their day one users, and that's great
+to, initially, it'll help Monad community and users start trading with their assets on Purple and eventually we're going to start attracting people outside the Monad ecosystem that want to come trade on our product because we offer a distinctive order feature set or different types of orders or different types of collateral. >> Yeah, understood
+this is a blunt comparison, but you would want a DEX on an EVM general purpose L1 the same way that you want Apple Pay
+ike it's compatible with a lot of the other financial things you're doing if you're a DeFi user. >> Exactly
+hen I think about if I'm >> Exactly
+hen I think about if I'm starting a new L1, you need the per exchange, you need a spot exchange, probably an AMM, you need some sort of lending protocols
+like thinking of it lending protocols
+like thinking of it in think or biology one of those people talked about how blockchains are countries
+ou need these primitives countries
+ou need the banking system, you there
+ou need the banking system, you need the foreign exchange, you need the stock market and these primitives have to be there in the beginning for any other type of activity to kickstart on that blockchain
+utside of the EVM, do that blockchain
+utside of the EVM, do you think Salana has gotten that ecosystem mix correct or would you have criticisms of what they built or places where you think they could have a better experience? >> I think they are definitely the ones that have made the biggest impact
+think people have a very short memory, but Salana has done some incredible things as well
+they have Jupiter, they have Phoenix, Palm recently, they have Camino and all these other products that are Solana specific
+they're not just copy pasted from the EVM
+to that's one copy pasted from the EVM
+to that's one of the things that they went through which is a lot of growth pains where you needed to learn a completely new programming language, a completely new MVM
+to they had to really chew glass MVM
+to they had to really chew glass for the first four years and of course they went through the whole FTX debacle. they went through the whole FTX debacle
+to it's truly incredible what they've So it's truly incredible what they've done and accomplished and they seem to be going even stronger now with the Anza and Fire Dancer
+to I would definitely not count them out
+think Hyperlquid has started pushing every off to move faster and focus on you know revenue generating products and that's definitely a good thing for our whole ecosystem. >> Yeah, agreed
+oing back a little bit to >> Yeah, agreed
+oing back a little bit to how people will use Purple and other per exchanges
+that assets are heavily exchanges
+that assets are heavily traded here
+'ve been maybe a light traded here
+'ve been maybe a light user, so you see Bitcoin, ETH, unsurprisingly, get a lot of usage, but will this be virtually any asset
+is it a fairly long tail or how do you expect people to use the platform in that sense
+think the majors are going to sense
+think the majors are going to be there obviously and then again benefit of building an ecosystem is when those new coins launch there we will have their listings and probably higher open interest and liquidity for those longer term I think more and more assets will start getting baited and deployed on chain so obviously if there's an oracle and market makers willing to quote there's no edge in listing it's pretty much like a race to the bottom there where you have to list as fast as possible if there's a token of interest whether that's going to be like the stocks or whatever
+just don't know
+stocks or whatever
+just don't know
+stocks or whatever
+just don't know
+think AIM is doing a great job of that, but there's challenges there
+that do you do on the weekend
+to, you have to you do on the weekend
+to, you have to wind down markets and start them up again
+don't think you can do a clo again
+don't think you can do a clo there, but there's other products
+think Superstates doing a great job there where they're doing primary issuance on chain
+and I think as trady issuance on chain
+and I think as trady and more of finance starts moving onchain those products will be available for trading 24/7 there will be oracles for that
+and again one of the really for that
+and again one of the really cool things that hyperlquid did was HIPP3 allow anybody to like deploy per markets
+to eventually we would like to markets
+to eventually we would like to get to a study state where if there's a per market that we haven't deployed and somebody else wants to deploy and they have an Oracle market maker service for that they should be able to do that
+we want to provide that base level infrastructure for them and the order book permitted so they can deploy it and have trading happen on it. >> And to your knowledge are most of these trader behaviors on these perp exchanges fairly simple onedirectional leverage long exposure or short on the other end or is there usually a more holistic or sophisticated strategy involved when you look at the typical user? >> Unfortunately, it's just so nuanced
+it depends on the asset
+it depends on the market strategy
+it depends on the market conditions
+to generally you can think conditions
+to generally you can think institutions are probably focused on the blue chips and the majors and they're trying to hedge their exposure
+etail are probably more focused on these longer tail assets where they want high volatility be upgrade market listings upside from those products
+to it truly depends on the market
+and then of depends on the market
+and then of course if there's some Fed funding rate cut or whatever, then there's going to be massive volatility in the market where everybody's trying to get out of position or get into a position
+to it's truly nuanced
+ut the cool thing about truly nuanced
+ut the cool thing about this is it's globally participatable. this is it's globally participatable
+nybody can with a wallet get on and Anybody can with a wallet get on and speculate or hedge their positions
+and that's the beauty of decentralized finance
+and to that point about it finance
+and to that point about it being globally accessible, is this mostly desktop behavior, mobile, or how are people accessing currently? >> Yeah, I think the power traders are all still on desktop
+we've talked to a bunch of these traders
+to, one of the bunch of these traders
+to, one of the things that they would love on mobile is a way to get notifications or close position or add margin
+there's lots of nice tools for bots and whatnot
+ut the newer people that are getting onboarded, the PVP.trade people, the Axiom wallet traders, they're all mobile first
+to again, I think table stakes is building a desktop interface and having different UIs for retail professionals and those type of personas
+ut eventually either that's going to be involving partnering with a wallet provider or building your own mobile app because that's a crucial market base that is new and interesting perhaps that you're not going to get from just desktop based trading experiences. >> Yeah, that makes sense
+to you think over time obviously we see that a large proportion of crypto trading is already per based to your point
+to you think over time we see that evolve to almost all of crypto trading
+to you think that the split between spot and per changes in favor of per or do we see any other notable change to the market structure? >> You still need the spot price
+ou just need two different prices for this whole thing to work for the funding rate to be calibrated
+ut I think the split might calibrated
+ut I think the split might continuously stay closer to 8020 or 9010
+think the TAM of the whole 9010
+think the TAM of the whole industry is growing. the per trading time is growing really fast and alongside with that spot will grow as well because you need that settling asset for the funding rates and the prices to track
+it's not going to be prices to track
+it's not going to be 100% one thing inherently needs something to derive the price from but I think just the general market is going to continue growing more trading will continue to move on chain >> understood
+'m very excited for other >> understood
+'m very excited for other asset classes to take on this form factor as well
+hile you're mentioning about what OIM's doing and having equities even if there's a growing period there. >> Yeah, absolutely
+think again Robin Hood has keyed that a little bit
+think even those equity markets understand that if they can get this onchain some version of it, there's just a global capital markets that is hungry to trade those assets today
+ow do you trade US stock equities if you are in let's say India or Nigeria or China
+f those people could somehow get exposure to that that's just a lot bigger capital base and I'm sure the people at those companies would love to have that access to that capital. >> Yeah, definitely
+ot to mention the traders
+want to close on a couple traders
+want to close on a couple points that I was keen to pick your brain about and get some insights
+irst off, why should people get excited or care about Monad
+think there are reasons that are maybe a bit more obvious in the sense of a very fast EVM general purpose chain, close to Ethereum, but much more performant obviously, but I'd love your perspective if there's anything you would add to that against the current backdrop of things we're seeing like Hyperlid Plasma, other chains
+lasma, other chains. >> I think it goes back to that point
+made it's just not been possible to build a fully onchain central limit order book on an EVM before
+that's a very key point because if you just see what was possible with GMX on arbitum, there were just all these nice composability benefits that came about with it
+it's really exciting to see with it
+it's really exciting to see what will come about with what we're building in terms of the composability benefits and how people use it
+onet allows us to do things that haven't been possible before
+the other benefit of possible before
+the other benefit of building on this L1 is this is the beginning of it
+to they're going to continue improving the blockchain. continue improving the blockchain
+they're going to make it faster
+there's They're going to make it faster
+there's going to be more gas
+ransaction costs going to be more gas
+ransaction costs are going to go down
+and more are going to go down
+and more excitingly, they're also going to again because of products like Hyperlquid pushing them try to figure out how to do priority transactions like how can we get purple to have cancel priority in our consensus or do private transactions cuz again these other blockchains have been talking about allowing people to do private transactions
+to the benefit of private transactions
+to the benefit of building on an L1 is every EIP or MIP if you want to call it monet improvement proposal ends up helping every protocol being built on that chain
+to in essence we have 50 to 100 B highlevel blockchain researchers at category labs working to improve the chain and we can just focus on building the best perpetual exchange out there and get trading activity
+and on a related note, from your view, looking at the community, what's gotten people excited about Purple
+there is their anticipation and where is there the excitement? >> I think we've talked to a whole bunch of diverse set of users with us, retail users, whales, protocols, and whatnot. users, whales, protocols, and whatnot
+or retail users, it's pretty simple
+they're like, "Wow, I can have an They're like, "Wow, I can have an airdrop on Monet
+can use those assets right there
+don't have to bridge it right there
+don't have to bridge it to another ecosystem to go trade on Hyperlid, for example." For your advanced users, there's pain points. advanced users, there's pain points
+yper liquid's done a great job, but Kyper liquid's done a great job, but they're doing a ton of things
+they're doing an L1, an EVM, a Perfect Exchange. doing an L1, an EVM, a Perfect Exchange
+to, that's a lot of stuff that they're So, that's a lot of stuff that they're focused on
+we want to basically fill focused on
+we want to basically fill the gaps that they can't fill
+to, one of them is advanced features like hidden liquidity or iceberg orders
+the other thing that we can do is allow for newer collateral types
+to again going back to collateral types
+to again going back to the point of building on an EVM chain is it would be nice if we can allow users to use a non USDC collateral
+to one of the easiest things that we can do is one-click basis trade
+et's just say Kaito for example
+f you stake Kaio and Kaito for example
+f you stake Kaio and you hold it, you get these future air drops
+ut the problem that you have drops
+ut the problem that you have today is Kaito price fluctuates
+and the real benefit that you're looking to have is just these future air drops and you just want to lock in the price of Kaio. just want to lock in the price of Kaio
+f you want to lock that in today, what If you want to lock that in today, what you need to do is get some more USDC, go to a DEX or central exchange that's Kaito open 1x short
+ow you have to maintain that short position whether it's adding margin or funding or whatever else
+that we want to allow whatever else
+that we want to allow people to do is use that state Kaito as collateral to do a 1x short kai perk. collateral to do a 1x short kai perk
+that in essence does is it What that in essence does is it basically gives you unlimited liquidation price because positions perfectly hedged
+the underlying collateral balances out the per leg. collateral balances out the per leg
+bviously, we're not going to be allowed Obviously, we're not going to be allowed to 100% hedge
+ut even if you give 80 to 100% hedge
+ut even if you give 80 90% LTV, that's still a huge benefit for most people because they get to hold the token future staking rewards, airdrops, and whatnot
+to, that's the cool thing and whatnot
+to, that's the cool thing about building on a general purpose R1 is there's going to be more collateral types. we can possibly allow people to do these types of one-click basis trading
+and then the last thing I was trading
+and then the last thing I was going to say is we also have these vaults similar to HLP
+there's going to be PLP vault, but unlike HLP again because we're building on a general purpose one, we get support from Fireblocks
+that allows us to do is Fireblocks
+that allows us to do is you can hedge your risk on central exchange
+asically, a jelly jelly exchange
+asically, a jelly situation is a lot harder to happen on our product because let's just say there's a new listing and the vault is taking one direction on our per decks. taking one direction on our per decks
+it would then take the opposite It would then take the opposite direction on a central exchange because we can use Fireblocks
+it just makes the product a lot more resilient and there's not these issues of potential bankruns on the protocol. >> Completely understood
+like that Kaido example you gave
+it's like anyone who's example you gave
+it's like anyone who's tried to maintain points exposure, anything like that has come across that scenario in crypto where you want to be exposed to that, but you don't want to have the full volatility of the underlying asset. >> Exactly. >> PBJ, man, thanks for coming on
+it's been a pleasure chatting and hopefully we can do it again soon. >> Awesome
+hank you for having me. >> Awesome
+hank you for having me. >> Thanks for listening to another episode of On the Brink with Castle Island
+to learn more about Castle Island, visit castle island.vc. castle island.vc
+and to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle island.vc/mpodcast or just click on the tab on our website. or just click on the tab on our website
+hanks for listening.

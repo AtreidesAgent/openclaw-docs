@@ -1,0 +1,40 @@
+<channel>
+	<title>Dylan Grabowski, Author at Neo News Today</title>
+	<atom:link href="https://neonewstoday.com/author/dylan/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Latest news and updates on the open-source Neo Blockchain project.</description>
+	<lastBuildDate>Wed, 04 Mar 2026 04:56:12 +0000</lastBuildDate>
+	<language>en-US</language>
+--
+	<url>https://neonewstoday.com/wp-content/uploads/2019/03/cropped-Screen-Shot-2019-02-05-at-11.45.41-am-32x32.png</url>
+	<title>Dylan Grabowski, Author at Neo News Today</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Da Hongfei positions Neo X as AI-agent-native blockchain in new strategy outline</title>
+		<link>https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 04:36:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Neo X]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=58903</guid>
+
+--
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents.png 800w, https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2026/03/neo-x-ai-agents-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo co-founder Da Hongfei <a href="https://x.com/dahongfei/status/2028813617857171512" target="_blank" rel="noopener">released an op-ed</a> on how he believes AI is increasingly being framed as the next major demand driver for public blockchain networks, and what Neo’s role will be in that future. The article argues that autonomous software agents will become the primary on-chain users over the coming decade, calling for a &#8220;Humanless Blockchain&#8221; strategy.</p>
+<p>The thesis builds on a pattern observed across earlier crypto milestones: Bitcoin introduced a permissionless monetary system, Ethereum expanded the design space with programmable smart contracts, and automated market makers popularized a new liquidity primitive. In this view, blockchains competing primarily on incremental performance improvements offer little differentiation, while “AI-native” infrastructure represents a comparatively underexplored vertical.</p>
+<h2>Neo X and AI agents</h2>
+<p>Within Neo’s ecosystem, Da is positioning Neo X as the environment optimized for agentic activity. The concept is that users will ultimately express goals to personal agents, and agents handle execution, coordination, and settlement on-chain.</p>
+<p>The op-ed outlines several key ways Neo X is intended to meet the needs of AI agents, including:</p>
+<ul>
+--
+		<item>
+		<title>Da Hongfei to join Rachel Wolfson for X Live AMA on March 3</title>
+		<link>https://neonewstoday.com/events/da-hongfei-to-join-rachel-wolfson-for-x-live-ama-on-march-3/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 20:43:30 +0000</pubDate>

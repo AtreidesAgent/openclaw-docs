@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "445c06513ca03ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "df29329a5d730946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef34e5209d23b8a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0a043ab37c9eebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c7d7610c7aec1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc406f07c51a7e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89c75452149c9659",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c16d270ce63af83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c0bd1c8f13dd139",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cd0f5bbacf4f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5182008f1d78d2c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1d62f452962db94d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3ce5262319d5c3a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "815d08e28fb35bf4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bc2ce23d70c5a598",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ef34e5209d23b8a7",
+  "lastOpenFiles": [
+    "intelligence/weekly/transcripts/cleaned/grabowski-MxPVDkKUeg4.txt",
+    "intelligence/themes/grabowski-MJIRgwQEvMo_themes.md",
+    "intelligence/weekly/transcripts/cleaned/grabowski-MJIRgwQEvMo.txt",
+    "intelligence/themes/grabowski-gE30j5kq90w_themes.md",
+    "intelligence/weekly/transcripts/cleaned/grabowski-gE30j5kq90w.txt",
+    "intelligence/themes/grabowski-TaaNV1ZdLoQ_themes.md",
+    "intelligence/weekly/transcripts/cleaned/grabowski-TaaNV1ZdLoQ.txt",
+    "intelligence/themes/sep-yZze_XxufeE_themes.md",
+    "intelligence/themes/sep-xZx1GWz7cdY_themes.md",
+    "intelligence/themes/sep-w-WItydQOR4_themes.md",
+    "intelligence/themes/sep-vcyO65o3tDo_themes.md",
+    "intelligence/themes/sep-sTJSBZ4STBY_themes.md",
+    "intelligence/themes/sep-ZWQwCQvS4xg_themes.md",
+    "intelligence/themes/sep-YIKLr6jOqR4_themes.md",
+    "intelligence/themes/sep-YErGUFD3Diw_themes.md",
+    "intelligence/themes/sep-XvticugxbsU_themes.md",
+    "intelligence/themes/sep-XlYs3Zwp538_themes.md",
+    "intelligence/themes/sep-yfc1iEMR6z4_themes.md",
+    "intelligence/themes/sep-ySuTz4GRDoQ_themes.md",
+    "intelligence/themes/sep-yNRg4YE7hII_themes.md",
+    "intelligence/themes/sep-xbsAV9rTMg4_themes.md",
+    "intelligence/themes/sep-xaQcij04Tp8_themes.md",
+    "intelligence/themes/sep-XTy_LYyvrUY_themes.md",
+    "intelligence/themes/sep-wMwHnTI-oYo_themes.md",
+    "intelligence/themes/sep-XKOE8p1Q9VE_themes.md",
+    "intelligence/themes/sep-XFMyuWJfM6Q_themes.md",
+    "intelligence/themes/sep-XAU0iJEetUU_themes.md",
+    "intelligence/themes/sep-VZca9eGKoiI_themes.md",
+    "intelligence/themes/sep-VUb1Mmngcro_themes.md",
+    "missing_sep.txt",
+    "all_themed_sep.txt",
+    "all_cleaned_sep.txt",
+    "intelligence/weekly/transcripts/cleaned/grabowski-w7h1NSlCurs.txt",
+    "intelligence/weekly/transcripts/cleaned/grabowski-q-EMXT9I1cg.txt",
+    "clean_vtt.py",
+    "intelligence/weekly/transcripts/raw/grabowski-W1AABYVsiOs.en.vtt.part"
+  ]
+}

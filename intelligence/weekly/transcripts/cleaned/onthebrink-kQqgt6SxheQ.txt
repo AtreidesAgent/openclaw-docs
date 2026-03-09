@@ -1,0 +1,569 @@
+This is Wyatt from Castle Island
+few This is Wyatt from Castle Island
+few weeks ago, I teamed up with Jake Lynch and Henry Harris from our team to publish an article that explored how to best value a D5 protocol
+in particular, what key metrics should be used to assess value, starting with DeFi lending markets, as these are a cornerstone application of the ecosystem
+in retrospect, the September and early October period that we spent doing research leading up to publishing the report marked a cyclical high in the industry
+ince then, and namely after industry
+ince then, and namely after the October 10th crash, crypto token valuations have cratered and DeFi metrics are down marketkedly across the board
+in this episode, Jake and I sit board
+in this episode, Jake and I sit down to discuss some of the topics from our report and their relevance to the current environment
+bove all else, where does this major sell-off leave us? where does this major sell-off leave us
+that is still lasting and important in What is still lasting and important in DeFi
+and where do we go from here
+eFi
+and where do we go from here
+eFi
+and where do we go from here
+without further ado, I hope you enjoy Without further ado, I hope you enjoy our conversation
+att Walsh and Nick our conversation
+att Walsh and Nick Carter are partners at Castle Island Ventures
+ll views expressed by them or Ventures
+ll views expressed by them or the guests on this podcast are solely their opinions and do not reflect the opinions of Castle Island Ventures. opinions of Castle Island Ventures
+uests and hosts may maintain positions Guests and hosts may maintain positions in the assets discussed in this podcast. in the assets discussed in this podcast
+ou should not treat any opinion You should not treat any opinion expressed by anyone on this podcast as a specific inducement to make a particular investment or follow a particular strategy, but only as an expression of their personal opinion
+this podcast is forformational purposes only
+rought down by Bad Mortgage Investments, Lehman, which has 25,000 employees will be liquidated
+the federal government loans American International Group AIG $85 billion. >> This is a different kind of market AND THE FED IS ASLEEP
+HE FED IS ASLEEP. >> The federal government is stepping it to stabilize Fanny May and Freddy Mack, the two mortgage giants that have been threatened by the housing crisis. >> The Bank of England has pumped 75 billion pounds more into Britain's ailing economy with a new round of quit easing. >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry
+to out of this worry, we have something So out of this worry, we have something called a Bitcoin
+itcoin
+ake, thanks for sitting down
+the topic Jake, thanks for sitting down
+the topic of our conversation today, so you, Henry, and I a few weeks ago published a report that we've been working on for some time, I think it was a question that we'd all grappled with over the last year plus where we were trying to get a sense of what matters when you're valuing DeFi protocols, DeFi apps. valuing DeFi protocols, DeFi apps
+eople talk about TVL a lot, Total Value People talk about TVL a lot, Total Value Locked, which I think you've seen businesses like Turtle Club and Royo, which are explicitly capital raising tools for DeFi protocols and apps. tools for DeFi protocols and apps
+ou've seen the success of them
+think You've seen the success of them
+think a lot of people question how important that actually is and whether it's worthwhile and actually additive to the core value of these things
+it's funny because in a few ways it does remind me of the conversations people were having in the early internet era when they were saying is users the important metric of a marketplace or of a social application or is it total process volume or is it number of website visits or is it number of different offerings or SKs
+to, I don't think it's uncommon to have this conversation about what actually matters in these emerging business types, but it comes at a funny time because we put this out in late October
+the lending markets were the topic of focus and since then the total value locked in these lending markets has shuttered
+ou look at the chart and it's a pretty direct downward inflection
+ltcoin markets have been severely challenged, especially since then
+to, I have my views which we'll dive into, but where do you think that leaves us overall? do you think that leaves us overall
+it's a good point
+the lending markets It's a good point
+the lending markets to me are specifically interesting in crypto because they are one of the most sustainable businesses and I think what you're pointing out is that there is still a lot of noise there
+hy are they sustainable in your view? >> We can zoom out a little bit and talk about the business models in crypto in general
+roadly speaking, most crypto general
+roadly speaking, most crypto falls into DeFi
+and the DeFi stack falls into DeFi
+and the DeFi stack splits into what I would consider two major categories
+ne has to do with major categories
+ne has to do with crypto's use for tokenization
+to that settlement, that's swapping
+those are settlement, that's swapping
+those are these activities that are instantaneous time use activities
+and then the other is capital formation
+to this has really is capital formation
+to this has really been the year of capital formation
+ou see this with the rapid iteration of launchpads that we've seen, but you also see this in lending and the tokenization side, the swapping and the settlement. side, the swapping and the settlement
+ery cyclical business
+this business is Very cyclical business
+this business is almost like there's a summer aspect to it
+eFi summer
+that's why we call it it
+eFi summer
+that's why we call it it
+eFi summer
+that's why we call it that with capital formation
+this is like an evergreen business
+this is one like an evergreen business
+this is one thing that crypto directly serves the value prop of and you really can't do this capital formation outside of crypto
+and what are you describing in crypto
+and what are you describing in this context as capital formation? >> There's two forms
+mean, today we're going to talk about the lending form. going to talk about the lending form
+the other form is raising capital
+and I The other form is raising capital
+and I think that's what's going on with Metadow
+that went on with Pump Fund
+etadow
+that went on with Pump Fund
+etadow
+that went on with Pump Fund
+ll of that was super interesting
+and All of that was super interesting
+and it's a great business
+ut the lending it's a great business
+ut the lending markets have this really, really sticky user base
+and this user base is user base
+and this user base is fundamentally just seeking yield on their assets
+they're trying to turn their assets
+they're trying to turn non-productive assets into productive assets
+and this is similar to stable assets
+and this is similar to stable coin volume
+this doesn't go away with coin volume
+this doesn't go away with the season
+this is constantly something the season
+this is constantly something people are seeking to do
+to that's one of the reasons I think lending is one of the more durable businesses in crypto. the more durable businesses in crypto
+and we can dive all into the different And we can dive all into the different types of lending, but that's what makes it interesting
+with the TVL drop off, I it interesting
+with the TVL drop off, I think this cuts into a recent trend that we've seen, which is the forms of lending and borrowing, the use cases that we see on chain have completely changed over the past year to two years. changed over the past year to two years
+to, originally, if you look at what So, originally, if you look at what lending started as, it started as CDPs, where you would put up money and you would get a synthetic dollar essentially against this
+'m going to roll you back against this
+'m going to roll you back for a second
+actually don't think you can talk even about how well the DeFi lending platforms like A and Morpho have done without talking about the void that was left by Celsius and BlockFi that had built what's probably the most straightforward use case of crypto which is I want to own Bitcoin and as much more Bitcoin as I can and less dollars but have spendable dollars against that Bitcoin
+think it's that cut and Bitcoin
+think it's that cut and simple
+and I think a big part of the simple
+and I think a big part of the success of those platforms was the fact that Celsius and BlockFi and others not only went away but bred mistrust in those platforms and the DeFi platforms benefited from that
+eah
+and I think benefited from that
+eah
+and I think benefited from that
+eah
+and I think we can talk a lot about trust
+there's still a degree of trust me that goes into the platforms today
+and that's one of the things that we went into in this piece is rapidly these onchain platforms, they're auditable
+ou can see what's going on there, but you almost need a PhD today to actually understand the risk that you're getting paid for
+and this is fundamental to the paid for
+and this is fundamental to the lending markets is it's not risk- free. lending markets is it's not risk- free
+it's as close to the risk-free rate as It's as close to the risk-free rate as you can get
+to you go back to Celsius you can get
+to you go back to Celsius and you have this huge need to unlock capital that's just sitting there in these long positions that people want to use. they want to unlock and for whatever reason whether it's taxes or whether it's just fundamentally that they want to hold on to it ideologically they go to a lender to try to unlock the capital this use case is still pretty persistent and this is probably one of the most durable trades that we see on lending markets today I mean it has to be it's extremely durable so like a great example of this is the Morpho integration with Coinbase so Morpho is integrated with Coinbase so you can borrow against your CB BBBTC, which is Coinbase's wrapped Bitcoin
+and this has just been growing exponentially since they started it earlier this year
+it's over $1.5 billion of collateral in Bitcoin
+and this use case, when you Bitcoin
+and this use case, when you look at the TVL chart and the drop off after October, this has not been hindered at all
+that you do see in the hindered at all
+that you do see in the drop off after October is another strategy that we saw come out recently, which is this idea of looping
+or those who haven't listened to Henry and Corin's podcast about the vaults, this is extremely relevant for this
+ut the general idea of looping is I have some yield bearing token
+the yield might be coming from any of many sources. coming from any of many sources
+reasury yield, right staking yield, Treasury yield, right staking yield, basis trade through USDE, RWA lending, any of these
+and the idea or the any of these
+and the idea or the realization that lending markets had is they can lend to these at a pretty high LTV
+and when you lend to them at a LTV
+and when you lend to them at a really high LTV, you can actually recycle that capital
+to you put in asset, you borrow against it, stable coin, you buy asset, you put asset back in, and you borrow against it
+and you continue to do this
+and what you can do continue to do this
+and what you can do is you can take a yield from maybe 10% on an unlevered basis and lever it up to call it 25 30%
+to this is what we really saw leading into October when we released this piece
+and admittedly, this was very scary
+and the reason this was very scary
+and the reason this was very scary was because it's really two reasons
+ne is although crypto is two reasons
+ne is although crypto is extremely traceable, it's virtually impossible to identify how levered a system is
+it's very possible to go and system is
+it's very possible to go and do this looping on multiple platforms or from multiple accounts
+to this is not something that's easily traceable not just to us, but we spoke to all the major lending protocols and all of them agreed that they don't know themselves. agreed that they don't know themselves
+it's not something that they can It's not something that they can measure
+the second thing that's scary measure
+the second thing that's scary about this is the underlying increasingly went down the risk curve. increasingly went down the risk curve
+and what I mean by this is USD is a And what I mean by this is USD is a relatively vanilla strategy
+ver since I've been at L1D, we've been getting pitched basis trade funds
+and this was super popular in 2021
+hen USD came super popular in 2021
+hen USD came out, it just evaporated the basis trade fund pitch
+we stopped seeing them fund pitch
+we stopped seeing them entirely
+and the reason being is entirely
+and the reason being is because USD essentially commodified that trade and they wrapped it in a token and they made it so anybody can really access it with way less friction and they handle the infrastructure
+ow this is something that a lot of crypto people are familiar with the risks on so they're comfortable underwriting it
+to when you see USD being 20% of the a lending pool you don't want the concentration risk perhaps but you're okay with the underlying risk
+that we saw after this is this implementation of this strategy across different vault strategies
+and by vault strategies, I strategies
+and by vault strategies, I really mean this idea of putting your tokens into a vault and them running some sort of trading strategy beneath it
+there are levels of obuscation that it
+there are levels of obuscation that people use
+to going into the elixir people use
+to going into the elixir event, what we discovered is essentially these vaults were just cross depositing into themselves
+and this is extremely into themselves
+and this is extremely dangerous because essentially you take one fund and you're spreading the same amount of risk across all the other funds
+to this was a strategy that I funds
+to this was a strategy that I think we really rightfully identified as not extremely durable
+it was very profitable for a lot of lending protocols
+it will continue to be a protocols
+it will continue to be a strategy that lending protocols enable, but this is not what I would consider to be the bet on lending markets so to speak
+fully agree and you left me speak
+fully agree and you left me with a few different points
+first off want to replay why we're having this conversation and then some of the key points you brought up which were you and I as long-term investors in the business of finding what the good and lasting business models are and we're looking at lending in crypto as one case of those because what we think is a market gap that'll grow and because of what we think could be strengths of why that business model is durable which you made points on
+and then in examining those points on
+and then in examining those lending protocols trying to pick out what's important and vetting the risks to your point and that you see these metrics like total value locked in up but you don't have a sense of how much leverage is in the system
+and what I've thought is a very funny characteristic of the current crypto market is for so long composability or all the apps working well together was such a northstar that people wanted
+and lo and behold, as a result of that, you get very composable risk, which means that one of these yield bearing stable coins becomes insolvent
+and it's a big becomes insolvent
+and it's a big problem for the lending protocol
+it's a big problem for whoever's curating that lending pool
+it's a big problem for lending pool
+it's a big problem for assets that are in a vault with those assets
+it's a problem for everything assets
+it's a problem for everything else around
+want to touch on those else around
+want to touch on those points specifically, but I did want to replay
+that's our core exploration replay
+that's our core exploration here
+and I wanted to ask you on the here
+and I wanted to ask you on the record, do you think that 1010 happened because of this leverage profile that we're talking about? 1010 being the major crypto wash out that happened a few weeks back
+that's a really good question
+hope you share your thoughts question
+hope you share your thoughts after
+to if you look at 1010, I think after
+to if you look at 1010, I think that this risk played a major role in how conservative the perpetual exchanges were with their own risk
+and what I mean by that specifically is leading into 1010 you had call it 6 to8 billion of USDE in a is by any definition probably the most systemically important protocol in crypto
+and this amount of USDE being crypto
+and this amount of USDE being essentially pushed into the big risk house in crypto made it so that any tremors in this asset would have huge huge downstream effects
+to a went as far as to peg USD to USDT
+this is an as far as to peg USD to USDT
+this is an extreme measure
+wouldn't recommend hard pegging any asset in a lending market, but this turned out to be extremely necessary in this case because what ended up as far as we can tell causing 1010 was a poor liquidation of USD on Binance, an order in the amount of maybe 60 million that was dumped on an order book that was not $60 million deep and Binance's oracle being tied into USD order book on its own platform. into USD order book on its own platform
+to the question as to what caused 1010 I So the question as to what caused 1010 I think the direct answer is probably this bad liquidation but the indirect answer it could definitely be ascribed to the fear that was around USD the fear that was around this heavily levered asset. was around this heavily levered asset
+that do you think
+think that a lot of What do you think
+think that a lot of that is true
+think the liquidation piece spurred it in the moment if that makes sense
+'m going to be pretty makes sense
+'m going to be pretty harsh on a lot of the assets in the industry at this moment, which is to say that I think the degree of pain felt was because of how thin a lot of the orderbook depth is on a lot of these assets and across a lot of venues. with the outcome being that you have an asset that let's say it trades at a $200 million market cap and supposedly it has $5 million of daily volume, but the order book depth within reason is a couple percent
+to realistically, you can only trade a couple hundred thousand something like that of an asset like this without materially moving the market
+robably less actually, but market
+robably less actually, but let's call it that
+the outcome of that let's call it that
+the outcome of that is that if you do have an initial liquidation of size or you have a market tremor that distresses a sizable market actor and they need to start liquidating or selling assets across a set of assets and ecosystem because those order books are not very deep. the price of these assets are going to fall really fast to the point where someone could easily argue a lot of these assets probably aren't worth what their claimed market cap is in the sense that yes, the price of the asset as it trades on exchanges times the number of tokens in circulation is that $200 million market cap, but you can only functionally trade $250,000 of the asset per day
+and if not, the market moves 10 20%
+think we not, the market moves 10 20%
+think we have a lot of assets like that in our ecosystem
+this is fundamentally the ecosystem
+this is fundamentally the fear and the cloud that's over everybody's head right now is when you look at all of the charts today, you have to zoom out because we now have this 95% candle on 10 and you're reminded that the fundamental floor is not necessarily there for a lot of assets
+ut the thing that I think you assets
+ut the thing that I think you want to hone in on and the real question for people in crypto is are any of these assets worth anything
+efinitely
+and assets worth anything
+efinitely
+and assets worth anything
+efinitely
+and one question I was going to ask you from your seat, cuz you guys invest in funds as well
+ow do you think about as well
+ow do you think about investing in funds that are going to invest in these long tail of crypto tokens that are going to mark them or report what they're worth to you guys? report what they're worth to you guys
+and let's say they own $10 million of a And let's say they own $10 million of a token that trades at $200 million, the fictional token that I mentioned
+they can't recognize that value
+to, how do can't recognize that value
+to, how do you think about having this portfolio of managers and tokens of value that to your point is difficult to liquidate, doesn't have a fundamental floor
+ow do you navigate that
+this is a question we you navigate that
+this is a question we deal with every day
+and honestly, this is a really strong case for why a fund of funds makes sense in crypto is because we see many funds that will mark a position that we see to be a position. a position that we see to be a position
+aybe it's FTV is $500 million and it Maybe it's FTV is $500 million and it has $25,000 of volume per day and they'll mark this at the value of 500 million
+with our managers, we have very million
+with our managers, we have very strict essentially valuation policies built in
+to for extremely illquid built in
+to for extremely illquid assets, we're talking about assets that just came into existence that might have a 10% float or something like this
+ou have to put a massive discount on these assets
+and the reason we have to do assets
+and the reason we have to do that is not because we think that it's necessarily the right thing to do
+it's because we're economically incentivized as allocators to make sure that we're not overpaying in fees
+f you take a malicious example here, a fund could easily inflate their NAV and charge you the fees on that performance or >> of course that happens. >> How do those conversations go
+think this is something people in the industry probably don't know a ton about. >> So generally there's two types of funds. >> So generally there's two types of funds
+ay from L &D speaks about this all the Ray from L &D speaks about this all the time
+there's the GPB and GPA
+ou can time
+there's the GPB and GPA
+ou can time
+there's the GPB and GPA
+ou can in not so many words categorize them as whether they want management fees or performance fees
+the number one thing performance fees
+the number one thing you can do to avoid having to deal with this issue in the first place is go for people who are looking for performance fees
+ecause any good fund out there fees
+ecause any good fund out there knows that if they overinflate their book on an asset that's not really worth that much and it draws down that their high water mark is too high for them to get over
+and explain why that's a get over
+and explain why that's a problem because it's an important point. a problem for us or a problem for them? a problem for us or a problem for them
+elipe talked about this when he was on
+the general concept this when he was on
+the general concept of the high water mark I think isn't really well known to a lot of nonLPs, but essentially if you bring your nav up to 100 and then it drops back down and then it goes up partially to 100
+ou're not making performance fees on this until you breach what your high water mark was, call it that 100 mark, unless you bring in net new capital or whatever
+to in this circumstance, if whatever
+to in this circumstance, if you're a manager and you want to incentivize really good talent, you're not going to be able to pay that talent. not going to be able to pay that talent
+to it is trivially easy in crypto to go So it is trivially easy in crypto to go into a token, have it launch, have it go up 10x, but be completely locked for like a year
+and then you go to your like a year
+and then you go to your fund admin and you say it's worth whatever that 10x value is
+and all of a sudden, your investors have to pay fees on that unrealized essentially on what that is as a liquid fund
+to be clear, yeah, as a liquid fund, as a venture fund, that's not an issue
+ou get paid on the way out
+is a liquid fund, the on the way out
+is a liquid fund, the fees are crystallized annually essentially
+f you draw down below that essentially
+f you draw down below that high water mark, all of your talent's going to leave because they're going to recognize that they're not going to have the big payday that they wanted
+to, it's in your favor to market conservatively
+and once that asset gets conservatively
+and once that asset gets to a mature level where you can actually liquidate it safely, that's when you get paid
+to, this is what smart managers, paid
+to, this is what smart managers, this is what the good managers do. malicious managers or negligent managers will allow this to happen to their fund and one of two things will happen. and one of two things will happen
+ither their team leaves or their Either their team leaves or their investors leave
+with that in mind that investors leave
+with that in mind that you have these assets that trade at these multiples, do you think it's just a reality that as we get better market discovery, a lot of these assets will trade down to lower prices just because they're finding an actual value once you take away an illquidity premium
+to, I don't think so
+and the reason I don't think so
+and the reason I don't think so is because there are many ways to construct a value
+hen you look at Tradfy, it's not like you see extremely rational valuations either
+to why do things trade where they do? >> There are many reasons
+epending on what the asset is, there would be different things that go into the valuation
+to tie it back to the lending valuation
+to tie it back to the lending markets, for example, one of the reasons we did this piece in the first place is because you see that a lot of these lending protocols are valued seemingly on a ratio to their TVL
+and this does not mean that the market's irrational. not mean that the market's irrational
+this just means that the market is This just means that the market is probably valuing it on the wrong thing. probably valuing it on the wrong thing
+it actually indicates that the market is It actually indicates that the market is collectively. >> Yeah, there are groupings
+to you have a trading relative to Morpho based on TVL. trading relative to Morpho based on TVL
+ut when you dig into what the business But when you dig into what the business of A or Morpho really is, it's a business of loans
+it's not a business of how many dollars you can put in a smart contract
+it's a business of how smart contract
+it's a business of how many dollars you take out of a smart contract
+and this is where the market contract
+and this is where the market needs to step up and I think where the market can really mature
+heo would tell you all about how they approach valuation for protocols like this
+ut fundamentally it comes down to figuring out what is a revenue driving activity. out what is a revenue driving activity
+that is a meaningful activity in the What is a meaningful activity in the protocol and valuing it based on that. protocol and valuing it based on that
+nother really good example of this is Another really good example of this is if you go back to 2021, 2022, 2023, nobody really understood L1's
+they still don't
+to the way that they would still don't
+to the way that they would compare L1's was on two things
+and I'm not innocent of this, but you would look at user metrics and you would look at GitHub commits
+and anybody today if you GitHub commits
+and anybody today if you told that to will rightfully tell you that, okay, user metrics is probably the worst metric in the world because as soon as you start looking at it, everybody can fake it
+and then GitHub commits is not a great metric because different companies are at different stages of developing that
+to there's a cyclicality to GitHub commits where if you're going to be pushing fired dancer this month, you're gonna have a ton of commits and there are ways to just hammer GitHub commits with no value. hammer GitHub commits with no value
+there are programs out there that will There are programs out there that will allow you to code how you want your GitHub commits to look
+to you can write things on your GitHub in the nice green squares
+to yeah, these are extremely squares
+to yeah, these are extremely gameable metrics, but what's not a gameable metric is revenue paying metrics
+it the very end of the day, metrics
+it the very end of the day, somebody is paying that revenue
+this reminds me a bit, and I remember when we talked about this when we were doing this study, of how in traditional finance, you'll just have stock prices swing during periods where there's discovery of what bucket even a mature company should trade in from a multiples perspective where people be like, "Oh, it's not a SAS business, it's a consulting business, so therefore it shouldn't trade at 15x. to trade at five and it'll bump down 60% a year or something
+ike those things really something
+ike those things really happen and we're seeing that kind of discovery in our industry
+great example of this is there's a bank out there who put a report out on Figure. there who put a report out on Figure
+igure went public
+they're starting to Figure went public
+they're starting to get coverage by real banks
+and you scroll down to the comps and in the comps section you have a list of companies including Coinbase and Circle. companies including Coinbase and Circle
+and the only thing that Coinbase Circle And the only thing that Coinbase Circle and Figure have in common is Figure has a early stage exchange which is not a big component to its revenue and they're in crypto but it's very much so in that phase that you're describing where you're trying to say okay so what PE ratio should we assign to this what sector is this in at this point in crypto we have a really good viewpoint on what the sectors are in crypto I've tried the sector mapping exercise almost every year And it wasn't until the past 2 years where it became consensus with what everybody sees, >> which is what lending, trading
+to on the DeFi stack, you start with issuance. the DeFi stack, you start with issuance
+to issuance can take two forms
+ither So issuance can take two forms
+ither you're issuing an asset that exists like an RWA issuance platform
+ircle is a great example, or you're issuing a new asset, which would be a launchpad, metad, pump, echo, all of these
+fter you do issuance, you have settlement. you do issuance, you have settlement
+ettlement very much so is L1's
+ou Settlement very much so is L1's
+ou settle your assets on a blockchain. settle your assets on a blockchain
+fter settlement is swapping
+f you After settlement is swapping
+f you don't have swapping, you can't do anything else interesting at all in crypto
+to swapping is one asset for crypto
+to swapping is one asset for another
+verybody knows the swapping another
+verybody knows the swapping protocols
+nce you have swapping, you protocols
+nce you have swapping, you can liquidate assets
+and so you allow for lending
+and then after lending for lending
+and then after lending becomes a new category that I like to call strategies
+to this is this vault call strategies
+to this is this vault category
+this is like lido as well. category
+this is like lido as well
+this is this category where it's I want This is this category where it's I want to take an asset that is a non-productive asset, turn it into a productive asset
+and then lastly, and I productive asset
+and then lastly, and I would put this adjacent to all of these is this category that I would call probably asset management or custody. probably asset management or custody
+and this is where we see you might have And this is where we see you might have squads and no safe
+ou might also have copper and fire blocks
+ou have a lot copper and fire blocks
+ou have a lot of CFI defi overlaps here
+to, broadly speaking, this is every single thing that you're going to do in crypto fits within these categories
+and you can have different flavors of this
+ou can have gaming, but in gaming, you will introduce these DeFi elements, whether it's settlement, whether it's swaps, whether it's lending
+in NFTTS, you do the same thing
+in Dpin, you have, I'll the same thing
+in Dpin, you have, I'll be honest, primarily just issuance
+ut it's very likely that we'll get a step beyond this like with USDA where you have issuance going into lending, going into strategies, going into those things
+to, I think that sector map lays things
+to, I think that sector map lays out pretty clearly there
+ow that we have this sector map, it's the crypto community's job to start to underwrite these things more intelligently
+to this is where you ask for more interesting metrics
+to one of the things that we metrics
+to one of the things that we pointed out in this piece is you couldn't write this piece without pointing out what you think is the better metric for lending
+and I think it was pretty obvious to us that the most important metric in lending is really the availability of stable coins on that platform
+hether it's USDC, whether it's USDT, these stable coins are overwhelmingly what is being borrowed
+to in order for a loan to borrowed
+to in order for a loan to exist, you need an asset that they're going to borrow against
+and very few people want to borrow WBTC because they're effectively going short Bitcoin. they're effectively going short Bitcoin
+verybody in the world wants to lend Everybody in the world wants to lend WBTC
+ou see this, there's $10 billion WBTC
+ou see this, there's $10 billion of WBTC sitting on a with nobody borrowing it
+and the reason being is borrowing it
+and the reason being is because that eight basis points of borrow yield is the best that they're going to get out there
+that I want to see in the lending protocols going forward is essentially a valuation that is more hinged on how good are these teams at finding dollars
+to it's capital raising. >> Exactly
+etting the dollars on platform >> Exactly
+etting the dollars on platform so that they can be utilized. >> And you mentioned revenue
+have my thoughts here
+think there's very few thoughts here
+think there's very few if any crypto platforms that generate revenue that justifies most of the token valuations out there
+and I'm curious if you feel otherwise or if you think these things even trade with any correlation to revenue
+'ll answer that question to revenue
+'ll answer that question with a question for you
+ut of the startups that you guys invest in, what percent of the startups you're investing in are profitable at the time of investment? >> At the time of investment, very few. a minority, a vast minority
+don't think investors are looking at these platforms to necessarily be profitable
+evenue generating is an indication that people want to use your platform
+it's not a bulletproof indication
+it is possible bulletproof indication
+it is possible to fake revenue numbers
+or instance, if you raise $2 billion and then you essentially bleed that $2 billion in the form of using your own platform, you could create $2 billion of revenue and then it will drop off the cliff or you'll succeed
+the reason people in you'll succeed
+the reason people in crypto have been asking for revenue is really two things
+ne is they've been asking for revenue in the form of buybacks because they're desperate for net new buyers of this token and it seems like nobody's buying them
+and then the other reason is they don't trust the teams and they want to see the real numbers
+to, if you're a team and real numbers
+to, if you're a team and you go through all of this venture raise and you raise $50 million and you aren't generating any revenue, then I think it's fair to say that you probably don't have PMF
+ut let's say you're a team have PMF
+ut let's say you're a team that goes through the Metadel Launchpad and it's day one after the launchpad, you just got your first funding in
+think it's unreasonable to expect this team to be turning on big revenue numbers after day one
+ut a lot of these teams are carrying valuations well above $und00 million, well above $250 million
+'d say if you look at the million
+'d say if you look at the companies that we see, they're either doing a lot of revenue and growing revenue really fast on the traditional side if they're carrying valuations of that sort or they're profitable
+and I don't think you said as much on the protocol side
+there's still a gap protocol side
+there's still a gap there
+this is where it gets a little there
+this is where it gets a little sticky because revenue begets revenue. sticky because revenue begets revenue
+to, you're never going to make money if So, you're never going to make money if you invest in a trend once it's already obvious
+ow, tons of crypto valuations obvious
+ow, tons of crypto valuations are inflated, but I think a lot of the valuations are really a function of the expectation of future revenues rather than the presence of like current revenues
+to, it's the idea that does revenues
+to, it's the idea that does this company have a probability of succeeding in capturing a market and if it captures that market, what is that market worth
+and if that market's in market worth
+and if that market's in five years or eight years, sure, you can do your DCF and try to figure out what it's going to be worth, but you don't know what the size of anything is in five or eight years
+to your DCF is going to be just as good as the valuation that the market is willing to buy and sell it at
+and then to complicate this, you have simple supply and demand issues
+to the supply of float that is out there for quality projects is so low and the demand for these safe assets is so high that you have premiums and you have to pay a premium and it's not like VCs are immune to paying premiums
+hen you see a really hot team go and raise capital, the VCs get priced out by other VCs as well
+in a market like this, it's really well
+in a market like this, it's really bizarre
+we see one really good team bizarre
+we see one really good team that's not so hype raising at $12.5 million that has traction, has done a lot of the work
+see another team, it's a good team just out of the gates, hasn't done anything yet, raising at $30 million
+and then I see another, it's a million
+and then I see another, it's a great team, literally hasn't done anything yet, raising at 50 million
+to what you see in how these VCs are funding these things is they're paying a huge premium for the talent because the talent is the scarce thing
+there's a prescribed probabilism to it
+xactly
+and maybe we put our probabilities a And maybe we put our probabilities a little bit too high
+that's the case
+rypto is an optimistic industry
+ecently, it hasn't felt that way, but Recently, it hasn't felt that way, but generally speaking, it is
+number goes up in our minds
+to, yeah, we're going up in our minds
+to, yeah, we're going to wait our probabilities a little bit high
+hese things are going to be high
+hese things are going to be overpriced
+f you look at the lending overpriced
+f you look at the lending markets, I would love to sit here and tell you that I think the lending markets are underpriced categorically
+think that they're underpriced, but not categorically
+and I think you have to categorically
+and I think you have to have a fiveyear investment horizon for that to be the case
+ut if you put in a two or three year investment horizon into my model, it will tell you that you're going to be overpaying
+to the question is, do you want to be overpaying now or you want to be overpaying in the future
+eah, I think the question we ask sometimes on this, which I don't have a great answer for to be fair, is if you combine the market caps of all those $200 million protocols, the fictional ones that we were talking about, of the layer ones, of the leading lending protocols, and you compile them into the winning cohort in 5 years, which numbers more
+ecause you would argue if a becomes big enough, if it's a trillion dollar token or a hundred billion dollar token, as long as that exceeds the total value that everyone's paying for these things today, then you can justify that probabilism
+think wrapped into that is handwaving over a lot of these ghost coins that we all know is not worth the money it is
+and probably the reason that these things are at this value, it's not like this is changing hands often
+the reason that they're at this often
+the reason that they're at this value is because the holders either lost their coins or they can't do anything with the money anyways
+aybe it's dark money so they just sit in these protocols. >> Are you talking about the DeFi protocols
+re you talking about Bitcoin protocols
+re you talking about Bitcoin Cash and Hideera Hashgraph and >> Yeah, the NEOS, the Dinocoins
+f you look at any of the teams that are shipping in DeFi and you look at the collective valuation of these, I think you would look at this valuation and be like, this is not even close to what the TAM is. if this thing succeeds and then the question just becomes how do you go from a early stage protocol to monetization and this is where we see a lot of the team struggle and this is why I pass on a lot of deals is because the leaps that you have to take to make this either more than what it is today or to be able to actually charge your users more without getting disintermediated it's a stretch probabilistically so the valuation is too high did you see tweet the other day on monad. >> Yeah
+the probability thinking for >> Yeah
+the probability thinking for valuation >> and just the justification that when you're paying these sorts of premiums, you are justifying it in the scope of the winning outcome of how large a thing this can be
+and he believes that a lot this can be
+and he believes that a lot of the pessimistic thinking we're getting today is a loss of that belief in the upside
+think he's incredibly right
+the other day somebody asked me, right
+the other day somebody asked me, they looked at me and they said, "Do you think Ethereum is really worth $300 billion?" And this is a tough question to answer because Ethereum there's nobody above it when you look at smart contracts
+to this is the ceiling
+this contracts
+to this is the ceiling
+this contracts
+to this is the ceiling
+this is when a talks about what's the probability Monet becomes the next Ethereum
+hould the valuation be some Ethereum
+hould the valuation be some percentage of that
+that he's not asking is what is Ethereum worth
+we's just saying the market values it at this. saying the market values it at this
+onsider the market to be completely Consider the market to be completely sane
+think he's saying there's this sane
+think he's saying there's this much money in the market, which maybe we're saying the same thing, but I'm to some extent a believer that a lot of these valuations applied are just based on the supply of capital
+and the supply of capital is saying that whether it is Ethereum or something else, that's the amount of capital that's going to go into the premium L1 or L1's
+aybe I would ask you to share your thoughts on stable coins and how stable coins impact the valuation of other altcoins
+eah, I think stable coins, tokenized assets, and meme coins, frankly, a broader range of tokens are materially detrimental to altcoins from this liquidity perspective
+think that's de facto perspective
+think that's de facto true
+and this goes back to what I would true
+and this goes back to what I would argue is somewhat basic rates theory around the idea that equity markets struggle during higher rates environments and during lower rate environments you see more speculation
+think that's purely because of that liquidity struggle
+think it has to liquidity struggle
+think it has to be
+it's very easy to get pessimistic in be
+it's very easy to get pessimistic in crypto and in an environment like this it's a weird bare market because it feels like the valuations are quite high but it also feels like across the board sentiment literally cannot be worse within crypto
+eah
+utside of crypto, within crypto
+eah
+utside of crypto, within crypto
+eah
+utside of crypto, people are optimistic. >> Exactly
+and the thing that I always >> Exactly
+and the thing that I always like to remind myself is crypto sits so far out on the risk curve that it is one macro trade
+this is why we don't like crypto trade
+this is why we don't like crypto hedge funds who say that they're macro funds doing crypto is cuz just by being in crypto, you have taken a macro outlook and you've made that bet
+f you were a real macro fund, you would be in TRDI and then you would maybe bet on crypto sometimes
+ou wouldn't just be crypto sometimes
+ou wouldn't just be in crypto
+to what happens to us is in crypto
+to what happens to us is obviously we get impacted by interest rates probably the most out of any sector because we're a risk asset
+we're a risk not just a risk asset
+we're a risk asset that's extremely sensitive to to rates to rates
+to you have to recognize rates to rates
+to you have to recognize where we are in the world of rates
+it's no surprise that the last real bull market co with zero interest rates and ever since then the US has just been tightening and tightening and tightening its belt and within the past couple months we've started to see that change. months we've started to see that change
+don't think there's a better bull case I don't think there's a better bull case for crypto period
+don't disagree, but the irony of all this is crypto springs from the disillusionment of people, maybe even call people the libertarian lean of monetary policy carried out by governments, the US government, and thus thrives when monetary policy is arguably problematic, reckless
+to when the crypto people get arguably what they would want, which is a more responsible monetary policy, crypto underperforms because of the fact that then you actually have a more reasonable monetary policy that lessens the supposed value of crypto
+rypto is essentially the of crypto
+rypto is essentially the short trader in the crew
+hout out to Fozy
+we's only happy when everybody Fozy
+we's only happy when everybody else is sad because essentially crypto does great when when we're in hyperinflationary environment and rates are zero
+xactly
+to that's what I mean are zero
+xactly
+to that's what I mean are zero
+xactly
+to that's what I mean by the whole industry is a macro trade. by the whole industry is a macro trade
+there's no way to be a macro fund in There's no way to be a macro fund in crypto
+ou only have one mechanism crypto
+ou only have one mechanism which is go long and then you could go short theoretically but it's just one implementation of one viewpoint
+to maybe we can tie this back
+think this maybe we can tie this back
+think this is also another interesting bull case for lending and it's a little counterintuitive but you take it one step and it makes sense
+the lending markets on the surface as interest rates lower in the US. the lending rates should go down
+et it as parabus
+that should go down
+et it as parabus
+that should go down
+et it as parabus
+that means that lending markets make less money
+ut what you see happen when that money
+ut what you see happen when that occurs is interest rates go down
+the borrow cost on lending markets will go down and the volume of borrow should go up because all of a sudden strategies that we see that were not possible at certain rates become much more durable, much more possible
+to you start to see much more possible
+to you start to see a volume uptick
+that volume uptick can be exacerbated by the fact that you have this summer the seasonality coming back and you start to see swap fees go up. and you start to see swap fees go up
+ou start to see other indicators that You start to see other indicators that this market is recovering and when that happens your basis trade comes back
+to all of a sudden your basis trade the yield is going up because you have a lot of people in crypto who are trading purposely exaggerating price movements and your lending rates are going down which means that the yield you can make in this really vanilla strategy with a couple loops actually looks really attractive on a global level especially when you compare it to T bills which have fallen off a cliff
+to, I really think lending markets are interesting because in the high interest rate environment, they benefit from high interest rates
+in the low interest rate interest rates
+in the low interest rate environment, they benefit from low interest rates
+to me, it has all of the interest rates
+to me, it has all of the workings of a really strong business
+we could talk a little bit about some of the pitfalls I think we will see and where the lending market is going
+'m curious if you have thoughts on that. curious if you have thoughts on that
+'m a wine.

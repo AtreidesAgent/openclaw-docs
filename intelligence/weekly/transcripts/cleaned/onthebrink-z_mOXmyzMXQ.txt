@@ -1,0 +1,319 @@
+Welcome to On the Brink
+My name is Sean Welcome to On the Brink
+My name is Sean Judge
+oday I'm joined by Gita Judge
+oday I'm joined by Gita Punchapakasan, CEO and founder of Tesser
+we recently announced we let a Tesser
+we recently announced we let a $4.5 million seed round of financing into Tesser alongside Strobe, Anthemus, and Digital Currency Group
+unchup Pakistan has spent nearly 20 years in payments across Mastercard, PayPal, Moneygram, Fiserve, Visa, and most recently Circle
+the's now helping enable financial institutions to utilize stable coins
+without further ado, here's my conversation with Gita Punchup Pakistan
+att Walsh and Nick Carter are Pakistan
+att Walsh and Nick Carter are partners at Castle Island Ventures
+ll of these expressed by them or the guests on this podcast are solely their opinions and do not reflect the opinions of Castle Island Ventures
+uest and may maintain positions in the assets discussed in this podcast
+we should not treat any opinion expressed by anyone on this podcast as a specific inducement to make a particular investment or follow a particular strategy, but only as an expression of their personal opinion. expression of their personal opinion
+this podcast is forformational purposes This podcast is forformational purposes only. brought down by bad mortgage investments
+ehman, which has 25,000 investments
+ehman, which has 25,000 employees, will be liquidated. >> The federal government loans American International Group, AIG, $85 billion
+nternational Group, AIG, $85 billion. >> This is a different kind of mortgage, AND THE FED IS ASLEEP
+ND THE FED IS ASLEEP. >> The federal government is stepping to stabilize Fanny May and Freddy Mack, the two mortgage giants that have been threatened by the housing crisis. >> The Bank of England has pumped 75 billion pounds more into Britain's ailing economy in the new round of quantitative easing. >> You print a couple trillion dollars and all of a sudden, people start to worry. all of a sudden, people start to worry
+to out of this worry we have something So out of this worry we have something called a bitcoin bitcoin. >> Welcome to on the brink
+My name is Sean Judge
+oday I'm sitting down with Gita Judge
+oday I'm sitting down with Gita Punchapoxan
+ita welcome to on the Punchapoxan
+ita welcome to on the brink. >> Thank you so much Sean and you did my name very well
+'m impressed >> worked on it just to start
+ita if you >> worked on it just to start
+ita if you could just share your personal background and how you arrived at working in crypto. >> Absolutely
+landed in payments with a >> Absolutely
+landed in payments with a job at Mastercard
+to particular reason. and then tried a few things, meandered a bit, landed at MoneyGram, did crossber payments, loved it, and then meandered a little bit more
+and from Moneygram to doing stable coins for crossber payments, just eventual thing that had to happen
+to, here I am. to happen
+to, here I am. >> That's great
+and within payments, what >> That's great
+and within payments, what is it specifically about payments that interests you? >> It's going to sound cliche, but it's the reality of it, the usefulness of it. reality of it, the usefulness of it
+it's something that everyone has to do
+and especially when I started doing And especially when I started doing crossber payments, regular payments, you're paying for goods and services can be a little boring, but when you start sending money overseas, it feels like much more real value to it
+efinitely something that I appreciated a lot. something that I appreciated a lot
+ittle anecdote was that while I was at Little anecdote was that while I was at Moneygram, I set up US to Philippines, US to Mexico, and then I set up US to India and then I sent money to my in-laws
+was like, "Oh, this is real." in-laws
+was like, "Oh, this is real." Like, I'm actually using it
+to, there's something very, very real about it. >> That's great
+and so you've obviously worked at a number of large payments companies before arriving at Circle. companies before arriving at Circle
+that major shifts have you seen occur in What major shifts have you seen occur in payments before even stable coins? >> That's a very good question
+there's a lot, right
+ut if I were to step back lot, right
+ut if I were to step back and say what are the big things? and say what are the big things
+omestic real-time payments with Domestic real-time payments with governments actually stepping in to push that within their countries
+think that's a big one
+the UPI I think is that's a big one
+the UPI I think is about 10 years old in India
+ix is I think closer to 5 years old. picks in Brazil
+ut I think real-time payments Brazil
+ut I think real-time payments generally has become pretty popular, pretty big, pretty important
+think the other thing you see is a lot of this open banking, API based payments, like account to account payments, that whole thing
+'m clubbing into one big thing, thing
+'m clubbing into one big thing, but going beyond card to make payments. but going beyond card to make payments
+it's still more popular in markets where It's still more popular in markets where card is not that prevalent, but it has become a big trend
+laid exists because of that, for example
+the other interesting thing is wallets which were primarily payment methods in a lot of the rest of the world wallets are used for lending
+to you can actually from for lending
+to you can actually from your wallet I think PTM does it Alip pay does it all these super apps you can do loans from your wallet insurance from your wallet investing from your wallet which even I think Revolute offers
+to I think the wallet becoming a gateway to overall financial services is actually been very interesting to see
+ell, makes a lot of sense
+and then diving makes a lot of sense
+and then diving into Tesser, you started Tesser earlier this year
+we were thrilled to lead the this year
+we were thrilled to lead the seed round there
+that is the highlevel overview of Tesser? >> Tesser was built basically to enable traditional financial institutions to access blockchain in a very simple and easy manner
+raditional financial institutions which we define as banks, PSPs, MSPs, they move trillions of dollars today, but they don't move it very efficiently
+and we now have a very efficiently
+and we now have a very efficient way to move value
+hy not drag an easy way to get access to that? drag an easy way to get access to that
+to basically, Teso was created as a So basically, Teso was created as a one-stop shop simple, rightly build technology solution for traditional financial institutions. >> And was there a specific moment before or at Circle that shaped your conviction in the space around stable coins? >> It's the journey having been in crossber for so long
+it's very much the at for so long
+it's very much the at moneygram spending six months with my partner in the Philippines who is a bank trying to figure out how much money we need to keep there and if they will give us any interest and what will we do if the money runs out
+it was so painful and the fact that there's constant tracking of the working capital that's sitting in these places
+used to come running to my treasury guy and go we've run out
+an you please move some more run out
+an you please move some more money instantly
+ll of that by the time money instantly
+ll of that by the time I got to circle I was like this makes sense
+and so where are those legacy sense
+and so where are those legacy payments companies today as it relates to stable coin strategies
+ou see a lot of headlines
+re people really engaging of headlines
+re people really engaging with these things
+there are they in with these things
+there are they in their journey into being able to send stable coins? >> They're all over the place as a simple answer
+ven when I was at Circle, I answer
+ven when I was at Circle, I think 2 to 3 years ago, some of the big ones like World Pay, Visa, Strike, all these guys started actively looking at stable coins and using it
+to there are some PSPs who got into the game early, specifically PSPs, a few banks, but primarily PSPs, but then ever since the Stripe Bridge announcement, it's become it's really accelerated
+lot of the PSPs have tried to get in
+they're doing partnerships
+they're trying to figure partnerships
+they're trying to figure out what makes sense
+anks have been a out what makes sense
+anks have been a lot more cautious because they are much more cautious about regulatory impact on them
+to they have been much more them
+to they have been much more cautious
+lthough you know like cautious
+lthough you know like Standard Charted got into the game early and even now banks are like okay I will maybe provide a way to invest in digital assets
+'m not exactly sure what to do assets
+'m not exactly sure what to do with stable coins but they know they need a stable coin strategy
+to they're all working on that
+there are of course all working on that
+there are of course there's still some that need a stablecoin 101
+to it is all over the stablecoin 101
+to it is all over the place >> on tesser if financial institution wants to have the alternative to send stable coins. what infrastructure is lacking today for them to do that or said differently what is tesser building to enable this as an option >> truthfully the infrastructure exists but it's very fragmented so it's all over the place if you have to go understand what custody options you have what makes sense for you and then you have to figure out what what providers to use if they can actually do exactly what you need to do especially when you're a regulated FI then you have to figure out where do you go for on-ramp and then which token should I use, which chain should I use
+ait, there's this new chain
+hould I use that
+that exactly chain
+hould I use that
+that exactly chain
+hould I use that
+that exactly should I do
+and then what is gas? should I do
+and then what is gas
+there's all that stuff
+and then at the There's all that stuff
+and then at the end of the day, we bring all of that together in one package solution where they can plug in and go and be able to offer stablecoin payments either as offering it to their customers as an option or even using the rails in more efficient ways to find a new revenue opportunity. lots of new things that they haven't thought about
+we're able to bring it to them in one piece
+it would take them upwards of 12 months to build this
+they can build it with us in build this
+they can build it with us in like 2 to 4 weeks
+it the end of it, they do payments on behalf of others, right
+to they have to account for every right
+to they have to account for every scent
+to we do all of the scent
+to we do all of the reconciliation, the reporting, the cleanup, all of that for them, which makes it a lot easier
+to technically from an infrastructure perspective, yeah, things exist, but it's difficult
+it sounds like these it's difficult
+it sounds like these financial institutions are a little bit all over the map to your point in terms of where they are in their stable coin journey
+ut what is your view in these journey
+ut what is your view in these conversations on how stable coins will benefit a financial institution? >> I mean so many ways a lot of what we are seeing people realize is that settlement as a use case is a very big one
+anks have grown up on this nostro concept
+to have grown up on this nostro concept
+to they have accounts everywhere, friends in other banks, they hold funds in all of these banks
+it's a painful thing to of these banks
+it's a painful thing to manage treasury across multiple currencies, multiple banking partners. currencies, multiple banking partners
+hen you can settle with a bearer When you can settle with a bearer instrument where once the value is transferred, it's yours
+ou don't need to hold value there in order to have it ready to be transferred, but you can transfer it at a moment's notice and the value now has actually been transferred. value now has actually been transferred
+that is an incredible innovation
+to for That is an incredible innovation
+to for a lot of these banks that move money, they don't need to do this anymore
+they don't need to hold funds with other banks anymore
+they can instantly move banks anymore
+they can instantly move value with stable coins
+that to me is value with stable coins
+that to me is fundamental like an operational efficiency in leaps and bounds
+there's also, by the way, a lot of the dollar accounts
+we talk about dollar accounts accounts
+we talk about dollar accounts in like Argentina and places where there's volatility, but I don't know if you noticed, Wise announced recently they were hiring a new person
+it was all over the news and they're hiring somebody to actually look at what their specifically the digital holding strategy is
+ow do you actually provide strategy is
+ow do you actually provide capability to their customers to hold funds in dollars
+and that's basically what people are seeing is that ddollarization notwithstanding there's actually a lot of demand for holding dollars globally
+and this is a very dollars globally
+and this is a very simple and easy way to do it
+and just thinking about starting this starting tester a few years ago versus right now you mentioned it feels Stripe's acquisition of bridge was the starting gun for a lot of traditional web two companies as well as just financial institutions broadly saying hey we should start to look at this stable coin space but I think more importantly recently with regulatory clarity how has the genius act shifted conversations you're having with banks and fintex >> that's an Interesting question because the Genius Act is focused on the issuance, right
+it's not really focused issuance, right
+it's not really focused on >> how does a bank account for stable coins and what can they lend against it and how does it look on their balance sheet. how does it look on their balance sheet
+it doesn't say any of those things
+asically says these are the rules
+f Basically says these are the rules
+f you want to be an issuer, you have to be I think it's called a PPSI, but these are the rules
+f you want to issue a are the rules
+f you want to issue a stable coin, that being said, mere fact of the existence of the Genius Act has actually opened up a lot of doors because people are like, "Oh, okay
+to it's not a bad thing
+we can actually it's not a bad thing
+we can actually in some way it's legal
+xactly
+we can in some way it's legal
+xactly
+we can in some way it's legal
+xactly
+we can engage with it in some way
+to I think engage with it in some way
+to I think that has been extremely helpful and needless to say the US sets the standard
+to although Mika in Europe has standard
+to although Mika in Europe has been around for a while and it's much more comprehensive
+it's not focused on more comprehensive
+it's not focused on issuance
+nce the Genius Act has issuance
+nce the Genius Act has happened, other countries are also at least willing to engage and talk about it
+lthough they're probably a lot it
+lthough they're probably a lot slower
+h there's been a tremendous slower
+h there's been a tremendous amount of infrastructure that's been built over the last 5 years or so that have made it easier for individuals to hold and send digital assets
+that other infrastructure could you enable today that wasn't maybe quite built a few years ago
+there's a bunch of tooling years ago
+there's a bunch of tooling underneath Tesser. >> The way I think about it is there are two or three different kind of broad areas from pure like tech perspective
+don't think you could do payments on I don't know Ethereum 5 years ago. what was it like 15 transactions second some ridiculously small number it was very expensive but that has significantly become better the chains are able to compete with visas like 65,000 transactions per second the you have layer 2s that can actually do that I think that's a big step forward because you can actually take this to a bank that does payments or a PSP that does payments and say this is very similar you can get the same kind of throughput you used to get with other payment methods from a technology front there's some of those things like curs infrastructure also whereas you had bitco anchorage which were meant for large holders where it's not easy to move in and out you need to look at something and people are starting to actually shift towards more of a payments based options which are also secure and tight so I think from a technology perspective those things are there there's then the ecosystem there's on and off ramps have continued to grow without that you couldn't do anything in payment so I wouldn't have been able to take this to a bank and say hey look we can build you an ecosystem we connect you to the ecosystem because it's there. you to the ecosystem because it's there
+it exists
+to that's been a big shift
+it exists
+to that's been a big shift
+it exists
+to that's been a big shift
+ut honestly, I think it's the But honestly, I think it's the maturation of the space overall has been why tesser we're doing this at the right time
+it's the visas of the world that time
+it's the visas of the world that push to say we're we're going to do this
+we're going to be an early this
+we're going to be an early adopter
+it's the regulations
+it's the adopter
+it's the regulations
+it's the adopter
+it's the fact that regulations have been enforced on exchanges and other crypto-based FIS so that there's now trust in that as well that they're responsible for AML they have AML obligations they have KYC KYB obligations all of those things have brought in a certain amount of trust into the ecosystem so I am able to build tesser for this specific audience only now because of all these things that have actually happened >> right I guess with the tesser product what does the product look like today for businesses looking to move money and you touched a little bit on some of the reconciliation reporting piece
+to what are some of the core aspects of the product that really stand out for FIS as they evaluate other providers in the space and other ways to engage with stable coins? >> Absolutely
+the MVP by the way is going >> Absolutely
+the MVP by the way is going out tomorrow and the core platform the MVP actually does cover most of the plan for the core platform
+the core platform is it's a packaged end to end for the FI
+IS today are talking to payments FI
+IS today are talking to payments networks other access to stablecoin infrastructure but they don't really have the pieces that need to plug in number one
+to we provide the custody number one
+to we provide the custody infrastructure which the plan is to have multiple options depending on the kind of FIU are depending on the specific needs you have
+it could be a custodial needs you have
+it could be a custodial option an MPC wallet
+to based on what it is that you're looking for we have different options starting from that we can plug you in with the right onramp providers depending on your geo depending on your risk appetite etc
+and then there is all of the treasury management, the gas management
+we are plugged into multiple chains
+we offer plugged into multiple chains
+we offer multiple tokens
+oday the MVP is USDC multiple tokens
+oday the MVP is USDC and USDT, but eventually we plan to add a lot more
+to all of that you have a lot more
+to all of that you have access to immediately
+and we're managing your treasury for you in the sense that today the MVP is all about tracking your balances based on okay, you're sending money to Nigeria. you're sending money to Nigeria
+esterday the rate was one thing, today Yesterday the rate was one thing, today the rate is another
+ou may not have enough money to match that
+to we make sure that your treasury is ready to make the payments for your day
+we are obviously doing the payments
+the payments are almost the BAU piece of it like everybody's doing the payments
+to we are plugged in to the right offramp providers
+to we're enabling the providers
+to we're enabling the payments
+we're executing on the payments
+ut then like you said the payments
+ut then like you said the important piece is the reconciliation because we ensure again for you as a service provider to others as an FI we ensure that we get you all of the data that you need in your transaction so you can take and tie everything at the end of it
+that's basically the end to end of it
+that's basically the end to end of what we provide and I'm fairly confident there's nobody else that provides this out there in this particular form for an FI
+it'll provide bits and pieces
+gain I think it's bits and pieces
+gain I think it's fragmented
+ou can use other service fragmented
+ou can use other service providers who have their own regulatory framework and operational framework
+ut if you want to build this within your own framework and do it quickly, this is the best way for you to do it. >> It's amazing
+and as you're building tesser, if you could fast forward one regulatory or technical development, what would that be today
+onestly, even though I was saying regulations will move forward, the truth of the matter is banks, especially banks are still a little skittish about, okay, I don't know if I can hold stables
+an you find me a way in which somebody can hold it on my behalf
+and that's primarily because in a lot of jurisdictions, including the US, you don't exactly know what it means to hold stables
+in um lot of the jurisdictions in LATAM, for example, stables are neither a good or a bad
+it's just gray
+hen it's gray, bad
+it's just gray
+hen it's gray, bad
+it's just gray
+hen it's gray, you're like, "What happens if they come knocking on my door and I don't really have an answer?" I wish that would accelerate
+think it's going to
+accelerate
+think it's going to
+accelerate
+think it's going to
+wish it would accelerate a lot faster than it does. >> Well, this is great
+we invested earlier this year
+that are some of the kind of this year
+that are some of the kind of key hires that you need to get going on here in the next year or so? >> We've done a kind of an initial hire already
+we've got very deep product already
+we've got very deep product people
+we've got BD people
+we've people
+we've got BD people
+we've people
+we've got BD people
+we've needless to say, we've got our key engineers
+we are going to probably hire engineers
+we are going to probably hire some folks on the operational side once our design partners get up and running. our design partners get up and running
+we'll continue to build out the We'll continue to build out the engineering team, although we're really the engineering team is trying to see how much they can use AI to keep it tight
+and then we'll see what tight
+and then we'll see what else we need as we go
+ut we're now five and a half or six people
+ive and a half because one of them is actually part of that. >> Well, congrats on the launch at money 2020 and I'm sure people will be excited to see that next week
+in the meantime, where can people learn more about Tesser
+esser
+esser? >> Yeah, for sure
+f you're at Money2020, >> Yeah, for sure
+f you're at Money2020, please come see us at booth SU13, which is the startup area
+ut otherwise, tesser.xyz, of course
+and in that, by tesser.xyz, of course
+and in that, by the way, if you go down to the bottom, you can actually reach out to the team and get a meeting going
+to, do that if you want to talk to us
+there's a link to our calendars
+ou can find us all on to our calendars
+ou can find us all on LinkedIn and we've all posted at various times
+to you'll be able to look up times
+to you'll be able to look up Tessa on LinkedIn and be able to find the people that work there and reach out to any of us on LinkedIn as well
+to those are some good places to start. >> Great
+ell, Gita, thanks so much for >> Great
+ell, Gita, thanks so much for joining us today
+uper excited to be partnered with you and the team at Tesser
+esser
+esser. >> Awesome
+to, thank you so much
+eally >> Awesome
+to, thank you so much
+eally >> Awesome
+to, thank you so much
+eally appreciate Castle Island for believing in us, trusting in us, and getting us up and going
+to yeah, we'll do this and going
+to yeah, we'll do this journey together. >> Awesome
+ook forward to having you on >> Awesome
+ook forward to having you on in a couple years. >> Thank you so much >> to talk about all the big financial institutions that are using Teser. >> Yeah, for sure
+wesome. >> Thanks, Keto. >> Thank you. >> Thanks for listening to another episode of On the Brink with Castle Island
+to learn more about Castle Island, visit castle island.vc. castle island.vc
+and to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle island.vc/mpodcast or just click on the tab on our website. or just click on the tab on our website
+hanks for listening.

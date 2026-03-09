@@ -1,0 +1,970 @@
+Welcome to On the Brink
+u0002y name is Welcome to On the Brink
+u0002y name is Welcome to On the Brink
+u0002y name is Henry Harris and I'm an investor with Henry Harris and I'm an investor with Henry Harris and I'm an investor with Castle Island Ventures
+u0002oday on the Castle Island Ventures
+u0002oday on the Castle Island Ventures
+u0002oday on the show, I'm joined by Korn from Urine show, I'm joined by Korn from Urine show, I'm joined by Korn from Urine Finance
+u0002rine Finance has been building Finance
+u0002rine Finance has been building Finance
+u0002rine Finance has been building DeFi infrastructure and providing DeFi infrastructure and providing DeFi infrastructure and providing verifiable risk adjusted yield verifiable risk adjusted yield verifiable risk adjusted yield strategies since 2020
+u0002orn and I strategies since 2020
+u0002orn and I strategies since 2020
+u0002orn and I discussed how DeFi has evolved since the discussed how DeFi has evolved since the discussed how DeFi has evolved since the collapse of Teraluna in 2022 and how collapse of Teraluna in 2022 and how collapse of Teraluna in 2022 and how recent volatility in the market once recent volatility in the market once recent volatility in the market once again highlighted the need for proper again highlighted the need for proper again highlighted the need for proper risk management and transparency in risk management and transparency in risk management and transparency in DeFi
+u0002e also touched on the state of DeFi
+u0002e also touched on the state of DeFi
+u0002e also touched on the state of cyber security for onchain products as cyber security for onchain products as cyber security for onchain products as well as what it's going to take to get well as what it's going to take to get well as what it's going to take to get non-cryptonative institutions non-cryptonative institutions non-cryptonative institutions comfortable interacting with DeFi. comfortable interacting with DeFi. comfortable interacting with DeFi
+u0002ithout further ado, here's my Without further ado, here's my Without further ado, here's my conversation with K from year in conversation with K from year in conversation with K from year in Finance
+u0002att Walsh and Nick Carter are Finance
+u0002att Walsh and Nick Carter are Finance
+u0002att Walsh and Nick Carter are partners at Castle Island Ventures
+u0002ll partners at Castle Island Ventures
+u0002ll partners at Castle Island Ventures
+u0002ll views expressed by them or the guests on views expressed by them or the guests on views expressed by them or the guests on this podcast are [music] solely their this podcast are [music] solely their this podcast are [music] solely their opinions and do not reflect the opinions opinions and do not reflect the opinions opinions and do not reflect the opinions of Castle Island Ventures
+u0002uest and of Castle Island Ventures
+u0002uest and of Castle Island Ventures
+u0002uest and host may maintain positions in the host may maintain positions in the host may maintain positions in the assets discussed in this podcast
+u0002ou assets discussed in this podcast
+u0002ou assets discussed in this podcast
+u0002ou should not treat any opinion expressed should not treat any opinion expressed should not treat any opinion expressed by anyone on this podcast as a specific by anyone on this podcast as a specific by anyone on this podcast as a specific inducement to make a particular inducement to make a particular inducement to make a particular investment or follow a particular investment or follow a particular investment or follow a particular strategy, but only as an expression of strategy, but only as an expression of strategy, but only as an expression of their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is forformational purposes only. forformational purposes only. forformational purposes only. >> Brought down by bad mortgage >> Brought down by bad mortgage >> Brought down by bad mortgage investments
+u0002ehman, which has 25,000 investments
+u0002ehman, which has 25,000 investments
+u0002ehman, which has 25,000 employees, will be liquidated
+u0002he employees, will be liquidated
+u0002he employees, will be liquidated
+u0002he federal government loans American federal government loans American federal government loans American International [music] International [music] International [music] Group AIG $85 billion
+u0002roup AIG $85 billion
+u0002roup AIG $85 billion. >> This is a different kind of mortgage AND >> This is a different kind of mortgage AND >> This is a different kind of mortgage AND THE FED IS ASLEEP
+u0002HE FED IS ASLEEP
+u0002HE FED IS ASLEEP. >> The federal government is stepping it to >> The federal government is stepping it to >> The federal government is stepping it to [music] stabilize Fanny May and Freddy [music] stabilize Fanny May and Freddy [music] stabilize Fanny May and Freddy Mack, the two mortgage giants that have Mack, the two mortgage giants that have Mack, the two mortgage giants that have been threatened by the [music] housing been threatened by the [music] housing been threatened by the [music] housing crisis. crisis. crisis. >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 billion pounds more into Britain's billion pounds more into Britain's billion pounds more into Britain's ailing economy with a new round of ailing economy with a new round of ailing economy with a new round of quantitative easing. quantitative easing. quantitative easing. >> You print a couple trillion dollars and >> You print a couple trillion dollars and >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry. all of a sudden people start to worry
+u0002o out of this worry, we have something So out of this worry, we have something So out of this worry, we have something called a Bitcoin
+u0002itcoin. called a Bitcoin
+u0002itcoin. called a Bitcoin
+u0002itcoin
+u0002ell, Corin, welcome on the podcast
+u0002ell, Corin, welcome on the podcast
+u0002ell, Corin, welcome on the podcast
+u0002ppreciate you coming on
+u0002ppreciate you coming on
+u0002ppreciate you coming on. >> Thank you for inviting me
+u0002his is Pulpy >> Thank you for inviting me
+u0002his is Pulpy >> Thank you for inviting me
+u0002his is Pulpy Tacos favorite podcast, so I could not Tacos favorite podcast, so I could not Tacos favorite podcast, so I could not miss it
+u0002 only attend the really high miss it
+u0002 only attend the really high miss it
+u0002 only attend the really high signal stuff. signal stuff. signal stuff. >> This is why we do it for Pulpy and all >> This is why we do it for Pulpy and all >> This is why we do it for Pulpy and all the other listeners out there
+u0002hat we the other listeners out there
+u0002hat we the other listeners out there
+u0002hat we want to get into today is the state of want to get into today is the state of want to get into today is the state of the union on decentralized finance on the union on decentralized finance on the union on decentralized finance on DeFi and maybe just to level set your DeFi and maybe just to level set your DeFi and maybe just to level set your background, how you got into crypto and background, how you got into crypto and background, how you got into crypto and DeFi and we can go from there
+u0002 have DeFi and we can go from there
+u0002 have DeFi and we can go from there
+u0002 have been in crypto full-time since November been in crypto full-time since November been in crypto full-time since November of 2021
+u0002o, if you remember back then, of 2021
+u0002o, if you remember back then, of 2021
+u0002o, if you remember back then, that was the top of the top in the past that was the top of the top in the past that was the top of the top in the past four years
+u0002 had been following crypto four years
+u0002 had been following crypto four years
+u0002 had been following crypto for a long time
+u0002nd I was working with for a long time
+u0002nd I was working with for a long time
+u0002nd I was working with Cisco Network's largest partner for 10 Cisco Network's largest partner for 10 Cisco Network's largest partner for 10 years in the data center space, building years in the data center space, building years in the data center space, building networks and data centers for hospitals. networks and data centers for hospitals. networks and data centers for hospitals
+u0002omeone from year was in a telegram chat Someone from year was in a telegram chat Someone from year was in a telegram chat with me and they knew that I did a lot with me and they knew that I did a lot with me and they knew that I did a lot of technical selling and the IT space of technical selling and the IT space of technical selling and the IT space was starting to slow down because was starting to slow down because was starting to slow down because especially in healthcare every time especially in healthcare every time especially in healthcare every time someone deployed Epic for their medical someone deployed Epic for their medical someone deployed Epic for their medical record system they had to go and buy a record system they had to go and buy a record system they had to go and buy a ton of hardware
+u0002pgrading to Epic was ton of hardware
+u0002pgrading to Epic was ton of hardware
+u0002pgrading to Epic was definitely their biggest capital expense definitely their biggest capital expense definitely their biggest capital expense like a hospital ever goes through
+u0002pic like a hospital ever goes through
+u0002pic like a hospital ever goes through
+u0002pic made the transition to be a web app. the made the transition to be a web app. the made the transition to be a web app. the customers don't need to buy storage area customers don't need to buy storage area customers don't need to buy storage area networks
+u0002hey don't need to buy all new networks
+u0002hey don't need to buy all new networks
+u0002hey don't need to buy all new Cisco switching and stuff like that
+u0002o Cisco switching and stuff like that
+u0002o Cisco switching and stuff like that
+u0002o I saw that space starting to slow down I saw that space starting to slow down I saw that space starting to slow down and getting involved with back then we and getting involved with back then we and getting involved with back then we had over $6 billion of deposits
+u0002e were had over $6 billion of deposits
+u0002e were had over $6 billion of deposits
+u0002e were in the top five for our DeFi projects in the top five for our DeFi projects in the top five for our DeFi projects and we had and we had and we had 125 contributors I think back then
+u0002t 125 contributors I think back then
+u0002t 125 contributors I think back then
+u0002t was a big project and there was no way was a big project and there was no way was a big project and there was no way that I was gonna say no to that that I was gonna say no to that that I was gonna say no to that opportunity
+u0002o I took it and I'm still opportunity
+u0002o I took it and I'm still opportunity
+u0002o I took it and I'm still doing BD for yearn today
+u0002'm doing BD for yearn today
+u0002'm doing BD for yearn today
+u0002'm responsible for all of the customer responsible for all of the customer responsible for all of the customer experiences that we have
+u0002e have a B2B experiences that we have
+u0002e have a B2B experiences that we have
+u0002e have a B2B approach still
+u0002e want to get people to approach still
+u0002e want to get people to approach still
+u0002e want to get people to build on top of your vaults and consume build on top of your vaults and consume build on top of your vaults and consume the tokenized strategies that we have. the tokenized strategies that we have. the tokenized strategies that we have
+u0002nd if people are not getting answers And if people are not getting answers And if people are not getting answers really fast, they feel unsupported. really fast, they feel unsupported. really fast, they feel unsupported
+u0002hey'll go to one of the other 9 million They'll go to one of the other 9 million They'll go to one of the other 9 million vault projects out there
+u0002o my vault projects out there
+u0002o my vault projects out there
+u0002o my responsibility is to make sure that responsibility is to make sure that responsibility is to make sure that they're happy, make sure they're coming they're happy, make sure they're coming they're happy, make sure they're coming in the door
+u0002e get a lot of inbound in the door
+u0002e get a lot of inbound in the door
+u0002e get a lot of inbound requests for strategies to be made still requests for strategies to be made still requests for strategies to be made still because they know that if they get a because they know that if they get a because they know that if they get a urine strategy made, someone from the urine strategy made, someone from the urine strategy made, someone from the urine security team is going to have to urine security team is going to have to urine security team is going to have to do due diligence on it. are going to do due diligence on it. are going to do due diligence on it. are going to have to do at least something of like a have to do at least something of like a have to do at least something of like a light audit on the codebase and make light audit on the codebase and make light audit on the codebase and make sure that it's safe
+u0002t's my job to also sure that it's safe
+u0002t's my job to also sure that it's safe
+u0002t's my job to also qualify those opportunities because qualify those opportunities because qualify those opportunities because there are a lot of them and I can't there are a lot of them and I can't there are a lot of them and I can't bring every single one of them to the bring every single one of them to the bring every single one of them to the curation or like security team to vet
+u0002 curation or like security team to vet
+u0002 curation or like security team to vet
+u0002 have to make sure that they've gone have to make sure that they've gone have to make sure that they've gone through my filter before I pass it on to through my filter before I pass it on to through my filter before I pass it on to them
+u0002hose come in all the time for them
+u0002hose come in all the time for them
+u0002hose come in all the time for like strategies, for collaterals for our like strategies, for collaterals for our like strategies, for collaterals for our curation arm
+u0002t's always been busy ever curation arm
+u0002t's always been busy ever curation arm
+u0002t's always been busy ever since I joined four years ago
+u0002ven if since I joined four years ago
+u0002ven if since I joined four years ago
+u0002ven if we're not churning out all these we're not churning out all these we're not churning out all these strategies, we're definitely evaluating strategies, we're definitely evaluating strategies, we're definitely evaluating them. them. them. >> Customer support is something of an >> Customer support is something of an >> Customer support is something of an unsolved problem within the crypto unsolved problem within the crypto unsolved problem within the crypto world
+u0002ho do you call when you're world
+u0002ho do you call when you're world
+u0002ho do you call when you're dealing with a decentralized protocol? dealing with a decentralized protocol? dealing with a decentralized protocol
+u0002o, it's good to know that you're on the So, it's good to know that you're on the So, it's good to know that you're on the other end picking up the phone
+u0002n terms other end picking up the phone
+u0002n terms other end picking up the phone
+u0002n terms of the history of your you mentioned you of the history of your you mentioned you of the history of your you mentioned you starting back in 2021, it was to my starting back in 2021, it was to my starting back in 2021, it was to my knowledge was around even before then. knowledge was around even before then. knowledge was around even before then
+u0002hat's kind of like the history of DeFi What's kind of like the history of DeFi What's kind of like the history of DeFi protocols and how they've evolved protocols and how they've evolved protocols and how they've evolved through 2021 and all the craziness and through 2021 and all the craziness and through 2021 and all the craziness and then maybe all the way up to today in then maybe all the way up to today in then maybe all the way up to today in your experience? your experience? your experience? >> Back when I started and we had 120 >> Back when I started and we had 120 >> Back when I started and we had 120 contributors, we had this mantra that contributors, we had this mantra that contributors, we had this mantra that year was very open and anyone could year was very open and anyone could year was very open and anyone could join
+u0002nd to be honest, we still have join
+u0002nd to be honest, we still have join
+u0002nd to be honest, we still have that same culture today. one of the that same culture today. one of the that same culture today. one of the people who actually went on to build people who actually went on to build people who actually went on to build Yurva V3 Schlag
+u0002e came across him in a Yurva V3 Schlag
+u0002e came across him in a Yurva V3 Schlag
+u0002e came across him in a hackathon, I think it was
+u0002e submitted hackathon, I think it was
+u0002e submitted hackathon, I think it was
+u0002e submitted a strategy that he created and we a strategy that he created and we a strategy that he created and we thought that he was like a former year thought that he was like a former year thought that he was like a former year contributor
+u0002t was so perfect
+u0002nd we contributor
+u0002t was so perfect
+u0002nd we contributor
+u0002t was so perfect
+u0002nd we had 50 other people who had made had 50 other people who had made had 50 other people who had made strategies and every single one of them strategies and every single one of them strategies and every single one of them was very low quality
+u0002nd the truth is was very low quality
+u0002nd the truth is was very low quality
+u0002nd the truth is today like if you build something on today like if you build something on today like if you build something on year and we think it's really good, we year and we think it's really good, we year and we think it's really good, we will seriously consider hiring you
+u0002ut will seriously consider hiring you
+u0002ut will seriously consider hiring you
+u0002ut we had to be more selective about who we had to be more selective about who we had to be more selective about who we're on boarding as time went on
+u0002he we're on boarding as time went on
+u0002he we're on boarding as time went on
+u0002he bar kept getting higher and higher and bar kept getting higher and higher and bar kept getting higher and higher and that's a really good thing
+u0002e started that's a really good thing
+u0002e started that's a really good thing
+u0002e started out that way back then
+u0002nd when I first out that way back then
+u0002nd when I first out that way back then
+u0002nd when I first joined, we had all this money
+u0002e were joined, we had all this money
+u0002e were joined, we had all this money
+u0002e were making hund00 million in profits in making hund00 million in profits in making hund00 million in profits in 2021, I think it was
+u0002nd then the first 2021, I think it was
+u0002nd then the first 2021, I think it was
+u0002nd then the first thing that happened was thing that happened was thing that happened was US the yields were 20%
+u0002veryone was US the yields were 20%
+u0002veryone was US the yields were 20%
+u0002veryone was like, "You got to make a strategy for US like, "You got to make a strategy for US like, "You got to make a strategy for US or you're going to lose deposits." And or you're going to lose deposits." And or you're going to lose deposits." And guess what
+u0002e started losing a ton of guess what
+u0002e started losing a ton of guess what
+u0002e started losing a ton of deposits and we refused to make a deposits and we refused to make a deposits and we refused to make a strategy for it because it was not a strategy for it because it was not a strategy for it because it was not a structurally sound project
+u0002e knew that structurally sound project
+u0002e knew that structurally sound project
+u0002e knew that something was going to happen
+u0002e knew something was going to happen
+u0002e knew something was going to happen
+u0002e knew that it was like a bit of a Ponzi. that it was like a bit of a Ponzi. that it was like a bit of a Ponzi. >> How did you sort of figure that out? >> How did you sort of figure that out? >> How did you sort of figure that out
+u0002ust for context, US Terra Luna Just for context, US Terra Luna Just for context, US Terra Luna collapse, ended up losing tens of collapse, ended up losing tens of collapse, ended up losing tens of billions of dollars
+u0002oan was the CEO. billions of dollars
+u0002oan was the CEO. billions of dollars
+u0002oan was the CEO
+u0002ut how did you guys in the moment see But how did you guys in the moment see But how did you guys in the moment see through that? through that? through that? >> Anytime a stable is backed by a >> Anytime a stable is backed by a >> Anytime a stable is backed by a governance token, it's not going to end governance token, it's not going to end governance token, it's not going to end well
+u0002t's impossible
+u0002he governance well
+u0002t's impossible
+u0002he governance well
+u0002t's impossible
+u0002he governance token is going to go to zero at some token is going to go to zero at some token is going to go to zero at some point
+u0002nd whether the market likes it point
+u0002nd whether the market likes it point
+u0002nd whether the market likes it or not, there was no way of avoiding it. or not, there was no way of avoiding it. or not, there was no way of avoiding it
+u0002nd we saw that happening
+u0002t just was And we saw that happening
+u0002t just was And we saw that happening
+u0002t just was best for us to not play a part in that best for us to not play a part in that best for us to not play a part in that and just see our vaults just leak value and just see our vaults just leak value and just see our vaults just leak value to go to other places
+u0002nd at the same to go to other places
+u0002nd at the same to go to other places
+u0002nd at the same time that is also when the risk-free time that is also when the risk-free time that is also when the risk-free rate and treasury rates started to go rate and treasury rates started to go rate and treasury rates started to go up
+u0002here was a pending bare market
+u0002t up
+u0002here was a pending bare market
+u0002t up
+u0002here was a pending bare market
+u0002t was definitely on the way
+u0002e saw that was definitely on the way
+u0002e saw that was definitely on the way
+u0002e saw that DeFi yields started to go down
+u0002he way DeFi yields started to go down
+u0002he way DeFi yields started to go down
+u0002he way that we get most of our yields is from that we get most of our yields is from that we get most of our yields is from supplying to lending markets
+u0002nd when supplying to lending markets
+u0002nd when supplying to lending markets
+u0002nd when people are not borrowing, the yields are people are not borrowing, the yields are people are not borrowing, the yields are going to go down
+u0002hat happened was we going to go down
+u0002hat happened was we going to go down
+u0002hat happened was we started to lose even more TVL for people started to lose even more TVL for people started to lose even more TVL for people going and wanting to get that risk-free going and wanting to get that risk-free going and wanting to get that risk-free rate and it's understandable 100%. yearn rate and it's understandable 100%. yearn rate and it's understandable 100%. yearn however was not going to bend in our however was not going to bend in our however was not going to bend in our culture and our values and we were not culture and our values and we were not culture and our values and we were not going to start onboarding risky RWA going to start onboarding risky RWA going to start onboarding risky RWA yields and we need to have everything yields and we need to have everything yields and we need to have everything onchain and that's how it is for us we onchain and that's how it is for us we onchain and that's how it is for us we need everything to be like verifiable need everything to be like verifiable need everything to be like verifiable this was also a significant headwind this was also a significant headwind this was also a significant headwind coming into 2022 for us coming into 2022 for us coming into 2022 for us >> maybe taking a step back when we talk >> maybe taking a step back when we talk >> maybe taking a step back when we talk about strategies and vaults and people about strategies and vaults and people about strategies and vaults and people were clamoring for US vaults. were clamoring for US vaults. were clamoring for US vaults
+u0002ssentially, what people are asking for Essentially, what people are asking for Essentially, what people are asking for here is they have a stable coin or or here is they have a stable coin or or here is they have a stable coin or or maybe they have Ethereum onchain
+u0002hey maybe they have Ethereum onchain
+u0002hey maybe they have Ethereum onchain
+u0002hey want to put it to work somehow and they want to put it to work somehow and they want to put it to work somehow and they want to turn that into a yield bearing want to turn that into a yield bearing want to turn that into a yield bearing asset
+u0002nd what urine does is almost asset
+u0002nd what urine does is almost asset
+u0002nd what urine does is almost like a portfolio manager, so to speak, like a portfolio manager, so to speak, like a portfolio manager, so to speak, curates these strategies that involve curates these strategies that involve curates these strategies that involve other DeFi protocols. maybe other DeFi protocols. maybe other DeFi protocols. maybe infrastructure that urine's built, maybe infrastructure that urine's built, maybe infrastructure that urine's built, maybe infrastructure that A or Morpho or other infrastructure that A or Morpho or other infrastructure that A or Morpho or other lending protocols have built and kind of lending protocols have built and kind of lending protocols have built and kind of in a riskmanaged way derive a structured in a riskmanaged way derive a structured in a riskmanaged way derive a structured product on chain maybe you could say product on chain maybe you could say product on chain maybe you could say that gives the end user a yield for that gives the end user a yield for that gives the end user a yield for their stable coin that they started their stable coin that they started their stable coin that they started with
+u0002s that the right way to think with
+u0002s that the right way to think with
+u0002s that the right way to think about it? about it? about it? >> Exactly
+u0002here are a list of >> Exactly
+u0002here are a list of >> Exactly
+u0002here are a list of prerequisites that we need to make sure prerequisites that we need to make sure prerequisites that we need to make sure are checked before we go and build a are checked before we go and build a are checked before we go and build a strategy for something
+u0002ut yes, the strategy for something
+u0002ut yes, the strategy for something
+u0002ut yes, the idea is that we have a multistrategy idea is that we have a multistrategy idea is that we have a multistrategy vault
+u0002ay we have a vault for USDC
+u0002e vault
+u0002ay we have a vault for USDC
+u0002e vault
+u0002ay we have a vault for USDC
+u0002e go and deposit that USDC into a bunch of go and deposit that USDC into a bunch of go and deposit that USDC into a bunch of different lending markets today like different lending markets today like different lending markets today like Fluid and Morpho and A and wherever else Fluid and Morpho and A and wherever else Fluid and Morpho and A and wherever else and we rebalance all of those strategies and we rebalance all of those strategies and we rebalance all of those strategies every hour depending on where the best every hour depending on where the best every hour depending on where the best APY is
+u0002PY is
+u0002PY is. >> Terra collapses 2022
+u0002ut we entered a >> Terra collapses 2022
+u0002ut we entered a >> Terra collapses 2022
+u0002ut we entered a bare market both with respect to token bare market both with respect to token bare market both with respect to token prices and just general value that's prices and just general value that's prices and just general value that's locked in DeFi protocols
+u0002e started to locked in DeFi protocols
+u0002e started to locked in DeFi protocols
+u0002e started to come out of that into late 2023, 2024 come out of that into late 2023, 2024 come out of that into late 2023, 2024 and into this year
+u0002ake me maybe up to and into this year
+u0002ake me maybe up to and into this year
+u0002ake me maybe up to date to the current state of DeFi vaults date to the current state of DeFi vaults date to the current state of DeFi vaults within them
+u0002hen we can start to talk within them
+u0002hen we can start to talk within them
+u0002hen we can start to talk about the events of about a month ago, about the events of about a month ago, about the events of about a month ago, October 10th, there was this mass October 10th, there was this mass October 10th, there was this mass liquidation event across crypto
+u0002nd in liquidation event across crypto
+u0002nd in liquidation event across crypto
+u0002nd in the past week or two, some bodies have the past week or two, some bodies have the past week or two, some bodies have started to float to shore within DeFi on started to float to shore within DeFi on started to float to shore within DeFi on the higher risk end of the spectrum when the higher risk end of the spectrum when the higher risk end of the spectrum when it comes to vault management and it comes to vault management and it comes to vault management and tokenization. tokenization. tokenization. >> Back a couple of years ago, like you >> Back a couple of years ago, like you >> Back a couple of years ago, like you said, 2023, 2024 was like the depths of said, 2023, 2024 was like the depths of said, 2023, 2024 was like the depths of the bare market
+u0002t was very quiet
+u0002 the bare market
+u0002t was very quiet
+u0002 the bare market
+u0002t was very quiet
+u0002 lot of the developers that we were lot of the developers that we were lot of the developers that we were working on in crypto, some of them left, working on in crypto, some of them left, working on in crypto, some of them left, some of them went on to go back to doing some of them went on to go back to doing some of them went on to go back to doing what they were doing or like start other what they were doing or like start other what they were doing or like start other new projects
+u0002 think it was a talent new projects
+u0002 think it was a talent new projects
+u0002 think it was a talent drain
+u0002s I was trying to get people to drain
+u0002s I was trying to get people to drain
+u0002s I was trying to get people to build on top of your vaults, I was build on top of your vaults, I was build on top of your vaults, I was getting the feedback that what you built getting the feedback that what you built getting the feedback that what you built your vault v3 is clunky, hard to use, your vault v3 is clunky, hard to use, your vault v3 is clunky, hard to use, difficult to understand
+u0002ut truth be difficult to understand
+u0002ut truth be difficult to understand
+u0002ut truth be told, it is because everything that we told, it is because everything that we told, it is because everything that we were doing is programmatic and onchain. were doing is programmatic and onchain. were doing is programmatic and onchain
+u0002nd you have to be a pretty good And you have to be a pretty good And you have to be a pretty good developer to bring something to market developer to bring something to market developer to bring something to market that's not going to get hacked
+u0002ome that's not going to get hacked
+u0002ome that's not going to get hacked
+u0002ome folks decided to make an easy button for folks decided to make an easy button for folks decided to make an easy button for vaults
+u0002nd that easy button is turning vaults
+u0002nd that easy button is turning vaults
+u0002nd that easy button is turning your vault into a multi-IG
+u0002nd your vault into a multi-IG
+u0002nd your vault into a multi-IG
+u0002nd basically, you have this product where basically, you have this product where basically, you have this product where all of this capital flows into. and you all of this capital flows into. and you all of this capital flows into. and you have a bunch of different people who can have a bunch of different people who can have a bunch of different people who can decide to build transactions, to send decide to build transactions, to send decide to build transactions, to send your money wherever they want, whenever your money wherever they want, whenever your money wherever they want, whenever they want
+u0002his is banking but worse. they want
+u0002his is banking but worse. they want
+u0002his is banking but worse
+u0002asically, that's our perspective on it Basically, that's our perspective on it Basically, that's our perspective on it because this gives people the because this gives people the because this gives people the opportunity to still be anonymous, but opportunity to still be anonymous, but opportunity to still be anonymous, but to also have full control over your to also have full control over your to also have full control over your funds and for you to have no visibility funds and for you to have no visibility funds and for you to have no visibility into the decisions that are going on or into the decisions that are going on or into the decisions that are going on or or even where your funds are going to be or even where your funds are going to be or even where your funds are going to be going to if they're going to deposit going to if they're going to deposit going to if they're going to deposit those into a black box like a those into a black box like a those into a black box like a centralized exchange or something like centralized exchange or something like centralized exchange or something like that
+u0002here's a lot of structural issues that
+u0002here's a lot of structural issues that
+u0002here's a lot of structural issues with those multi-IGFI projects
+u0002ven with those multi-IGFI projects
+u0002ven with those multi-IGFI projects
+u0002ven more so, they were able to align more so, they were able to align more so, they were able to align stakeholders stakeholders stakeholders better than we were originally when took better than we were originally when took better than we were originally when took off
+u0002verybody knows about Wifey Token. off
+u0002verybody knows about Wifey Token. off
+u0002verybody knows about Wifey Token
+u0002hat's Andre's baby
+u0002R was the first That's Andre's baby
+u0002R was the first That's Andre's baby
+u0002R was the first fair launch project
+u0002hat that meant was fair launch project
+u0002hat that meant was fair launch project
+u0002hat that meant was people could farm Wifey token
+u0002 was people could farm Wifey token
+u0002 was people could farm Wifey token
+u0002 was working on this project
+u0002ow it's called working on this project
+u0002ow it's called working on this project
+u0002ow it's called Katana Chain
+u0002olygon brought it to Katana Chain
+u0002olygon brought it to Katana Chain
+u0002olygon brought it to market along with us
+u0002ast year in 2024, market along with us
+u0002ast year in 2024, market along with us
+u0002ast year in 2024, I was going around and talking to a lot I was going around and talking to a lot I was going around and talking to a lot of like VCs and liquid funds about of like VCs and liquid funds about of like VCs and liquid funds about coming on board Katana with us
+u0002nd it coming on board Katana with us
+u0002nd it coming on board Katana with us
+u0002nd it was like a really good experience for me was like a really good experience for me was like a really good experience for me to jog my memory and just see how many to jog my memory and just see how many to jog my memory and just see how many people were involved in year way back people were involved in year way back people were involved in year way back then
+u0002hese VCs, a lot of them still say then
+u0002hese VCs, a lot of them still say then
+u0002hese VCs, a lot of them still say sale
+u0002e got into crypto because of sale
+u0002e got into crypto because of sale
+u0002e got into crypto because of year
+u0002rine was one of the projects that year
+u0002rine was one of the projects that year
+u0002rine was one of the projects that we invested our time and focus in way we invested our time and focus in way we invested our time and focus in way back then
+u0002hat meant that they had back then
+u0002hat meant that they had back then
+u0002hat meant that they had Wifey token
+u0002hey had stake in our Wifey token
+u0002hey had stake in our Wifey token
+u0002hey had stake in our success
+u0002nd when the bare market came, success
+u0002nd when the bare market came, success
+u0002nd when the bare market came, token prices went down, they dumped token prices went down, they dumped token prices went down, they dumped their bags and their bags and their bags and does not have a token print
+u0002e have a does not have a token print
+u0002e have a does not have a token print
+u0002e have a finite amount of tokens
+u0002hose are the finite amount of tokens
+u0002hose are the finite amount of tokens
+u0002hose are the incentives that these new multi-IG incentives that these new multi-IG incentives that these new multi-IG projects started to bring to the table projects started to bring to the table projects started to bring to the table and started doing raises and now you and started doing raises and now you and started doing raises and now you have these liquid funds and VCs more have these liquid funds and VCs more have these liquid funds and VCs more aligned with the success of those aligned with the success of those aligned with the success of those products compared to using urine
+u0002his products compared to using urine
+u0002his products compared to using urine
+u0002his is headwind number three that started to is headwind number three that started to is headwind number three that started to hit us and we're still experiencing that hit us and we're still experiencing that hit us and we're still experiencing that right now
+u0002t's hard to think about this right now
+u0002t's hard to think about this right now
+u0002t's hard to think about this problem because is someone going to come problem because is someone going to come problem because is someone going to come to market with a new competitor every to market with a new competitor every to market with a new competitor every single time and reload the incentives? single time and reload the incentives? single time and reload the incentives
+u0002he mercenary money is just going to The mercenary money is just going to The mercenary money is just going to float into that new project
+u0002s this float into that new project
+u0002s this float into that new project
+u0002s this going to be the cycle forever? going to be the cycle forever? going to be the cycle forever? >> There's kind of this finite amount of >> There's kind of this finite amount of >> There's kind of this finite amount of capital within DeFi
+u0002f my option as an capital within DeFi
+u0002f my option as an capital within DeFi
+u0002f my option as an allocator is okay, I can get 8% maybe allocator is okay, I can get 8% maybe allocator is okay, I can get 8% maybe from this urine vault with no token from this urine vault with no token from this urine vault with no token rewards on top of it or I can get 12% rewards on top of it or I can get 12% rewards on top of it or I can get 12% from these riskier strategies on this from these riskier strategies on this from these riskier strategies on this newer vault and on top of that maybe an newer vault and on top of that maybe an newer vault and on top of that maybe an additional 5 to 10% of APY from this additional 5 to 10% of APY from this additional 5 to 10% of APY from this token that they're a newer protocol
+u0002o token that they're a newer protocol
+u0002o token that they're a newer protocol
+u0002o they have a newer token and they're they have a newer token and they're they have a newer token and they're giving it out to people as sort of giving it out to people as sort of giving it out to people as sort of incentives
+u0002hat's not, you know, incentives
+u0002hat's not, you know, incentives
+u0002hat's not, you know, necessarily a web 3 native idea
+u0002very necessarily a web 3 native idea
+u0002very necessarily a web 3 native idea
+u0002very time I open my Lyft app, there's some time I open my Lyft app, there's some time I open my Lyft app, there's some new reason why they're going to pay me new reason why they're going to pay me new reason why they're going to pay me $5 to use Lyft instead of go to Uber. $5 to use Lyft instead of go to Uber. $5 to use Lyft instead of go to Uber
+u0002ut it's just more invasive
+u0002t feels But it's just more invasive
+u0002t feels But it's just more invasive
+u0002t feels like within crypto
+u0002hat's sort of what like within crypto
+u0002hat's sort of what like within crypto
+u0002hat's sort of what is happening here
+u0002nd you have these is happening here
+u0002nd you have these is happening here
+u0002nd you have these things that are somewhere between what things that are somewhere between what things that are somewhere between what you say sort of opaque banking you say sort of opaque banking you say sort of opaque banking opportunities and unregulated hedge opportunities and unregulated hedge opportunities and unregulated hedge funds really where people were funds really where people were funds really where people were depositing their stable coins into sort depositing their stable coins into sort depositing their stable coins into sort of a blackbox for a group of three of a blackbox for a group of three of a blackbox for a group of three people that were claiming to be a DeFi people that were claiming to be a DeFi people that were claiming to be a DeFi protocol to just go and loop into risky protocol to just go and loop into risky protocol to just go and loop into risky strategies
+u0002nd the way those strategies strategies
+u0002nd the way those strategies strategies
+u0002nd the way those strategies would be represented on the market is in would be represented on the market is in would be represented on the market is in a token
+u0002o, let's use one of these a token
+u0002o, let's use one of these a token
+u0002o, let's use one of these tokens that has recently blown up in the tokens that has recently blown up in the tokens that has recently blown up in the last couple weeks, XUSD
+u0002nd one of the last couple weeks, XUSD
+u0002nd one of the last couple weeks, XUSD
+u0002nd one of the problems with a lot of these is that the problems with a lot of these is that the problems with a lot of these is that the value of them gets pegged to a dollar. value of them gets pegged to a dollar. value of them gets pegged to a dollar
+u0002nd this sort of rebase the yield on top And this sort of rebase the yield on top And this sort of rebase the yield on top of it
+u0002o, if it's a 20% APY strategy, of it
+u0002o, if it's a 20% APY strategy, of it
+u0002o, if it's a 20% APY strategy, it'll start at a dollar and the value of it'll start at a dollar and the value of it'll start at a dollar and the value of that token will grow as the yield that token will grow as the yield that token will grow as the yield accrews to it
+u0002ven if these protocols accrews to it
+u0002ven if these protocols accrews to it
+u0002ven if these protocols aren't calling their product a stable aren't calling their product a stable aren't calling their product a stable coin, so to speak, just by including the coin, so to speak, just by including the coin, so to speak, just by including the letters USD in the name or pegging it to letters USD in the name or pegging it to letters USD in the name or pegging it to a dollar, I think sometimes it gives a dollar, I think sometimes it gives a dollar, I think sometimes it gives users probably a false sense of security users probably a false sense of security users probably a false sense of security that what they're putting their money that what they're putting their money that what they're putting their money into is not volatile or not risky
+u0002nd into is not volatile or not risky
+u0002nd into is not volatile or not risky
+u0002nd really under the hood, there are risky really under the hood, there are risky really under the hood, there are risky things happening
+u0002hat we saw with XUSD, things happening
+u0002hat we saw with XUSD, things happening
+u0002hat we saw with XUSD, I guess you'll have better info on this I guess you'll have better info on this I guess you'll have better info on this than me, is that the value of the token than me, is that the value of the token than me, is that the value of the token completely collapsed once people completely collapsed once people completely collapsed once people realized that the curators or the realized that the curators or the realized that the curators or the managers of this protocol had lost a lot managers of this protocol had lost a lot managers of this protocol had lost a lot of the money
+u0002o, what kind of happened of the money
+u0002o, what kind of happened of the money
+u0002o, what kind of happened there? there? there? >> This all started for us back in May. >> This all started for us back in May. >> This all started for us back in May
+u0002here were a bunch of people shilling There were a bunch of people shilling There were a bunch of people shilling this new project
+u0002e took a look at it. this new project
+u0002e took a look at it. this new project
+u0002e took a look at it
+u0002e had actually talked to them We had actually talked to them We had actually talked to them previously the year before about doing previously the year before about doing previously the year before about doing some real world asset strategies with some real world asset strategies with some real world asset strategies with them and it didn't end up working out. them and it didn't end up working out. them and it didn't end up working out
+u0002nd then we saw that they had this vault And then we saw that they had this vault And then we saw that they had this vault and we found their DBank and we looked and we found their DBank and we looked and we found their DBank and we looked at the TVL that it had versus the TVL at the TVL that it had versus the TVL at the TVL that it had versus the TVL that they were displaying on their site. that they were displaying on their site. that they were displaying on their site
+u0002e saw that it did not match up
+u0002e We saw that it did not match up
+u0002e We saw that it did not match up
+u0002e asked them why and they said at the time asked them why and they said at the time asked them why and they said at the time that they were depositing into that they were depositing into that they were depositing into hyperlquid some sort of carry trade hyperlquid some sort of carry trade hyperlquid some sort of carry trade strategy
+u0002t that point we would strategy
+u0002t that point we would strategy
+u0002t that point we would definitely not touch it
+u0002t is a black definitely not touch it
+u0002t is a black definitely not touch it
+u0002t is a black box
+u0002nd we said to them, "This is super box
+u0002nd we said to them, "This is super box
+u0002nd we said to them, "This is super risky
+u0002ou can't just have people risky
+u0002ou can't just have people risky
+u0002ou can't just have people trusting that there is backing to this trusting that there is backing to this trusting that there is backing to this when you cannot prove it at all." They when you cannot prove it at all." They when you cannot prove it at all." They ended up copying and pasting those ended up copying and pasting those ended up copying and pasting those private messages and posting them in private messages and posting them in private messages and posting them in their Discord and dunking on me over and their Discord and dunking on me over and their Discord and dunking on me over and over back in May
+u0002 did not appreciate over back in May
+u0002 did not appreciate over back in May
+u0002 did not appreciate that. that. that. >> But you're not better
+u0002et the record >> But you're not better
+u0002et the record >> But you're not better
+u0002et the record show that you're not better about it. show that you're not better about it. show that you're not better about it. >> I kind of forgot about it until >> I kind of forgot about it until >> I kind of forgot about it until a few months ago when they started to a few months ago when they started to a few months ago when they started to get even more deposits
+u0002 realized that get even more deposits
+u0002 realized that get even more deposits
+u0002 realized that they had tapped into the Yields and More they had tapped into the Yields and More they had tapped into the Yields and More Discord, which is like a farming group
+u0002iscord, which is like a farming group
+u0002iscord, which is like a farming group
+u0002t's been around for a number of years
+u0002t's been around for a number of years
+u0002t's been around for a number of years
+u0002fter all of those liquidations happened After all of those liquidations happened After all of those liquidations happened on 1010, on 1010, on 1010, Schlag and the rest of the yarn security Schlag and the rest of the yarn security Schlag and the rest of the yarn security team found on chain that a lot of these team found on chain that a lot of these team found on chain that a lot of these projects and funds had some losses
+u0002o projects and funds had some losses
+u0002o projects and funds had some losses
+u0002o us, there was no way that everyone from us, there was no way that everyone from us, there was no way that everyone from stream finance got out of those stream finance got out of those stream finance got out of those strategies without taking losses
+u0002nd we strategies without taking losses
+u0002nd we strategies without taking losses
+u0002nd we knew that there was a hole there
+u0002here knew that there was a hole there
+u0002here knew that there was a hole there
+u0002here just had to be
+u0002chlag started digging just had to be
+u0002chlag started digging just had to be
+u0002chlag started digging more into the onchain data, found all of more into the onchain data, found all of more into the onchain data, found all of this daisy chain of looping, recursive this daisy chain of looping, recursive this daisy chain of looping, recursive lending and curators offering up lending and curators offering up lending and curators offering up liquidity from user deposits in order to liquidity from user deposits in order to liquidity from user deposits in order to like fuel all of this
+u0002e found that like fuel all of this
+u0002e found that like fuel all of this
+u0002e found that even though they had grown from like even though they had grown from like even though they had grown from like $160 million of deposits into 500 $160 million of deposits into 500 $160 million of deposits into 500 million, that there were really no net million, that there were really no net million, that there were really no net new deposits coming in
+u0002his was just a new deposits coming in
+u0002his was just a new deposits coming in
+u0002his was just a scheme going on on the back end
+u0002nd scheme going on on the back end
+u0002nd scheme going on on the back end
+u0002nd when we asked them about it, there was when we asked them about it, there was when we asked them about it, there was no proof of anything
+u0002ike nothing that no proof of anything
+u0002ike nothing that no proof of anything
+u0002ike nothing that they were doing was verifiable
+u0002nd it's they were doing was verifiable
+u0002nd it's they were doing was verifiable
+u0002nd it's just a huge red flag
+u0002ruth be told, if just a huge red flag
+u0002ruth be told, if just a huge red flag
+u0002ruth be told, if this all did not happen on 1010, if this this all did not happen on 1010, if this this all did not happen on 1010, if this ball didn't get started rolling, they ball didn't get started rolling, they ball didn't get started rolling, they would still be looping more right now. would still be looping more right now. would still be looping more right now
+u0002hey would still be accepting user They would still be accepting user They would still be accepting user deposits right now, knowing that they deposits right now, knowing that they deposits right now, knowing that they had a hole
+u0002hey had to have known on had a hole
+u0002hey had to have known on had a hole
+u0002hey had to have known on the back end. and it would have just the back end. and it would have just the back end. and it would have just kept on getting bigger and bigger and kept on getting bigger and bigger and kept on getting bigger and bigger and bigger
+u0002'm glad that things shook out bigger
+u0002'm glad that things shook out bigger
+u0002'm glad that things shook out the way they did
+u0002t was not an easy few the way they did
+u0002t was not an easy few the way they did
+u0002t was not an easy few weeks to deal with all of this stuff, weeks to deal with all of this stuff, weeks to deal with all of this stuff, but here we are. but here we are. but here we are. >> And what ends up happening is that you >> And what ends up happening is that you >> And what ends up happening is that you have this tokenized strategy XUSD that have this tokenized strategy XUSD that have this tokenized strategy XUSD that gets involved in other vaults
+u0002USD gets involved in other vaults
+u0002USD gets involved in other vaults
+u0002USD itself is sort of a tokenized vault, so itself is sort of a tokenized vault, so itself is sort of a tokenized vault, so to speak, that's investing in DeFi to speak, that's investing in DeFi to speak, that's investing in DeFi protocols to get the yield
+u0002ut then protocols to get the yield
+u0002ut then protocols to get the yield
+u0002ut then that representation of DeFi yield gets that representation of DeFi yield gets that representation of DeFi yield gets placed into another vault, a sort of placed into another vault, a sort of placed into another vault, a sort of vault of vaults
+u0002o those vaults then vault of vaults
+u0002o those vaults then vault of vaults
+u0002o those vaults then lose value because they have invested in lose value because they have invested in lose value because they have invested in XUSD which has deped and lost its value
+u0002USD which has deped and lost its value
+u0002USD which has deped and lost its value
+u0002nd so we've talked about curators a And so we've talked about curators a And so we've talked about curators a little bit here
+u0002aybe if you could little bit here
+u0002aybe if you could little bit here
+u0002aybe if you could unpack that term
+u0002hat's the role of a unpack that term
+u0002hat's the role of a unpack that term
+u0002hat's the role of a risk curator in DeFi
+u0002ou have the risk curator in DeFi
+u0002ou have the risk curator in DeFi
+u0002ou have the people depositing on one side, you have people depositing on one side, you have people depositing on one side, you have the DeFi protocols on the other side the DeFi protocols on the other side the DeFi protocols on the other side where the actual lending and borrowing where the actual lending and borrowing where the actual lending and borrowing happens
+u0002nd then in the middle there's happens
+u0002nd then in the middle there's happens
+u0002nd then in the middle there's these actors that are putting together these actors that are putting together these actors that are putting together these vaults
+u0002hey also live directly on these vaults
+u0002hey also live directly on these vaults
+u0002hey also live directly on some of these protocols like Oiler and some of these protocols like Oiler and some of these protocols like Oiler and Morpho and set the parameters of you Morpho and set the parameters of you Morpho and set the parameters of you want to borrow against this asset
+u0002e want to borrow against this asset
+u0002e want to borrow against this asset
+u0002e deem this asset to be risk averse enough deem this asset to be risk averse enough deem this asset to be risk averse enough that you can borrow at a 95% LTV instead that you can borrow at a 95% LTV instead that you can borrow at a 95% LTV instead of an 85% LTV
+u0002nd so what's the role of an 85% LTV
+u0002nd so what's the role of an 85% LTV
+u0002nd so what's the role and maybe the fault of the risk curators and maybe the fault of the risk curators and maybe the fault of the risk curators in some of these scenarios? in some of these scenarios? in some of these scenarios? >> There are a lot of curators these days >> There are a lot of curators these days >> There are a lot of curators these days and there are a lot of vault projects and there are a lot of vault projects and there are a lot of vault projects these days
+u0002 don't really know why these days
+u0002 don't really know why these days
+u0002 don't really know why because none of us are making any money. because none of us are making any money. because none of us are making any money
+u0002 just want that to be clear
+u0002his is I just want that to be clear
+u0002his is I just want that to be clear
+u0002his is not a great business
+u0002ou have to have not a great business
+u0002ou have to have not a great business
+u0002ou have to have billions of dollars in deposits to billions of dollars in deposits to billions of dollars in deposits to generate the amount of revenue A is generate the amount of revenue A is generate the amount of revenue A is making or any of these other really big making or any of these other really big making or any of these other really big projects right now
+u0002o being a curator projects right now
+u0002o being a curator projects right now
+u0002o being a curator is not a terribly good business
+u0002nd is not a terribly good business
+u0002nd is not a terribly good business
+u0002nd right now for a lot of stuff that we do, right now for a lot of stuff that we do, right now for a lot of stuff that we do, we even have fees turned off because it we even have fees turned off because it we even have fees turned off because it just doesn't matter
+u0002e want to have just doesn't matter
+u0002e want to have just doesn't matter
+u0002e want to have competitive rates and the profits that competitive rates and the profits that competitive rates and the profits that we bring in the door are just really we bring in the door are just really we bring in the door are just really small
+u0002t's our job as a curator to make small
+u0002t's our job as a curator to make small
+u0002t's our job as a curator to make sure that we're using sound collateral sure that we're using sound collateral sure that we're using sound collateral that matches the risk that people assume that matches the risk that people assume that matches the risk that people assume is going on in that vault
+u0002e also need is going on in that vault
+u0002e also need is going on in that vault
+u0002e also need to make sure that we have good to make sure that we have good to make sure that we have good automation that things are being automation that things are being automation that things are being replenished when they need to
+u0002f replenished when they need to
+u0002f replenished when they need to
+u0002f there's borrowers who have a big there's borrowers who have a big there's borrowers who have a big appetite, we need to make sure that appetite, we need to make sure that appetite, we need to make sure that there's liquidity in that vault for them there's liquidity in that vault for them there's liquidity in that vault for them to borrow
+u0002e need to understand the to borrow
+u0002e need to understand the to borrow
+u0002e need to understand the interest rate curves and we need to make interest rate curves and we need to make interest rate curves and we need to make sure that we're being reactive to like sure that we're being reactive to like sure that we're being reactive to like everything in the market
+u0002o there is a everything in the market
+u0002o there is a everything in the market
+u0002o there is a lot of work that has to be done
+u0002e also lot of work that has to be done
+u0002e also lot of work that has to be done
+u0002e also have to meet the needs of demand for have to meet the needs of demand for have to meet the needs of demand for people offering up new collaterals or people offering up new collaterals or people offering up new collaterals or wanting to borrow in the first place
+u0002e wanting to borrow in the first place
+u0002e wanting to borrow in the first place
+u0002e need to make sure that there's enough need to make sure that there's enough need to make sure that there's enough deposits
+u0002hat urine is doing right now deposits
+u0002hat urine is doing right now deposits
+u0002hat urine is doing right now is we have this parent level vault and is we have this parent level vault and is we have this parent level vault and this goes into deposits into all of this goes into deposits into all of this goes into deposits into all of these different lending markets
+u0002o even these different lending markets
+u0002o even these different lending markets
+u0002o even as a curator, we can pull money from as a curator, we can pull money from as a curator, we can pull money from like YV USDC and throw it into something like YV USDC and throw it into something like YV USDC and throw it into something that we're curating on Morpho if it that we're curating on Morpho if it that we're curating on Morpho if it needs liquidity
+u0002e have like a needs liquidity
+u0002e have like a needs liquidity
+u0002e have like a multi-tered business where not every multi-tered business where not every multi-tered business where not every curator has that open to them right now. curator has that open to them right now. curator has that open to them right now
+u0002e want to discourage degenerate We want to discourage degenerate We want to discourage degenerate recursive looping
+u0002e want to make sure recursive looping
+u0002e want to make sure recursive looping
+u0002e want to make sure that everything that we're doing is that everything that we're doing is that everything that we're doing is really safe to us
+u0002eputation is really safe to us
+u0002eputation is really safe to us
+u0002eputation is everything and we're completely blind to everything and we're completely blind to everything and we're completely blind to accepting short-term incentives
+u0002e accepting short-term incentives
+u0002e accepting short-term incentives
+u0002e don't do any side deals or anything like don't do any side deals or anything like don't do any side deals or anything like that
+u0002henever people ask us to like that
+u0002henever people ask us to like that
+u0002henever people ask us to like build products that just farm points, we build products that just farm points, we build products that just farm points, we usually say no because we know that the usually say no because we know that the usually say no because we know that the amount of work that goes into building amount of work that goes into building amount of work that goes into building and supporting strategies is probably and supporting strategies is probably and supporting strategies is probably not going to be worth the effort in fees not going to be worth the effort in fees not going to be worth the effort in fees or deposits
+u0002o, there's a lot of stuff or deposits
+u0002o, there's a lot of stuff or deposits
+u0002o, there's a lot of stuff that we say no to
+u0002nd I think it just that we say no to
+u0002nd I think it just that we say no to
+u0002nd I think it just makes our ability to like make it makes our ability to like make it makes our ability to like make it through tough economic conditions that through tough economic conditions that through tough economic conditions that much more strong
+u0002urvival is much more strong
+u0002urvival is much more strong
+u0002urvival is everything
+u0002t's pretty clear to us now everything
+u0002t's pretty clear to us now everything
+u0002t's pretty clear to us now that some curators are going to take big that some curators are going to take big that some curators are going to take big risks and they're going to damage their risks and they're going to damage their risks and they're going to damage their reputation and we'll be here to survive reputation and we'll be here to survive reputation and we'll be here to survive and to be strong and safe and get those and to be strong and safe and get those and to be strong and safe and get those deposits when people eventually come deposits when people eventually come deposits when people eventually come back into DeFi because they will. back into DeFi because they will. back into DeFi because they will. >> In the long run, usually good risk >> In the long run, usually good risk >> In the long run, usually good risk management pays off
+u0002t's not just in management pays off
+u0002t's not just in management pays off
+u0002t's not just in DeFi where people blow themselves DeFi where people blow themselves DeFi where people blow themselves chasing higher returns everywhere in chasing higher returns everywhere in chasing higher returns everywhere in finance
+u0002witching gears a little bit, finance
+u0002witching gears a little bit, finance
+u0002witching gears a little bit, curious as someone who's building in curious as someone who's building in curious as someone who's building in DeFi from your perspective, what's sort DeFi from your perspective, what's sort DeFi from your perspective, what's sort of the state of onchain cyber security of the state of onchain cyber security of the state of onchain cyber security right now
+u0002ecently, Balancer, which is right now
+u0002ecently, Balancer, which is right now
+u0002ecently, Balancer, which is sort of a decentralized swapping sort of a decentralized swapping sort of a decentralized swapping exchange similar to Uniswap, was just exchange similar to Uniswap, was just exchange similar to Uniswap, was just hacked for over $und00 million
+u0002MX hacked for over $und00 million
+u0002MX hacked for over $und00 million
+u0002MX earlier this year, a decentralized earlier this year, a decentralized earlier this year, a decentralized perpetual protocol, similar to perpetual protocol, similar to perpetual protocol, similar to Hyperlquid
+u0002oth have been around since Hyperlquid
+u0002oth have been around since Hyperlquid
+u0002oth have been around since 2020, probably before, I think, was also 2020, probably before, I think, was also 2020, probably before, I think, was also hacked for a significant amount
+u0002 think hacked for a significant amount
+u0002 think hacked for a significant amount
+u0002 think those two especially caught people off those two especially caught people off those two especially caught people off guard of no one's safe
+u0002here's this guard of no one's safe
+u0002here's this guard of no one's safe
+u0002here's this idea in cryptonness of lendiness where, idea in cryptonness of lendiness where, idea in cryptonness of lendiness where, okay, something's been around for four, okay, something's been around for four, okay, something's been around for four, five, six years, I feel safe putting my five, six years, I feel safe putting my five, six years, I feel safe putting my money in this protocol. and Balancer and money in this protocol. and Balancer and money in this protocol. and Balancer and GMX broke that model a little bit
+u0002 lot GMX broke that model a little bit
+u0002 lot GMX broke that model a little bit
+u0002 lot of these protocols, they tout their of these protocols, they tout their of these protocols, they tout their audits that they've done
+u0002hey tout the audits that they've done
+u0002hey tout the audits that they've done
+u0002hey tout the security partners that they're working security partners that they're working security partners that they're working with
+u0002ur code is safe
+u0002ut are those with
+u0002ur code is safe
+u0002ut are those with
+u0002ur code is safe
+u0002ut are those tools enough
+u0002hat else needs to exist tools enough
+u0002hat else needs to exist tools enough
+u0002hat else needs to exist to stop another balancer from happening? to stop another balancer from happening? to stop another balancer from happening? >> I don't want to spook people, but the >> I don't want to spook people, but the >> I don't want to spook people, but the reality is lowrisk DeFi is not here yet. reality is lowrisk DeFi is not here yet. reality is lowrisk DeFi is not here yet
+u0002owrisk DeFi and Vitalic's vision of Lowrisk DeFi and Vitalic's vision of Lowrisk DeFi and Vitalic's vision of that is great
+u0002 have no doubt that time that is great
+u0002 have no doubt that time that is great
+u0002 have no doubt that time in the market will get us there
+u0002s the in the market will get us there
+u0002s the in the market will get us there
+u0002s the five years of DeFi's whole lifetime five years of DeFi's whole lifetime five years of DeFi's whole lifetime enough for that to happen so far? enough for that to happen so far? enough for that to happen so far
+u0002pparently, it's not
+u0002he best that we Apparently, it's not
+u0002he best that we Apparently, it's not
+u0002he best that we can do today is verifiable DeFi
+u0002eing can do today is verifiable DeFi
+u0002eing can do today is verifiable DeFi
+u0002eing able to see everything that's going on able to see everything that's going on able to see everything that's going on on chain and verify it to know that it's on chain and verify it to know that it's on chain and verify it to know that it's real
+u0002o, one of the things I did with real
+u0002o, one of the things I did with real
+u0002o, one of the things I did with also is I started an audit company
+u0002t's also is I started an audit company
+u0002t's also is I started an audit company
+u0002t's called Electase right now
+u0002ormerly Y called Electase right now
+u0002ormerly Y called Electase right now
+u0002ormerly Y Audit and Y Academy
+u0002e're actually Audit and Y Academy
+u0002e're actually Audit and Y Academy
+u0002e're actually changing the name back to Y Audit pretty changing the name back to Y Audit pretty changing the name back to Y Audit pretty soon
+u0002ut from this experience, I can soon
+u0002ut from this experience, I can soon
+u0002ut from this experience, I can say that code quality has definitely say that code quality has definitely say that code quality has definitely gone up
+u0002o question
+u0002he amount of gone up
+u0002o question
+u0002he amount of gone up
+u0002o question
+u0002he amount of safety that teams are taking into safety that teams are taking into safety that teams are taking into account right now is not slowing down
+u0002 account right now is not slowing down
+u0002 account right now is not slowing down
+u0002 think we've done 17 engagements with think we've done 17 engagements with think we've done 17 engagements with Oiler
+u0002hey're not taking their foot off Oiler
+u0002hey're not taking their foot off Oiler
+u0002hey're not taking their foot off the gas for security
+u0002hey're always the gas for security
+u0002hey're always the gas for security
+u0002hey're always going to be auditing their code bases. going to be auditing their code bases. going to be auditing their code bases
+u0002his is a time in the market thing for This is a time in the market thing for This is a time in the market thing for code that is immutable where you don't code that is immutable where you don't code that is immutable where you don't really know where the dangers could be. really know where the dangers could be. really know where the dangers could be
+u0002eople need to just build their code as People need to just build their code as People need to just build their code as simply as possible
+u0002eave out tons of simply as possible
+u0002eave out tons of simply as possible
+u0002eave out tons of complexity where they can and that's complexity where they can and that's complexity where they can and that's going to help reduce the amount of going to help reduce the amount of going to help reduce the amount of vulnerabilities
+u0002ut also security is a vulnerabilities
+u0002ut also security is a vulnerabilities
+u0002ut also security is a journey
+u0002ust because you launch your journey
+u0002ust because you launch your journey
+u0002ust because you launch your codebase does not mean that there are no codebase does not mean that there are no codebase does not mean that there are no vulnerabilities in it
+u0002ust because vulnerabilities in it
+u0002ust because vulnerabilities in it
+u0002ust because you've been in the market for a year you've been in the market for a year you've been in the market for a year doesn't mean that there's anything wrong doesn't mean that there's anything wrong doesn't mean that there's anything wrong with it
+u0002o contests
+u0002ave big with it
+u0002o contests
+u0002ave big with it
+u0002o contests
+u0002ave big meaningful bug bounties
+u0002 has paid out meaningful bug bounties
+u0002 has paid out meaningful bug bounties
+u0002 has paid out bug bounties before for stuff that bug bounties before for stuff that bug bounties before for stuff that people have caught
+u0002t's worked out people have caught
+u0002t's worked out people have caught
+u0002t's worked out well
+u0002articipating in bug bounties well
+u0002articipating in bug bounties well
+u0002articipating in bug bounties works
+u0002o do it
+u0002 think the combination works
+u0002o do it
+u0002 think the combination works
+u0002o do it
+u0002 think the combination of all these things and like a layered of all these things and like a layered of all these things and like a layered security approach along with time in the security approach along with time in the security approach along with time in the market will get us to safety that we market will get us to safety that we market will get us to safety that we need for low-risk DeFi, but it's going need for low-risk DeFi, but it's going need for low-risk DeFi, but it's going to take constant improvement for a long to take constant improvement for a long to take constant improvement for a long time. time. time. >> So, a sort of Swiss cheese approach, I >> So, a sort of Swiss cheese approach, I >> So, a sort of Swiss cheese approach, I guess, multiple layers that cover up the guess, multiple layers that cover up the guess, multiple layers that cover up the holes
+u0002hat are the implications of all holes
+u0002hat are the implications of all holes
+u0002hat are the implications of all this on not only the traditional finance this on not only the traditional finance this on not only the traditional finance world's appetite for investing in world's appetite for investing in world's appetite for investing in exploring DeFi
+u0002ut just kind of a exploring DeFi
+u0002ut just kind of a exploring DeFi
+u0002ut just kind of a everyday non-crypto native person that everyday non-crypto native person that everyday non-crypto native person that says, "Well, I could get 3 and a half 4% says, "Well, I could get 3 and a half 4% says, "Well, I could get 3 and a half 4% right now from my savings account or I right now from my savings account or I right now from my savings account or I could get maybe 7 8 10% of safe quote could get maybe 7 8 10% of safe quote could get maybe 7 8 10% of safe quote unquote cryptonative DeFi yield." But unquote cryptonative DeFi yield." But unquote cryptonative DeFi yield." But given this risk of unregulated blackbox given this risk of unregulated blackbox given this risk of unregulated blackbox hedge funds out there acting as tokens, hedge funds out there acting as tokens, hedge funds out there acting as tokens, given this risk of a hack to the given this risk of a hack to the given this risk of a hack to the protocol, is that increase from the protocol, is that increase from the protocol, is that increase from the risk-free government treasury rate risk-free government treasury rate risk-free government treasury rate enough to make DeFi interesting to enough to make DeFi interesting to enough to make DeFi interesting to people outside of crypto? people outside of crypto? people outside of crypto? >> I was in New York City last week to meet >> I was in New York City last week to meet >> I was in New York City last week to meet with a bunch of traditional finance with a bunch of traditional finance with a bunch of traditional finance companies and to be very honest, they're companies and to be very honest, they're companies and to be very honest, they're spooked about it. the difference between spooked about it. the difference between spooked about it. the difference between three and a half% and 5% is not enough three and a half% and 5% is not enough three and a half% and 5% is not enough for them to come into DeFi
+u0002t's going for them to come into DeFi
+u0002t's going for them to come into DeFi
+u0002t's going to take some time to like build back the to take some time to like build back the to take some time to like build back the reputation and make sure that things are reputation and make sure that things are reputation and make sure that things are safe again. [clears throat] I was very safe again. [clears throat] I was very safe again. [clears throat] I was very surprised that some of the people who I surprised that some of the people who I surprised that some of the people who I met with are new to crypto
+u0002hey're met with are new to crypto
+u0002hey're met with are new to crypto
+u0002hey're representing their companies push for representing their companies push for representing their companies push for DeFi products
+u0002hey don't understand the DeFi products
+u0002hey don't understand the DeFi products
+u0002hey don't understand the difference between multi-igfi and difference between multi-igfi and difference between multi-igfi and programmatic vaults
+u0002t's something that programmatic vaults
+u0002t's something that programmatic vaults
+u0002t's something that I've had to explain to them
+u0002'm totally I've had to explain to them
+u0002'm totally I've had to explain to them
+u0002'm totally happy to do it
+u0002 want to do it more, happy to do it
+u0002 want to do it more, happy to do it
+u0002 want to do it more, but I need to convince them that there but I need to convince them that there but I need to convince them that there is a big difference
+u0002nd just because is a big difference
+u0002nd just because is a big difference
+u0002nd just because you can manipulate your vault share you can manipulate your vault share you can manipulate your vault share price, that is not a good thing
+u0002n many price, that is not a good thing
+u0002n many price, that is not a good thing
+u0002n many cases, having full control over that cases, having full control over that cases, having full control over that also brings in additional risk into the also brings in additional risk into the also brings in additional risk into the equation
+u0002t's really good that talent equation
+u0002t's really good that talent equation
+u0002t's really good that talent and attention is coming into crypto from and attention is coming into crypto from and attention is coming into crypto from that side of the fence
+u0002 don't think that side of the fence
+u0002 don't think that side of the fence
+u0002 don't think that's going to stop, but they're very that's going to stop, but they're very that's going to stop, but they're very hesitant to use true verifiable DeFi for hesitant to use true verifiable DeFi for hesitant to use true verifiable DeFi for sure. sure. sure. >> Do you think there's any inverse >> Do you think there's any inverse >> Do you think there's any inverse correlation of demand for DeFi products correlation of demand for DeFi products correlation of demand for DeFi products as the government treasury rate comes as the government treasury rate comes as the government treasury rate comes down
+u0002ates are starting to come down. down
+u0002ates are starting to come down. down
+u0002ates are starting to come down
+u0002ou mentioned that Terra Luna collapse You mentioned that Terra Luna collapse You mentioned that Terra Luna collapse happen to line up with rates rocketing happen to line up with rates rocketing happen to line up with rates rocketing up to 5%
+u0002s that bullish for DeFi or up to 5%
+u0002s that bullish for DeFi or up to 5%
+u0002s that bullish for DeFi or will yields come down in DeFi the same will yields come down in DeFi the same will yields come down in DeFi the same way that they're going to come down way that they're going to come down way that they're going to come down outside of crypto? outside of crypto? outside of crypto? >> If the risk-free rate comes down, it is >> If the risk-free rate comes down, it is >> If the risk-free rate comes down, it is unquestionably bullish for DeFi. unquestionably bullish for DeFi. unquestionably bullish for DeFi
+u0002eposits will come back in the door
+u0002f Deposits will come back in the door
+u0002f Deposits will come back in the door
+u0002f the risk-free rate is 1 or 2% and we're the risk-free rate is 1 or 2% and we're the risk-free rate is 1 or 2% and we're doing six, seven, or 8%, they will come doing six, seven, or 8%, they will come doing six, seven, or 8%, they will come into DeFi
+u0002 have no doubt in my mind into DeFi
+u0002 have no doubt in my mind into DeFi
+u0002 have no doubt in my mind about that. about that. about that. >> Shout out Jerome Powell if you're >> Shout out Jerome Powell if you're >> Shout out Jerome Powell if you're listening
+u0002ow do you think all this listening
+u0002ow do you think all this listening
+u0002ow do you think all this impacts a crypto investor, a retail impacts a crypto investor, a retail impacts a crypto investor, a retail investor's willingness to invest in the investor's willingness to invest in the investor's willingness to invest in the native tokens of these DeFi protocols? native tokens of these DeFi protocols? native tokens of these DeFi protocols
+u0002ou mentioned urine has a token
+u0002ll of You mentioned urine has a token
+u0002ll of You mentioned urine has a token
+u0002ll of these newer multi-y protocols even have these newer multi-y protocols even have these newer multi-y protocols even have tokens, too
+u0002ow should people think tokens, too
+u0002ow should people think tokens, too
+u0002ow should people think about valuing those, especially once about valuing those, especially once about valuing those, especially once they're in their post incentive phase of they're in their post incentive phase of they're in their post incentive phase of their life cycle
+u0002nd how do you guys their life cycle
+u0002nd how do you guys their life cycle
+u0002nd how do you guys think about driving value to people that think about driving value to people that think about driving value to people that want to hold the urine token? want to hold the urine token? want to hold the urine token? >> There are two ways of building value >> There are two ways of building value >> There are two ways of building value into governance tokens these days aside into governance tokens these days aside into governance tokens these days aside from just having it to vote in your from just having it to vote in your from just having it to vote in your favor for things that you want to see favor for things that you want to see favor for things that you want to see happen
+u0002uy and burn or distributing happen
+u0002uy and burn or distributing happen
+u0002uy and burn or distributing profits through your token
+u0002hose are profits through your token
+u0002hose are profits through your token
+u0002hose are the two paths that people can take
+u0002oes the two paths that people can take
+u0002oes the two paths that people can take
+u0002oes not see the value in just buying and not see the value in just buying and not see the value in just buying and burning tokens
+u0002hat we're choosing to burning tokens
+u0002hat we're choosing to burning tokens
+u0002hat we're choosing to do is rebuild Wifey as a still locking do is rebuild Wifey as a still locking do is rebuild Wifey as a still locking it to get a distribution of profits but it to get a distribution of profits but it to get a distribution of profits but doing like a more short-term lock
+u0002o doing like a more short-term lock
+u0002o doing like a more short-term lock
+u0002o that's what we're going to be doing that's what we're going to be doing that's what we're going to be doing right now
+u0002 think it's like a one month right now
+u0002 think it's like a one month right now
+u0002 think it's like a one month lock period and then you get a share of lock period and then you get a share of lock period and then you get a share of all the profits that we are going to be all the profits that we are going to be all the profits that we are going to be distributing
+u0002his is the time that has distributing
+u0002his is the time that has distributing
+u0002his is the time that has to go and turn the fee switch on too. to go and turn the fee switch on too. to go and turn the fee switch on too
+u0002o, we're more focused on generating So, we're more focused on generating So, we're more focused on generating profits than we once were. profits than we once were. profits than we once were. >> That's good to hear
+u0002 mean, generating >> That's good to hear
+u0002 mean, generating >> That's good to hear
+u0002 mean, generating profits for a long time didn't seem to profits for a long time didn't seem to profits for a long time didn't seem to be the focus for many people in crypto. be the focus for many people in crypto. be the focus for many people in crypto
+u0002n the last year, there's definitely In the last year, there's definitely In the last year, there's definitely been in this newer SEC environment. been in this newer SEC environment. been in this newer SEC environment
+u0002hile not everything is clear, we're While not everything is clear, we're While not everything is clear, we're still kind of in a preclarity era, so to still kind of in a preclarity era, so to still kind of in a preclarity era, so to speak, for which of these things are speak, for which of these things are speak, for which of these things are securities and which of them aren't
+u0002ou securities and which of them aren't
+u0002ou securities and which of them aren't
+u0002ou still have to give people reasons to still have to give people reasons to still have to give people reasons to hold these tokens for the long term, hold these tokens for the long term, hold these tokens for the long term, rather not to just think of them as rather not to just think of them as rather not to just think of them as points or air miles that you can receive points or air miles that you can receive points or air miles that you can receive and spend right away. and spend right away. and spend right away. >> The meta recently has been for vault >> The meta recently has been for vault >> The meta recently has been for vault projects to be pre-eposit vaults for projects to be pre-eposit vaults for projects to be pre-eposit vaults for like new elus and stuff that are like new elus and stuff that are like new elus and stuff that are launching and that is a really shortterm launching and that is a really shortterm launching and that is a really shortterm thing
+u0002ou get the money in the door, thing
+u0002ou get the money in the door, thing
+u0002ou get the money in the door, but then within a few months might not but then within a few months might not but then within a few months might not be there. profits that are generated be there. profits that are generated be there. profits that are generated from those events are not going to be as from those events are not going to be as from those events are not going to be as significant as getting user adoption for significant as getting user adoption for significant as getting user adoption for people who want to use your strategies people who want to use your strategies people who want to use your strategies long term as like a high quality source long term as like a high quality source long term as like a high quality source of yield
+u0002e worked for a long time on of yield
+u0002e worked for a long time on of yield
+u0002e worked for a long time on the Katana L2
+u0002olygon was not the only the Katana L2
+u0002olygon was not the only the Katana L2
+u0002olygon was not the only group who was evaluating using yarn group who was evaluating using yarn group who was evaluating using yarn vaults as predeposit vaults
+u0002hey were vaults as predeposit vaults
+u0002hey were vaults as predeposit vaults
+u0002hey were the only group to pick Yarn as their the only group to pick Yarn as their the only group to pick Yarn as their pre-eposite fault, though
+u0002nd the pre-eposite fault, though
+u0002nd the pre-eposite fault, though
+u0002nd the reason why is because David Silverman reason why is because David Silverman reason why is because David Silverman and Mark Byron over at Polygon fully and Mark Byron over at Polygon fully and Mark Byron over at Polygon fully understood the risk of using a multisig understood the risk of using a multisig understood the risk of using a multisig where price per share could be where price per share could be where price per share could be manipulated
+u0002nd they wanted to do stuff manipulated
+u0002nd they wanted to do stuff manipulated
+u0002nd they wanted to do stuff that was fully onchain
+u0002nd I love them that was fully onchain
+u0002nd I love them that was fully onchain
+u0002nd I love them for that. and we ended up doubling our for that. and we ended up doubling our for that. and we ended up doubling our TVL this year because of that
+u0002aults TVL this year because of that
+u0002aults TVL this year because of that
+u0002aults are deeply embedded into Katana Chain are deeply embedded into Katana Chain are deeply embedded into Katana Chain and it's just been a real pleasure to and it's just been a real pleasure to and it's just been a real pleasure to work with people in DeFi who really work with people in DeFi who really work with people in DeFi who really align with our own values of safety and align with our own values of safety and align with our own values of safety and being verifiable. being verifiable. being verifiable. >> A lot of this is going to come down to >> A lot of this is going to come down to >> A lot of this is going to come down to education to a certain extent, education to a certain extent, education to a certain extent, especially kind of going back to your especially kind of going back to your especially kind of going back to your conversation with those finance folks in conversation with those finance folks in conversation with those finance folks in New York of like, hey, here's why this New York of like, hey, here's why this New York of like, hey, here's why this matters
+u0002ere's why you want these matters
+u0002ere's why you want these matters
+u0002ere's why you want these assets to be verifiably onchain, not assets to be verifiably onchain, not assets to be verifiably onchain, not just in some black box
+u0002ven if you just in some black box
+u0002ven if you just in some black box
+u0002ven if you might get 100, 200 bips lower yield, might get 100, 200 bips lower yield, might get 100, 200 bips lower yield, you're paying for that on a riskreward you're paying for that on a riskreward you're paying for that on a riskreward spectrum
+u0002ou're right
+u0002eople don't spectrum
+u0002ou're right
+u0002eople don't spectrum
+u0002ou're right
+u0002eople don't understand that
+u0002ere's a good example. understand that
+u0002ere's a good example. understand that
+u0002ere's a good example
+u0002f you're in just a stake ETH position If you're in just a stake ETH position If you're in just a stake ETH position or like an LRT and you're earning yield or like an LRT and you're earning yield or like an LRT and you're earning yield that slightly outperforms our own WET that slightly outperforms our own WET that slightly outperforms our own WET one vault, first of all, as the price of one vault, first of all, as the price of one vault, first of all, as the price of ETH goes up, the withdraw here is not ETH goes up, the withdraw here is not ETH goes up, the withdraw here is not going to go down
+u0002t's only going to get going to go down
+u0002t's only going to get going to go down
+u0002t's only going to get longer
+u0002f you're also faced to exit longer
+u0002f you're also faced to exit longer
+u0002f you're also faced to exit your position at a time when those pools your position at a time when those pools your position at a time when those pools are unbalanced, you could wipe out six are unbalanced, you could wipe out six are unbalanced, you could wipe out six months or a year of your yield months or a year of your yield months or a year of your yield instantly
+u0002nd if you're using a urine instantly
+u0002nd if you're using a urine instantly
+u0002nd if you're using a urine vault, it's always liquid all the time vault, it's always liquid all the time vault, it's always liquid all the time and it's a cash equivalent product
+u0002o and it's a cash equivalent product
+u0002o and it's a cash equivalent product
+u0002o even though your yield will be slightly even though your yield will be slightly even though your yield will be slightly less, you will get to keep it
+u0002eople less, you will get to keep it
+u0002eople less, you will get to keep it
+u0002eople don't seem to really understand that don't seem to really understand that don't seem to really understand that yet
+u0002ut part of my discovery in New yet
+u0002ut part of my discovery in New yet
+u0002ut part of my discovery in New York last week talking to some of these York last week talking to some of these York last week talking to some of these traditional finance firms and hedge traditional finance firms and hedge traditional finance firms and hedge funds is that there is an audience for a funds is that there is an audience for a funds is that there is an audience for a cash equivalent yield bearing product. cash equivalent yield bearing product. cash equivalent yield bearing product
+u0002t is the director of a treasury
+u0002hey It is the director of a treasury
+u0002hey It is the director of a treasury
+u0002hey could be the director of treasury of could be the director of treasury of could be the director of treasury of like a hospital or a university, a like a hospital or a university, a like a hospital or a university, a pension, but they need to earn yield on pension, but they need to earn yield on pension, but they need to earn yield on their deposits, but also have them be their deposits, but also have them be their deposits, but also have them be liquid all the time
+u0002hey might have liquid all the time
+u0002hey might have liquid all the time
+u0002hey might have their CFO ask them, "You need to their CFO ask them, "You need to their CFO ask them, "You need to liquidate this because we need to go and liquidate this because we need to go and liquidate this because we need to go and make a payment for something or buy a make a payment for something or buy a make a payment for something or buy a building." if they can exit that building." if they can exit that building." if they can exit that position that they were earning yield on position that they were earning yield on position that they were earning yield on without losing that yield or without without losing that yield or without without losing that yield or without taking on additional risk and being able taking on additional risk and being able taking on additional risk and being able to do it whenever they want
+u0002f your to do it whenever they want
+u0002f your to do it whenever they want
+u0002f your time in the vault is unpredictable, time in the vault is unpredictable, time in the vault is unpredictable, you're involves the product that you you're involves the product that you you're involves the product that you should be using
+u0002ou should be using should be using
+u0002ou should be using should be using
+u0002ou should be using something that is cash equivalent
+u0002 got something that is cash equivalent
+u0002 got something that is cash equivalent
+u0002 got my hands on this huge database of all my hands on this huge database of all my hands on this huge database of all these treasury managers and I'm going to these treasury managers and I'm going to these treasury managers and I'm going to give it a shot of going down and seeing give it a shot of going down and seeing give it a shot of going down and seeing who has an appetite to at least learn who has an appetite to at least learn who has an appetite to at least learn about what verifiable DeFi is and what about what verifiable DeFi is and what about what verifiable DeFi is and what we are bringing to the table
+u0002'm not we are bringing to the table
+u0002'm not we are bringing to the table
+u0002'm not expecting to get a huge amount of yeses, expecting to get a huge amount of yeses, expecting to get a huge amount of yeses, but even getting a few and making those but even getting a few and making those but even getting a few and making those connections is where we need to start. connections is where we need to start. connections is where we need to start. >> Knocking on doors, spreading the good >> Knocking on doors, spreading the good >> Knocking on doors, spreading the good word, someone's got to do it. word, someone's got to do it. word, someone's got to do it. >> Exactly
+u0002t's not going to be easy. >> Exactly
+u0002t's not going to be easy. >> Exactly
+u0002t's not going to be easy. >> Another kind of thing underlying a lot >> Another kind of thing underlying a lot >> Another kind of thing underlying a lot of this conversation is everything sort of this conversation is everything sort of this conversation is everything sort of exists in crypto on a spectrum of of exists in crypto on a spectrum of of exists in crypto on a spectrum of centralized to decentralized and DeFi, centralized to decentralized and DeFi, centralized to decentralized and DeFi, decentralized finance
+u0002ven within DeFi, decentralized finance
+u0002ven within DeFi, decentralized finance
+u0002ven within DeFi, a lot of these things certainly I a lot of these things certainly I a lot of these things certainly I wouldn't call them to be decentralized. wouldn't call them to be decentralized. wouldn't call them to be decentralized
+u0002t's kind of decentralized in name only
+u0002t's kind of decentralized in name only
+u0002t's kind of decentralized in name only
+u0002specially when you we talk about these Especially when you we talk about these Especially when you we talk about these multi-IGFI products, these onchain multi-IGFI products, these onchain multi-IGFI products, these onchain off-chain hedge funds where it's just a off-chain hedge funds where it's just a off-chain hedge funds where it's just a couple of guys yoloing your positions couple of guys yoloing your positions couple of guys yoloing your positions into high-risisk yield
+u0002here do you into high-risisk yield
+u0002here do you into high-risisk yield
+u0002here do you think we are today on this spectrum of think we are today on this spectrum of think we are today on this spectrum of centralization to decentralization centralization to decentralization centralization to decentralization within DeFi and crypto
+u0002nd are we within DeFi and crypto
+u0002nd are we within DeFi and crypto
+u0002nd are we headed in the right direction? headed in the right direction? headed in the right direction
+u0002specially as more trady people come on Especially as more trady people come on Especially as more trady people come on chains, as more payments move to stable chains, as more payments move to stable chains, as more payments move to stable coins
+u0002 lot of people, DeFi purists, coins
+u0002 lot of people, DeFi purists, coins
+u0002 lot of people, DeFi purists, even will stick their noses up at even will stick their noses up at even will stick their noses up at stablecoin sometimes as USDC may be on stablecoin sometimes as USDC may be on stablecoin sometimes as USDC may be on Ethereum on a decentralized blockchain, Ethereum on a decentralized blockchain, Ethereum on a decentralized blockchain, but you're still trusting Circle the but you're still trusting Circle the but you're still trusting Circle the company to mint you the USDC and buy and company to mint you the USDC and buy and company to mint you the USDC and buy and custody the treasury asset that's custody the treasury asset that's custody the treasury asset that's underlying it and redeem it when you ask underlying it and redeem it when you ask underlying it and redeem it when you ask for it
+u0002here's still a level of trust for it
+u0002here's still a level of trust for it
+u0002here's still a level of trust involved there
+u0002o, where are we on that involved there
+u0002o, where are we on that involved there
+u0002o, where are we on that spectrum
+u0002re we headed in the right spectrum
+u0002re we headed in the right spectrum
+u0002re we headed in the right direction in your opinion? direction in your opinion? direction in your opinion
+u0002here's a good mix of signals in there There's a good mix of signals in there There's a good mix of signals in there to be honest
+u0002ut if you zoom out, I to be honest
+u0002ut if you zoom out, I to be honest
+u0002ut if you zoom out, I think we are trending in the right think we are trending in the right think we are trending in the right direction
+u0002he reason why I say that is direction
+u0002he reason why I say that is direction
+u0002he reason why I say that is just because I've seen TVL start to just because I've seen TVL start to just because I've seen TVL start to leave some of these projects that are in leave some of these projects that are in leave some of these projects that are in DeFi but are reliant on these DeFi but are reliant on these DeFi but are reliant on these centralized exchanges or parties or centralized exchanges or parties or centralized exchanges or parties or whatever
+u0002educing counterparty risk and whatever
+u0002educing counterparty risk and whatever
+u0002educing counterparty risk and relying on maybe something that is just relying on maybe something that is just relying on maybe something that is just a smart contract. getting the human a smart contract. getting the human a smart contract. getting the human element out of decision-m will become element out of decision-m will become element out of decision-m will become more popular over time in certain more popular over time in certain more popular over time in certain circles
+u0002here's always going to be circles
+u0002here's always going to be circles
+u0002here's always going to be people who will prefer USDC because it people who will prefer USDC because it people who will prefer USDC because it is backed by the government of somewhere is backed by the government of somewhere is backed by the government of somewhere or the like the bank is backed by the or the like the bank is backed by the or the like the bank is backed by the government
+u0002 think that that product government
+u0002 think that that product government
+u0002 think that that product will always be out there for a good will always be out there for a good will always be out there for a good reason too
+u0002t least for Ethereum's reason too
+u0002t least for Ethereum's reason too
+u0002t least for Ethereum's vision, low-risk DeFi is a great north vision, low-risk DeFi is a great north vision, low-risk DeFi is a great north star and that does not involve these star and that does not involve these star and that does not involve these centralized entities in that equation at centralized entities in that equation at centralized entities in that equation at all
+u0002t just establishes a base rate of all
+u0002t just establishes a base rate of all
+u0002t just establishes a base rate of yield
+u0002ven these centralized parties yield
+u0002ven these centralized parties yield
+u0002ven these centralized parties will sometimes fall back on that
+u0002or will sometimes fall back on that
+u0002or will sometimes fall back on that
+u0002or instance, I think at the peak TVL of instance, I think at the peak TVL of instance, I think at the peak TVL of Athena, only 30% of their funds were in Athena, only 30% of their funds were in Athena, only 30% of their funds were in the carry trade strategy going on the carry trade strategy going on the carry trade strategy going on between all these centralized exchanges. between all these centralized exchanges. between all these centralized exchanges
+u0002he rest of it went into a to get the A The rest of it went into a to get the A The rest of it went into a to get the A yield, which is exactly what we do
+u0002ou yield, which is exactly what we do
+u0002ou yield, which is exactly what we do
+u0002ou need a base rate of yield and if it's need a base rate of yield and if it's need a base rate of yield and if it's there and it's robust, can like take there and it's robust, can like take there and it's robust, can like take giant deposits, then people are giant deposits, then people are giant deposits, then people are definitely going to use it. definitely going to use it. definitely going to use it. >> That's good
+u0002e're moving in the right >> That's good
+u0002e're moving in the right >> That's good
+u0002e're moving in the right direction
+u0002eople are learning
+u0002e're direction
+u0002eople are learning
+u0002e're direction
+u0002eople are learning
+u0002e're educating people
+u0002aybe that's a good educating people
+u0002aybe that's a good educating people
+u0002aybe that's a good place to leave it
+u0002, thanks so much for place to leave it
+u0002, thanks so much for place to leave it
+u0002, thanks so much for coming on
+u0002ppreciate the time
+u0002e coming on
+u0002ppreciate the time
+u0002e coming on
+u0002ppreciate the time
+u0002e should do it again soon. should do it again soon. should do it again soon. >> Yeah, we should
+u0002hank you for having >> Yeah, we should
+u0002hank you for having >> Yeah, we should
+u0002hank you for having me
+u0002et me know if you ever have any me
+u0002et me know if you ever have any me
+u0002et me know if you ever have any questions
+u0002nybody listening, I'm questions
+u0002nybody listening, I'm questions
+u0002nybody listening, I'm [music] always around. [music] always around. [music] always around. >> Thanks for listening to another episode >> Thanks for listening to another episode >> Thanks for listening to another episode of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o learn more about Castle Island, visit learn more about Castle Island, visit learn more about Castle Island, visit castle island.vc. castle island.vc. castle island.vc
+u0002nd to listen to all of our podcast And to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle episodes, please visit castle episodes, please visit castle island.vc/podcast
+u0002C/mpodcast [music] island.vc/podcast
+u0002C/mpodcast [music] island.vc/podcast
+u0002C/mpodcast [music] or just click on the tab on our website. or just click on the tab on our website. or just click on the tab on our website
+u0002hanks for listening. 

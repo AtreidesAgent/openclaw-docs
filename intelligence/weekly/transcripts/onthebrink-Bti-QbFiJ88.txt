@@ -1,0 +1,730 @@
+This is Wyatt from Castle Island and on This is Wyatt from Castle Island and on This is Wyatt from Castle Island and on today's episode I sat down with Bob and today's episode I sat down with Bob and today's episode I sat down with Bob and Vade, co-founder of Birch Hill
+u0002irch Vade, co-founder of Birch Hill
+u0002irch Vade, co-founder of Birch Hill
+u0002irch Hill focuses on working with digital Hill focuses on working with digital Hill focuses on working with digital asset focused businesses, including asset focused businesses, including asset focused businesses, including asset issuers and trading and lending asset issuers and trading and lending asset issuers and trading and lending markets alike to help them build out markets alike to help them build out markets alike to help them build out compliant, secure, and institutional compliant, secure, and institutional compliant, secure, and institutional friendly workflows when enabling users friendly workflows when enabling users friendly workflows when enabling users to buy, sell, and hold tokenized assets. to buy, sell, and hold tokenized assets. to buy, sell, and hold tokenized assets
+u0002e touch more on what this looks like in We touch more on what this looks like in We touch more on what this looks like in practice in the episode
+u0002obin spent his practice in the episode
+u0002obin spent his practice in the episode
+u0002obin spent his career at the intersection of career at the intersection of career at the intersection of traditional financial markets and crypto traditional financial markets and crypto traditional financial markets and crypto asset markets
+u0002is first role was in asset markets
+u0002is first role was in asset markets
+u0002is first role was in investment banking at Goldman Sachs investment banking at Goldman Sachs investment banking at Goldman Sachs before spending time on the investing before spending time on the investing before spending time on the investing side at Cberus Capital Management, 50T, side at Cberus Capital Management, 50T, side at Cberus Capital Management, 50T, a leading crypto growth investor, and a leading crypto growth investor, and a leading crypto growth investor, and Halo Capital
+u0002n this episode, we Halo Capital
+u0002n this episode, we Halo Capital
+u0002n this episode, we discuss why Bobin and his co-founders discuss why Bobin and his co-founders discuss why Bobin and his co-founders Jack and Connor got excited about this Jack and Connor got excited about this Jack and Connor got excited about this gap in the market, what organizations gap in the market, what organizations gap in the market, what organizations that are thinking about tokenizing that are thinking about tokenizing that are thinking about tokenizing assets should know before moving assets should know before moving assets should know before moving forward, and how the landscape of forward, and how the landscape of forward, and how the landscape of tokenized assets will continue to tokenized assets will continue to tokenized assets will continue to evolve, and what that will mean for evolve, and what that will mean for evolve, and what that will mean for crypto and financial markets broadly. crypto and financial markets broadly. crypto and financial markets broadly
+u0002ithout further ado, I hope you enjoy Without further ado, I hope you enjoy Without further ado, I hope you enjoy our conversation
+u0002att Walsh and Nick our conversation
+u0002att Walsh and Nick our conversation
+u0002att Walsh and Nick Carter are partners at Castle Island Carter are partners at Castle Island Carter are partners at Castle Island Ventures
+u0002ll views expressed by them or Ventures
+u0002ll views expressed by them or Ventures
+u0002ll views expressed by them or the guests on this podcast are solely the guests on this podcast are solely the guests on this podcast are solely their opinions and do not reflect the their opinions and do not reflect the their opinions and do not reflect the opinions of Castle Island Ventures. opinions of Castle Island Ventures. opinions of Castle Island Ventures
+u0002uest and host may maintain positions in Guest and host may maintain positions in Guest and host may maintain positions in the assets discussed in this podcast. the assets discussed in this podcast. the assets discussed in this podcast
+u0002ou should not treat any opinion You should not treat any opinion You should not treat any opinion expressed by anyone on this podcast as a expressed by anyone on this podcast as a expressed by anyone on this podcast as a specific inducement to make a particular specific inducement to make a particular specific inducement to make a particular investment or follow a particular investment or follow a particular investment or follow a particular strategy but only as an expression of strategy but only as an expression of strategy but only as an expression of their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is their personal opinion
+u0002his podcast is forformational purposes only
+u0002rought forformational purposes only
+u0002rought forformational purposes only
+u0002rought down by bad mortgage investments Lehman down by bad mortgage investments Lehman down by bad mortgage investments Lehman which has 25,000 employees will be which has 25,000 employees will be which has 25,000 employees will be liquidated. liquidated. liquidated. >> The federal government loans American >> The federal government loans American >> The federal government loans American International Group AIG $85 billion
+u0002nternational Group AIG $85 billion
+u0002nternational Group AIG $85 billion
+u0002his is a different kind of market AND This is a different kind of market AND This is a different kind of market AND THE FED IS ASLEEP
+u0002HE FED IS ASLEEP
+u0002HE FED IS ASLEEP. >> THE federal government is stepping in to >> THE federal government is stepping in to >> THE federal government is stepping in to stabilize Fanny May and Freddy Mack, the stabilize Fanny May and Freddy Mack, the stabilize Fanny May and Freddy Mack, the two mortgage giants that have been two mortgage giants that have been two mortgage giants that have been threatened by the housing crisis. threatened by the housing crisis. threatened by the housing crisis. >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 >> The Bank of England has pumped 75 billion pounds more into Britain's alien billion pounds more into Britain's alien billion pounds more into Britain's alien economy with a new round of quantitative economy with a new round of quantitative economy with a new round of quantitative easing. easing. easing. >> You print a couple trillion dollars and >> You print a couple trillion dollars and >> You print a couple trillion dollars and all of a sudden people start to worry. all of a sudden people start to worry. all of a sudden people start to worry
+u0002o out of this worry, we have something So out of this worry, we have something So out of this worry, we have something called the Bitcoin
+u0002itcoin. called the Bitcoin
+u0002itcoin. called the Bitcoin
+u0002itcoin. >> Bobin, thanks for coming in to record in >> Bobin, thanks for coming in to record in >> Bobin, thanks for coming in to record in person, which is fun
+u0002'm excited to person, which is fun
+u0002'm excited to person, which is fun
+u0002'm excited to have this conversation with you
+u0002 want have this conversation with you
+u0002 want have this conversation with you
+u0002 want to get started with how you describe to get started with how you describe to get started with how you describe Birch Hill, what Birch Hill is, where Birch Hill, what Birch Hill is, where Birch Hill, what Birch Hill is, where you guys want to go, and where you want you guys want to go, and where you want you guys want to go, and where you want to be in the market
+u0002ltimately, to be in the market
+u0002ltimately, to be in the market
+u0002ltimately, >> the broad way I like to describe Birch >> the broad way I like to describe Birch >> the broad way I like to describe Birch Hill is that we're an Hill is that we're an Hill is that we're an institutional-grade risk curator
+u0002hat institutional-grade risk curator
+u0002hat institutional-grade risk curator
+u0002hat that means can be a lot of different that means can be a lot of different that means can be a lot of different things
+u0002ow we like to describe it is things
+u0002ow we like to describe it is things
+u0002ow we like to describe it is we're building that translation layer we're building that translation layer we're building that translation layer that allows traditional institutional that allows traditional institutional that allows traditional institutional capital, think asset managers, credit capital, think asset managers, credit capital, think asset managers, credit funds, corporate treasuries to access funds, corporate treasuries to access funds, corporate treasuries to access onchain credit markets safely and at onchain credit markets safely and at onchain credit markets safely and at scale
+u0002e're not trying to replace scale
+u0002e're not trying to replace scale
+u0002e're not trying to replace specialist lenders, credit originators. specialist lenders, credit originators. specialist lenders, credit originators
+u0002e're providing the onchain capital and We're providing the onchain capital and We're providing the onchain capital and operating system to make their deals operating system to make their deals operating system to make their deals possible. possible. possible. >> To touch on curation because I want to >> To touch on curation because I want to >> To touch on curation because I want to dive deeper there
+u0002y view of why it's dive deeper there
+u0002y view of why it's dive deeper there
+u0002y view of why it's such a commonly used word and why it's a such a commonly used word and why it's a such a commonly used word and why it's a category that's emerged in DeFi is category that's emerged in DeFi is category that's emerged in DeFi is because crypto markets started with a because crypto markets started with a because crypto markets started with a lot of these permissionless frameworks lot of these permissionless frameworks lot of these permissionless frameworks where any asset could be listed
+u0002eople where any asset could be listed
+u0002eople where any asset could be listed
+u0002eople were trading all these altcoins they were trading all these altcoins they were trading all these altcoins they didn't know a lot about because you had didn't know a lot about because you had didn't know a lot about because you had people losing money
+u0002ou had people people losing money
+u0002ou had people people losing money
+u0002ou had people making money quickly
+u0002o the natural making money quickly
+u0002o the natural making money quickly
+u0002o the natural need out of that was curation was need out of that was curation was need out of that was curation was someone who's going to pick okay what someone who's going to pick okay what someone who's going to pick okay what should users be seeing? what stuff is should users be seeing? what stuff is should users be seeing? what stuff is safe or at least what can you find out safe or at least what can you find out safe or at least what can you find out about
+u0002ow would you describe curation? about
+u0002ow would you describe curation? about
+u0002ow would you describe curation
+u0002s that somewhat accurate
+u0002nd what have Is that somewhat accurate
+u0002nd what have Is that somewhat accurate
+u0002nd what have you seen in the market that made you say you seen in the market that made you say you seen in the market that made you say you want to go play in that space? you want to go play in that space? you want to go play in that space? >> I think explaining what a risk creator >> I think explaining what a risk creator >> I think explaining what a risk creator actually is is helpful to frame the actually is is helpful to frame the actually is is helpful to frame the market structure because if you look at market structure because if you look at market structure because if you look at the onchain market structure, you have a the onchain market structure, you have a the onchain market structure, you have a couple layers
+u0002ou have trading and couple layers
+u0002ou have trading and couple layers
+u0002ou have trading and lending platforms for centralized lending platforms for centralized lending platforms for centralized exchanges, think Coinbase
+u0002ou have exchanges, think Coinbase
+u0002ou have exchanges, think Coinbase
+u0002ou have decentralized venues, think unis swap on decentralized venues, think unis swap on decentralized venues, think unis swap on the exchange side or a and morpho on the the exchange side or a and morpho on the the exchange side or a and morpho on the lending side
+u0002nd then you have asset lending side
+u0002nd then you have asset lending side
+u0002nd then you have asset issuers who create the different issuers who create the different issuers who create the different financial products that exist on these financial products that exist on these financial products that exist on these blockchains
+u0002ome of those are starting blockchains
+u0002ome of those are starting blockchains
+u0002ome of those are starting to look a lot more like traditional to look a lot more like traditional to look a lot more like traditional firms that offer financial products
+u0002o firms that offer financial products
+u0002o firms that offer financial products
+u0002o similar to the vanguards, fidelities of similar to the vanguards, fidelities of similar to the vanguards, fidelities of the world
+u0002nd then there's the longer the world
+u0002nd then there's the longer the world
+u0002nd then there's the longer tale of less reputable, less known tale of less reputable, less known tale of less reputable, less known players, which part of that is where players, which part of that is where players, which part of that is where curators I would think fit in. risk curators I would think fit in. risk curators I would think fit in. risk analysis firms also fit in there whose analysis firms also fit in there whose analysis firms also fit in there whose job is to one enable these markets to job is to one enable these markets to job is to one enable these markets to function properly that lending and function properly that lending and function properly that lending and borrowing rates are appropriate and not borrowing rates are appropriate and not borrowing rates are appropriate and not mispriced kind of keeping the efficiency mispriced kind of keeping the efficiency mispriced kind of keeping the efficiency within the market and that liquidity is within the market and that liquidity is within the market and that liquidity is getting matched efficiently that's what getting matched efficiently that's what getting matched efficiently that's what the job of a risk curator traditionally the job of a risk curator traditionally the job of a risk curator traditionally is to be done a lot of that's happened is to be done a lot of that's happened is to be done a lot of that's happened around permissionless collateral so the around permissionless collateral so the around permissionless collateral so the biggest markets you see around Bitcoin biggest markets you see around Bitcoin biggest markets you see around Bitcoin around ETH around soul around the major around ETH around soul around the major around ETH around soul around the major stable coins USDC USDT stable coins USDC USDT stable coins USDC USDT We're seeing that starting to deepen out We're seeing that starting to deepen out We're seeing that starting to deepen out and broaden a little bit further
+u0002 lot and broaden a little bit further
+u0002 lot and broaden a little bit further
+u0002 lot of people are mentioning this concept of of people are mentioning this concept of of people are mentioning this concept of the DeFi mullet coming back and you're the DeFi mullet coming back and you're the DeFi mullet coming back and you're starting to see that happen with our starting to see that happen with our starting to see that happen with our distribution partners in the crypto distribution partners in the crypto distribution partners in the crypto world being the large exchanges in the world being the large exchanges in the world being the large exchanges in the US, Coinbase, and now most recently US, Coinbase, and now most recently US, Coinbase, and now most recently Kraken announcing their recent vault Kraken announcing their recent vault Kraken announcing their recent vault product in partnership with Veta and product in partnership with Veta and product in partnership with Veta and Chaos Labs
+u0002 think a lot of the Chaos Labs
+u0002 think a lot of the Chaos Labs
+u0002 think a lot of the curators are some of the smartest curators are some of the smartest curators are some of the smartest entrance in the space
+u0002hey're the entrance in the space
+u0002hey're the entrance in the space
+u0002hey're the quants, the DeFi natives who built a lot quants, the DeFi natives who built a lot quants, the DeFi natives who built a lot of this incredible infrastructure
+u0002o of this incredible infrastructure
+u0002o of this incredible infrastructure
+u0002o you're seeing a lot of curators today you're seeing a lot of curators today you're seeing a lot of curators today also cross over into being also cross over into being also cross over into being infrastructure providers, whether that's infrastructure providers, whether that's infrastructure providers, whether that's creating the new vault stack that they creating the new vault stack that they creating the new vault stack that they want you to operate your strategies on. want you to operate your strategies on. want you to operate your strategies on
+u0002 think a lot of those folks are I think a lot of those folks are I think a lot of those folks are technically exceptional, but what I technically exceptional, but what I technically exceptional, but what I think is a new type of curator coming in think is a new type of curator coming in think is a new type of curator coming in is those leveraging the best-in-class is those leveraging the best-in-class is those leveraging the best-in-class infrastructure that exists today
+u0002hat's infrastructure that exists today
+u0002hat's infrastructure that exists today
+u0002hat's where I think BHIL tries to play a role. where I think BHIL tries to play a role. where I think BHIL tries to play a role
+u0002nd we're not trying to compete on being And we're not trying to compete on being And we're not trying to compete on being the best vault infra provider
+u0002e have the best vault infra provider
+u0002e have the best vault infra provider
+u0002e have some capability there, of course, but some capability there, of course, but some capability there, of course, but we're generally leveraging who we think we're generally leveraging who we think we're generally leveraging who we think are best in class
+u0002here we're coming in are best in class
+u0002here we're coming in are best in class
+u0002here we're coming in is bringing that translation to the is bringing that translation to the is bringing that translation to the traditional financial world, bringing in traditional financial world, bringing in traditional financial world, bringing in products like real estate credit funds, products like real estate credit funds, products like real estate credit funds, like wreaths, like traditional specialty like wreaths, like traditional specialty like wreaths, like traditional specialty finance originators
+u0002hese are a lot of finance originators
+u0002hese are a lot of finance originators
+u0002hese are a lot of the folks that come from my background, the folks that come from my background, the folks that come from my background, my career, whether at Goldman, my my career, whether at Goldman, my my career, whether at Goldman, my co-founder's career at Black Rockck, and co-founder's career at Black Rockck, and co-founder's career at Black Rockck, and what we did in the digital asset space what we did in the digital asset space what we did in the digital asset space since then. since then. since then. >> Yeah, it reminds me of what makes a good >> Yeah, it reminds me of what makes a good >> Yeah, it reminds me of what makes a good brokerage
+u0002t's not the one that brokerage
+u0002t's not the one that brokerage
+u0002t's not the one that necessarily has the best software necessarily has the best software necessarily has the best software platform, but that can be nice
+u0002t's one platform, but that can be nice
+u0002t's one platform, but that can be nice
+u0002t's one that offers you interesting investment that offers you interesting investment that offers you interesting investment products where you're not going to get products where you're not going to get products where you're not going to get rugged, where you're getting what you rugged, where you're getting what you rugged, where you're getting what you think you're getting as opposed to being think you're getting as opposed to being think you're getting as opposed to being deceived, which I think was what a lot deceived, which I think was what a lot deceived, which I think was what a lot of the DeFi market got tired at at one of the DeFi market got tired at at one of the DeFi market got tired at at one point was feeling like you didn't point was feeling like you didn't point was feeling like you didn't necessarily know what you were trading necessarily know what you were trading necessarily know what you were trading and how the markets were set up
+u0002t's and how the markets were set up
+u0002t's and how the markets were set up
+u0002t's true
+u0002 think a lot of what happened in true
+u0002 think a lot of what happened in true
+u0002 think a lot of what happened in DeFi 1010 gets commonly referenced
+u0002eFi 1010 gets commonly referenced
+u0002eFi 1010 gets commonly referenced
+u0002here's echoes of what happened years There's echoes of what happened years There's echoes of what happened years prior around the Terra Luna blow up prior around the Terra Luna blow up prior around the Terra Luna blow up around the FTX blow up and seeing some around the FTX blow up and seeing some around the FTX blow up and seeing some of the lessons that we learned from back of the lessons that we learned from back of the lessons that we learned from back then
+u0002 am old enough to remember things then
+u0002 am old enough to remember things then
+u0002 am old enough to remember things like Celsius, things like BlockFi and my like Celsius, things like BlockFi and my like Celsius, things like BlockFi and my time at Tent
+u0002hose were some of the time at Tent
+u0002hose were some of the time at Tent
+u0002hose were some of the largest companies in the space
+u0002hey largest companies in the space
+u0002hey largest companies in the space
+u0002hey were getting the attention of large were getting the attention of large were getting the attention of large institutional allocators because they institutional allocators because they institutional allocators because they were offering a really simple way to were offering a really simple way to were offering a really simple way to provide yield on crypto collateral to provide yield on crypto collateral to provide yield on crypto collateral to retail customers
+u0002 think similarly with retail customers
+u0002 think similarly with retail customers
+u0002 think similarly with the onchain blow up that happened on the onchain blow up that happened on the onchain blow up that happened on 1010 that same opakquakeness started to 1010 that same opakquakeness started to 1010 that same opakquakeness started to come through and there's mirrors of like come through and there's mirrors of like come through and there's mirrors of like the traditional financial crisis of what the traditional financial crisis of what the traditional financial crisis of what happened back in 2008 with mortgage back happened back in 2008 with mortgage back happened back in 2008 with mortgage back securities blowing up and I think securities blowing up and I think securities blowing up and I think onchain that effect happened a lot onchain that effect happened a lot onchain that effect happened a lot faster and a lot quicker
+u0002ou saw these faster and a lot quicker
+u0002ou saw these faster and a lot quicker
+u0002ou saw these things like stream and noble getting things like stream and noble getting things like stream and noble getting hundreds of millions of TVL relatively hundreds of millions of TVL relatively hundreds of millions of TVL relatively quickly quickly quickly >> very quickly
+u0002 lot of people who are >> very quickly
+u0002 lot of people who are >> very quickly
+u0002 lot of people who are unsophisticated may just go to the two unsophisticated may just go to the two unsophisticated may just go to the two things they looking at for trust are things they looking at for trust are things they looking at for trust are amount of TVL and amount of yield being amount of TVL and amount of yield being amount of TVL and amount of yield being offered
+u0002nd I think the issue became offered
+u0002nd I think the issue became offered
+u0002nd I think the issue became enough time had passed
+u0002here was enough time had passed
+u0002here was enough time had passed
+u0002here was frothiness in the market with things frothiness in the market with things frothiness in the market with things around AI and people chasing yield and around AI and people chasing yield and around AI and people chasing yield and chasing price with price moving up that chasing price with price moving up that chasing price with price moving up that these yield opportunities started to these yield opportunities started to these yield opportunities started to look or at least certain players look or at least certain players look or at least certain players depositing it to them led to other depositing it to them led to other depositing it to them led to other players feeling that it was okay to do players feeling that it was okay to do players feeling that it was okay to do so
+u0002nd so this shared risk and impact so
+u0002nd so this shared risk and impact so
+u0002nd so this shared risk and impact of composability really bit onchain of composability really bit onchain of composability really bit onchain markets hard on the other way
+u0002o we've markets hard on the other way
+u0002o we've markets hard on the other way
+u0002o we've been spending so much time trying to been spending so much time trying to been spending so much time trying to make these assets composable, these make these assets composable, these make these assets composable, these protocols composable with one another. protocols composable with one another. protocols composable with one another
+u0002hat we hadn't thought about enough was What we hadn't thought about enough was What we hadn't thought about enough was how composable this risk is and how how composable this risk is and how how composable this risk is and how really one asset, one dagging of an really one asset, one dagging of an really one asset, one dagging of an oracle could really trigger this cascade oracle could really trigger this cascade oracle could really trigger this cascade liquidation
+u0002o you're seeing a lot of liquidation
+u0002o you're seeing a lot of liquidation
+u0002o you're seeing a lot of the lending markets on chain starting to the lending markets on chain starting to the lending markets on chain starting to converge around this idea about siloing converge around this idea about siloing converge around this idea about siloing the risk, isolating the risk, not the risk, isolating the risk, not the risk, isolating the risk, not pooling the risk anymore
+u0002o whether pooling the risk anymore
+u0002o whether pooling the risk anymore
+u0002o whether that's Morpho really started this with that's Morpho really started this with that's Morpho really started this with their vault architecture and their their vault architecture and their their vault architecture and their markets architecture, you're seeing the markets architecture, you're seeing the markets architecture, you're seeing the change in Camino V3, you're seeing the change in Camino V3, you're seeing the change in Camino V3, you're seeing the change with a v4, a horizon, Oiler with change with a v4, a horizon, Oiler with change with a v4, a horizon, Oiler with their comeback on these isolated their comeback on these isolated their comeback on these isolated markets
+u0002o, we're learning lessons markets
+u0002o, we're learning lessons markets
+u0002o, we're learning lessons faster and I think now is that faster and I think now is that faster and I think now is that opportunity for this new era of onchain opportunity for this new era of onchain opportunity for this new era of onchain yields to becoming onchain
+u0002 think the yields to becoming onchain
+u0002 think the yields to becoming onchain
+u0002 think the point on isolated risk is really point on isolated risk is really point on isolated risk is really important and it's one that we'll grow important and it's one that we'll grow important and it's one that we'll grow into as an industry a bit because if you into as an industry a bit because if you into as an industry a bit because if you go back to 2022, I think there was a lot go back to 2022, I think there was a lot go back to 2022, I think there was a lot of fingerpointing that certain people of fingerpointing that certain people of fingerpointing that certain people blew up because of counterparty risk or blew up because of counterparty risk or blew up because of counterparty risk or because of insolveny from because of insolveny from because of insolveny from counterparties
+u0002nd regardless of who's counterparties
+u0002nd regardless of who's counterparties
+u0002nd regardless of who's culpable, it's just demonstrative to culpable, it's just demonstrative to culpable, it's just demonstrative to your point of you just take on that your point of you just take on that your point of you just take on that layered risk with what you would layered risk with what you would layered risk with what you would generally call composability
+u0002nd with generally call composability
+u0002nd with generally call composability
+u0002nd with that in mind, these decentralized that in mind, these decentralized that in mind, these decentralized platforms have to evolve to protect platforms have to evolve to protect platforms have to evolve to protect their users in some way, I think, is the their users in some way, I think, is the their users in some way, I think, is the basic reality because you can't just basic reality because you can't just basic reality because you can't just have users who are losing all their have users who are losing all their have users who are losing all their money and that they're not sticky money and that they're not sticky money and that they're not sticky anymore, among other issues
+u0002nd with anymore, among other issues
+u0002nd with anymore, among other issues
+u0002nd with that in mind, I'm curious because you that in mind, I'm curious because you that in mind, I'm curious because you guys play in this probably broadly guys play in this probably broadly guys play in this probably broadly spoken about category called curation, spoken about category called curation, spoken about category called curation, which I would just consider people who which I would just consider people who which I would just consider people who are using these decentralized frameworks are using these decentralized frameworks are using these decentralized frameworks to build actually reputable products. to build actually reputable products. to build actually reputable products
+u0002opefully at least you go back 10 years, Hopefully at least you go back 10 years, Hopefully at least you go back 10 years, Joel Manro wrote the fat protocol Joel Manro wrote the fat protocol Joel Manro wrote the fat protocol thesis, which when he wrote that, we thesis, which when he wrote that, we thesis, which when he wrote that, we were in a market structure where it was were in a market structure where it was were in a market structure where it was protocols, applications, and tokens, but protocols, applications, and tokens, but protocols, applications, and tokens, but tokens were early
+u0002o I think it's a tokens were early
+u0002o I think it's a tokens were early
+u0002o I think it's a simple math equation to say okay the simple math equation to say okay the simple math equation to say okay the protocols I think are going to ascertain protocols I think are going to ascertain protocols I think are going to ascertain value in this stack but now if we're in value in this stack but now if we're in value in this stack but now if we're in a world where you have protocols you a world where you have protocols you a world where you have protocols you have applications which are again we've have applications which are again we've have applications which are again we've decided decentralized you have the decided decentralized you have the decided decentralized you have the curators who are building on top of that curators who are building on top of that curators who are building on top of that to try and create markets that users can to try and create markets that users can to try and create markets that users can feel safer about and then you've more feel safer about and then you've more feel safer about and then you've more complex types of asset issuers do you complex types of asset issuers do you complex types of asset issuers do you believe that value occurs to the believe that value occurs to the believe that value occurs to the curators in that stack or how would you curators in that stack or how would you curators in that stack or how would you upgrade this thinking on where value upgrade this thinking on where value upgrade this thinking on where value occurs in what is now a more evolved occurs in what is now a more evolved occurs in what is now a more evolved stack. stack. stack. >> I think curators are attracting value in >> I think curators are attracting value in >> I think curators are attracting value in the same way that traditional businesses the same way that traditional businesses the same way that traditional businesses are able to win revenue and win are able to win revenue and win are able to win revenue and win customers and that is curation is a customers and that is curation is a customers and that is curation is a trust game
+u0002t is a game of being a trust game
+u0002t is a game of being a trust game
+u0002t is a game of being a party that these institutions want to party that these institutions want to party that these institutions want to work with because you are translating work with because you are translating work with because you are translating their existing in a lot of cases archaic their existing in a lot of cases archaic their existing in a lot of cases archaic processes into a more streamlined processes into a more streamlined processes into a more streamlined onchain business
+u0002 hear you on the fat onchain business
+u0002 hear you on the fat onchain business
+u0002 hear you on the fat protocol thesis
+u0002 think it was part of protocol thesis
+u0002 think it was part of protocol thesis
+u0002 think it was part of what led to these high layer 1 what led to these high layer 1 what led to these high layer 1 valuations where a lot of people were valuations where a lot of people were valuations where a lot of people were pricing layer 1's on a relative value to pricing layer 1's on a relative value to pricing layer 1's on a relative value to the existing applications ecosystem the existing applications ecosystem the existing applications ecosystem underlying it
+u0002o if ethereum and unis underlying it
+u0002o if ethereum and unis underlying it
+u0002o if ethereum and unis swap trades at x ratio then x fork of swap trades at x ratio then x fork of swap trades at x ratio then x fork of unis swap on the new L2 should trade at unis swap on the new L2 should trade at unis swap on the new L2 should trade at a similar relative valuation to the base a similar relative valuation to the base a similar relative valuation to the base layer 1
+u0002nd so all these games I layer 1
+u0002nd so all these games I layer 1
+u0002nd so all these games I remember I'm sure you remember seeing remember I'm sure you remember seeing remember I'm sure you remember seeing happen in 2021 2022 and so on
+u0002 think happen in 2021 2022 and so on
+u0002 think happen in 2021 2022 and so on
+u0002 think we've now converged upon Ethereum and we've now converged upon Ethereum and we've now converged upon Ethereum and Salana have really separated themselves Salana have really separated themselves Salana have really separated themselves from the pack amongst the base layers from the pack amongst the base layers from the pack amongst the base layers and for blockspace with blockspace and for blockspace with blockspace and for blockspace with blockspace becoming a commodity
+u0002hat is less of a becoming a commodity
+u0002hat is less of a becoming a commodity
+u0002hat is less of a commodity is liquidity and those are the commodity is liquidity and those are the commodity is liquidity and those are the two chains that have the most liquidity two chains that have the most liquidity two chains that have the most liquidity for an institutional player to want to for an institutional player to want to for an institutional player to want to get involved
+u0002 think there's some wear get involved
+u0002 think there's some wear get involved
+u0002 think there's some wear that have started to bridge the gap as that have started to bridge the gap as that have started to bridge the gap as well. things like bass have done really well. things like bass have done really well. things like bass have done really well as well
+u0002ut really, you see these well as well
+u0002ut really, you see these well as well
+u0002ut really, you see these players that is less of a question now. players that is less of a question now. players that is less of a question now
+u0002t's more of between these few parties, It's more of between these few parties, It's more of between these few parties, where are you going to go
+u0002nd the where are you going to go
+u0002nd the where are you going to go
+u0002nd the application has really separated itself application has really separated itself application has really separated itself because of I would say a few factors. because of I would say a few factors. because of I would say a few factors
+u0002ne, I like to think about Morpho's One, I like to think about Morpho's One, I like to think about Morpho's example
+u0002hey're a partner we're working example
+u0002hey're a partner we're working example
+u0002hey're a partner we're working with closely with Coinbase integrating with closely with Coinbase integrating with closely with Coinbase integrating Morpho enabled Bitcoin loans on their Morpho enabled Bitcoin loans on their Morpho enabled Bitcoin loans on their platform
+u0002 think that is a recipe of platform
+u0002 think that is a recipe of platform
+u0002 think that is a recipe of what's to come for the success of a what's to come for the success of a what's to come for the success of a protocol and it's really this blending protocol and it's really this blending protocol and it's really this blending of the CFI and DeFi native protocols. of the CFI and DeFi native protocols. of the CFI and DeFi native protocols
+u0002oinbase becomes the distribution layer Coinbase becomes the distribution layer Coinbase becomes the distribution layer for the underlying Morpho smart for the underlying Morpho smart for the underlying Morpho smart contracts, Morpho vault architecture to contracts, Morpho vault architecture to contracts, Morpho vault architecture to the Coinbase retail user
+u0002orpho does the Coinbase retail user
+u0002orpho does the Coinbase retail user
+u0002orpho does retain some of that value
+u0002bviously, retain some of that value
+u0002bviously, retain some of that value
+u0002bviously, they're not charging any fees on any of they're not charging any fees on any of they're not charging any fees on any of that product
+u0002nd it's more about that product
+u0002nd it's more about that product
+u0002nd it's more about gaining market share and gaining users gaining market share and gaining users gaining market share and gaining users and piggybacking off of the distribution and piggybacking off of the distribution and piggybacking off of the distribution networks
+u0002hether that's the curators networks
+u0002hether that's the curators networks
+u0002hether that's the curators distribution network or whether it's distribution network or whether it's distribution network or whether it's actual distribution partner like actual distribution partner like actual distribution partner like Coinbase
+u0002oinbase
+u0002oinbase. >> It's who owns the users wins and has the >> It's who owns the users wins and has the >> It's who owns the users wins and has the leverage. leverage. leverage. >> Correct
+u0002nd I don't think you can think >> Correct
+u0002nd I don't think you can think >> Correct
+u0002nd I don't think you can think about a user as solely a Solana user about a user as solely a Solana user about a user as solely a Solana user anymore or solely an Ethereum user anymore or solely an Ethereum user anymore or solely an Ethereum user anymore
+u0002hey really are everywhere anymore
+u0002hey really are everywhere anymore
+u0002hey really are everywhere wherever the product they're looking for wherever the product they're looking for wherever the product they're looking for is
+u0002ell, I think the things admittedly is
+u0002ell, I think the things admittedly is
+u0002ell, I think the things admittedly that the lending markets might struggle that the lending markets might struggle that the lending markets might struggle with at some point and I think they are with at some point and I think they are with at some point and I think they are in the most interesting category because in the most interesting category because in the most interesting category because they'll benefit so much from these they'll benefit so much from these they'll benefit so much from these assets coming on chain and people will assets coming on chain and people will assets coming on chain and people will own tokenized investment products and own tokenized investment products and own tokenized investment products and borrow against them for short-term borrow against them for short-term borrow against them for short-term liquidity
+u0002 think the challenge they liquidity
+u0002 think the challenge they liquidity
+u0002 think the challenge they might face though is to try and continue might face though is to try and continue might face though is to try and continue to be permissionless
+u0002hey'll struggle to be permissionless
+u0002hey'll struggle to be permissionless
+u0002hey'll struggle to simultaneously establish to simultaneously establish to simultaneously establish accountability with end users
+u0002t's much accountability with end users
+u0002t's much accountability with end users
+u0002t's much easier for a curator to establish easier for a curator to establish easier for a curator to establish accountability because you don't have to accountability because you don't have to accountability because you don't have to try and be neutral in any regard. try and be neutral in any regard. try and be neutral in any regard
+u0002hereas Ethereum morpho, they have to Whereas Ethereum morpho, they have to Whereas Ethereum morpho, they have to some degree, I would argue, try and stay some degree, I would argue, try and stay some degree, I would argue, try and stay like a permissionless framework, which like a permissionless framework, which like a permissionless framework, which means that either they have to find a means that either they have to find a means that either they have to find a workound to curate or cater assets to workound to curate or cater assets to workound to curate or cater assets to users where they'll develop that user users where they'll develop that user users where they'll develop that user trust or it'll be someone like you guys trust or it'll be someone like you guys trust or it'll be someone like you guys or Coinbase who's doing the curation or Coinbase who's doing the curation or Coinbase who's doing the curation work and users will say, "Oh, I trust work and users will say, "Oh, I trust work and users will say, "Oh, I trust Birch Hill or I trust Coinbase cuz Birch Hill or I trust Coinbase cuz Birch Hill or I trust Coinbase cuz they're selecting the reputable morph they're selecting the reputable morph they're selecting the reputable morph opportunities for me." I think that's an opportunities for me." I think that's an opportunities for me." I think that's an incredibly astute observation which is incredibly astute observation which is incredibly astute observation which is as these protocols have acted as both as these protocols have acted as both as these protocols have acted as both frontends as well as infrastructure at frontends as well as infrastructure at frontends as well as infrastructure at massive scale
+u0002t's likely that I think massive scale
+u0002t's likely that I think massive scale
+u0002t's likely that I think they might have to choose one or the they might have to choose one or the they might have to choose one or the other
+u0002or me, it seems like Morpho is other
+u0002or me, it seems like Morpho is other
+u0002or me, it seems like Morpho is really choosing that infrastructure really choosing that infrastructure really choosing that infrastructure scale, which is what gets us so excited scale, which is what gets us so excited scale, which is what gets us so excited about working with them as a platform. about working with them as a platform. about working with them as a platform
+u0002ut it does bode the question of who is But it does bode the question of who is But it does bode the question of who is accountable for displaying a certain accountable for displaying a certain accountable for displaying a certain market to an end user that does have an market to an end user that does have an market to an end user that does have an issue
+u0002ust because it's isolated risk issue
+u0002ust because it's isolated risk issue
+u0002ust because it's isolated risk does not mean there's no risk by any does not mean there's no risk by any does not mean there's no risk by any means
+u0002here's certain markets offered means
+u0002here's certain markets offered means
+u0002here's certain markets offered within the isolated market context that within the isolated market context that within the isolated market context that are highly risky with very volatile are highly risky with very volatile are highly risky with very volatile collateral bases
+u0002hat's not where collateral bases
+u0002hat's not where collateral bases
+u0002hat's not where Birchill is focusing on those kind of Birchill is focusing on those kind of Birchill is focusing on those kind of opportunities
+u0002bviously, they're opportunities
+u0002bviously, they're opportunities
+u0002bviously, they're curators who are specialized in those curators who are specialized in those curators who are specialized in those markets
+u0002nd I think at scale, you are markets
+u0002nd I think at scale, you are markets
+u0002nd I think at scale, you are right
+u0002t becomes a question of who is right
+u0002t becomes a question of who is right
+u0002t becomes a question of who is responsible for that user at the end of responsible for that user at the end of responsible for that user at the end of the day
+u0002o, I see it as curators and the day
+u0002o, I see it as curators and the day
+u0002o, I see it as curators and these applications are going to be these applications are going to be these applications are going to be owning the eventual front end
+u0002'm very owning the eventual front end
+u0002'm very owning the eventual front end
+u0002'm very curious to see how a bit wise who've curious to see how a bit wise who've curious to see how a bit wise who've recently announced that they're going to recently announced that they're going to recently announced that they're going to be launching a vault take this approach be launching a vault take this approach be launching a vault take this approach as a US regulated ETF issuer
+u0002t's going as a US regulated ETF issuer
+u0002t's going as a US regulated ETF issuer
+u0002t's going to be very interesting of I don't expect to be very interesting of I don't expect to be very interesting of I don't expect that they will be on the morpho front that they will be on the morpho front that they will be on the morpho front end for accessibility and to see how end for accessibility and to see how end for accessibility and to see how they go about doing something like this they go about doing something like this they go about doing something like this will be interesting to watch. will be interesting to watch. will be interesting to watch. >> How do you guys assess counterparty or >> How do you guys assess counterparty or >> How do you guys assess counterparty or platform risk
+u0002ecause I imagine you're platform risk
+u0002ecause I imagine you're platform risk
+u0002ecause I imagine you're working with Morpho, but you probably working with Morpho, but you probably working with Morpho, but you probably get pitched by a lot of these lending get pitched by a lot of these lending get pitched by a lot of these lending markets
+u0002t the same time, you get markets
+u0002t the same time, you get markets
+u0002t the same time, you get pitched by issuers of a new US Treasury pitched by issuers of a new US Treasury pitched by issuers of a new US Treasury back token or a new gold back token
+u0002ow back token or a new gold back token
+u0002ow back token or a new gold back token
+u0002ow do you assess the risk that you're do you assess the risk that you're do you assess the risk that you're taking on by potentially working with taking on by potentially working with taking on by potentially working with these folks and who's kosher to work these folks and who's kosher to work these folks and who's kosher to work with? with? with? >> I really appreciate my background as an >> I really appreciate my background as an >> I really appreciate my background as an investor when it comes to this having investor when it comes to this having investor when it comes to this having won a lot of context from my past career won a lot of context from my past career won a lot of context from my past career at Tentee and co-founding Halo on a lot at Tentee and co-founding Halo on a lot at Tentee and co-founding Halo on a lot of the existing players in the space
+u0002o of the existing players in the space
+u0002o of the existing players in the space
+u0002o leveraging those relationships has been leveraging those relationships has been leveraging those relationships has been helpful in my own context on the market. helpful in my own context on the market. helpful in my own context on the market
+u0002ut when it comes to a new player, I But when it comes to a new player, I But when it comes to a new player, I think for us, we're assessing operating think for us, we're assessing operating think for us, we're assessing operating history, existing partner stack, and history, existing partner stack, and history, existing partner stack, and really working with our third party really working with our third party really working with our third party partners to help us assess risk when it partners to help us assess risk when it partners to help us assess risk when it comes to something we may not be the comes to something we may not be the comes to something we may not be the best to assess
+u0002o when it comes to best to assess
+u0002o when it comes to best to assess
+u0002o when it comes to smart contract risk, really working with smart contract risk, really working with smart contract risk, really working with some of the top politing firms that we some of the top politing firms that we some of the top politing firms that we have relationships in the space who are have relationships in the space who are have relationships in the space who are bestin-class at assessing those kinds of bestin-class at assessing those kinds of bestin-class at assessing those kinds of risks, even traditional companies, but risks, even traditional companies, but risks, even traditional companies, but even chatting with some of the more even chatting with some of the more even chatting with some of the more onchain native folks, think folks like onchain native folks, think folks like onchain native folks, think folks like Year and their new Y audit program to Year and their new Y audit program to Year and their new Y audit program to really try to get who is bestin-class at really try to get who is bestin-class at really try to get who is bestin-class at assessing that counterparty risk
+u0002 do assessing that counterparty risk
+u0002 do assessing that counterparty risk
+u0002 do think is an important factor
+u0002nd when think is an important factor
+u0002nd when think is an important factor
+u0002nd when we think about our own I would say key we think about our own I would say key we think about our own I would say key management, key setup, a lot of the management, key setup, a lot of the management, key setup, a lot of the hacks and exploits we've seen in the hacks and exploits we've seen in the hacks and exploits we've seen in the space have been in a lot of cases space have been in a lot of cases space have been in a lot of cases fishing based and may not even be an fishing based and may not even be an fishing based and may not even be an underlying smart contract vulnerability underlying smart contract vulnerability underlying smart contract vulnerability in some cases but it's your own opsac in some cases but it's your own opsac in some cases but it's your own opsac your own business practice security and your own business practice security and your own business practice security and so really trying to be cognizant of how so really trying to be cognizant of how so really trying to be cognizant of how we approach that
+u0002 think we're going to we approach that
+u0002 think we're going to we approach that
+u0002 think we're going to be trying to go for our own socket type be trying to go for our own socket type be trying to go for our own socket type 2 reporting classification under our own 2 reporting classification under our own 2 reporting classification under our own business and those operational checks business and those operational checks business and those operational checks really force a level of sophistication really force a level of sophistication really force a level of sophistication and security in our own internal and security in our own internal and security in our own internal practices
+u0002s you're thinking about each practices
+u0002s you're thinking about each practices
+u0002s you're thinking about each of these markets, let's say I'm a user of these markets, let's say I'm a user of these markets, let's say I'm a user and I want to use DeFi
+u0002 want to go buy and I want to use DeFi
+u0002 want to go buy and I want to use DeFi
+u0002 want to go buy a yield bearing asset and borrow against a yield bearing asset and borrow against a yield bearing asset and borrow against it. talking about these risks, how do it. talking about these risks, how do it. talking about these risks, how do you assess the actual surface area of you assess the actual surface area of you assess the actual surface area of each of these risks that are each of these risks that are each of these risks that are historically present in DeFi
+u0002ecause historically present in DeFi
+u0002ecause historically present in DeFi
+u0002ecause I'd say if I do that, the risks you're I'd say if I do that, the risks you're I'd say if I do that, the risks you're presented with are the asset DPEGs or presented with are the asset DPEGs or presented with are the asset DPEGs or the underlying is fraudulent for some the underlying is fraudulent for some the underlying is fraudulent for some reason like that
+u0002mart contract risk. reason like that
+u0002mart contract risk. reason like that
+u0002mart contract risk
+u0002o that there's underlying morpho smart So that there's underlying morpho smart So that there's underlying morpho smart contract risk
+u0002 have a problem on my contract risk
+u0002 have a problem on my contract risk
+u0002 have a problem on my side with my key management
+u0002hat's a side with my key management
+u0002hat's a side with my key management
+u0002hat's a risk
+u0002here's browser end risk
+u0002s there risk
+u0002here's browser end risk
+u0002s there risk
+u0002here's browser end risk
+u0002s there something that's pertinent to you guys something that's pertinent to you guys something that's pertinent to you guys when you're looking at this risk stack? when you're looking at this risk stack? when you're looking at this risk stack
+u0002o you think there's each somewhat Do you think there's each somewhat Do you think there's each somewhat analogous to each other and there's a analogous to each other and there's a analogous to each other and there's a probability of each or tangibly how do probability of each or tangibly how do probability of each or tangibly how do you think users are getting hurt here you think users are getting hurt here you think users are getting hurt here the most
+u0002 think for us with our focus the most
+u0002 think for us with our focus the most
+u0002 think for us with our focus being a lot more around call it real being a lot more around call it real being a lot more around call it real world assets think traditional credit world assets think traditional credit world assets think traditional credit funds coming on chain like the Apollo funds coming on chain like the Apollo funds coming on chain like the Apollo Acreds there's a lot of lessons to be Acreds there's a lot of lessons to be Acreds there's a lot of lessons to be learned from the permissionless crypto learned from the permissionless crypto learned from the permissionless crypto yield bearing assets and how those yield bearing assets and how those yield bearing assets and how those vaults function when working with these vaults function when working with these vaults function when working with these RWA collateral assets as well that are RWA collateral assets as well that are RWA collateral assets as well that are functionally doing something similar functionally doing something similar functionally doing something similar just with a real asset backing behind just with a real asset backing behind just with a real asset backing behind it
+u0002o things like calculating onchain it
+u0002o things like calculating onchain it
+u0002o things like calculating onchain net asset value becomes really important net asset value becomes really important net asset value becomes really important to how you are doing that and how you to how you are doing that and how you to how you are doing that and how you are reliably showing and displaying what are reliably showing and displaying what are reliably showing and displaying what the net asset value of your underlying the net asset value of your underlying the net asset value of your underlying product is whether it's crypto product is whether it's crypto product is whether it's crypto collateral or real world asset collateral or real world asset collateral or real world asset collateral
+u0002hat's a great point
+u0002hat collateral
+u0002hat's a great point
+u0002hat collateral
+u0002hat's a great point
+u0002hat is a key component to check having a is a key component to check having a is a key component to check having a real guardian in place to assess on real guardian in place to assess on real guardian in place to assess on supply cap changes on supply cap changes on supply cap changes on >> it's a trady risk by the way the number >> it's a trady risk by the way the number >> it's a trady risk by the way the number of bad net asset value reporting across of bad net asset value reporting across of bad net asset value reporting across funds and tradi accounting for funds funds and tradi accounting for funds funds and tradi accounting for funds it's an everpresent one it's an everpresent one it's an everpresent one >> and you're seeing that I think permeate >> and you're seeing that I think permeate >> and you're seeing that I think permeate into some of the business plans and the into some of the business plans and the into some of the business plans and the reason we've been winning some of these reason we've been winning some of these reason we've been winning some of these institutional business and folks we're institutional business and folks we're institutional business and folks we're chatting with it is NAV being chatting with it is NAV being chatting with it is NAV being misreported is not a problem only in misreported is not a problem only in misreported is not a problem only in crypto It happens something in every crypto It happens something in every crypto It happens something in every single financial industry and what single financial industry and what single financial industry and what really is net asset value becomes really is net asset value becomes really is net asset value becomes important to track
+u0002ight now the BDC important to track
+u0002ight now the BDC important to track
+u0002ight now the BDC going public is like a very common going public is like a very common going public is like a very common thing
+u0002 lot of these interval funds are thing
+u0002 lot of these interval funds are thing
+u0002 lot of these interval funds are flipping to just publicly listed flipping to just publicly listed flipping to just publicly listed securities and trading way off net asset securities and trading way off net asset securities and trading way off net asset value 30 40% off
+u0002he truth is a lot of value 30 40% off
+u0002he truth is a lot of value 30 40% off
+u0002he truth is a lot of these net asset values are inflated. these net asset values are inflated. these net asset values are inflated
+u0002eople are afraid to mark their books to People are afraid to mark their books to People are afraid to mark their books to market on what the actual value of the market on what the actual value of the market on what the actual value of the underlying assets are
+u0002hink real estate underlying assets are
+u0002hink real estate underlying assets are
+u0002hink real estate for example
+u0002 lot of loans were made for example
+u0002 lot of loans were made for example
+u0002 lot of loans were made back when I was at Goldman in 2018 when back when I was at Goldman in 2018 when back when I was at Goldman in 2018 when rates were far lower
+u0002nd not just at rates were far lower
+u0002nd not just at rates were far lower
+u0002nd not just at Goldman, but every single financial Goldman, but every single financial Goldman, but every single financial institution that issued 10-year paper at institution that issued 10-year paper at institution that issued 10-year paper at that time
+u0002hose assets are no longer at that time
+u0002hose assets are no longer at that time
+u0002hose assets are no longer at the same cap rates that they were the same cap rates that they were the same cap rates that they were trading at back then
+u0002nd the debt may trading at back then
+u0002nd the debt may trading at back then
+u0002nd the debt may actually be no longer accretive for some actually be no longer accretive for some actually be no longer accretive for some of these cases
+u0002nd so you're seeing of these cases
+u0002nd so you're seeing of these cases
+u0002nd so you're seeing people in the traditional lending people in the traditional lending people in the traditional lending markets giving back the keys in the case markets giving back the keys in the case markets giving back the keys in the case for real estate or also just defaulting for real estate or also just defaulting for real estate or also just defaulting on a lot of these loans
+u0002o having NAV on a lot of these loans
+u0002o having NAV on a lot of these loans
+u0002o having NAV be accurate, updated, real time onchain be accurate, updated, real time onchain be accurate, updated, real time onchain is something that we think can be is something that we think can be is something that we think can be extremely beneficial to not just digital extremely beneficial to not just digital extremely beneficial to not just digital assets but also real world assets. assets but also real world assets. assets but also real world assets. >> Yeah, I completely agree
+u0002his is a >> Yeah, I completely agree
+u0002his is a >> Yeah, I completely agree
+u0002his is a blunt question, but I think it's one blunt question, but I think it's one blunt question, but I think it's one that would be informative for me that would be informative for me that would be informative for me frankly, I think for anyone listening, frankly, I think for anyone listening, frankly, I think for anyone listening, which is how do you guys to generalize which is how do you guys to generalize which is how do you guys to generalize to curators make money for the most to curators make money for the most to curators make money for the most part
+u0002nd then by extension, what's the part
+u0002nd then by extension, what's the part
+u0002nd then by extension, what's the best way for users to think about how best way for users to think about how best way for users to think about how these other folks in the DeFi stack make these other folks in the DeFi stack make these other folks in the DeFi stack make money
+u0002o through an engagement that you money
+u0002o through an engagement that you money
+u0002o through an engagement that you do with Morpho or whether it's through a do with Morpho or whether it's through a do with Morpho or whether it's through a Coinbase integration like where are Coinbase integration like where are Coinbase integration like where are people making money in this stack? people making money in this stack? people making money in this stack? >> I would say there's two ways people are >> I would say there's two ways people are >> I would say there's two ways people are making money
+u0002n one case it's these making money
+u0002n one case it's these making money
+u0002n one case it's these long-term consulting arrangements they long-term consulting arrangements they long-term consulting arrangements they have with various either protocol Dows have with various either protocol Dows have with various either protocol Dows that are paying risk managers
+u0002he one I that are paying risk managers
+u0002he one I that are paying risk managers
+u0002he one I like to think about most clearly is A like to think about most clearly is A like to think about most clearly is A and Chaos Labs where Chaos is the third and Chaos Labs where Chaos is the third and Chaos Labs where Chaos is the third party risk company that helps manage all party risk company that helps manage all party risk company that helps manage all of A's internal risk
+u0002he other way is of A's internal risk
+u0002he other way is of A's internal risk
+u0002he other way is strictly asset management performance strictly asset management performance strictly asset management performance fees typical of how a fund manager fees typical of how a fund manager fees typical of how a fund manager typically operates
+u0002here's the gray typically operates
+u0002here's the gray typically operates
+u0002here's the gray area I would say about whether these are area I would say about whether these are area I would say about whether these are onchain funds in some capacity or if onchain funds in some capacity or if onchain funds in some capacity or if digital assets being curated and is that digital assets being curated and is that digital assets being curated and is that also classified as a security
+u0002 think also classified as a security
+u0002 think also classified as a security
+u0002 think we're operating under the assumption we're operating under the assumption we're operating under the assumption that we would eventually like to that we would eventually like to that we would eventually like to register whenever we need to do so. register whenever we need to do so. register whenever we need to do so
+u0002urrently, we don't have any assets that Currently, we don't have any assets that Currently, we don't have any assets that we manage, but our approach is to come we manage, but our approach is to come we manage, but our approach is to come at this from a proper asset management at this from a proper asset management at this from a proper asset management sense because that really is what is sense because that really is what is sense because that really is what is happening. happening. happening. >> And if you think about it, with that in >> And if you think about it, with that in >> And if you think about it, with that in mind, the firms that are already mind, the firms that are already mind, the firms that are already registered as asset managers would registered as asset managers would registered as asset managers would probably do really well as part of this probably do really well as part of this probably do really well as part of this market structure
+u0002nd you guys are market structure
+u0002nd you guys are market structure
+u0002nd you guys are positive sums
+u0002o, I would think you positive sums
+u0002o, I would think you positive sums
+u0002o, I would think you think about it this way, too. think about it this way, too. think about it this way, too. >> I totally think so
+u0002 expect a lot of >> I totally think so
+u0002 expect a lot of >> I totally think so
+u0002 expect a lot of these traditional asset managers to come these traditional asset managers to come these traditional asset managers to come on chain
+u0002deally, I'd like to hope that on chain
+u0002deally, I'd like to hope that on chain
+u0002deally, I'd like to hope that they're going to need the help of they're going to need the help of they're going to need the help of someone like a Birchill to really do someone like a Birchill to really do someone like a Birchill to really do this in a native way, yet still be a this in a native way, yet still be a this in a native way, yet still be a creative to the traditional financial creative to the traditional financial creative to the traditional financial institutions and customers that they're institutions and customers that they're institutions and customers that they're servicing. servicing. servicing. >> What do you think of the consulting >> What do you think of the consulting >> What do you think of the consulting style model versus the asset management style model versus the asset management style model versus the asset management style model as a business model? style model as a business model? style model as a business model? >> For us, we think about consulting as the >> For us, we think about consulting as the >> For us, we think about consulting as the way to keep the lights on for the way to keep the lights on for the way to keep the lights on for the business
+u0002ut really, it's to develop business
+u0002ut really, it's to develop business
+u0002ut really, it's to develop that relationship with that client
+u0002 that relationship with that client
+u0002 that relationship with that client
+u0002 think that's where it really matters for think that's where it really matters for think that's where it really matters for us
+u0002ur focus really is as an asset us
+u0002ur focus really is as an asset us
+u0002ur focus really is as an asset manager
+u0002he consulting really is it manager
+u0002he consulting really is it manager
+u0002he consulting really is it takes some time to get these traditional takes some time to get these traditional takes some time to get these traditional financial institutions over the line and financial institutions over the line and financial institutions over the line and to educate them to explain what really to educate them to explain what really to educate them to explain what really is going on, how it's a creative to is going on, how it's a creative to is going on, how it's a creative to their business and really honing in on their business and really honing in on their business and really honing in on what specifically that should be has what specifically that should be has what specifically that should be has been a I would say a value ad on our end been a I would say a value ad on our end been a I would say a value ad on our end for the client but also really helpful for the client but also really helpful for the client but also really helpful for our core business as it grows and for our core business as it grows and for our core business as it grows and scales
+u0002hat's your view on the state of scales
+u0002hat's your view on the state of scales
+u0002hat's your view on the state of the market of the offerings that someone the market of the offerings that someone the market of the offerings that someone sees right now on these lending sees right now on these lending sees right now on these lending platforms
+u0002nd obviously that's a platforms
+u0002nd obviously that's a platforms
+u0002nd obviously that's a product of who the issuers in market product of who the issuers in market product of who the issuers in market are, who the other curators are, who the are, who the other curators are, who the are, who the other curators are, who the lending platforms are, and frankly the lending platforms are, and frankly the lending platforms are, and frankly the amount that people are putting money amount that people are putting money amount that people are putting money into each of these cuz that establishes into each of these cuz that establishes into each of these cuz that establishes their prominence
+u0002o you think there's a their prominence
+u0002o you think there's a their prominence
+u0002o you think there's a high quality opportunity set right now? high quality opportunity set right now? high quality opportunity set right now
+u0002o you think there's going to be a lot Do you think there's going to be a lot Do you think there's going to be a lot of turnover in who the actors are
+u0002o of turnover in who the actors are
+u0002o of turnover in who the actors are
+u0002o you think we'll see a different set of you think we'll see a different set of you think we'll see a different set of assets
+u0002o altcoins need to get out of assets
+u0002o altcoins need to get out of assets
+u0002o altcoins need to get out of the way
+u0002hat do you view as the state the way
+u0002hat do you view as the state the way
+u0002hat do you view as the state of the market here? of the market here? of the market here? >> I think right now the state of the >> I think right now the state of the >> I think right now the state of the market's an interesting place because market's an interesting place because market's an interesting place because you have a couple big players who really you have a couple big players who really you have a couple big players who really are I would call generalist players. are I would call generalist players. are I would call generalist players
+u0002hese are the what's stakehouses of the These are the what's stakehouses of the These are the what's stakehouses of the world and they touch everything
+u0002hether world and they touch everything
+u0002hether world and they touch everything
+u0002hether that's real world assets, digital that's real world assets, digital that's real world assets, digital assets, looping, staking, bespoke per assets, looping, staking, bespoke per assets, looping, staking, bespoke per related strategies, they really touch it related strategies, they really touch it related strategies, they really touch it all
+u0002hey're some of the smartest people all
+u0002hey're some of the smartest people all
+u0002hey're some of the smartest people in the space
+u0002here I think the market's in the space
+u0002here I think the market's in the space
+u0002here I think the market's evolving is going to be more specialized evolving is going to be more specialized evolving is going to be more specialized specific curators
+u0002he truth is a real specific curators
+u0002he truth is a real specific curators
+u0002he truth is a real estate fund may not want to work with a estate fund may not want to work with a estate fund may not want to work with a more generalist curator and want to work more generalist curator and want to work more generalist curator and want to work with somebody who's more specialized and with somebody who's more specialized and with somebody who's more specialized and focused on that specific specialty
+u0002nd focused on that specific specialty
+u0002nd focused on that specific specialty
+u0002nd that's how I expect the curator set to that's how I expect the curator set to that's how I expect the curator set to start broadening out
+u0002ou're starting to start broadening out
+u0002ou're starting to start broadening out
+u0002ou're starting to see folks focus on tokenized credit card see folks focus on tokenized credit card see folks focus on tokenized credit card receivables
+u0002hat's very different than receivables
+u0002hat's very different than receivables
+u0002hat's very different than some place that Verill might have area some place that Verill might have area some place that Verill might have area expertise in
+u0002nd so the same way how expertise in
+u0002nd so the same way how expertise in
+u0002nd so the same way how the asset management space has mega the asset management space has mega the asset management space has mega asset managers, the Vanguards, the Black asset managers, the Vanguards, the Black asset managers, the Vanguards, the Black Rockcks of the world, you also have Rockcks of the world, you also have Rockcks of the world, you also have specialty asset managers like PIMCO who specialty asset managers like PIMCO who specialty asset managers like PIMCO who focus specifically on credit, you also focus specifically on credit, you also focus specifically on credit, you also have traditional private equity players have traditional private equity players have traditional private equity players like the KKRS and Cariles of the world. like the KKRS and Cariles of the world. like the KKRS and Cariles of the world
+u0002ou also have macro funds, think You also have macro funds, think You also have macro funds, think Bridgewwater
+u0002nd I think that's how I Bridgewwater
+u0002nd I think that's how I Bridgewwater
+u0002nd I think that's how I expect the curator space to start expect the curator space to start expect the curator space to start expanding and broadening. expanding and broadening. expanding and broadening. >> Do you think ultimately with that in >> Do you think ultimately with that in >> Do you think ultimately with that in mind, Gauntlet, Steakhouse, each of mind, Gauntlet, Steakhouse, each of mind, Gauntlet, Steakhouse, each of these platforms evolves into a front-end these platforms evolves into a front-end these platforms evolves into a front-end centric userfacing platform
+u0002o you centric userfacing platform
+u0002o you centric userfacing platform
+u0002o you think that's what the engagement with think that's what the engagement with think that's what the engagement with the user looks like here? the user looks like here? the user looks like here? >> Eventually, you're starting to see >> Eventually, you're starting to see >> Eventually, you're starting to see things like that
+u0002ou have Steakhouse things like that
+u0002ou have Steakhouse things like that
+u0002ou have Steakhouse issued Grove, which is a little bit issued Grove, which is a little bit issued Grove, which is a little bit different, more of like an allocator different, more of like an allocator different, more of like an allocator engine
+u0002ou have Gauntlet, who issued engine
+u0002ou have Gauntlet, who issued engine
+u0002ou have Gauntlet, who issued ARA, which is their vault's front end ARA, which is their vault's front end ARA, which is their vault's front end platform
+u0002o, I do see it starting to platform
+u0002o, I do see it starting to platform
+u0002o, I do see it starting to happen to be announced yet what Birch happen to be announced yet what Birch happen to be announced yet what Birch Hill will be doing, which we'll announce Hill will be doing, which we'll announce Hill will be doing, which we'll announce shortly, but shortly, but shortly, but >> I do expect that to happen
+u0002hanks. >> I do expect that to happen
+u0002hanks. >> I do expect that to happen
+u0002hanks. >> And what about on the capital side
+u0002re >> And what about on the capital side
+u0002re >> And what about on the capital side
+u0002re you seeing that these new products on you seeing that these new products on you seeing that these new products on chain, whether it's real estate, whether chain, whether it's real estate, whether chain, whether it's real estate, whether it's tokenized equity, are they able to it's tokenized equity, are they able to it's tokenized equity, are they able to go raise capital, are these getting go raise capital, are these getting go raise capital, are these getting listed on decentralized venues or crypto listed on decentralized venues or crypto listed on decentralized venues or crypto brokerages and getting deposits or is it brokerages and getting deposits or is it brokerages and getting deposits or is it difficult or where would you peg it? difficult or where would you peg it? difficult or where would you peg it? >> When you asked your question before, >> When you asked your question before, >> When you asked your question before, where's the market right now
+u0002 think where's the market right now
+u0002 think where's the market right now
+u0002 think the market is starving for highquality the market is starving for highquality the market is starving for highquality real world assets to come on chain. real world assets to come on chain. real world assets to come on chain
+u0002here's a lot of capital chasing few There's a lot of capital chasing few There's a lot of capital chasing few opportunities right now
+u0002o one of the opportunities right now
+u0002o one of the opportunities right now
+u0002o one of the things we've seen as a curator is it's things we've seen as a curator is it's things we've seen as a curator is it's not only our job to do the risk not only our job to do the risk not only our job to do the risk management asset management of these management asset management of these management asset management of these assets but really to help bring the assets but really to help bring the assets but really to help bring the origination of net new highquality origination of net new highquality origination of net new highquality assets on chain
+u0002o working with the assets on chain
+u0002o working with the assets on chain
+u0002o working with the clients on the solution side has been clients on the solution side has been clients on the solution side has been really helpful to get that first step really helpful to get that first step really helpful to get that first step over the line which really has been our over the line which really has been our over the line which really has been our focus to start which is just help focus to start which is just help focus to start which is just help educate highquality asset managers to educate highquality asset managers to educate highquality asset managers to bring their assets on chain. you're bring their assets on chain. you're bring their assets on chain. you're seeing the trend from traditional asset seeing the trend from traditional asset seeing the trend from traditional asset managers trying to broaden out who their managers trying to broaden out who their managers trying to broaden out who their client set is from purely a few pension client set is from purely a few pension client set is from purely a few pension funds here and there who are investing funds here and there who are investing funds here and there who are investing into their vehicles into being a more into their vehicles into being a more into their vehicles into being a more broader offering and I think this broader offering and I think this broader offering and I think this onchain suite fits really nicely in that onchain suite fits really nicely in that onchain suite fits really nicely in that and it's no longer I would say a and it's no longer I would say a and it's no longer I would say a conversation of if and more of a conversation of if and more of a conversation of if and more of a question of when and our goal is to make question of when and our goal is to make question of when and our goal is to make that happen as soon as possible that happen as soon as possible that happen as soon as possible >> when you look at the world of >> when you look at the world of >> when you look at the world of traditional investment products so you traditional investment products so you traditional investment products so you have ETFs and you bonds with ETFs, Cuba have ETFs and you bonds with ETFs, Cuba have ETFs and you bonds with ETFs, Cuba distribution where the big ones are distribution where the big ones are distribution where the big ones are really big but there is a longer tail really big but there is a longer tail really big but there is a longer tail when you think about the future of when you think about the future of when you think about the future of onchain products
+u0002o you think there's a onchain products
+u0002o you think there's a onchain products
+u0002o you think there's a lot of concentration among a smaller lot of concentration among a smaller lot of concentration among a smaller number
+u0002s there something about like number
+u0002s there something about like number
+u0002s there something about like the ethos of Bitcoin and the early the ethos of Bitcoin and the early the ethos of Bitcoin and the early crypto assets being very centered around crypto assets being very centered around crypto assets being very centered around individual assets where you're more individual assets where you're more individual assets where you're more likely to have a couple central ones and likely to have a couple central ones and likely to have a couple central ones and the longer tail is less meaningful or do the longer tail is less meaningful or do the longer tail is less meaningful or do you think you have a meaningful longer you think you have a meaningful longer you think you have a meaningful longer tail
+u0002n the digital asset specifically, tail
+u0002n the digital asset specifically, tail
+u0002n the digital asset specifically, you will see a lot of folks leveraging you will see a lot of folks leveraging you will see a lot of folks leveraging Bitcoin as what it is, pristine Bitcoin as what it is, pristine Bitcoin as what it is, pristine collateral to borrow stable coins and collateral to borrow stable coins and collateral to borrow stable coins and really for this asset liability matching really for this asset liability matching really for this asset liability matching engine to happen at scale of borrowing engine to happen at scale of borrowing engine to happen at scale of borrowing stables at 4 5% and depositing into what stables at 4 5% and depositing into what stables at 4 5% and depositing into what you think of as a safely riskmanage you think of as a safely riskmanage you think of as a safely riskmanage opportunity at 8 9 10% and capturing opportunity at 8 9 10% and capturing opportunity at 8 9 10% and capturing that 3 to 5% spread
+u0002hat really is the that 3 to 5% spread
+u0002hat really is the that 3 to 5% spread
+u0002hat really is the business that a lot of the mega asset business that a lot of the mega asset business that a lot of the mega asset managers are starting to play with folks managers are starting to play with folks managers are starting to play with folks like Apolloquene like Apolloquene like Apolloquene or KKR acquiring Global Atlantic or KKR acquiring Global Atlantic or KKR acquiring Global Atlantic Financial Group
+u0002hese insurance Financial Group
+u0002hese insurance Financial Group
+u0002hese insurance premiums coming in and being invested premiums coming in and being invested premiums coming in and being invested from the asset manager on the other from the asset manager on the other from the asset manager on the other side
+u0002hat is something that I think is side
+u0002hat is something that I think is side
+u0002hat is something that I think is still being yet to develop on chain that still being yet to develop on chain that still being yet to develop on chain that is finally with Morpho V2 coming out is finally with Morpho V2 coming out is finally with Morpho V2 coming out with more fixed rate markets, fixed with more fixed rate markets, fixed with more fixed rate markets, fixed duration, customizable on the interest duration, customizable on the interest duration, customizable on the interest rate model, you're going to see an rate model, you're going to see an rate model, you're going to see an unlock of these new types of unlock of these new types of unlock of these new types of opportunities and really the expansion opportunities and really the expansion opportunities and really the expansion of the onchain credit curve coming right of the onchain credit curve coming right of the onchain credit curve coming right now
+u0002t's been a lot of T0, a lot of T1, now
+u0002t's been a lot of T0, a lot of T1, now
+u0002t's been a lot of T0, a lot of T1, maybe soon one month, 3 month type maybe soon one month, 3 month type maybe soon one month, 3 month type stuff
+u0002endall has really unlocked some stuff
+u0002endall has really unlocked some stuff
+u0002endall has really unlocked some stuff with the PTYTS and I expect that stuff with the PTYTS and I expect that stuff with the PTYTS and I expect that market structure to expand meaningfully. market structure to expand meaningfully. market structure to expand meaningfully. >> I have to say I think the point you made >> I have to say I think the point you made >> I have to say I think the point you made about Bitcoin being a very canonical about Bitcoin being a very canonical about Bitcoin being a very canonical asset that you alluded to is important asset that you alluded to is important asset that you alluded to is important because one of the fundamental trades is because one of the fundamental trades is because one of the fundamental trades is you can borrow Bitcoin or borrow against you can borrow Bitcoin or borrow against you can borrow Bitcoin or borrow against your Bitcoin and with the other asset your Bitcoin and with the other asset your Bitcoin and with the other asset being US dollars which is really cool being US dollars which is really cool being US dollars which is really cool because you can pretty much at any point because you can pretty much at any point because you can pretty much at any point put on a long Bitcoin short dollar trade put on a long Bitcoin short dollar trade put on a long Bitcoin short dollar trade or a long dollar short Bitcoin trade or a long dollar short Bitcoin trade or a long dollar short Bitcoin trade which I think was almost an underdised which I think was almost an underdised which I think was almost an underdised use case
+u0002hat's an incredibly powerful use case
+u0002hat's an incredibly powerful use case
+u0002hat's an incredibly powerful thing as someone who has to store money thing as someone who has to store money thing as someone who has to store money on a regular basis
+u0002he area that I'm on a regular basis
+u0002he area that I'm on a regular basis
+u0002he area that I'm probably just sad hasn't come to exist probably just sad hasn't come to exist probably just sad hasn't come to exist is more fiat currencies at scale on is more fiat currencies at scale on is more fiat currencies at scale on chain because I think even though it's chain because I think even though it's chain because I think even though it's not necessarily a utility based trade, not necessarily a utility based trade, not necessarily a utility based trade, the ability to use US dollars as the ability to use US dollars as the ability to use US dollars as collateral to borrow Mexican pesos or collateral to borrow Mexican pesos or collateral to borrow Mexican pesos or use Mexican pesos as collateral to use Mexican pesos as collateral to use Mexican pesos as collateral to borrow US, that's all I think an borrow US, that's all I think an borrow US, that's all I think an incredibly interesting design space incredibly interesting design space incredibly interesting design space because it lets you basically it lets because it lets you basically it lets because it lets you basically it lets you hedge the currency or country like you hedge the currency or country like you hedge the currency or country like where you live your life
+u0002o I'm just where you live your life
+u0002o I'm just where you live your life
+u0002o I'm just throwing that out
+u0002'm a little throwing that out
+u0002'm a little throwing that out
+u0002'm a little disappointed that that reality hasn't disappointed that that reality hasn't disappointed that that reality hasn't materialized that much. materialized that much. materialized that much. >> Totally
+u0002 think one thing as we get >> Totally
+u0002 think one thing as we get >> Totally
+u0002 think one thing as we get older and start realizing things, things older and start realizing things, things older and start realizing things, things like when you're buying a home, showing like when you're buying a home, showing like when you're buying a home, showing assets that you have to declare your assets that you have to declare your assets that you have to declare your creditworthiness to buy a home
+u0002or the creditworthiness to buy a home
+u0002or the creditworthiness to buy a home
+u0002or the longest time, Bitcoin wasn't allowed to longest time, Bitcoin wasn't allowed to longest time, Bitcoin wasn't allowed to be considered as any value that you had. be considered as any value that you had. be considered as any value that you had
+u0002 think a few unlocks changed that with I think a few unlocks changed that with I think a few unlocks changed that with the ETF being one
+u0002o, it's now in your the ETF being one
+u0002o, it's now in your the ETF being one
+u0002o, it's now in your brokerage account
+u0002o, that allowed it brokerage account
+u0002o, that allowed it brokerage account
+u0002o, that allowed it to be potentially being used for margin. to be potentially being used for margin. to be potentially being used for margin
+u0002ut you see home mortgage providers now But you see home mortgage providers now But you see home mortgage providers now beginning to look at things like Bitcoin beginning to look at things like Bitcoin beginning to look at things like Bitcoin and offer value and credit against that and offer value and credit against that and offer value and credit against that for your overall net worth and assets as for your overall net worth and assets as for your overall net worth and assets as it comes to originating a loan for you. it comes to originating a loan for you. it comes to originating a loan for you
+u0002hat buyin from the broader market is That buyin from the broader market is That buyin from the broader market is what's going to enable Bitcoin to really what's going to enable Bitcoin to really what's going to enable Bitcoin to really be used as collateral because I'm sure be used as collateral because I'm sure be used as collateral because I'm sure I'm not the only one who your average I'm not the only one who your average I'm not the only one who your average retail customer does not necessarily retail customer does not necessarily retail customer does not necessarily know that you could borrow against your know that you could borrow against your know that you could borrow against your Bitcoin on a Coinbase. you could borrow Bitcoin on a Coinbase. you could borrow Bitcoin on a Coinbase. you could borrow against your Bitcoin on a variety of against your Bitcoin on a variety of against your Bitcoin on a variety of centralized platforms, let alone the centralized platforms, let alone the centralized platforms, let alone the decentralized ones that we know about. decentralized ones that we know about. decentralized ones that we know about. >> I saw the dollar was down 1.3% the other >> I saw the dollar was down 1.3% the other >> I saw the dollar was down 1.3% the other day
+u0002t was incredible
+u0002ou don't even day
+u0002t was incredible
+u0002ou don't even day
+u0002t was incredible
+u0002ou don't even think about things like this. think about things like this. think about things like this. >> And like you said, that really matters >> And like you said, that really matters >> And like you said, that really matters more in the emerging markets too, right? more in the emerging markets too, right? more in the emerging markets too, right
+u0002here you can be in Argentina and you Where you can be in Argentina and you Where you can be in Argentina and you can have your currency DPEG by 20% in can have your currency DPEG by 20% in can have your currency DPEG by 20% in one day
+u0002o saving in Bitcoin or saving one day
+u0002o saving in Bitcoin or saving one day
+u0002o saving in Bitcoin or saving in dollars at that point is incredibly in dollars at that point is incredibly in dollars at that point is incredibly meaningful. meaningful. meaningful. >> Are stable coins going to be a big part >> Are stable coins going to be a big part >> Are stable coins going to be a big part of your guys' business or is it more of your guys' business or is it more of your guys' business or is it more tokenized asset classes
+u0002 think working tokenized asset classes
+u0002 think working tokenized asset classes
+u0002 think working with stable coins to help build out with stable coins to help build out with stable coins to help build out their onchain credit curve like I their onchain credit curve like I their onchain credit curve like I mentioned it's not just something that mentioned it's not just something that mentioned it's not just something that USDC and USDT want to do all these USDC and USDT want to do all these USDC and USDT want to do all these stable coins are trying to become units stable coins are trying to become units stable coins are trying to become units of account where comes for any asset of account where comes for any asset of account where comes for any asset manager and I think the way you do that manager and I think the way you do that manager and I think the way you do that is you denominate credit in that asset is you denominate credit in that asset is you denominate credit in that asset so that's the opportunity that we can so that's the opportunity that we can so that's the opportunity that we can help enable for certain stable coins and help enable for certain stable coins and help enable for certain stable coins and I think our plan is to really lean in on I think our plan is to really lean in on I think our plan is to really lean in on US dollar specific ones US dollar specific ones US dollar specific ones >> yeah that makes sense when you're >> yeah that makes sense when you're >> yeah that makes sense when you're talking about how you're tapping these talking about how you're tapping these talking about how you're tapping these onchain financial markets and different onchain financial markets and different onchain financial markets and different folks
+u0002ou mentioned credit
+u0002hat advice folks
+u0002ou mentioned credit
+u0002hat advice folks
+u0002ou mentioned credit
+u0002hat advice would you give to potential asset would you give to potential asset would you give to potential asset issuers
+u0002o, financial institutions who issuers
+u0002o, financial institutions who issuers
+u0002o, financial institutions who might be thinking about issuing an asset might be thinking about issuing an asset might be thinking about issuing an asset onchain, listing an asset on chain
+u0002ow onchain, listing an asset on chain
+u0002ow onchain, listing an asset on chain
+u0002ow would you work with someone like that? would you work with someone like that? would you work with someone like that
+u0002nd what do you think they should be And what do you think they should be And what do you think they should be thinking about
+u0002uz I think these thinking about
+u0002uz I think these thinking about
+u0002uz I think these problems are still difficult
+u0002 like to problems are still difficult
+u0002 like to problems are still difficult
+u0002 like to think about it not just for crypto, but think about it not just for crypto, but think about it not just for crypto, but really traditionally what's happened really traditionally what's happened really traditionally what's happened when people go to a technical solution. when people go to a technical solution. when people go to a technical solution
+u0002 think of something like Masterworks, I think of something like Masterworks, I think of something like Masterworks, which is we're going to buy a piece of which is we're going to buy a piece of which is we're going to buy a piece of extremely valuable luxury art, extremely valuable luxury art, extremely valuable luxury art, fractionalize it into millions of fractionalize it into millions of fractionalize it into millions of pieces, and sell it at a premium to pieces, and sell it at a premium to pieces, and sell it at a premium to retail
+u0002eally jamming retail with a bad retail
+u0002eally jamming retail with a bad retail
+u0002eally jamming retail with a bad price that they're never going to price that they're never going to price that they're never going to actually make any money on
+u0002f that is actually make any money on
+u0002f that is actually make any money on
+u0002f that is the approach of how you want to issue the approach of how you want to issue the approach of how you want to issue assets, I don't think you're going to assets, I don't think you're going to assets, I don't think you're going to have a meaningful longevity in this have a meaningful longevity in this have a meaningful longevity in this space
+u0002eally, where we're trying to space
+u0002eally, where we're trying to space
+u0002eally, where we're trying to work with folks is where can we find work with folks is where can we find work with folks is where can we find savings within your process
+u0002fficiency. savings within your process
+u0002fficiency. savings within your process
+u0002fficiency. >> Efficiency
+u0002xactly
+u0002oming from I used >> Efficiency
+u0002xactly
+u0002oming from I used >> Efficiency
+u0002xactly
+u0002oming from I used to be a CNBS originator when I was at to be a CNBS originator when I was at to be a CNBS originator when I was at Goldman
+u0002o understanding various Goldman
+u0002o understanding various Goldman
+u0002o understanding various counterparties in that system
+u0002here's a counterparties in that system
+u0002here's a counterparties in that system
+u0002here's a loan monitoring agent
+u0002here's a loan loan monitoring agent
+u0002here's a loan loan monitoring agent
+u0002here's a loan serer
+u0002here's various folks along that serer
+u0002here's various folks along that serer
+u0002here's various folks along that value chain that make up that 5 6% value chain that make up that 5 6% value chain that make up that 5 6% interest rate in BIPS
+u0002hink 25 bips for interest rate in BIPS
+u0002hink 25 bips for interest rate in BIPS
+u0002hink 25 bips for a serer
+u0002hese are illustrative numbers. a serer
+u0002hese are illustrative numbers. a serer
+u0002hese are illustrative numbers
+u0002hink 20 bips for a loan monitoring Think 20 bips for a loan monitoring Think 20 bips for a loan monitoring agent
+u0002liminating that by encoding agent
+u0002liminating that by encoding agent
+u0002liminating that by encoding legal contract agreements with smart legal contract agreements with smart legal contract agreements with smart contracts, things like morpho vaults, contracts, things like morpho vaults, contracts, things like morpho vaults, morpho markets is the thing I think we morpho markets is the thing I think we morpho markets is the thing I think we are trying to enable at scale and where are trying to enable at scale and where are trying to enable at scale and where birchill is trying to let us get to that birchill is trying to let us get to that birchill is trying to let us get to that next level with onchain credit. next level with onchain credit. next level with onchain credit. >> Are you guys able to do the off-chain >> Are you guys able to do the off-chain >> Are you guys able to do the off-chain automation side
+u0002o you plan to work automation side
+u0002o you plan to work automation side
+u0002o you plan to work with users when it comes to off-chain with users when it comes to off-chain with users when it comes to off-chain workflows as well
+u0002e're exploring some workflows as well
+u0002e're exploring some workflows as well
+u0002e're exploring some of the work on off-chain to onchain. of the work on off-chain to onchain. of the work on off-chain to onchain
+u0002eally leveraging things like ZKTLS and Really leveraging things like ZKTLS and Really leveraging things like ZKTLS and some of the new emerging primitives, but some of the new emerging primitives, but some of the new emerging primitives, but working closely with our partners to see working closely with our partners to see working closely with our partners to see what is that best-in-class offering that what is that best-in-class offering that what is that best-in-class offering that gets used at scale
+u0002nd there's a few gets used at scale
+u0002nd there's a few gets used at scale
+u0002nd there's a few folks we've been chatting with, folks folks we've been chatting with, folks folks we've been chatting with, folks like Opacity
+u0002've been doing some cool like Opacity
+u0002've been doing some cool like Opacity
+u0002've been doing some cool stuff on this front
+u0002o, definitely stuff on this front
+u0002o, definitely stuff on this front
+u0002o, definitely exploring how we can enable that because exploring how we can enable that because exploring how we can enable that because you're right, that is something that you're right, that is something that you're right, that is something that institutions are asking for. institutions are asking for. institutions are asking for. >> What assets do you think are going to >> What assets do you think are going to >> What assets do you think are going to grow the most predominantly here? in the grow the most predominantly here? in the grow the most predominantly here? in the near term as tokenized assets. near term as tokenized assets. near term as tokenized assets. >> Credit based assets that are yielding >> Credit based assets that are yielding >> Credit based assets that are yielding between 8 and 11% are extremely between 8 and 11% are extremely between 8 and 11% are extremely attractive to onchain markets
+u0002nd so attractive to onchain markets
+u0002nd so attractive to onchain markets
+u0002nd so it's not just these players like it's not just these players like it's not just these players like treasuries or protocols, but the treasuries or protocols, but the treasuries or protocols, but the emergence of I know they're trading well emergence of I know they're trading well emergence of I know they're trading well off their net asset value right now, but off their net asset value right now, but off their net asset value right now, but the DATs, these are folks who own large the DATs, these are folks who own large the DATs, these are folks who own large amounts of Ethereum, large amounts of amounts of Ethereum, large amounts of amounts of Ethereum, large amounts of Bitcoin, large amount of Salana that Bitcoin, large amount of Salana that Bitcoin, large amount of Salana that they need to be productive with said they need to be productive with said they need to be productive with said assets
+u0002nd they are looking for a safe assets
+u0002nd they are looking for a safe assets
+u0002nd they are looking for a safe real world asset exposure to put on that real world asset exposure to put on that real world asset exposure to put on that trade that we were discussing before. trade that we were discussing before. trade that we were discussing before. borrow against your base canonical borrow against your base canonical borrow against your base canonical capital asset whether that's Bitcoin in capital asset whether that's Bitcoin in capital asset whether that's Bitcoin in an ideal scenario but also Ethereum and an ideal scenario but also Ethereum and an ideal scenario but also Ethereum and Salana I think are approaching that real Salana I think are approaching that real Salana I think are approaching that real capital asset base standard to borrow capital asset base standard to borrow capital asset base standard to borrow dollars in order to asset liability dollars in order to asset liability dollars in order to asset liability match you into something a creative yeah match you into something a creative yeah match you into something a creative yeah I think credit's a great point because I think credit's a great point because I think credit's a great point because it's this very sizable yield market and it's this very sizable yield market and it's this very sizable yield market and when I think about the debate of how when I think about the debate of how when I think about the debate of how much of finance will transition to much of finance will transition to much of finance will transition to stable coins I think people think stable coins I think people think stable coins I think people think ideologically a lot or they want it to ideologically a lot or they want it to ideologically a lot or they want it to happen or don't want it to happen for happen or don't want it to happen for happen or don't want it to happen for one reason I look at the incentive one reason I look at the incentive one reason I look at the incentive structure sometimes
+u0002nd I think a structure sometimes
+u0002nd I think a structure sometimes
+u0002nd I think a reason people don't talk about why that reason people don't talk about why that reason people don't talk about why that could very well happen quickly is could very well happen quickly is could very well happen quickly is because it's a bit of a battle of the because it's a bit of a battle of the because it's a bit of a battle of the banks versus the private credit firms banks versus the private credit firms banks versus the private credit firms and the other major institutions because and the other major institutions because and the other major institutions because if those guys can help usher this if those guys can help usher this if those guys can help usher this transition away from bank deposits into transition away from bank deposits into transition away from bank deposits into stable coins, that capital's up for stable coins, that capital's up for stable coins, that capital's up for grabs for them now
+u0002hey can go and get grabs for them now
+u0002hey can go and get grabs for them now
+u0002hey can go and get people who are in stable coins because people who are in stable coins because people who are in stable coins because it's easy to get them converted over to it's easy to get them converted over to it's easy to get them converted over to tokenized credit
+u0002hereas if money's tokenized credit
+u0002hereas if money's tokenized credit
+u0002hereas if money's just in the closed loop bank system, just in the closed loop bank system, just in the closed loop bank system, they can't go get that source of they can't go get that source of they can't go get that source of capital
+u0002nd you look at the scale of capital
+u0002nd you look at the scale of capital
+u0002nd you look at the scale of Apollo and Black Rockck and some of Apollo and Black Rockck and some of Apollo and Black Rockck and some of these firms now, like it's pretty these firms now, like it's pretty these firms now, like it's pretty enticing for them to go and try and get enticing for them to go and try and get enticing for them to go and try and get the user deposits cuz they've already the user deposits cuz they've already the user deposits cuz they've already raised a lot of money from all the raised a lot of money from all the raised a lot of money from all the capital sources globally. capital sources globally. capital sources globally. >> It's true
+u0002ne thing I will say though >> It's true
+u0002ne thing I will say though >> It's true
+u0002ne thing I will say though is those folks are almost too big to is those folks are almost too big to is those folks are almost too big to want to innovate and like you said, want to innovate and like you said, want to innovate and like you said, they're afraid of disrupting themselves. they're afraid of disrupting themselves. they're afraid of disrupting themselves
+u0002 think Apollo I have a lot of respect I think Apollo I have a lot of respect I think Apollo I have a lot of respect for given that they do seem to really for given that they do seem to really for given that they do seem to really push on the digital asset narrative. push on the digital asset narrative. push on the digital asset narrative
+u0002hey seem like they've invested a lot of They seem like they've invested a lot of They seem like they've invested a lot of resources there
+u0002hey have a product on resources there
+u0002hey have a product on resources there
+u0002hey have a product on chain
+u0002ame with Black Rockck
+u0002 think chain
+u0002ame with Black Rockck
+u0002 think chain
+u0002ame with Black Rockck
+u0002 think it's even more meaningful for those it's even more meaningful for those it's even more meaningful for those middle market private credit firms where middle market private credit firms where middle market private credit firms where they can actually achieve a meaningful they can actually achieve a meaningful they can actually achieve a meaningful cost of capital difference that actually cost of capital difference that actually cost of capital difference that actually is an added incentive for them to come is an added incentive for them to come is an added incentive for them to come on chain
+u0002ot just that they see the on chain
+u0002ot just that they see the on chain
+u0002ot just that they see the puck is moving here, but because it's a puck is moving here, but because it's a puck is moving here, but because it's a cost of capital arbitrage they need to. cost of capital arbitrage they need to. cost of capital arbitrage they need to
+u0002hat is where I think we're at this very That is where I think we're at this very That is where I think we're at this very unique point in the market where they're unique point in the market where they're unique point in the market where they're starting to see that and they're trying starting to see that and they're trying starting to see that and they're trying to figure out what are the steps that we to figure out what are the steps that we to figure out what are the steps that we need to encode this in order to make need to encode this in order to make need to encode this in order to make this reality which is where a player this reality which is where a player this reality which is where a player like Birch Hill can help them not just like Birch Hill can help them not just like Birch Hill can help them not just think through how do you execute this on think through how do you execute this on think through how do you execute this on chain but how do you report for this chain but how do you report for this chain but how do you report for this what are the compliance functions you what are the compliance functions you what are the compliance functions you need on chain what are the third parties need on chain what are the third parties need on chain what are the third parties you need to be integrated with inside you need to be integrated with inside you need to be integrated with inside your operating stack to make this your operating stack to make this your operating stack to make this actually work seamlessly so that's the actually work seamlessly so that's the actually work seamlessly so that's the only caveat I would add is some of these only caveat I would add is some of these only caveat I would add is some of these middle market firms terms might be even middle market firms terms might be even middle market firms terms might be even better positioned
+u0002ut your point is better positioned
+u0002ut your point is better positioned
+u0002ut your point is well taken. well taken. well taken. >> It's a bit like when the digital >> It's a bit like when the digital >> It's a bit like when the digital brokerage model emerged
+u0002 think the brokerage model emerged
+u0002 think the brokerage model emerged
+u0002 think the traditional brokers were excited about traditional brokers were excited about traditional brokers were excited about it because they could go tap into an it because they could go tap into an it because they could go tap into an audience
+u0002ut at the same time, if you audience
+u0002ut at the same time, if you audience
+u0002ut at the same time, if you want to disrupt what you have, but you want to disrupt what you have, but you want to disrupt what you have, but you have E Trade and some of these platforms have E Trade and some of these platforms have E Trade and some of these platforms come out where they build major come out where they build major come out where they build major businesses cuz they were compelled to go businesses cuz they were compelled to go businesses cuz they were compelled to go out and be like, "Oh, this can be a out and be like, "Oh, this can be a out and be like, "Oh, this can be a niche for us." Now, Bob and touch on how niche for us." Now, Bob and touch on how niche for us." Now, Bob and touch on how you guys can help any client who comes you guys can help any client who comes you guys can help any client who comes to you guys generally
+u0002hat do you do to you guys generally
+u0002hat do you do to you guys generally
+u0002hat do you do when you're onboarding folks and how can when you're onboarding folks and how can when you're onboarding folks and how can people get in touch with you? for us. people get in touch with you? for us. people get in touch with you? for us
+u0002eaching out directly to me at Twitter Reaching out directly to me at Twitter Reaching out directly to me at Twitter atrealbinvade atrealbinvade atrealbinvade or on my email bvver birchill.io is the or on my email bvver birchill.io is the or on my email bvver birchill.io is the best way to get in touch
+u0002hether it's best way to get in touch
+u0002hether it's best way to get in touch
+u0002hether it's working with you as a solutions client working with you as a solutions client working with you as a solutions client for virtual solutions, we can really for virtual solutions, we can really for virtual solutions, we can really help educate you, guide you on the help educate you, guide you on the help educate you, guide you on the process of what it's like to tokenize process of what it's like to tokenize process of what it's like to tokenize your assets on chain, what these vault your assets on chain, what these vault your assets on chain, what these vault structures are looking like on chain. structures are looking like on chain. structures are looking like on chain
+u0002e're happy to engage directly
+u0002ou can We're happy to engage directly
+u0002ou can We're happy to engage directly
+u0002ou can also go to our website at also go to our website at also go to our website at ww.burchill.io. ww.burchill.io. ww.burchill.io
+u0002e'll also be publishing research on our We'll also be publishing research on our We'll also be publishing research on our Twitter as well as our Substack
+u0002o any Twitter as well as our Substack
+u0002o any Twitter as well as our Substack
+u0002o any way you want to reach out to myself or way you want to reach out to myself or way you want to reach out to myself or anyone on our team, we're happy to get anyone on our team, we're happy to get anyone on our team, we're happy to get in touch
+u0002nd yeah, thank you for having in touch
+u0002nd yeah, thank you for having in touch
+u0002nd yeah, thank you for having me on this
+u0002obin, thanks for coming on. me on this
+u0002obin, thanks for coming on. me on this
+u0002obin, thanks for coming on
+u0002ome back
+u0002ome back
+u0002ome back. >> Thanks for listening to another episode >> Thanks for listening to another episode >> Thanks for listening to another episode of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o of On the Brink with Castle Island
+u0002o learn more about Castle Island, visit learn more about Castle Island, visit learn more about Castle Island, visit castle island.vc. castle island.vc. castle island.vc
+u0002nd to listen to all of our podcast And to listen to all of our podcast And to listen to all of our podcast episodes, please visit castle episodes, please visit castle episodes, please visit castle island.vc/mpodcast DC/mpodcast island.vc/mpodcast DC/mpodcast island.vc/mpodcast DC/mpodcast or just click on the tab on our website. or just click on the tab on our website. or just click on the tab on our website
+u0002hanks for listening. 
