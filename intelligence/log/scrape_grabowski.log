@@ -269,3 +269,9 @@ Error: All models failed (3): mor-gateway/kimi-k2.5: Provider mor-gateway has bi
 2026-03-08 16:26:50,638 INFO VID PHC6FwyChnA: Waiting 6min for themes...
 2026-03-08 16:28:50,649 ERROR VID PHC6FwyChnA: FAILURE: No/invalid theme file
 2026-03-08 16:28:53,415 INFO Script complete
+2026-03-09 09:00:01,240 INFO Channel: 15 videos
+2026-03-09 09:00:01,241 INFO Existing cleaned: 29
+2026-03-09 09:00:01,242 INFO New episodes: 1: ['kh3-AulL9iA']
+2026-03-09 09:00:01,252 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=kh3-AulL9iA' -> FAILED: /bin/sh: yt-dlp: command not found
+
+2026-03-09 09:00:01,253 ERROR VID kh3-AulL9iA: No VTT downloaded

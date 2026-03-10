@@ -1,6 +1,6 @@
 # grabowski-MxPVDkKUeg4_themes.md
 
-1. Ashton's endurance: 1500+ CryptoCoin Show videos since 2014; survived 4 cycles/crashes from near-zero market cap.
+1. Ashton's longevity: 1500+ CryptoCoin Show videos since 2014; survived 4 cycles/crashes from near-zero market cap.
 
 2. Blockchain inevitability: Internet + money merger; TradFi tokenization (private equity/RWAs → public stocks) unstoppable.
 
