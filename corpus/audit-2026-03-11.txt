@@ -1,0 +1,78 @@
+=====================================================
+  Hawat Corpus Audit — Wed Mar 11 14:20:06 MDT 2026
+=====================================================
+
+── SEP Podcast Transcripts (sep/) ──────────────────
+  Total .txt files found: 107
+
+  Suspect files (< 10 KB, likely incomplete):
+    ⚠️  sep-hLSSQkQU_mc.txt —     1935 bytes
+
+  Files with restrictive permissions (should be 644):
+    🔒 sep-z6evQ97CY0U.txt — -rw-------
+    🔒 sep-SD6zUoYvF4I.txt — -rw-------
+    🔒 sep-hLSSQkQU_mc.txt — -rw-------
+    🔒 sep-H3YbnNtrN_c.txt — -rw-------
+    🔒 sep-nxuVBGZsaoI.txt — -rw-------
+    🔒 sep-gnceU7mqlQI.txt — -rw-------
+    🔒 sep-XX-_5KvMF04.txt — -rw-------
+    🔒 sep-b_M_gqgHfVg.txt — -rw-------
+    🔒 sep-AL9V9BqUiaw.txt — -rw-------
+    🔒 sep-1MARQPPjOn4.txt — -rw-------
+
+  → Fix with: chmod 644 /Users/dylansagent/.openclaw-vault/Hawat/corpus/sep/sep-*.txt
+
+── YouTube Video Transcripts (videos/) ─────────────
+  Total grabowski .txt transcripts: 29
+
+  Orphaned .md stubs (stub exists but no .txt):
+    None found ✓
+
+  grabowski .txt files missing a .md stub:
+    ℹ️  grabowski-B1IY3bAHQdQ.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-bzoSv1raK5k.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-eqo-2VZvnFI.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-F2lINW8DVOw.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-f34KZporyFw.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-j0ZObrkqut0.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-krcl5GuM1Dg.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-LOVAdJngSdQ.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-mPIpqAdeZts.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-q-EMXT9I1cg.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-t9BjY27DBU8.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-uF4CGWBI7rY.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-w7h1NSlCurs.txt — no stub (fine, stubs are optional)
+    ℹ️  grabowski-w9Q2kHVa_8c.txt — no stub (fine, stubs are optional)
+
+  Suspect video files (< 3 KB):
+    None found ✓
+
+── Other corpus folders ─────────────────────────────
+  articles/: 1723 files
+  podcasts/: 1 files
+  streams/: 4 files
+  indices/: 0 files
+
+── Index freshness ──────────────────────────────────
+  index.md last modified: 0 days ago
+  ✓ Index is fresh
+
+── Sync script health ───────────────────────────────
+  ✓ weekly-sync.sh exists
+  ✓ update-videos.py exists
+  ✓ update-channel-videos.py exists
+  ✓ parse-articles-v2.py exists
+  ✗ generate-index.py MISSING
+
+── Recommended fixes ────────────────────────────────
+  1. Fix permissions:  chmod 644 /Users/dylansagent/.openclaw-vault/Hawat/corpus/sep/sep-*.txt
+  2. Re-fetch small files: check sep-hLSSQkQU_mc.txt
+     yt-dlp --write-auto-sub --sub-lang en --skip-download \
+       --convert-subs txt -o '/Users/dylansagent/.openclaw-vault/Hawat/corpus/sep/sep-%(id)s.%(ext)s' \
+       'https://www.youtube.com/watch?v=hLSSQkQU_mc'
+  3. Run weekly-sync.sh to pull any missing content
+
+=====================================================
+  Audit complete. Report saved to:
+  /Users/dylansagent/.openclaw-vault/Hawat/corpus/audit-2026-03-11.txt
+=====================================================

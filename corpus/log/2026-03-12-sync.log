@@ -1,0 +1,46 @@
+[09:24:21] === Corpus Sync Started: Thu Mar 12 09:24:21 MDT 2026 ===
+[09:24:21] Corpus root: /Users/dylansagent/.openclaw-vault/Hawat/corpus
+
+[09:24:21] ══ 1/4 Fetching NNT articles ══
+  File "/Users/dylansagent/.openclaw-vault/Hawat/corpus/parse-articles-v2.py", line 116
+    if index_
+             ^
+SyntaxError: expected ':'
+[09:25:10]   WARNING: parse-articles-v2.py exited with errors
+
+[09:25:10] ══ 2/4 Fetching SEP podcast transcripts ══
+Loaded 27 existing videos
+Found 111 videos in playlist
+98 new videos to process
+
+Created 0 new video entries
+[09:26:25]   update-videos.py: done
+[09:26:25]   SEP transcripts: 107 total (+0 new)
+[09:26:25]   WARNING: Suspect small SEP transcripts (may need re-fetch):
+[09:26:25]     ⚠️  sep-hLSSQkQU_mc.txt — 1935 bytes
+
+[09:26:25] ══ 3/4 Fetching YouTube channel transcripts ══
+Loaded 0 existing channel videos
+Found 0 videos on channel
+0 new videos to process
+No new videos found.
+[09:26:26]   update-channel-videos.py: done
+[09:26:26]   Video transcripts: 29 total (+0 new)
+
+[09:26:26] ══ 4/4 Regenerating master index ══
+[generate-index] Starting index generation...
+[generate-index] Corpus: /Users/dylansagent/.openclaw-vault/Hawat/corpus
+[generate-index] Building SEP section (fetching YouTube metadata)...
+[generate-index] Building videos section...
+[generate-index] Building articles section...
+[generate-index] Building streams section...
+[generate-index] Building podcasts section...
+[generate-index] Done. Index written to /Users/dylansagent/.openclaw-vault/Hawat/corpus/index.md
+[generate-index] Summary: 107 SEP | 29 videos | 1722 articles | 2 streams
+[09:29:44]   Index regenerated ✓
+
+[09:29:44] === Sync Summary ===
+[09:29:44]   SEP transcripts:   107 files
+[09:29:44]   Video transcripts: 29 files
+[09:29:44]   New this run:      +0 SEP, +0 videos
+[09:29:44] === Sync Complete: Thu Mar 12 09:29:44 MDT 2026 ===

@@ -1,0 +1,6 @@
+=== Corpus Sync Started: Tue Mar 10 23:50:00 MDT 2026 ===
+[1/3] Fetching NNT RSS...
+  File "/Users/dylansagent/.openclaw/workspace-business/corpus/parse-articles-v2.py", line 116
+    if index_
+             ^
+SyntaxError: invalid syntax

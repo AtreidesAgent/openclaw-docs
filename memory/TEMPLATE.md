@@ -1,71 +1,20 @@
-# Memory Structure Template
-
-Use this template for all daily memory files.
-
-## File Naming
-`YYYY-MM-DD.md` (e.g., 2026-03-06.md)
+# Job Application Template
+*Paste this prompt to Hawat with a job posting to generate tailored application materials.*
 
 ---
 
-## Metadata
-| Field | Value |
-|-------|-------|
-| **Date** | YYYY-MM-DD |
-| **Agent** | Hawat |
-| **Session Type** | [Main/Shared/Heartbeat] |
-| **Primary Model** | [model used] |
+Hawat, I am applying for the following role:
 
----
+Company: [company name]
+Role: [job title]
+Posting: [paste full job description here]
 
-## Decisions
-Key choices made today.
+Please do the following:
 
-| # | Decision | Context | Status |
-|---|----------|---------|--------|
-| 1 | [What] | [Why] | [Pending/Complete] |
+1. Read my EXPERTISE-MAP at ~/.openclaw-vault/Hawat/memory/EXPERTISE-MAP.md
+2. Identify the 5 most relevant experiences/skills from my map that match this posting
+3. Draft a tailored cover letter in my voice — conversational but professional, specific not generic, referencing real episodes/articles as evidence
+4. Suggest 3 talking points for an interview based on my corpus
+5. Flag any gaps between the job requirements and my current expertise map, and suggest how to address them
 
----
-
-## Actions Completed
-Tasks performed.
-
-- [x] [Task description]
-
----
-
-## Blockers
-Issues, errors, or stuck items.
-
-| # | Blocker | Severity | Resolution |
-|---|---------|----------|------------|
-| 1 | [Description] | [Low/Med/High] | [How solved / TBD] |
-
----
-
-## Constraints & Guardrails
-New or updated rules/limits.
-
-- [Rule description]
-
----
-
-## Follow-ups
-Items for future sessions.
-
-- [ ] [Task] — [Priority] — [Due/Context]
-
----
-
-## External References
-Links to commits, docs, or external resources.
-
-- [Resource name](URL)
-
----
-
-## Tags
-#tag1 #tag2
-
----
-
-*End of day log*
+Save the output to ~/.openclaw-vault/Hawat/memory/Applications/YYYY-MM-DD-[Company]-[Role].md

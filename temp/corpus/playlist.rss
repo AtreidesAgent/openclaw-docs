@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLSSG0GCRt4pxxVye5Mi4dWx8n73wWx5mu"/>
+ <id>yt:playlist:PLSSG0GCRt4pxxVye5Mi4dWx8n73wWx5mu</id>
+ <yt:playlistId>PLSSG0GCRt4pxxVye5Mi4dWx8n73wWx5mu</yt:playlistId>
+ <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+ <title>The Smart Economy Podcast</title>
+ <author>
+  <name>Smart Economy Network</name>
+  <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+ </author>
+ <published>2024-02-09T19:19:42+00:00</published>
+ <entry>
+  <id>yt:video:wFjYO1B2mqU</id>
+  <yt:videoId>wFjYO1B2mqU</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>From Retail Validators to Wall Street: The Institutional Staking Shift with Laszlo Szabo of Kiln</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wFjYO1B2mqU"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2026-03-12T14:00:06+00:00</published>
+  <updated>2026-03-12T15:08:24+00:00</updated>
+  <media:group>
+   <media:title>From Retail Validators to Wall Street: The Institutional Staking Shift with Laszlo Szabo of Kiln</media:title>
+   <media:content url="https://www.youtube.com/v/wFjYO1B2mqU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wFjYO1B2mqU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski sits down with Laszlo Szabo, co-founder and CEO of Kiln, an institutional staking and on-chain yield platform powering validator infrastructure for exchanges, custodians, wallets, and asset managers across the crypto ecosystem.
+
+Szabo shares how staking evolved from early retail validator activity into critical infrastructure for institutions exploring on-chain yield. The conversation examines how staking behaves across market cycles, why institutions increasingly view staking as foundational infrastructure, and how validator operations scale securely across multiple networks.
+
+What you’ll learn:
+- Why staking can continue growing during bear markets
+- How institutional staking infrastructure differs from retail validators
+- Why stablecoin and Bitcoin yield markets may be expanding
+- How tokenized RWAs are entering on-chain finance
+- What on-chain vaults are and how they resemble asset management funds
+- How Railnet is aimed at connecting DeFi protocols and tokenized assets
+- Why validator infrastructure matters for institutional security
+
+Laszlo Szabo is the co-founder and CEO of Kiln, an institutional staking and on-chain yield platform supporting exchanges, custodians, wallets, and asset managers globally. Kiln provides validator infrastructure, staking access, and DeFi integrations across multiple blockchain networks. Prior to founding Kiln, Szabo worked in technology recruitment and began exploring crypto during Ethereum’s early ecosystem growth, eventually building infrastructure designed to meet the reliability, security, and compliance expectations of institutional participants.
+
+Podpage: https://bit.ly/4cF4AQl
+Apple: https://bit.ly/4b7buN8
+Spotify: https://bit.ly/4bqbAOF</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3lfkv6ltMK4</id>
+  <yt:videoId>3lfkv6ltMK4</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Inside Avalanche’s Tokenization Push: Olivia Vande Woude on RWAs, Institutions, &amp; Real Adoption</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3lfkv6ltMK4"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2026-02-19T14:00:06+00:00</published>
+  <updated>2026-02-23T16:15:27+00:00</updated>
+  <media:group>
+   <media:title>Inside Avalanche’s Tokenization Push: Olivia Vande Woude on RWAs, Institutions, &amp; Real Adoption</media:title>
+   <media:content url="https://www.youtube.com/v/3lfkv6ltMK4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3lfkv6ltMK4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Olivia Vande Woude, head of tokenization at Ava Labs, the team behind the Avalanche blockchain, a platform built to support customized blockchain infrastructure for institutions, enterprises, and consumer applications.
+
+Vande Woude discusses her transition from equity research and TradFi into crypto, and how that background informs Avalanche’s approach to tokenization, on-chain finance, and institutional adoption. The conversation explores Avalanche’s multi-chain architecture, why distribution economics matter more than product count, and how RWAs are being deployed in practice today.
+
+What you’ll learn:
+• Why tokenization is a distribution problem first
+• How Avalanche enables purpose-built blockchains
+• What institutions look for in blockchain infrastructure
+• Why TVL can matter more than users for RWAs
+• How private credit is being upgraded on-chain
+• How adoption is impacted by regulatory clarity
+• Avalanche’s approach to real-world scale
+
+Olivia Vande Woude is head of tokenization at Ava Labs, where she works with global asset managers, fintechs, and institutions to bring financial products and RWAs onto the Avalanche blockchain. She previously worked in equity research at T. Rowe Price, covering banks and financial infrastructure, and brings a capital markets lens to blockchain adoption.
+
+Podpage: https://bit.ly/4rRoXhw
+Apple: https://bit.ly/4qQqWlf
+Spotify: https://bit.ly/3ZNIV0D</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="330"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1MARQPPjOn4</id>
+  <yt:videoId>1MARQPPjOn4</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Making Crypto Feel Normal: Zeymer Montes on MOCA, Payments, &amp; UX That Actually Works</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1MARQPPjOn4"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2026-01-29T14:00:06+00:00</published>
+  <updated>2026-02-28T20:48:29+00:00</updated>
+  <media:group>
+   <media:title>Making Crypto Feel Normal: Zeymer Montes on MOCA, Payments, &amp; UX That Actually Works</media:title>
+   <media:content url="https://www.youtube.com/v/1MARQPPjOn4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1MARQPPjOn4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Zeymer Montes, founder of MOCA, a crypto payments ecosystem built to make on-chain transactions feel intuitive for users and merchants alike.
+
+Montes discusses his path from early Bitcoin curiosity to years in Web2 software development, where he learned that great products depend as much on UX and communication as they do on technical execution. The conversation explores MOCA’s smart wallet, point-of-sale system, encrypted messenger, and how these pieces work together to support gasless payments, cross-chain settlement, and merchant adoption.
+
+They also dig into onboarding challenges, why language choices matter in crypto UX, how MOCA handles behind-the-scenes token swaps, and why simplicity is essential if crypto payments are going to work in the real world.
+
+What you’ll learn:
+• Why UX remains crypto’s biggest barrier
+• How MOCA enables crypto payments via QR codes
+• What “pay with any wallet” looks like in practice
+• How merchants receive stablecoins regardless of payment token
+• Why messaging and payments belong together
+• How referral-driven revenue supports long-term growth
+• What’s next for MOCA’s wallet, POS, and messenger
+
+Zeymer Montes is the founder of MOCA, a crypto payments and wallet ecosystem focused on usability, self-custody, and merchant adoption. With a background in Web2 software development and product leadership, Montes brings a user-first mindset to building crypto infrastructure that works across chains, devices, and experience levels.
+
+Podpage: https://bit.ly/4qcjQap
+Apple: https://bit.ly/4q9zseK
+Spotify: https://bit.ly/4q5aUn2</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="104"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:b_M_gqgHfVg</id>
+  <yt:videoId>b_M_gqgHfVg</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Inside Ethereum’s Next Chapter: Tomasz Stańczak on the EF, L2s, &amp; Institutional Adoption</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=b_M_gqgHfVg"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2026-01-15T15:00:23+00:00</published>
+  <updated>2026-02-15T01:13:32+00:00</updated>
+  <media:group>
+   <media:title>Inside Ethereum’s Next Chapter: Tomasz Stańczak on the EF, L2s, &amp; Institutional Adoption</media:title>
+   <media:content url="https://www.youtube.com/v/b_M_gqgHfVg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/b_M_gqgHfVg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Tomasz Stańczak, Co-Executive Director at the Ethereum Foundation, a nonprofit organization that supports the development and long-term health of the Ethereum blockchain.
+
+Stańczak discusses his path from traditional finance to Ethereum and how those experiences prepared him to help steward Ethereum during a period of rapid growth. The conversation explores Ethereum Foundation restructuring, builder support, L2 interoperability, and why multiple rollup designs are expected to coexist as the ecosystem scales.
+
+They also examine institutional adoption, tokenization, ETH economics, privacy, and how the Foundation balances research, infrastructure, and application-level growth as it plans for the years ahead.
+
+What you’ll learn
+• How Ethereum Foundation leadership operates at scale
+• Why L2 diversity and interoperability matter for Ethereum’s future
+• How builder-focused teams are supporting applications and founders
+• What institutions need to adopt Ethereum infrastructure
+• How ETH economics tie into security and incentives
+• Why privacy and censorship resistance remain core priorities
+• What’s top of mind for the Foundation heading into 2026
+
+Tomasz Stańczak is the Co-Executive Director at the Ethereum Foundation and the founder of Nethermind, one of Ethereum’s leading client teams. Prior to building core blockchain infrastructure, Tomasz worked in traditional finance, including roles at Citi and CME Group, where he gained experience in market structure, risk, and large-scale systems. His background continues to inform his approach to Ethereum stewardship, with a focus on security, open-source development, privacy, and long-term protocol sustainability.
+
+00:00 – Ethereum’s Next Phase
+02:15 – Welcome &amp; Guest Intro
+07:30 – From TradFi to Ethereum
+15:00 – Building Nethermind
+22:30 – Joining the Ethereum Foundation
+30:30 – Co-Executive Leadership Model
+38:30 – Global Builder Support
+47:00 – Foundation Restructuring
+55:30 – Culture, Communication, Momentum
+1:03:30 – Token Price &amp; Focus
+1:12:00 – Ethereum L1 &amp; L2s
+1:22:00 – Institutions &amp; Tokenization
+1:31:30 – Foundation Priorities to 2026
+1:40:00 – Closing Thoughts
+
+Podpage: https://bit.ly/3Ze21wt
+Apple: https://bit.ly/4sIyLvi
+Spotify: https://bit.ly/4qn94Po</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="216"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SD6zUoYvF4I</id>
+  <yt:videoId>SD6zUoYvF4I</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Smart, Safe, &amp; Gasless: Inside PistachioFi’s Vision for Everyday DeFi</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SD6zUoYvF4I"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2026-01-01T14:00:06+00:00</published>
+  <updated>2026-01-22T13:33:59+00:00</updated>
+  <media:group>
+   <media:title>Smart, Safe, &amp; Gasless: Inside PistachioFi’s Vision for Everyday DeFi</media:title>
+   <media:content url="https://www.youtube.com/v/SD6zUoYvF4I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SD6zUoYvF4I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Brian Smocovich, co-founder of PistachioFi, a mobile-first smart wallet built to reduce friction for everyday users. Together, they explore how improved UX, MPC-based recovery, and curated yield strategies can bring millions safely into DeFi.
+
+Smocovich walks through his unconventional path from financial advising to enterprise blockchain consulting, and eventually to designing a wallet architecture that removes seed phrases, resists common attack vectors, and allows users to transact gas-free. The conversation also covers the role of L2s, vault risk frameworks, cross-border payments, and how user-friendly design can unlock the next wave of adoption.
+
+What you’ll learn:
+ • Why crypto UX has stagnated, and how PistachioFi aims to fix it
+ • How MPC recovery protects users without giving up self-custody
+ • Why many retail users underutilize their assets, and how curated vaults can solve this
+ • How top vault providers manage on-chain risk and protect user capital
+ • How Pods and Card are expanding PistachioFi into automated portfolios and global banking
+ • Why safe, stable yield strategies may drive the next era of on-chain adoption
+ • How mobile-first design unlocks new global user segments
+
+Chapters 
+00:00 – Intro
+02:30 – Introducing Brian Smocovich and PistachioFi
+05:00 – Brian’s Background in TradFi and Risk Management
+12:30 – Discovering Ethereum and the Promise of Programmable Money
+18:00 – Why Public Blockchains Won Over Private Consortia Chains
+25:30 – Ethereum, L2s, and the Rollup-Centric Roadmap
+33:30 – What PistachioFi Is and Why It’s Built Mobile-First
+41:00 – Gasless Transactions and Cross-Border Finance
+47:00 – Smart Wallet Security, MPC, and Account Recovery
+55:30 – Vaults, Yield Strategies, and Risk Frameworks
+1:03:30 – What’s Next for PistachioFi: Pods, Card, and Global Access
+1:07:30 – Closing Thoughts
+
+Podpage: https://bit.ly/3MYPeeE
+Apple: https://bit.ly/45n2Czq
+Spotify: https://bit.ly/3YknPGy</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="137"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hLSSQkQU_mc</id>
+  <yt:videoId>hLSSQkQU_mc</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>The Smart Economy Podcast: Real-World Blockchain Applications with Crypto, DeFi, NFTs, and DAOs</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hLSSQkQU_mc"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-12-19T16:01:12+00:00</published>
+  <updated>2026-01-16T14:19:41+00:00</updated>
+  <media:group>
+   <media:title>The Smart Economy Podcast: Real-World Blockchain Applications with Crypto, DeFi, NFTs, and DAOs</media:title>
+   <media:content url="https://www.youtube.com/v/hLSSQkQU_mc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hLSSQkQU_mc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Smart Economy Podcast features interviews with some of the most interesting people within the blockchain industry, working to make the new smart economy a reality.
+
+If you're a founder, CEO, or expert doing something innovative in this space, we're interested in speaking to you! Apply to be a guest on our platform and connect with our vibrant community of blockchain professionals:  
+https://bit.ly/SEP-guest</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XX-_5KvMF04</id>
+  <yt:videoId>XX-_5KvMF04</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Inside Keel: Solana’s New Liquidity Layer for Credit, RWAs, &amp; Stablecoins</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XX-_5KvMF04"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-12-18T14:03:00+00:00</published>
+  <updated>2026-01-17T14:09:06+00:00</updated>
+  <media:group>
+   <media:title>Inside Keel: Solana’s New Liquidity Layer for Credit, RWAs, &amp; Stablecoins</media:title>
+   <media:content url="https://www.youtube.com/v/XX-_5KvMF04?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XX-_5KvMF04/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Cian Breathnach, founder of Matariki Labs and contributor to Keel, the new capital engine powering Solana’s credit and stablecoin ecosystem.
+
+Breathnach explains how his actuarial background shaped his approach to DeFi risk, why he believes Solana’s high-throughput design is ideal for credit creation, and how Keel is working alongside Sky (formerly MakerDAO) to scale USDS, deepen stablecoin liquidity, and accelerate RWA adoption.
+
+The conversation explores Keel’s $2.5B capital roadmap, tokenization trends, the challenges of onboarding institutions, and how Solana can support both high-frequency activity and settlement in the same environment. Breathnach also shares his views on stablecoin design, DeFi risk management, and the catalysts needed to bring large traditional asset managers on-chain.
+
+What You’ll Learn
+• How Keel allocates capital across lending markets, liquidity pools, and RWAs
+• Why Solana’s monolithic architecture enables internet-scale capital markets
+• How USDS, SUSDS, and Sky’s model differ from fiat-backed stablecoins
+• The roadmap for deploying $2.5B in capital over 18–24 months
+• Why asset managers are watching Solana, and what they need to join
+• The importance of risk isolation, overcollateralization, &amp; secure design
+• How grassroots communities like Superteam can accelerate ecosystem growth
+
+00:00 – Tokenization Floodgates &amp; Institutional Capital on the Sidelines
+00:31 – Welcome to The Smart Economy Podcast
+01:20 – Introducing Cian Breathnach &amp; Keel
+02:15 – From Actuarial Science to Protocol Engineering
+04:17 – Discovering Solana During COVID &amp; the Serum Moment
+06:15 – What DeFi Gets Right (and Wrong) Compared to TradFi
+08:08 – Learning Rust, Hackathons, &amp; Early Solana Building
+10:32 – Why Solana’s UX &amp; Architecture Attracted Builders
+12:34 – Solana’s Developer Momentum &amp; the Meme Cycle Stress Test
+13:55 – Early Crypto Exposure: Bitcoin, DeFi, &amp; Going All In on Solana
+14:26 – Local Developer Communities &amp; Solana Superteam
+16:41 – Entering the Sky Ecosystem &amp; USDS on Solana
+18:39 – Why Solana Needed Native Sky Infrastructure
+20:55 – What Keel Actually Is (and What It Is Not)
+23:08 – How Keel’s Balance Sheet Protects USDS Holders
+25:11 – Capital Formation, Risk Tranching, &amp; Why Sky Uses “Stars”
+27:30 – Keel vs. Matariki Labs: Structure, Roles, &amp; Governance
+29:19 – The Origin of the Name “Matariki Labs”
+30:50 – The $2.5B Roadmap: Lending, Liquidity, &amp; RWAs
+33:18 – Why Keel Can Catalyze RWAs on Solana
+35:20 – Tokenization First Movers &amp; Network Effects
+37:28 – Institutional Incentives &amp; ‘Pay-to-Play’ Dynamics
+39:30 – Do Institutions Care Which Blockchain They Use?
+41:41 – RWA Categories, Risk-Free Rates, &amp; Capital Demand
+44:01 – What Types of RWAs Make Sense for Stablecoin Backing
+45:47 – Does Keel Have Competitors on Solana?
+47:44 – Working with the Solana Foundation
+49:46 – Friction Points for Teams Building on Solana
+51:49 – Monolithic vs. Modular Chains &amp; Solana’s Capital Markets Thesis
+53:55 – $20–30T in Tokenized Assets: What’s Coming On-Chain
+56:06 – Stablecoin Taxonomy: Fiat-Backed vs. Overcollateralized
+58:33 – Credit Creation, Debt Tokens, &amp; Why USDS Matters
+1:00:29 – Managing DeFi Risk, Hacks, &amp; Contagion
+1:02:38 – Who Keel Wants to Hear From
+1:03:42 – Closing Remarks
+
+Podpage: https://bit.ly/4p35LeT
+Apple: https://bit.ly/4qeF1cj
+Spotify: https://bit.ly/48W8UXJ</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="152"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:z6evQ97CY0U</id>
+  <yt:videoId>z6evQ97CY0U</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Scaling Trust: Alex Gluchowski on Matter Labs, ZKsync, &amp; the Future of Ethereum</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=z6evQ97CY0U"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-12-11T16:00:06+00:00</published>
+  <updated>2026-01-10T14:26:49+00:00</updated>
+  <media:group>
+   <media:title>Scaling Trust: Alex Gluchowski on Matter Labs, ZKsync, &amp; the Future of Ethereum</media:title>
+   <media:content url="https://www.youtube.com/v/z6evQ97CY0U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/z6evQ97CY0U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Alex Gluchowski, co-founder and CEO of Matter Labs, the team behind ZKsync and the ZK Stack. Together, they explore how zero-knowledge technology is reshaping Ethereum’s scaling roadmap, why privacy is essential for global adoption, and how the Elastic Network is designed to connect consumer, enterprise, and institutional rollups into one cohesive system.
+
+Gluchowski reflects on his upbringing in post-Soviet Ukraine and how early exposure to economic instability led him to Bitcoin, Ethereum, and ultimately the mission of building cryptographic systems that maximize freedom and trust. The conversation spans ZK recursion, the evolution of proving systems, institutional blockchain requirements, and how stablecoins and RWAs could become the backbone of the on-chain economy.
+
+What you’ll learn:
+• Why ZK proofs enable global-scale computation on Ethereum
+• How ZKsync evolved from research into a production-ready L2
+• Why privacy must be redesigned for both individuals and institutions
+• How the Elastic Network creates fast, seamless interoperability between chains
+• Why optimistic rollups face long-term limitations
+• Where stablecoins, RWAs, and enterprise chains fit into Ethereum’s future
+• How Matter Labs works with partners across gaming, finance, and global markets
+
+Alex Gluchowski is the co-founder and CEO of Matter Labs, the core team behind ZKsync. His work spans cryptography, scalability, and institutional blockchain infrastructure, helping define the direction of Ethereum’s ZK ecosystem.
+
+Chapters
+00:00 – Intro
+01:05 – Introducing Alex Gluchowski, Co-founder &amp; CEO of Matter Labs
+02:23 – Gluchowski’s Early Tech Background &amp; Startup Journey
+03:40 – Discovering Bitcoin and the Mission of Economic Freedom
+04:40 – Growing Up Amid Hyperinflation in Ukraine
+05:55 – Why Privacy and Financial Sovereignty Matter Globally
+06:50 – Real-World Crypto Adoption in Ukraine &amp; LATAM
+08:00 – Privacy, Pseudonymity &amp; Why Public Chains Don’t Work for Institutions
+09:45 – Consumer vs. Institutional Privacy Needs
+11:14 – Why Matter Labs Shifted Toward Institutional Use Cases
+12:10 – The Rise of RWAs &amp; Institutional Onboarding Pressure
+13:15 – What Led Gluchowski to Found Matter Labs in 2018
+14:55 – Bitcoin Limitations &amp; Why Ethereum Felt Like the Future
+16:20 – Enter Zero-Knowledge Proofs: “Too Good to Be True”
+18:05 – The Early ZK Frontier: No Tutorials, Only Research Papers
+19:10 – From Early ZK Rollups to ZKSync’s First Breakthroughs
+20:25 – Why ZK Took So Long to Become Real
+21:20 – Orders-of-Magnitude Improvements in ZK Proving
+23:10 – The Vision: Compressing Global Computation Into a Single Proof
+24:20 – Why Ethereum Will Still Matter in 20 Years
+25:30 – Network Effects &amp; Costs of Security Across L1s
+27:10 – Why L1 Token Economics Aren’t Sustainable Long-Term
+28:20 – Is ZK Stack Competing With OP Stack?
+29:40 – How the Atlas Upgrade Transformed ZK Stack Performance
+31:00 – The Coming Era of 1-Second ZK Finality
+32:00 – Connecting ZK Chains Into the “Elastic Network”
+33:45 – Why OP Chains Face Isolation &amp; Liquidity Friction
+34:30 – Introducing the Elastic Network Branding
+35:20 – Why All Optimistic Rollups May Eventually Shift to ZK
+36:30 – Limitations of Upgrading OP Chains Into ZK Rollups
+38:00 – How Teams Join the ZKSync Ecosystem &amp; the Elastic Network
+39:45 – Supporting Builders: Technical Help, Partnerships &amp; Roadmap Input
+41:45 – Examples of Ecosystem Partners: Xsolla, SandChain, Abstract, ADI Chain
+43:20 – Roadmapping Strategy: Speed, Parallelization &amp; Partner Needs
+45:00 – Rollup Maturity Stages: What Stage 0, 1, and 2 Really Mean
+46:30 – The Real Barriers to Stage 2 Rollups
+47:20 – Sequencer Decentralization: Why It Matters &amp; When It’s Coming
+49:10 – Competing With Centralized OP Ecosystems
+50:20 – What Institutions Actually Need From Blockchains
+52:10 – Private Chains vs. ZK Native Chains for Enterprises
+53:20 – How ZK Enables Secure, Compliant Cross-Bank Interoperability
+54:35 – Real-World Example: Tokenized Deposits Between Banks
+56:00 – Why Slow Settlement (T+2/T+5) Creates Pressure for Blockchain Adoption
+57:15 – The Coming Explosion in Stablecoin &amp; RWA Usage
+58:25 – Preparing ZKSync for the Stablecoin Wave (2026 &amp; Beyond)
+59:30 – How to Get Involved With ZKSync &amp; Matter Labs
+1:00:25 – Closing Thoughts &amp; the Future of ZK Technology
+1:01:25 – Podcast Outro &amp; How to Stay Connected
+
+Links:
+Podpage: https://bit.ly/3KXDAQt
+Apple: https://bit.ly/3Y92Czj
+Spotify:https://bit.ly/4pYwvOl</media:description>
+   <media:community>
+    <media:starRating count="19" average="5.00" min="1" max="5"/>
+    <media:statistics views="411"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AL9V9BqUiaw</id>
+  <yt:videoId>AL9V9BqUiaw</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>From Pixels to Protocols: Sebastien Borget on The Sandbox, SANDchain, &amp; the Creator Economy</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AL9V9BqUiaw"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-11-27T22:00:06+00:00</published>
+  <updated>2025-12-27T14:21:38+00:00</updated>
+  <media:group>
+   <media:title>From Pixels to Protocols: Sebastien Borget on The Sandbox, SANDchain, &amp; the Creator Economy</media:title>
+   <media:content url="https://www.youtube.com/v/AL9V9BqUiaw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AL9V9BqUiaw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Sebastien Borget, co-founder and global ambassador of The Sandbox, a leading decentralized virtual world where players can create, own, and monetize experiences. Together, they explore the evolution of The Sandbox from a 2D mobile game to a metaverse platform with over 8 million users, and discuss the launch of SANDchain, a new layer-2 network designed to empower creators across gaming, art, and social media.
+
+What you’ll learn:
+ • How The Sandbox evolved from a mobile game to a global Web3 virtual world
+ • Why creator monetization challenges led to early NFT adoption in 2018
+ • What lessons Borget learned from building through multiple market cycles
+ • How SANDchain expands the creator economy beyond gaming
+ • Why meaningful partnerships matter more than hype in Web3
+ • How The Sandbox continues to innovate through scalability and decentralization
+
+And much more!
+
+Sebastien Borget is the co-founder and global ambassador of The Sandbox and a leading voice in the Web3 gaming industry. With over 15 years of experience across mobile, cloud, and gaming startups, Borget has helped pioneer user-generated content and digital ownership, shaping how creators engage and earn in decentralized environments.
+
+00:00 – Opening Clip: The Creator Economy Problem
+00:45 – Intro to the Smart Economy Podcast
+02:35 – Why Learning Languages Matters
+04:23 – Sebastien’s Favorite Language to Learn
+05:00 – From Geek to Founder: Sebastien’s Early Tech Journey
+08:00 – Building Early Startups &amp; First Company Exit
+10:10 – The Origin of Sandbox (2D Mobile Era)
+12:20 – Why Creators Left: The Monetization Barrier
+12:55 – CryptoKitties &amp; The Web3 “Aha” Moment
+14:00 – NFTs Solve Creator Monetization
+15:20 – Rebuilding Sandbox for Web3 (2018 Pivot)
+17:00 – How Sandbox Grew to 8M Users
+18:30 – Joining Animoca Brands &amp; Web3 Expansion
+20:55 – Why Sandbox Went 3D &amp; Multiplayer
+22:15 – Why Pixel Art Faded and 3D Took Over
+23:30 – Four-Year Evolution of Sandbox (2021 vs Today)
+25:45 – Alpha Season 6: New Gameplay &amp; Brand Worlds
+27:20 – Explaining Minecraft &amp; Sandbox Gameplay (ELI5)
+30:00 – The Future Is User-Generated Content
+32:00 – Building Through Bear Markets: Lessons Learned
+34:10 – Creator Funds, Early Community &amp; Marketplace Growth
+36:45 – How Sandbox Secured Binance Launchpad
+38:55 – Retention Challenges: Mobile → PC → Web3
+40:55 – Land Owners as the Most Active Community Segment
+42:20 – Dealing With Token Price Volatility &amp; Sentiment Cycles
+45:10 – Why Sebastien Keeps Building (Long-Term Vision)
+47:20 – The Next Evolution: Sandchain (L2 for Creators)
+49:20 – Why Sandbox Needed Its Own L2
+51:35 – Why ZK Sync Was Chosen for Sandchain
+53:20 – Expanding Beyond Gaming: Empowering All Creators
+55:35 – How to Build Effective Partnerships (Seb’s Framework)
+57:35 – What Sandchain Wants to Attract: Creators &amp; Tools
+59:15 – Web3 Should Collaborate, Not Compete
+01:00:50 – When Mainnet? Sandchain Roadmap &amp; Testing
+01:02:40 – Closing Remarks &amp; Where to Learn More
+
+Links:
+ Podpage: https://bit.ly/487gKih
+ Apple: https://bit.ly/4oYk5Gc
+ Spotify: https://bit.ly/482xPtC</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="115"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nxuVBGZsaoI</id>
+  <yt:videoId>nxuVBGZsaoI</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>The $10B Question: The Graph's Big Bet on Decentralized Data</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nxuVBGZsaoI"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-11-06T21:00:06+00:00</published>
+  <updated>2026-01-01T14:03:49+00:00</updated>
+  <media:group>
+   <media:title>The $10B Question: The Graph's Big Bet on Decentralized Data</media:title>
+   <media:content url="https://www.youtube.com/v/nxuVBGZsaoI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nxuVBGZsaoI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Nick Hansen, team lead at The Graph Foundation, an  indexing protocol for organizing blockchain data. Together, they unpack The Graph’s mission to become the “Google of blockchains,” and discuss why decentralized indexing matters more than ever.
+
+What you’ll learn:
+• How The Graph is working to solve the critical read-write problem in blockchain data accessibility
+• Why decentralized indexing provides crucial advantages over centralized alternatives for dApp development
+• The evolution of foundation leadership from zero-to-one pioneers to professional operational expertise
+• How content creation and community building can create career opportunities in Web3
+• Why blockchain infrastructure projects must balance technical innovation with institutional adoption
+• The framework for evaluating when decentralization matters most in technical infrastructure
+• How The Graph is preparing for the convergence of AI and blockchain data through knowledge graphs
+
+And much more!
+
+Nick Hansen is the team lead at The Graph Foundation, where he stewards the development and growth of The Graph, an indexing protocol for organizing blockchain data. With a diverse background spanning traditional finance, marketing, radio broadcasting, and education, Hansen brings a unique perspective to blockchain infrastructure development. Prior to his current role, he created and hosted the GRT IQ podcast, conducting over 200 interviews with key figures in The Graph ecosystem, which led to his transition into a leadership position at the foundation.
+
+➡️ Links:Podpage: https://bit.ly/3WDyWth
+Apple: https://bit.ly/43gX9tb
+Spotify: https://bit.ly/4nzX22V</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="609"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:H3YbnNtrN_c</id>
+  <yt:videoId>H3YbnNtrN_c</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>From iOS Developer to Crypto CEO: Building Rails on Kraken's Ink L2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=H3YbnNtrN_c"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-10-23T21:00:17+00:00</published>
+  <updated>2026-02-10T19:47:25+00:00</updated>
+  <media:group>
+   <media:title>From iOS Developer to Crypto CEO: Building Rails on Kraken's Ink L2</media:title>
+   <media:content url="https://www.youtube.com/v/H3YbnNtrN_c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/H3YbnNtrN_c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Satraj Bambra, CEO and co-founder of Rails and managing partner at Round13 Capital. Together, they explore Rails’ hybrid trading model, its collaboration with Kraken’s Ink layer-2, and what these developments signal for the future of decentralized finance. Satraj unpacks how Rails blends on-chain user custody with centralized execution for speed, compliance, and transparency, while offering a candid take on post-FTX lessons, institutional market entry, and why Ethereum’s rally is powered more by momentum than fundamentals.
+
+What you’ll learn:
+How Rails’ hybrid design fuses CEX speed with DeFi-grade security
+Why on-chain custody and centralized matching make trading faster and safer
+How the Kraken Ink layer-2 partnership powers scale and trust
+What post-FTX lessons taught builders about custody and compliance
+Why KYC/KYB is unlocking institutional flow into crypto
+How exchange-driven liquidity shapes market momentum
+Why Ethereum’s rally reflects speculation, not fundamentals
+What’s next: Prop, cross-chain expansion, and institutional vaults driving the next wave of DeFi
+
+And much more!
+
+Satraj Bambra is the co-founder and CEO of Rails, a hybrid perpetuals trading platform combining on-chain custody with centralized execution for institutional-grade speed and security. He also serves as managing partner and CIO of the Digital Asset Fund at Round13 Capital, a Toronto-based venture and growth equity firm investing in high-potential technology and blockchain companies. As a seasoned builder and investor, Satraj previously co-founded BlockEQ, a Stellar-based wallet later acquired for its mobile innovation, and has led engineering teams at TWG and Deloitte Digital. With deep experience across product development, venture capital, and crypto markets, he brings a rare dual perspective as both a hands-on builder and a disciplined fund manager helping shape the next phase of digital finance.
+
+➡️ Links:
+Podpage: https://bit.ly/48KgNRI
+Apple: https://bit.ly/3WQ7Ajs
+Spotify: https://bit.ly/3L1FLlS
+
+#SmartEconomyPodcast #RailsXYZ #DeFiInnovation</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="99"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gnceU7mqlQI</id>
+  <yt:videoId>gnceU7mqlQI</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>From 2017 ICO Mania to $100M Corporate Treasuries: Injective's Path to Wall Street</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gnceU7mqlQI"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-10-09T21:00:06+00:00</published>
+  <updated>2025-11-08T14:45:01+00:00</updated>
+  <media:group>
+   <media:title>From 2017 ICO Mania to $100M Corporate Treasuries: Injective's Path to Wall Street</media:title>
+   <media:content url="https://www.youtube.com/v/gnceU7mqlQI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gnceU7mqlQI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Mirza Uddin, head of business development at Injective, a blockchain-based platform building  infrastructure for DeFi, aiming to enable truly open, permissionless, and interoperable financial systems. Together, they sat down for an insightful conversation about long-term thinking in crypto, creative inspiration from anime, the rise of decentralized finance infrastructure, and how Injective achieved true product-market fit.
+
+What you’ll learn:
+How creative outlets like sci-fi and anime can inspire innovative blockchain solutions
+Why sustainable blockchain projects need decades of commitment rather than quick wins
+The strategic advantages of building on both Cosmos SDK and EVM technology stacks
+How Injective achieved 54.7M staked tokens through community-focused development
+Why traditional finance partnerships signal mainstream adoption
+How staked token ETFs could revolutionize retail investor access to blockchain yields
+Why solving user experience friction remains crucial for DeFi adoption
+
+And much more!
+
+Mirza Uddin is the head of business development at Injective, as well as co-founder and general partner at Vessel Capital, where he brings vast expertise in blockchain technology and decentralized finance. With a background in venture capital and cryptocurrency dating back to 2013, Mirza has been instrumental in developing Injective's financial-focused blockchain platform and driving strategic partnerships with Wall Street institutions. His dual role as both an operator and investor through Vessel Capital, where he takes a hands-on approach using personal capital to back promising projects, provides him with unique insights into the cryptocurrency ecosystem.
+
+➡️ Links:
+Podpage: https://bit.ly/48nPsEW
+Apple: https://bit.ly/46ICxvX
+Spotify: https://bit.ly/46LAZkM
+
+#SmartEconomyPodcast #Injective #ProductMarketFit</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="70"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:b8rS5UN5Uyw</id>
+  <yt:videoId>b8rS5UN5Uyw</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Building Freedom Tools for Digital Money: Ian Rogers on Ledger's Strategy for Crypto Adoption</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=b8rS5UN5Uyw"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-09-25T21:00:06+00:00</published>
+  <updated>2026-03-10T02:24:51+00:00</updated>
+  <media:group>
+   <media:title>Building Freedom Tools for Digital Money: Ian Rogers on Ledger's Strategy for Crypto Adoption</media:title>
+   <media:content url="https://www.youtube.com/v/b8rS5UN5Uyw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/b8rS5UN5Uyw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Ian Rogers, Chief Experience Officer at Ledger, a hardware and software security provider for digital assets and Web3. 
+Together, they explore the parallels between early internet adoption and crypto security, discussing how lessons from the web’s evolution inform today’s digital asset protection strategies.
+
+What you’ll learn:
+• How the early internet's adoption challenges mirror current crypto adoption barriers
+• Why security and self-custody remain fundamental to crypto's value proposition
+• How Ledger approaches product development for both crypto natives and mainstream users
+• Why the merger of AI and crypto will reshape digital value management
+• How to navigate the spectrum between complete decentralization and user-friendly features
+• Why punk rock principles still drive crypto innovation
+
+And much more!
+
+Ian Rogers is the Chief Experience Officer at Ledger, bringing over 25 years of expertise in digital innovation and user experience. With a pioneering background in web development, he notably created and managed beastieboys.com in the mid-1990s, potentially establishing one of the first web design companies. His career spans leadership roles at major tech companies, including Yahoo Music, Beats (acquired by Apple), and LVMH, before joining Ledger in 2021. Ian is recognized for his ability to bridge technology and user experience, particularly in helping mainstream audiences adopt emerging technologies. At Ledger, he leads initiatives to make self-custody of digital assets more accessible and secure, while maintaining the company's high security standards and commitment to user sovereignty.
+
+➡️ Links:
+Podpage: https://bit.ly/3KlKD4P
+Apple: https://bit.ly/3KmPFy0
+Spotify: https://bit.ly/42GmsnY
+
+#SmartEconomyPodcast #Ledger #Web3 #CryptoSecurity</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="102"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3j63JKPF_wY</id>
+  <yt:videoId>3j63JKPF_wY</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>The Darwin Cycles of Crypto: What Survives and Why with Aryan Sheikhalian of CMT Digital</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3j63JKPF_wY"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-08-14T21:00:06+00:00</published>
+  <updated>2025-09-16T11:53:26+00:00</updated>
+  <media:group>
+   <media:title>The Darwin Cycles of Crypto: What Survives and Why with Aryan Sheikhalian of CMT Digital</media:title>
+   <media:content url="https://www.youtube.com/v/3j63JKPF_wY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3j63JKPF_wY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Aryan Sheikhalian, Head of Research at CMT Digital, a global blockchain and Web3 proprietary trading and venture capital firm focused on early-stage investments that accelerate the adoption of blockchain technology. Together, they dive into what it really takes to build sustainable decentralized systems.
+
+What you’ll learn:
+• How Aryan's early exposure to cryptography and Blockchain Research Institute shaped his investment lens
+• What CMT Digital looks for in pre-seed and seed-stage startups
+• Why Ethereum's shift to a data availability layer could be both a superpower and a challenge
+• What modular blockchain design unlocks for institutional adoption and infrastructure composability
+• Why stablecoins are the real killer use case in crypto, and how U.S. policy is accelerating their global reach
+
+And much more!
+
+Aryan Sheikhalian is the Head of Research at CMT Digital, a Chicago-based VC firm backing early-stage blockchain startups. With roots in cryptography, economics, and distributed systems, Aryan brings a pragmatic and research-driven lens to Web3. At CMT Digital, he plays a critical role in sourcing and managing investments while leading research efforts in blockchain technology. Aryan has worked with top blockchain organizations and is deeply involved in fostering the growth of decentralized finance and Web3.
+
+➡️ Links:
+Podpage: https://bit.ly/4mL9gG8
+Apple: https://bit.ly/45vVsbs
+Spotify: https://bit.ly/4mGlgIT
+
+#SmartEconomyPodcast #CMTDigital #DecentralizedAI</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="69"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_9B-gl57TPc</id>
+  <yt:videoId>_9B-gl57TPc</yt:videoId>
+  <yt:channelId>UCh0I8wG0ZyC6DxaxrQFhyEQ</yt:channelId>
+  <title>Why Everything Will Trade 24/7: Pyth’s Mission to Bring TradFi On-Chain</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_9B-gl57TPc"/>
+  <author>
+   <name>Smart Economy Network</name>
+   <uri>https://www.youtube.com/channel/UCh0I8wG0ZyC6DxaxrQFhyEQ</uri>
+  </author>
+  <published>2025-07-31T21:00:26+00:00</published>
+  <updated>2025-11-01T10:25:40+00:00</updated>
+  <media:group>
+   <media:title>Why Everything Will Trade 24/7: Pyth’s Mission to Bring TradFi On-Chain</media:title>
+   <media:content url="https://www.youtube.com/v/_9B-gl57TPc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_9B-gl57TPc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this episode of The Smart Economy Podcast, host Dylan Grabowski is joined by Marc Tillement, Director of the Pyth Data Association, an independent entity pursuing decentralized financial data distribution through the Pyth Network ecosystem. Together, they explore how Pyth Network aims to transform financial data distribution through its  oracle network that serves over 100 blockchains.
+
+What you’ll learn:
+How traditional financial data distribution is controlled by 5-6 companies generating $30B in annual revenue
+Why decentralized oracle networks are crucial for bringing real-world data on-chain
+The strategic advantage of creating new financial data sources rather than just redistributing existing ones
+How Pyth Network engages major trading firms and exchanges as data publishers
+Why running an independent app chain enables better oracle service across multiple blockchains
+How privacy concerns are driving innovation in decentralized exchange infrastructure
+
+And much more!
+
+Marc Tillement is the Director of the Pyth Data Association. With vast experience in traditional finance and blockchain technology, Marc leads efforts intended to revolutionize how financial market data is sourced, distributed, and utilized across more than 100 blockchain networks. Under his leadership, Pyth Network has established partnerships with major traditional finance institutions, like CBOE and NYSE, while onboarding over 100 data publishers, including prominent trading firms like Virtu and GTS. Marc brings unique insights on transforming the $30 billion financial data industry through decentralized infrastructure, offering high-frequency, real-time market data feeds to smart contracts across multiple chains.
+
+➡️ Links:
+Podpage: https://bit.ly/4l69Tsv
+Apple: https://bit.ly/44Uypbh
+Spotify: https://bit.ly/3UFjtrs</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="115"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

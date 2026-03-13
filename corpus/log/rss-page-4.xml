@@ -12,7 +12,7 @@
 	<atom:link href="https://neonewstoday.com/author/dylan/feed/?paged=4" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Latest news and updates on the open-source Neo Blockchain project.</description>
-	<lastBuildDate>Tue, 29 Mar 2022 14:33:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Apr 2022 21:15:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mercurial Apps launches P2P trading platform and Humswap BOWL tracker</title>
+		<link>https://neonewstoday.com/general/mercurial-apps-launches-p2p-trading-platform-and-humswap-bowl-tracker/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 18:03:14 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[BOWL]]></category>
+		<category><![CDATA[Mercurial Apps]]></category>
+		<category><![CDATA[N3Trader]]></category>
+		<category><![CDATA[Neoverse]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=29888</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Mercurial Apps has released a dApp for trading NFTs and tokens, and a Humswap BOWL tracker. Mercurial Apps now offers three products in the...</p>
+<p>The post <a href="https://neonewstoday.com/general/mercurial-apps-launches-p2p-trading-platform-and-humswap-bowl-tracker/">Mercurial Apps launches P2P trading platform and Humswap BOWL tracker</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/mercurial-apps-p2p-trading-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Mercurial Apps has released a dApp for trading NFTs and tokens, and a Humswap BOWL tracker. Mercurial Apps now offers three products in the Neo ecosystem, with the new applications joining its Neoverse NFT tracker.</p>
+<h2>N3 Trader</h2>
+<p><a href="https://n3trader.mercurialapps.com/" target="_blank" rel="noopener">N3 Trader</a> is a decentralized peer-to-peer trading platform that allows users to establish a direct trade for NEP-11 and NEP-17 tokens.</p>
+<p>Users can create a trade with a specific wallet address, or create an open trade allowing anyone to participate as a taker. Trades will remain open until a taker completes the trade or the maker closes it.</p>
+<p>The maker puts the NEP-11 or NEP-17 token(s) into an escrow account, where it resides until a taker agrees to the terms of the trade. Once the taker accepts, the maker must approve the trade before the assets can be swapped. The maker can cancel the trade at any point until it is final.</p>
+<h2>NFT Trackers</h2>
+<p>Mercurial Apps has also launched the <a href="https://humswap.mercurialapps.com/" target="_blank" rel="noopener">Humswap NFT tracker</a>, which shows information about Humswap&#8217;s newly minted BOWL NFTs. The tracking website monitors the total amount of BOWLs minted, and allows users to sort through the supply according to utility or visual traits.</p>
+<p>Eventually, the team aims to include information on the rarity of BOWL and traits.</p>
+<p><a href="https://explorer.onegate.space/NFTtokeninfo/0x08e7a002104fc8f3130e8ac74f550e8a3022e55f" target="_blank" rel="noopener">At the time of press</a>, 3,288 BOWLs have been minted on Neo N3.</p>
+<p>The new products join Mercurial Apps&#8217; <a href="https://neoverse.mercurialapps.com/" target="_blank" rel="noopener">N3 Neoverse NFT tracker</a>, launched in Oct., 2021. It collects and tracks Neoverse NFT transaction information using on-chain event notifications. The tracker displays data such as the number of Neoverse NFT holders, 24-hour sales volume, and the average price of the three different types of Neoverse NFTs (i.e., blind box, fragment, and series). Additionally, the website shows the owner of each Neoverse affiliated NFT, and if it is listed for sale on GhostMarket.</p>
+<p>The post <a href="https://neonewstoday.com/general/mercurial-apps-launches-p2p-trading-platform-and-humswap-bowl-tracker/">Mercurial Apps launches P2P trading platform and Humswap BOWL tracker</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Neo Candy begins distributing CANDY community token, aims to reward Neo ecosystem dApp users</title>
+		<link>https://neonewstoday.com/general/neo-candy-begins-distributing-candy-community-token-aims-to-reward-neo-ecosystem-dapp-users/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 15:09:54 +0000</pubDate>
+				<category><![CDATA[Airdrop]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[CANDY]]></category>
+		<category><![CDATA[GAS]]></category>
+		<category><![CDATA[N3Trader]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=29876</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo Candy has begun distributing NEP-17 CANDY airdrops through Mercurial App’s N3 Trader. CANDY is a community token designed to reward people...</p>
+<p>The post <a href="https://neonewstoday.com/general/neo-candy-begins-distributing-candy-community-token-aims-to-reward-neo-ecosystem-dapp-users/">Neo Candy begins distributing CANDY community token, aims to reward Neo ecosystem dApp users</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/neo-candy-token-distribution-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo Candy has <a href="https://twitter.com/NeoCandyN3/status/1468195538185113601?s=20" target="_blank" rel="noopener">begun distributing</a> NEP-17 CANDY airdrops through <a href="https://n3trader.mercurialapps.com/" target="_blank" rel="noopener">Mercurial App’s N3 Trader</a>. CANDY is a community token designed to reward people for interacting with dApps in the Neo ecosystem. The goal for the token is to strengthen and grow the Neo community through supporting various projects. Neo Candy was created by Yannick Koitzsch, a Neo community developer working on the <a href="https://nekohit.com/" target="_blank" rel="noopener">NekoHit</a> crowdfunding platform, and <a href="https://neolend.finance/" target="_blank" rel="noopener">NeoLend</a>, a DeFi lending protocol built on Neo N3.</p>
+<p>For a chance to claim CANDY, users must connect to N3 Trader with a NeoLine or O3 Wallet and complete an active trade offering the NEP-17 token. The Neo Candy team will randomly open trades on the platform that users can execute. At the time of press, several sporadic trades ranging up to 10,000 CANDY for 0.00000001 GAS have been completed. The team also intends to randomly airdrop CANDY to users that complete any trade until around 12:00 p.m. (UTC) on Thursday, Dec. 9.</p>
+<p>The Neo Candy team says it will distribute the tokens in a free and fair process through airdrops, contests, giveaways, tipbots, competitions, and games. The <a href="https://neo3.neotube.io/tokens/nep17/0x88da18a5bca86ec8206d9b4960a7d0c4355a432f" target="_blank" rel="noopener">total supply</a> of CANDY is 9 billion tokens.</p>
+<p>CANDY will be used for playing mini-games, where users can spend CANDY and potentially win more. The Candice and Candy Lottery mini-games are slated for Q1 2022 launch, and Candyland later in 2022. Candice is a two-player dice game where the player rolling the higher number wins the stakes. Candy Lottery will allow users to purchase tickets with CANDY for a chance to win a jackpot. And Candyland is an in-browser game that will offer a staking mechanism to earn interest in CANDY.</p>
+<p>Looking forward, Neo Candy will announce upcoming airdrops across its social media accounts. Neo Candy doesn’t have a whitepaper, but the team intends to release one in 2022.</p>
+<p>More information about the CANDY distribution can be found at the link below:<br />
+<a href="https://twitter.com/NeoCandyN3/status/1468195538185113601" target="_blank" rel="noopener">https://twitter.com/NeoCandyN3/status/1468195538185113601</a></p>
+<p>The post <a href="https://neonewstoday.com/general/neo-candy-begins-distributing-candy-community-token-aims-to-reward-neo-ecosystem-dapp-users/">Neo Candy begins distributing CANDY community token, aims to reward Neo ecosystem dApp users</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Neo News: Week in Review &#8211; November 29 &#8211; December 5</title>
 		<link>https://neonewstoday.com/general/neo-news-week-in-review-november-29-december-5/</link>
 		
@@ -62,10 +125,10 @@
 		<category><![CDATA[TTM]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=29784</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NEO Neo released neo-cli v3.1.0 and noted plans to launch the upgrade on TestNet on Dec. 6. If the TestNet runs smoothly,...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO Neo released neo-cli v3.1.0 and noted plans to launch the upgrade on TestNet on Dec. 6. If the TestNet runs smoothly,...</p>
 <p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-november-29-december-5/">Neo News: Week in Review &#8211; November 29 &#8211; December 5</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><h2 class="p1">NEO</h2>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><h2 class="p1">NEO</h2>
 <p><b>Neo</b> <a href="https://neo-blockchain.medium.com/neo-cli-v-3-1-0-release-announcement-af5b06d81399" target="_blank" rel="noopener">released</a> neo-cli v3.1.0 and noted plans to launch the upgrade on TestNet on Dec. 6. If the TestNet runs smoothly, the team intends to launch the upgrade on MainNet two weeks later. The update includes NeoFS side-chain settings, a new token tracker in neo-modules, and more.</p>
 <p><b>Flamingo Finance</b> <a href="https://flamingofinance.medium.com/flamingo-n3-dee588bede0e" target="_blank" rel="noopener">began</a> migrating to Neo N3 on Nov. 30, although FLM minting was delayed until Dec. 3 to ensure fairness for users migrating from Legacy. The change was made to give users more time to migrate and stake before N3 FLM rewards distribution began. FLM rewards on Flamingo Legacy will reduce by 25% every 10 days while equally increasing on Flamingo N3.</p>
 <p>Alex Borutskiy, <b>iMe Smart Platform</b> co-founder, <a href="https://neonewstoday.com/general/transcript-ime-co-founder-discusses-integrating-blockchain-services-into-messaging-platform-on-neo-live/">joined</a> <b>Neo Global Development</b>’s AMA series, Neo Live, on Tuesday, Nov. 29. iMe is a messaging platform powered by the Telegram API, which incorporates blockchain-enabled features (i.e., multi-chain wallets, DeFi). The project was recently accepted into the N3 Early Adoption Program, and the app is available for iOS and Android. In the AMA, Borutskiy discussed how messaging with blockchain integration makes iMe a unique platform, plans for adding support for new blockchains, current and future use cases for the platform’s LIME token, and upcoming features on the roadmap.</p>
@@ -108,7 +171,7 @@
 		<category><![CDATA[FLM]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=29761</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>FLM minting is live on Flamingo N3, now offering rewards to users who stake tokens and provide liquidity to the platform. This...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>FLM minting is live on Flamingo N3, now offering rewards to users who stake tokens and provide liquidity to the platform. This...</p>
 <p>The post <a href="https://neonewstoday.com/exchanges/flamingo-begins-minting-flm-on-n3-platform-phasing-out-legacy-minting-over-the-next-month/">Flamingo begins minting FLM on N3 platform, phasing out Legacy minting over the next month</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>FLM minting is live on Flamingo N3, now offering rewards to users who stake tokens and provide liquidity to the platform. This activity <a href="https://flamingofinance.medium.com/migration-launch-details-1af32e516241" target="_blank" rel="noopener">was delayed</a> from the planned Nov. 30 start until Dec. 3, to ensure fairness for users migrating from Legacy. The change was made to give users more time to migrate and stake before N3 FLM rewards distribution began.</p>
@@ -9233,61 +9296,6 @@ The mortgage lending function will activate after the circulation of sCASH reach
 <p>The full announcement can be found at the link below:<br />
 <a href="https://medium.com/switcheo/extension-of-liquidity-rewards-on-demex-18b9c9f43a1b" target="_blank" rel="noopener">https://medium.com/switcheo/extension-of-liquidity-rewards-on-demex-18b9c9f43a1b</a></p>
 <p>The post <a href="https://neonewstoday.com/general/switcheo-community-votes-to-extend-lp-rewards-and-modify-reward-weightings/">Switcheo community votes to extend LP rewards and modify reward weightings</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEO among first cryptocurrencies supported by upcoming DigiFinex debit card</title>
-		<link>https://neonewstoday.com/general/neo-among-first-cryptocurrencies-supported-by-upcoming-digifinex-debit-card/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Mon, 08 Mar 2021 23:44:09 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[NEO]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=24486</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies supported in the upcoming DigiFinex debit card. The card will allow users to pay...</p>
-<p>The post <a href="https://neonewstoday.com/general/neo-among-first-cryptocurrencies-supported-by-upcoming-digifinex-debit-card/">NEO among first cryptocurrencies supported by upcoming DigiFinex debit card</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies <a href="https://twitter.com/Neo_Blockchain/status/1368927557521866770?s=20" target="_blank" rel="noopener">supported</a> in the upcoming DigiFinex debit card. The card will allow users to pay for goods and services with NEO via UnionPay, the world’s largest PIN-network. Applications for the debit card begin March 30, 2021.</p>
-<p>DigiFinex and Blucon announced the debit card in a Feb. 24, 2021 press conference. Neo co-founder, Da Hongfei, was among the participants in the Zoom audience.</p>
-<p><a href="https://www.digifinex.com/en-ww/markets" target="_blank" rel="noopener">DigiFinex</a> is a custodial exchange that offers spot trading for NEO and GAS and leverage trading for NEO. It has offices in Singapore, Australia, China, South Korea, and Malaysia, and <a href="https://digifinex.medium.com/digifinex-and-blucon-establish-strategic-partnership-for-first-ever-unionpay-cryptocurrency-debit-9005405586fe" target="_blank" rel="noopener">reports</a> more than 4 million users. At the time of press, DigiFinex is a <a href="https://coinmarketcap.com/rankings/exchanges/" target="_blank" rel="noopener">top 50 ranked exchange</a> with approximately US $1.1 billion in 24-hour trading volume.</p>
-<p><a href="http://blucon.io/" target="_blank" rel="noopener">Blucon</a> is a payments processing company focused on reducing barriers to spending cryptocurrency in the traditional retail economy. It is the entity tasked with converting cryptocurrencies into spendable fiat currency on the debit card.</p>
-<p>UnionPay’s infrastructure <a href="https://www.unionpayintl.com/en/aboutUs/companyProfile/introductiontoUPI/" target="_blank" rel="noopener">enables</a> debit cardholders access to services in 179 countries and regions through its 2,400 institutional partnerships.</p>
-<p>The DigiFinex UnionPay debit card will initially support BTC, ETH, NEO, DASH, BEP, and DFT.</p>
-<p>The full announcement can be found at the link below:<br />
-<a href="https://digifinex.zendesk.com/hc/en-us/articles/900004667106-DigiFinex-and-Blucon-to-issue-the-first-ever-UnionPay-Cryptocurrency-Debit-Card" target="_blank" rel="noopener">https://digifinex.zendesk.com/hc/en-us/articles/900004667106-DigiFinex-and-Blucon-to-issue-the-first-ever-UnionPay-Cryptocurrency-Debit-Card</a></p>
-<p>The post <a href="https://neonewstoday.com/general/neo-among-first-cryptocurrencies-supported-by-upcoming-digifinex-debit-card/">NEO among first cryptocurrencies supported by upcoming DigiFinex debit card</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Nash League season three begins at midnight (UTC) on March 9, 2021</title>
-		<link>https://neonewstoday.com/general/nash-league-season-three-begins-at-midnight-utc-on-march-9-2021/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Mon, 08 Mar 2021 23:42:29 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[NEX]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=24475</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Nash League season three begins at midnight (UTC) on March 9, 2021 and runs through April 6. The third season will have...</p>
-<p>The post <a href="https://neonewstoday.com/general/nash-league-season-three-begins-at-midnight-utc-on-march-9-2021/">Nash League season three begins at midnight (UTC) on March 9, 2021</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Nash League season three begins at midnight (UTC) on March 9, 2021 and runs through April 6. The third season will have the same structure as season two, where $10,000 in rewards will unlock at intervals of $10 million in trading volume. All Nash users are automatically registered.</p>
-<p>Nash League is a competition designed to increase the trading volume on the Nash non-custodial platform. The second season recently concluded and brought approximately US $74 million in volume and unlocked $70,000 in prizes.</p>
-<p>Just as in the prior season, Nash League season three offers participants the ability to compete concurrently in solo and team categories. Traders can win prizes from both prize pools, with rewards distributed proportionally to their trading volume.</p>
-<p>Squad registration is currently live and ends just before midnight on March 18. Squads must have a minimum of five members. If a squad doesn’t meet the minimum requirements by the time registration concludes, registrants will compete in the solo category.</p>
-<p>Returning to season three is the “Rookie” category, offering a separate reward pool to incentivize new users. Each week, Nash will distribute a pool of 1,000 NEX tokens to the top 100 new traders proportionate to their trading volume.</p>
-<p>Eligible trading pairs for the competition include BTC/USDC, ETH/USDC, ETH/BTC, LINK/USDC, NOIA/USDC, NOIA/BTC, and NEO/USDC.</p>
-<p>Note: Only users who generate more than $10,000 of volume during the competition are eligible for prizes.</p>
-<p>The full announcement can be found at the link below:<br />
-<a href="https://blog.nash.io/nash-league-season-3-10-000-prizes-for-every-10m-volume/" target="_blank" rel="noopener">https://blog.nash.io/nash-league-season-3-10-000-prizes-for-every-10m-volume/</a></p>
-<p>The post <a href="https://neonewstoday.com/general/nash-league-season-three-begins-at-midnight-utc-on-march-9-2021/">Nash League season three begins at midnight (UTC) on March 9, 2021</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		

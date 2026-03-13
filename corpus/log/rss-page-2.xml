@@ -12,7 +12,7 @@
 	<atom:link href="https://neonewstoday.com/author/dylan/feed/?paged=2" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Latest news and updates on the open-source Neo Blockchain project.</description>
-	<lastBuildDate>Wed, 08 May 2024 00:50:40 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 May 2024 00:20:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,100 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Neobox releases economic model for forthcoming NEOBOX NEP-17 token launch</title>
+		<link>https://neonewstoday.com/nft/neobox-releases-economic-model-for-forthcoming-neobox-nep-17-token-launch/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Sat, 11 May 2024 00:20:08 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[bNEO]]></category>
+		<category><![CDATA[GAS]]></category>
+		<category><![CDATA[NEO]]></category>
+		<category><![CDATA[NEOBOX]]></category>
+		<category><![CDATA[NeoFS]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=47911</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neobox has released the token economic model for the NEOBOX NEP-17 token, which is currently in the community sale (aka pre-sale) phase....</p>
+<p>The post <a href="https://neonewstoday.com/nft/neobox-releases-economic-model-for-forthcoming-neobox-nep-17-token-launch/">Neobox releases economic model for forthcoming NEOBOX NEP-17 token launch</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neobox has released the token economic model for the NEOBOX NEP-17 token, which is currently in the community sale (aka pre-sale) phase. The NEP-17 NEOBOX token will be used to pay for services, reward content creators and collaborators, offer access to exclusive features, and crowdfund game development.</p>
+<p>Neobox <a href="https://neonewstoday.com/nft/neobox-dropbox-like-app-launches-on-neofs-with-mini-games-word-processor-and-early-access-program/">recently soft-launched</a> its Dropbox-like app, a user interface that lets users upload and access files stored on Neo’s distributed storage network, NeoFS. Alongside its storage services, Neobox hosts mini-games (i.e., Snake, Tetris) and apps (i.e., NeoDoc word processor).</p>
+<p>The NEOBOX token model has a couple of allusions to the Neo ecosystem, including a total supply of 100,000,000 (like that of the NEO token) and a dual-token model. NEOBOX tokens are slated for use to access advanced services and features, and GAS is used to pay for basic network operations on NeoFS. The NEOBOX tokens are planned to be distributed accordingly:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">Community Sale: 7 million tokens (7%)</li>
+<li style="font-weight: 400;" aria-level="1">Private Sale: 13.5 million tokens (13.5%)</li>
+<li style="font-weight: 400;" aria-level="1">Team and Founders: 21 million tokens (21%)</li>
+<li style="font-weight: 400;" aria-level="1">Community &amp; Ecosystem: 43 million tokens (43%)</li>
+<li style="font-weight: 400;" aria-level="1">Rewards and Incentives: 12.5 million tokens (12.5%)</li>
+<li style="font-weight: 400;" aria-level="1">Advisors: 3 million tokens (3%)</li>
+</ul>
+<p>Once the private and community sales conclude, the Neobox team intends to contribute 40% of the funds raised to liquidity pools across various custodial and non-custodial exchanges that list the token. <a href="https://x.com/neostorage/status/1786742355346837847" target="_blank" rel="noopener">At the time of press</a>, NEOBOX is tentatively slated to list on the MEXC exchange, with two others in the works.</p>
+<p>The team has also identified plans for how the remaining 60% of raised funds will be allocated. A total of 25% of the token supply is earmarked for team allocation for operational expenses such as salaries, administrative costs, and daily operational costs. Another 20% of funds raised is intended to go toward community and ecosystem development for activities such as promotional activities and strategic partnerships. The final 15% is planned to be spent toward platform development and technological enhancements.</p>
+<h2>Vesting and Unlock Schedule</h2>
+<p>The token sale has been divided into two categories: community sale and private sale. The community sale is underway and has <a href="https://explorer.onegate.space/accountprofile/0x7f8eb8dbf71a5785bab0e14253436a38635f975e" target="_blank" rel="noopener">amassed</a> approximately 411 bNEO, 27 GAS, and 33 NEO at the time of press.</p>
+<p>The vesting schedule for the community sale is noted to have two tracts, depending on the order in which the contributions were made. Neobox has stated that the first 50% of contributors will receive all their NEOBOX portion upon the beginning of the token generation event. The second half will receive 25% of their allocation at the TGE and 75% over the next six months.</p>
+<p>Private sale contributors are planned to begin receiving NEOBOX immediately at the TGE, with distributions made over a three-year period. At the time of press, it is unclear how much NEOBOX these contributors will receive in the initial batch, and how often additional amounts will be released over the course of the following three years.</p>
+<p>The team, founders, and advisors will begin receiving their allocation of NEOBOX six months after the TGE and spread out over 4.5 years.</p>
+<p>Lastly, ecosystem rewards and incentives are planned to begin six months after the TGE and spread out over a 4.5 year timeframe.</p>
+<p>The Neobox team notes that the current distribution plan represents the first version of the economic model. It stated, “While this outline provides a comprehensive overview of the planned allocation and unlocking phases for NEOBOX tokens, the team reserves the right to make minor adjustments to this model as necessary. These adjustments will be aimed at optimizing the token distribution strategy in response to market conditions, regulatory considerations, and community feedback.”</p>
+<p>The full outline of the NEOBOX token economic model can be found at the link below:<br />
+<a href="https://neofs.neobox.world/BhVHSgTRZeuZgGAM8bwmJhGC5R6tvDp4zGX7KDMcGHCH/G12J14x53K978DNRzx8qnYKhncPzZQcHXYNXiej5jreo" target="_blank" rel="noopener">https://neofs.neobox.world/BhVHSgTRZeuZgGAM8bwmJhGC5R6tvDp4zGX7KDMcGHCH/G12J14x53K978DNRzx8qnYKhncPzZQcHXYNXiej5jreo</a></p>
+<p>The post <a href="https://neonewstoday.com/nft/neobox-releases-economic-model-for-forthcoming-neobox-nep-17-token-launch/">Neobox releases economic model for forthcoming NEOBOX NEP-17 token launch</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Neobox Dropbox-like app launches on NeoFS with mini-games, word processor, and early access program</title>
+		<link>https://neonewstoday.com/nft/neobox-dropbox-like-app-launches-on-neofs-with-mini-games-word-processor-and-early-access-program/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 16:03:06 +0000</pubDate>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[GAS]]></category>
+		<category><![CDATA[NEO]]></category>
+		<category><![CDATA[NEOBOX]]></category>
+		<category><![CDATA[Pixudi]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=47754</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neobox recently soft-launched its Dropbox-like app and has slowly been drip-feeding mini-games and other dApps to the platform. Neobox is a user...</p>
+<p>The post <a href="https://neonewstoday.com/nft/neobox-dropbox-like-app-launches-on-neofs-with-mini-games-word-processor-and-early-access-program/">Neobox Dropbox-like app launches on NeoFS with mini-games, word processor, and early access program</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neobox recently <a href="https://x.com/neostorage/status/1780876915986800847" target="_blank" rel="noopener">soft-launched</a> its Dropbox-like app and has slowly been drip-feeding mini-games and other dApps to the platform. Neobox is a user interface that lets users upload and access files stored on NeoFS, Neo’s distributed storage network. It was founded and built by the team behind Pixudi, the cross-chain NFT board racing game.</p>
+<p><a href="https://x.com/neostorage/status/1781323486562046420" target="_blank" rel="noopener">According to the team</a>, “Neobox represents a groundbreaking service akin to Google Drive or Dropbox, but powered by NeoFS technology on the Neo blockchain.”</p>
+<div id="attachment_47777" style="width: 1218px" class="wp-caption alignnone"><a href="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-homepage.png"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-47777" class=" wp-image-47777" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-homepage-300x156.png" alt="" width="1208" height="628" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-homepage-300x156.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-homepage-768x400.png 768w" sizes="auto, (max-width: 1208px) 100vw, 1208px" /></a><p id="caption-attachment-47777" class="wp-caption-text">Source: Neobox</p></div>
+<p>The Neobox platform offers a simple user interface for storing files on NeoFS. The platform is currently a minimum viable product, with features continuing to periodically roll out. Currently, Neobox users can upload smaller files to the application, access several mini-games, and use a word processor, NeoDocs, capable of creating a text or PDF file.</p>
+<p>Ultimately, users will be able to create, delete, upload, and share files and folders. For now, the app offers limited functionality; while files can be uploaded and shared, they currently can’t be removed.</p>
+<h2>dApps</h2>
+<p>Alongside the file storage features, Neobox also serves as a dApp repository for games and other applications that can be built on top of NeoFS. The Apps page currently hosts five in-browser games the team has launched: Snake, Tetris, Pacman, and 3072. The first three games have been around for decades, but the fourth was recently built by the Neobox team.</p>
+<p>The new game is played on a 4 x 4 grid. Players use the arrow keys to move blocks and combine them with blocks of the same number. Once combined, the two blocks merge into one another, creating a new block totaling the sum of the previous two. The game&#8217;s goal is to merge enough blocks into one another until they reach the number 3,072.</p>
+<div id="attachment_47788" style="width: 1218px" class="wp-caption alignnone"><a href="https://neonewstoday.com/wp-content/uploads/2024/05/NeoDocs.png"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-47788" class=" wp-image-47788" src="https://neonewstoday.com/wp-content/uploads/2024/05/NeoDocs-300x157.png" alt="" width="1208" height="632" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/NeoDocs-300x157.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/NeoDocs-1024x535.png 1024w, https://neonewstoday.com/wp-content/uploads/2024/05/NeoDocs-768x401.png 768w, https://neonewstoday.com/wp-content/uploads/2024/05/NeoDocs-1536x802.png 1536w, https://neonewstoday.com/wp-content/uploads/2024/05/NeoDocs-2048x1069.png 2048w" sizes="auto, (max-width: 1208px) 100vw, 1208px" /></a><p id="caption-attachment-47788" class="wp-caption-text">Source: Neobox</p></div>
+<p>In addition to the games, Neobox hosts NeoDocs, a <a href="https://x.com/neostorage/status/1782814177842663856" target="_blank" rel="noopener">document editor</a> for creating text and PDF files. Users can input text and photos and choose from a minimal selection of fonts and formats for headers.</p>
+<h2>NEOBOX Tokens</h2>
+<p>The Neobox team is launching an NFT built on Neo’s NEP-11 standard, as well as a fungible NEOBOX NEP-17 token.</p>
+<p>Neobox NFTs will have utility baked into the token, primarily focused on providing additional storage support on the Neobox platform. The Neobox NFT collection will have a total token supply of 10,000, which will also be assigned rarity values. The rarer the NFT, the more storage and access to exclusive services.</p>
+<p>The team will also put a <i>Willy Wonka</i>-inspired twist on the collection, where three of the total supply will act as &#8220;Golden Tickets.&#8221; These Golden Tickets will offer the owner a significantly larger network storage than what is typically available to other NFT holders.</p>
+<p>The NEOBOX token will be used for various purposes, both on the Neobox platform and on Pixudi. On Neobox, the token will be used to pay for services, reward content creators and collaborators, offer access to exclusive features, and raise funds for game development. On Pixudi, NEOBOX tokens will be used to purchase in-game items (i.e., Mystery Packs).</p>
+<p>Additionally, as an homage to the Neo ecosystem, NEOBOX will be part of a dual-token economy, where GAS is used to pay for basic network operations, and NEOBOX tokens are used to access advanced services and features.</p>
+<h2>Early Access Program</h2>
+<p>Alongside the soft-launch, Neobox is hosting an early access program for users to earn rewards. The program offers a pre-sale where users can contribute GAS or NEO to claim a stake in the upcoming NFT series with subscription benefits and a bonus amount of NEOBOX NEP-17 tokens.</p>
+<p>The team aims to raise 100,000 NEO in two phases. The first phase is ongoing until the team raises 50,000 NEO (or its equivalent in GAS). Those who contribute to the early access program will receive 100% of NEOBOX tokens once they’re generated and distributed.</p>
+<p>The second phase will run until the second 50,000 NEO (or equivalent GAS) are raised. Contributors to phase two can claim immediate access to 25% of their token allocation, with the remaining 75% to be unlocked throughout a six-month period after the token generation event.</p>
+<p>Users are strongly encouraged to contribute NEO or GAS from their personal wallets. The Neobox team seeks to ensure the rewards for the early access program are distributed properly, and is asking users to avoid sending funds from exchanges or routing services.</p>
+<p>In a conversation with NNT, Neobox leadership stated that the early access program may conclude at any time because of interest from larger-scale industry partners. However, at the time of press, there&#8217;s no indication of who these partners might be.</p>
+<p>Neobox can be accessed at the link below:<br />
+<a href="https://neobox.world/#/" target="_blank" rel="noopener">https://neobox.world/#/</a></p>
+<p>The post <a href="https://neonewstoday.com/nft/neobox-dropbox-like-app-launches-on-neofs-with-mini-games-word-processor-and-early-access-program/">Neobox Dropbox-like app launches on NeoFS with mini-games, word processor, and early access program</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Neo News: Week in Review &#8211; April 29 &#8211; May 5</title>
 		<link>https://neonewstoday.com/week-in-review/neo-news-week-in-review-april-29-may-5/</link>
 		
@@ -51,13 +145,13 @@
 		<category><![CDATA[TIPS]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=47753</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>General Updates Neo partnered with Fansland, a fan economy platform powered by blockchain and AI, to empower artists and provide consumers with...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>General Updates Neo partnered with Fansland, a fan economy platform powered by blockchain and AI, to empower artists and provide consumers with...</p>
 <p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-april-29-may-5/">Neo News: Week in Review &#8211; April 29 &#8211; May 5</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><div class="video-cover border--round">
-<div class="background-image-holder"><img decoding="async" width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large" alt="" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+<div class="background-image-holder"><img loading="lazy" decoding="async" width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large" alt="" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></div>
 <div class="video-play-icon"></div>
-<p><iframe title="Neo News: Week in Review – April 29 - May 5" width="1170" height="658" src="https://www.youtube.com/embed/blDEDwyjvZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p><iframe loading="lazy" title="Neo News: Week in Review – April 29 - May 5" width="1170" height="658" src="https://www.youtube.com/embed/blDEDwyjvZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <p><!--end video cover--></p>
 <h2>General Updates</h2>
 <p><b>Neo </b><a href="https://neonewstoday.com/nft/neo-partners-with-fansland-for-music-festival-in-thailand-and-potential-technology-integration/">partnered</a> with <b>Fansland</b>,<b> </b>a fan economy platform powered by blockchain and AI, to empower artists and provide consumers with new access to those in the entertainment industry. The partnership’s first initiative will entail sponsoring an event in Bangkok, Thailand, dubbed “the world’s first Web3 music festival,” which will occur later in 2024. Looking forward, Neo and Fansland plan to explore the possibilities of minting tickets to events on the Neo N3 and X blockchains, with tickets represented as NFTs that will offer exclusive holder rights.</p>
@@ -9234,97 +9328,6 @@ Oct. 25: <a href="https://neonewstoday.com/events/neo-touring-top-colleges-acros
 <p>The full announcement can be found at the link below:<br />
 <a href="https://twitter.com/BlockchainCutie/status/1572554798645542912?s=20&amp;t=FSv-n7AM80xElyGQMnVoFg" target="_blank" rel="noopener">https://twitter.com/BlockchainCutie/status/1572554798645542912?s=20&amp;t=FSv-n7AM80xElyGQMnVoFg</a></p>
 <p>The post <a href="https://neonewstoday.com/nft/blockchain-cuties-universe-enables-n3-migration-offers-exclusive-nft-pre-sale-to-celebrate/">Blockchain Cuties Universe enables N3 migration, offers exclusive NFT pre-sale to celebrate</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Neo touring top colleges across the US throughout October including Harvard, Yale, and more.</title>
-		<link>https://neonewstoday.com/events/neo-touring-top-colleges-across-the-us-throughout-october-including-harvard-yale-and-more/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 18:22:20 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[NEO]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=37242</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo is embarking on a tour of more than a dozen universities across the US to discuss Web3 opportunities and the Neo...</p>
-<p>The post <a href="https://neonewstoday.com/events/neo-touring-top-colleges-across-the-us-throughout-october-including-harvard-yale-and-more/">Neo touring top colleges across the US throughout October including Harvard, Yale, and more.</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-us-university-tour-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo is <a href="https://twitter.com/Neo_Blockchain/status/1572571922474618882?s=20&amp;t=Wq89IpLnt3Ddzr9CM8hFzA" target="_blank" rel="noopener">embarking on a tour</a> of more than a dozen universities across the US to discuss Web3 opportunities and the Neo blockchain with college students. The cross-campus journey launches in October, with the mission to build, bridge, and broaden relationships with the next generation of change-makers across the country.</p>
-<p>Through the tour, Neo Global Development intends to build connections with students and share innovative ideas. The aim is to bridge connections between blockchain, fintech, and VC student clubs to strengthen the foundation of Web3. NGD also seeks to raise awareness of Neo through access to incentive programs like EcoBoost, GrantShares, and more.</p>
-<p>The tour will include visits to the following universities (broken down by region of the country):</p>
-<p><strong>East Coast</strong></p>
-<ul>
-<li>Oct. 2: Yale</li>
-<li>Oct. 3: Boston College</li>
-<li>Oct. 4: MIT</li>
-<li>Oct. 5: Harvard</li>
-<li>Oct. 6: New York City (Featuring university clubs from NYU, Columbia, Fordham, Cornell, and Parsons.)</li>
-</ul>
-<p><strong>Midwest</strong></p>
-<ul>
-<li>Oct. 12: University of Michigan</li>
-<li>Oct. 13: Northwestern University</li>
-<li>Oct. 14: University of Illinois &#8211; Champaign</li>
-</ul>
-<p><strong>Greater Los Angeles Area</strong></p>
-<ul>
-<li>Oct. 17: University of California &#8211; Los Angeles</li>
-<li>Oct. 18: University of Southern California</li>
-<li>Oct. 20: University of California &#8211; San Diego</li>
-</ul>
-<p><strong>Greater San Francisco Bay Area</strong></p>
-<ul>
-<li>Oct. 24: University of California &#8211; Berkeley</li>
-<li>Oct. 25: Stanford</li>
-</ul>
-<div id="attachment_37266" style="width: 1156px" class="wp-caption alignnone"><a href="https://neonewstoday.com/wp-content/uploads/2022/09/US-univserity-tour.png"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-37266" class=" wp-image-37266" src="https://neonewstoday.com/wp-content/uploads/2022/09/US-univserity-tour-300x168.png" alt="" width="1146" height="642" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/US-univserity-tour-300x168.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/US-univserity-tour.png 714w" sizes="auto, (max-width: 1146px) 100vw, 1146px" /></a><p id="caption-attachment-37266" class="wp-caption-text">Source: NEO Global Development</p></div>
-<p>The tour will feature presentations from various members of the Neo ecosystem, who will share responsibility for speaking to students in different regions. The list of speakers includes:</p>
-<ul>
-<li style="font-weight: 400;" aria-level="1">Da Hongfei, Neo Founder</li>
-<li style="font-weight: 400;" aria-level="1">John deVadoss, President of NGD Enterprise</li>
-<li style="font-weight: 400;" aria-level="1">Harry Pierson, Chief Architect of NGD Enterprise</li>
-<li style="font-weight: 400;" aria-level="1">John Wang, Head of NGD EcoGrowth</li>
-<li style="font-weight: 400;" aria-level="1">Steven Liu, Head of NGD Development</li>
-<li style="font-weight: 400;" aria-level="1">Guil. Sperb Machado, Founder of AxLabs</li>
-<li style="font-weight: 400;" aria-level="1">Tyler Adams, Founder and Executive Officer of COZ</li>
-<li style="font-weight: 400;" aria-level="1">Dylan Grabowski, Editor of Neo News Today</li>
-<li style="font-weight: 400;" aria-level="1">And other VCs, professors, media reporters, and project leaders to be announced later.</li>
-</ul>
-<p>Attendees of each university event will receive an exclusive NFT. NGD will release more information about claiming the NFTs in the coming weeks.</p>
-<p>More information about the tour can be found at the link below:<br />
-<a href="https://tour.neo.org" target="_blank" rel="noopener">https://tour.neo.org</a></p>
-<p>The post <a href="https://neonewstoday.com/events/neo-touring-top-colleges-across-the-us-throughout-october-including-harvard-yale-and-more/">Neo touring top colleges across the US throughout October including Harvard, Yale, and more.</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Neo a gold star sponsor of Token2049, Da Hongfei to deliver keynote</title>
-		<link>https://neonewstoday.com/events/neo-a-gold-star-sponsor-of-token2049-da-hongfei-to-deliver-keynote/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Tue, 20 Sep 2022 18:17:12 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[NEO]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=37230</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo is a gold sponsor at the upcoming Token2049 conference, being held at the Marina Bay Sands hotel in Singapore on Sep....</p>
-<p>The post <a href="https://neonewstoday.com/events/neo-a-gold-star-sponsor-of-token2049-da-hongfei-to-deliver-keynote/">Neo a gold star sponsor of Token2049, Da Hongfei to deliver keynote</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/token2049-neo-sponsorship-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo is a gold sponsor at the upcoming Token2049 conference, being held at the Marina Bay Sands hotel in Singapore on Sep. 28 and 29. Neo founder Da Hongfei <a href="https://www.asia.token2049.com/trust-evm-stage" target="_blank" rel="noopener">will deliver</a> a keynote speech entitled <i>The Future of Web3: Governance, Security and Compliance</i>.</p>
-<p>Additionally, Neo will bring its <a href="https://neonewstoday.com/events/neo-at-consensus-2022-chest-game-demo-and-interview-roundup/">interactive chest game first demoed</a> at Consensus 2022. Conference attendees will be able to collect a paper wallet at the booth and use a preloaded NFT to unlock a physical box. Opening the box rewards the participants with token prizes from ecosystem projects.</p>
-<p><a href="https://www.asia.token2049.com/" target="_blank" rel="noopener">Token2049</a> is an annual cryptocurrency and blockchain conference with an event each year in Singapore and London, UK. The events aim to connect founders and executives of leading Web3 companies to share their perspectives on the blockchain industry and cryptocurrency markets. The Singapore conference serves as the flagship event for Asia Crypto Week, which encapsulates a week of independently organized events.</p>
-<p>Token2049 will feature more than 200 speakers, host more than 7,000 attendees, and offer access to more than 250 exhibitors.</p>
-<p>Currently, <a href="https://www.payment.token2049.com/" target="_blank" rel="noopener">tickets cost</a> US $1,299 for registration, but the price will increase to $1,499 on Sep. 26.</p>
-<p>More information can be found at the link below:<br />
-<a href="https://twitter.com/token2049/status/1571801327512211457?s=20&amp;t=O8v7-HQ4-tOTX7twprngWQ" target="_blank" rel="noopener">https://twitter.com/token2049/status/1571801327512211457?s=20&amp;t=O8v7-HQ4-tOTX7twprngWQ</a></p>
-<p>The post <a href="https://neonewstoday.com/events/neo-a-gold-star-sponsor-of-token2049-da-hongfei-to-deliver-keynote/">Neo a gold star sponsor of Token2049, Da Hongfei to deliver keynote</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		
