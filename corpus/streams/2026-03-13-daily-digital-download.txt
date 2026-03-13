@@ -1,0 +1,977 @@
+ M-G-M, everybody, welcome to not crypto coffee
+ and blockchain beer.
+ Welcome to your daily digital download
+ with your host, Dylan Grabowski.
+ Thank you so much for tuning in.
+ I appreciate every single one of you.
+ Let me just add the old link to the TL.
+ There we go.
+ If you guys could, please, heart,
+ I'll show you how to do it,
+ comment, or comment, or retweet.
+ That'd be awesome.
+ Would really, really appreciate any and every type
+ of little bit of love you could give me.
+ Oh.
+ Anyways, welcome to another daily digital download.
+ This is our third edition with the help of my agent, Hawat.
+ So thank you so much, Hawat,
+ for helping to put these guides together
+ and for doing such a phenomenal job
+ at capturing the voice of what happened
+ in blockchain and crypto over the past 24 hours.
+ As always, if you appreciate what you're seeing
+ in these videos, please don't hesitate to give me that heart,
+ that retweet, or comment,
+ or just leave a comment in the chat.
+ I will try my best to get back to you.
+ The chat is,
+ there's a delay between the stream.
+ Sorry if I don't respond to you in the moment.
+ I appreciate everybody who's here watching this today.
+ The reason why I host these daily digital downloads
+ is because I have been working in the blockchain
+ and crypto space full-time since 2018.
+ And I've seen a lot of good and bad.
+ And I think that the space just needs a voice of reason
+ that's not gonna be hyperbolic,
+ that's gonna be fact-based, and gonna be objective.
+ And so that's why I do this.
+ I do these day in and day out for you, the dear listener.
+ So to you,
+ congratulations for existing.
+ It's a Friday.
+ It's a beautiful Friday.
+ Markets are looking a little bit up,
+ but we don't typically talk about price.
+ All right, moving on.
+ If there's anything you guys ever wanna hear about,
+ feel free to shoot me a message.
+ But otherwise, I think I've curated
+ a pretty nice little list for all of us.
+ So yesterday,
+ BlackRock launched its staked Ethereum ETF,
+ and they saw $15.5 million in volume on the first day.
+ According to Bloomberg ETF analyst, James Seifert,
+ who also has a great podcast,
+ that's awesome.
+ $15.5 million in trading volume on day one
+ is a very solid day for day one for an ETF launch.
+ ETHB also has over $100 million in assets.
+ ETHB is BlackRock's first,
+ crypto ETF that incorporates staking.
+ And this is the world's largest asset manager
+ that wants to launch more staked funds.
+ So super freaking cool.
+ ETHB fund stakes 70 to 95%
+ of its underlying Ether assets
+ under normal market conditions,
+ while the remaining 5 to 30% is held unstaked
+ for creations, redemptions, and operational liquidity.
+ Now, folks, this is what I was saying yesterday.
+ It's cool to see staked assets.
+ It's cool to see staked assets in ETFs.
+ But really, the power of staking
+ is using the underlying blockchain networks.
+ And this is why, right here.
+ Approximately 82% of staking rewards
+ will be distributed monthly to holders,
+ with 18% allocated to the sponsor
+ and the execution agent.
+ You're already losing out on 18% of your ETH yield.
+ So anyways, like I said yesterday,
+ hopefully these are a nice Trojan horse
+ to get traditional financial investors
+ interested in our crypto digital assets.
+ Hopefully they want to learn
+ how to do staking on chain
+ and capture that final 18%
+ that they're giving away
+ to sponsors and execution agents.
+ Two pieces of US news
+ that is good and bad.
+ And again, I know you can hear from my accent.
+ I'm American.
+ I apologize for talking about the American government.
+ Our audience isn't all American.
+ We're a quite global bunch, us and crypto.
+ But what happens in the US
+ sends ripples across the world.
+ And I personally just want to see
+ good crypto legislation here in the US.
+ Anyways.
+ The Senate has overwhelmingly
+ passed a CBDC ban
+ attached to bipartisan housing bill.
+ This is fantastic.
+ We're seeing American politicians
+ agree on something on crypto.
+ Thank God.
+ Sometimes I feel like
+ we lost the plot when Trump got elected
+ and that turned what was
+ an age-based issue.
+ Basically, anyone that was older than 55
+ in Congress was anti-crypto.
+ Anyone under the age of 55,
+ was, I wouldn't say pro-crypto,
+ but was open to suggestions,
+ open to hearing about the asset class
+ and the technology.
+ And then when Trump got elected,
+ it became a red versus blue,
+ right versus left,
+ conservative versus progressive,
+ Republican versus Democrat issue.
+ And finally,
+ finally,
+ we're seeing some of the parties
+ come together and play nice.
+ US Senate passed a housing bill
+ containing,
+ a ban on the CBDC or the digital dollar,
+ which will last until 2031.
+ This is a big deal.
+ And this, and I just cannot,
+ as a cypherpunk light,
+ because I'm not like a hardcore cypherpunk guy,
+ I wasn't on the Bitcoin mailing list.
+ I didn't care about cryptography
+ until Bitcoin in 2017.
+ So I will never LARP
+ as like a cypherpunk or a cypherpunk OG.
+ But as somebody who values,
+ owning their own data,
+ their self-sovereignty,
+ it is so fantastic
+ to see this argument being made
+ for why Senate doesn't want the CBDCs.
+ CBDCs are cryptocurrencies issued by a government
+ to act as a cash equivalent.
+ In recent years,
+ they have attracted controversy in the US,
+ particularly among conservatives
+ who argue such a token could be used by the state
+ to monitor holders' financial activities.
+ And this gets to the crux of it.
+ If the US government is distributing a CBDC,
+ the CBDC can be more tracked
+ than your current US dollars in your bank account,
+ than the way that you use your credit card.
+ And if we really want to get into a dystopian future,
+ a dystopian vision,
+ the US government could even go as far
+ as saying what you can and can't spend
+ your CBDC dollars on,
+ or they could just freeze it completely.
+ Now, if you do bad things,
+ if you're a criminal,
+ you can get your bank accounts frozen,
+ you can get your assets frozen.
+ That's not to say that that type of stuff
+ can't happen right now,
+ but the switch to flip it on and off
+ is just so much easier with the CBDC,
+ and there's so much more power
+ that the government can have
+ with a national CBDC.
+ So, absolute kudos to Senate,
+ but the CBDC ban
+ is not live yet,
+ so, you know,
+ let's not count our chickens
+ before the eggs hatch, as they say.
+ Moving on,
+ Senate leader, who?
+ John Thune
+ said that he does not expect the Clarity Act,
+ the US market structure bill,
+ to clear the Senate Banking Committee
+ before April.
+ The Senate Banking Committee
+ is the more important of the two committees
+ that are looking at the,
+ Clarity Act, the market structure bill,
+ because there's more bipartisan support.
+ The other committee that has a version
+ of the Clarity Act
+ is the Senate Ag Committee,
+ but that is by far
+ a more conservative,
+ Republican-friendly version of the bill.
+ And again,
+ we want, we need bipartisan support
+ to get crypto laws
+ and blockchain laws passed.
+ We don't want this to be a red versus blue,
+ a right versus left issue.
+ This is a humanity issue.
+ This is a populist issue.
+ This is something that matters
+ for every single normal person
+ who isn't a billionaire
+ or doesn't have strings attached to power.
+ This is the power of blockchain and crypto.
+ This is why it empowers the everyday man
+ and why everybody should have access to it
+ and why I think a law is so important.
+ Because with laws,
+ we have clear rules for the road.
+ We have a clear set of boundaries and guidelines.
+ That can tell crypto companies
+ how to build and launch in the U.S.
+ During the previous administration,
+ these rules were non-existent.
+ The regulations were opaque.
+ And so many different crypto
+ and blockchain companies
+ were attacked by the SEC
+ because they didn't know
+ how to operate according to the guidelines
+ that Gary Gensler wanted.
+ Which I think was by design
+ with Operation Chokepoint 2.0
+ to snuff out blockchain companies
+ from the blockchain and crypto.
+ And this was done systematically
+ and opaquely
+ from the top down.
+ With laws and rules
+ and regulations in place,
+ it's much more difficult
+ for obscure technocrats
+ who hold positions
+ in random committees
+ or regulatory agencies.
+ It's much more difficult
+ for them to just make
+ wave-of-the-hand actions.
+ Laws and regulations
+ have clear guidelines
+ for what entities can and can't do.
+ And this is super important.
+ Now, on the other side of the coin,
+ this isn't a utopian sort of vision.
+ There are going to be things
+ that the blockchain and crypto industry
+ does not like
+ when this bill is passed.
+ And so I'm not going to sit here
+ and say this is going to be
+ the best thing to ever happen to us.
+ But what I am going to say
+ is at least we'll know
+ what we can and can't do
+ according to law moving forward
+ as crypto builders in the U.S.
+ And I think that has a positive ripple
+ moving on outside the world,
+ outside into the world.
+ The largest sort of battle
+ for the Clarity Act,
+ and again, this was
+ when we started the new year,
+ we were all thinking,
+ oh my gosh, this is going to be great.
+ We're going to have this signed into law
+ by February.
+ Take a sip of coffee.
+ That did not happen.
+ Largely because Coinbase
+ dug their heels in and said,
+ we don't like the yield
+ that the banks want to go to them.
+ And so this line in the sand
+ actually has delayed everything.
+ The legislation has been debated
+ for months amid lobbying
+ from both crypto firms
+ and traditional banking institutions
+ as a key dispute centers
+ on whether companies should be allowed
+ to offer yield on stable coins,
+ which banks,
+ which banks argue
+ could draw away deposits
+ from traditional venues
+ without complying with strict regulations.
+ The quiet part out loud
+ is the banks are arguing that
+ because they're going to lose,
+ they're going to lose deposits
+ into their institutions
+ and that's going to hurt their bottom line.
+ So long story short,
+ there's more here.
+ There's more I could go into.
+ Of course, there's more to the argument
+ than just that.
+ But that's,
+ that's kind of like the high level
+ with the fight is over
+ where stable coin should yield should go.
+ Should it be something
+ that the banks determine
+ how their customers get yield?
+ And if they do that,
+ then just go look at
+ how that's done right now.
+ These guys earn seven plus percent
+ yield from the actions
+ and strategies they take
+ with the dollars
+ that we put into their bank accounts.
+ And you're checking
+ and saving account
+ gets a measly
+ plus 1% interest.
+ Yield.
+ Where's the rest of the six plus?
+ Why does the bank get that?
+ In fact,
+ I would argue
+ they're harmful
+ because they use traditional
+ fractional reserve lending,
+ which makes leverage pile up
+ and systematic collapses
+ much more likely
+ like we saw in 2007,
+ 2008, 2009.
+ So what the fight is really about
+ at the top level
+ amongst many little battles
+ under the umbrella
+ is control.
+ Over who gets access to funds
+ and how that those funds
+ are or the proceeds
+ from those funds are distributed.
+ So anyways,
+ we'll move on to a negative piece of news.
+ A crypto whale has lost
+ nearly $50 million
+ swapping the USDT token
+ stable coin for Aave.
+ They basically just did a market swap
+ and ignored the liquidity
+ and
+ why can't I think of the word right now?
+ Oh my God,
+ I'm so sorry.
+ Spread.
+ Slippage.
+ What happens when you use
+ such a large amount of volume
+ and the slippage that occurs?
+ So this is an interesting fact
+ because this is a user error.
+ The problem exists
+ between the keyboard and chair,
+ PEMDAC.
+ I don't even know
+ if I got that acronym right.
+ Apologize.
+ When someone in crypto
+ loses millions of dollars
+ in an instant,
+ it's usually due to a hack
+ or an exploit.
+ But this time,
+ someone lost $50 million
+ just swapping USDT to Aave.
+ Stani Kulichov,
+ the CEO of Aave Lab,
+ said earlier today,
+ a user attempted to buy Aave
+ using $50 million of USDT
+ through the Aave interface.
+ Given the unusually large size
+ of the single coin,
+ the Aave interface,
+ like most trading interfaces,
+ warned the user
+ about extraordinary slippage
+ and required confirmation
+ via a checkbox.
+ The user confirmed the warning
+ on their mobile device
+ and proceeded with the swap,
+ accepting the high slippage,
+ which ultimately resulted
+ in receiving only $324 Aave.
+ Ouch.
+ Ouch.
+ That's $36,000 worth of Aave.
+ A $50 million trade
+ and they received $36,000.
+ Man.
+ Feels bad, man.
+ This might be the largest
+ swapping-oriented mishap
+ in the history of crypto.
+ Last year,
+ a trader lost a ton
+ when they tried to swap
+ $733,000 worth of Aave.
+ $733,000 worth of Aave.
+ $733,000 worth of Aave.
+ $733,000 worth of Aave.
+ $733,000 worth of Aave.
+ $733,000 worth of USDC
+ for USDT
+ and they received $19,000 of USDT,
+ but that was the result
+ of a sandwich attack.
+ So that was a more or less
+ malicious actor
+ engaging in that loss.
+ So,
+ condolences to the trader.
+ You know,
+ you have to think
+ that the Aave interface
+ was written in English.
+ So,
+ perhaps this trader
+ was just clicking buttons
+ because they don't have
+ a fantastic grasp on English.
+ It's not their first language.
+ And they didn't
+ internalize
+ the severity of the decision
+ that they were about to make.
+ Token 2049 in Dubai
+ has been postponed
+ to 2027
+ amidst the heightened
+ security risks in the UAE.
+ My country is now
+ attacking countries
+ not only in Latin America
+ but also in the Middle East
+ and that is creating
+ uncertainty for safety
+ for folks in those regions.
+ So,
+ apologies
+ to people of the world
+ on behalf of
+ my warmongering government.
+ If you bought a ticket
+ to Token 2049 Dubai,
+ it will either be
+ good for next year
+ in 2027
+ or
+ you can transfer it to
+ the credentials
+ to Token 2049 in Singapore
+ which will take place
+ in August of this year
+ at Marina Bay Sands.
+ I've been to the past
+ couple tokens in Singapore.
+ Love Singapore.
+ Token 2049.
+ I hope I don't get skewered
+ for this but
+ not my favorite conference.
+ I just don't like
+ the type of
+ attendees
+ if I'm going to be honest.
+ It feels very transactional
+ every time I'm there.
+ Like a lot of
+ BD,
+ business development
+ is being done
+ it feels more business-y
+ rather than
+ the right reasons
+ for going to
+ crypto conferences
+ and for that
+ I really prefer
+ ETH Mexico,
+ ETH Denver,
+ ETH DevConnect.
+ I should probably
+ check out a Solana
+ breakpoint
+ but yeah.
+ Anyways,
+ to all of my friends
+ out in the Middle East,
+ be safe.
+ Hopefully this too passes
+ and hopefully this passes
+ real soon.
+ Ethereum L2 OP Labs
+ is
+ decreasing its staff.
+ Approximately
+ 20 employees
+ were laid off
+ as part of a restructuring.
+ Look,
+ this has been happening
+ to crypto companies
+ this whole year.
+ It's hard out there.
+ ZK
+ or sorry,
+ Polygon
+ reduced their staff.
+ Now OP Labs
+ is as well.
+ And
+ Block,
+ Jack Dorsey's company
+ laid off
+ 4,000
+ of its 10,000 employees
+ and I largely think
+ that a lot of these
+ blockchain companies
+ are doing so
+ because tooling
+ is getting better
+ for their employees
+ to do more with less
+ but also
+ and you know
+ even though
+ there's collateral damage
+ I think that there's
+ a positive
+ silver lining here.
+ Polygon,
+ OP Labs,
+ these entities
+ are
+ finding their
+ product market
+ fit
+ and they're doubling down
+ on what can make them
+ successful as a chain.
+ And as we move
+ towards a future
+ where Ethereum
+ is the substrate,
+ Bitcoin becomes
+ the substrate,
+ less and less
+ L2s and L1s
+ launch,
+ more and more
+ of the existing
+ L2s and L1s
+ really find
+ their place
+ in this industry.
+ I think that's good
+ because we want
+ to consolidate
+ what chains
+ are out there
+ and have them do
+ what they're good at.
+ Go back and listen
+ to my podcast episode.
+ With Olivia
+ from Avalabs
+ and how Avalanche
+ is really doubling down
+ and onboarding RWAs.
+ They're figuring out
+ what they're good at
+ and they're going after it.
+ And I think that
+ that's what we want to see
+ of our blockchain networks.
+ So,
+ unfortunately
+ to those
+ who got laid off,
+ I wish you
+ the best of luck
+ in the job hunt.
+ It's rough out there.
+ But,
+ you know,
+ at the same time,
+ kudos to OP Labs.
+ The CEO of OP Labs,
+ Jing Wang,
+ said this is not
+ about finances.
+ OP Labs is well capitalized
+ with the years of runway.
+ Instead,
+ she suggested
+ that the move
+ was intended
+ to streamline decision making
+ and do fewer things
+ exceptionally well.
+ On to our second
+ to last piece of news.
+ I'm no fan
+ of stable coins.
+ I think Pump Fund
+ was a net negative
+ on the blockchain industry.
+ I think meme coins
+ were a net negative
+ on the blockchain industry.
+ It really
+ solidified
+ the fact
+ that people
+ who don't
+ use blockchain networks
+ or cryptocurrencies,
+ it gave them
+ another reason
+ to look at us
+ as a not serious
+ industry.
+ And meme coins
+ are basically
+ like a lottery ticket.
+ So,
+ with all of my
+ preconceived
+ notions
+ out of the way,
+ don't let me
+ cloud
+ what your perspective
+ is on this next
+ piece of news.
+ Pumped Out Fund
+ has become
+ Solana's first
+ billion dollar
+ revenue platform.
+ As Ethereum-based
+ Binance Smart Chain
+ and Monad
+ subdomains
+ hint at a cross-chain
+ move.
+ So, yeah.
+ I mean, like, look.
+ Congrats to the team.
+ They launched
+ a billion dollar
+ revenue product.
+ 98.3 million dollars
+ in earnings
+ so far in 2026.
+ I cannot believe
+ that people are
+ using Pump Fund
+ so much
+ that there's
+ 98 million dollars
+ in revenue this year.
+ But, I digress.
+ In 2025,
+ the platform
+ brought in
+ $664 million
+ in revenue
+ and
+ $321.3 million
+ in its first year
+ of operation.
+ So,
+ look.
+ Clearly,
+ I'm
+ not
+ the
+ arbiter
+ of
+ what's good
+ and what's not
+ or how people
+ should use
+ blockchain networks.
+ The market says
+ people want to use
+ this stuff.
+ $1.8 billion
+ in revenue
+ in three years.
+ Less than three years.
+ Nothing to scoff at.
+ And, of course,
+ this product
+ might come
+ cross-chain.
+ So,
+ keep your ears
+ to the ground
+ for Pump Fund
+ launching on your
+ favorite network.
+ And, wrapping up,
+ music
+ to my ears
+ and to everyone's ears.
+ Prosecutors are moving
+ to block
+ SBF's request
+ for a retrial.
+ Get
+ bent,
+ Sam Bankman-Fried.
+ You're a criminal.
+ You deserve
+ to do your time.
+ U.S. prosecutors
+ have urged the judge
+ to reject a request
+ by SBF
+ for a new trial
+ arguing that
+ the jailed
+ crypto executive
+ has failed to present
+ any legitimate
+ new evidence.
+ The prosecutors
+ are arguing
+ that even if
+ his new testimony
+ was considered,
+ it would not have
+ changed the outcome
+ of the case
+ because of the
+ overwhelming evidence
+ demonstrating
+ that SBF
+ directed the transfer
+ of billions of dollars
+ of customer funds
+ to Alameda.
+ SBF's argument
+ is that
+ FTX wasn't
+ insolvent,
+ that its investments
+ would have made
+ all of its investors
+ whole,
+ and that they would
+ have been a functioning
+ revenue driving
+ in the profit
+ business
+ had he continued
+ to remain
+ at the helm
+ of FTX.
+ But this sociopath
+ continues to just
+ disregard the entire
+ reason for why
+ he's in jail
+ to begin with.
+ He lied.
+ He was
+ lying about
+ using
+ user funds
+ to invest
+ into Alameda
+ and to do
+ whatever the hell
+ they wanted
+ with user funds.
+ At one point,
+ FTX
+ promised
+ its customers
+ that it was
+ one-to-one
+ backed with the assets
+ and they were
+ only holding
+ 105 Bitcoin
+ against customer
+ claims which
+ were approaching
+ $100,000.
+ They were doing
+ fractional reserve
+ lending.
+ They were doing
+ what the banks did.
+ And even these guys
+ with all of their
+ guardrails in place
+ managed to melt
+ the global economy
+ in 2007,
+ 2008,
+ and 2009.
+ And FTX was doing
+ exactly this.
+ He only had
+ 1.05%
+ of the Bitcoins
+ that were
+ on the exchange
+ claimed for customers.
+ He only had
+ 105%
+ to give
+ to customers.
+ Should there have
+ been a bank run
+ on FTX,
+ you would not
+ have been able
+ to get your
+ Bitcoin out.
+ So,
+ another thing
+ is that
+ SBF has
+ said that
+ his case
+ is being
+ represented
+ as political
+ persecution
+ by the
+ Biden administration.
+ But SBF
+ was a major
+ donor to
+ Democrats
+ during the election
+ cycles.
+ And his
+ weaponization
+ narrative offers
+ no new basis
+ for a trial
+ because he contributed
+ money to the folks
+ that he's saying
+ are going after him.
+ He was one of the
+ largest Democratic
+ donors in 2020
+ and 2022.
+ And his campaign
+ finance crimes
+ were the furtherance
+ of making those
+ contributions.
+ So the notion
+ that he's targeted
+ by Democrats
+ by the presidential
+ election,
+ the prior
+ presidential
+ administration
+ is fanciful.
+ So no FTX,
+ you're not going
+ to get a pardon
+ like Ross Olbert
+ and CZ.
+ So,
+ with all that said,
+ guys,
+ here's,
+ this is for you.
+ Thank you so much
+ for tuning in
+ to Friday,
+ March 13th.
+ Ooh.
+ The Daily Digital
+ for Friday,
+ March 13th.
+ These are designed
+ to give you
+ information from
+ a fact-based,
+ objective,
+ non-sensational
+ individual
+ who just wants
+ to share what's going
+ on in the broader
+ blockchain and crypto
+ news from the
+ perspective of
+ somebody who's
+ survived the ups
+ and the downs
+ of the markets
+ working full-time
+ in this industry
+ since 2018.
+ So I appreciate
+ you spending your
+ time with me today
+ to hear my insights
+ on what's going on
+ in the broader
+ blockchain and
+ cryptocurrency space.
+ Thank you to my
+ agent Hawat
+ who is going to be
+ transcribing this
+ and creating
+ a nice overview
+ of what we spoke about
+ and hopefully
+ in the future
+ we're going to start
+ really creating
+ some solid,
+ solid content
+ for you folks
+ but using
+ these live streams
+ and the content
+ that comes out of them.
+ But with all that said,
+ it's Friday.
+ We have a beautiful
+ weekend coming up.
+ Bitcoin is going up today.
+ Markets are going up today.
+ So at least
+ when you go touch grass
+ this weekend
+ you're not doing it for pain.
+ You're doing it for fun.
+ Thank you so much
+ for tuning in
+ to today's episode
+ of the Daily Digital Download
+ with me, your host
+ Dylan Grabowski.
+ I will catch you
+ on the next one.
+ Be safe.
+ Have fun.
+ Take care of each other.
+ See you next week, folks.
+ Peace out.
