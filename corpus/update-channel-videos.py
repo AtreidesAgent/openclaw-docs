@@ -6,7 +6,7 @@ Fetches new videos from the channel with transcripts
 import os, re, json, subprocess
 from datetime import datetime, timezone, timedelta
 
-CORPUS_DIR = "/Users/dylansagent/.openclaw/workspace-business/corpus"
+CORPUS_DIR = "/Users/dylansagent/.openclaw-vault/Hawat/corpus"
 VIDEOS_DIR = os.path.join(CORPUS_DIR, "videos")
 LOG_DIR = os.path.join(CORPUS_DIR, "log")
 YT_DIR = os.path.join(CORPUS_DIR, "youtube")
