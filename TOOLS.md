@@ -54,3 +54,24 @@ Local knowledge base at `~/.openclaw-vault/Hawat/corpus/`
 - **Podcasts:** `corpus/podcasts/` — guest appearances (expanding)
 
 When asked about past episodes, articles, or videos — check `index.md` first, then read the relevant file directly.
+
+## CONTEXT.md Usage
+
+**On session start**: Load and parse CONTEXT.md silently.
+Do not summarize it back to Dylan unless asked — just let it
+inform your behavior.
+
+**Prioritization**: If CONTEXT.md lists active priorities or
+beat focus, weight your analysis and output toward those.
+Don't chase tangents that conflict with stated focus.
+
+**Staleness handling**: Check "Last manual update" timestamp.
+- Under 7 days: trust fully
+- 7–14 days: trust but note if something seems off
+- Over 14 days: flag to Dylan at session start, then proceed
+
+**Writing back**: When you complete a task that changes a
+project status or deadline, update the relevant CONTEXT.md
+field directly. Note what you changed and why.
+
+**File path**: `~/.openclaw-vault/Hawat/CONTEXT.md`

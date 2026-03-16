@@ -1,0 +1,90 @@
+[23:50:00] === Corpus Sync Started: Sat Mar 14 23:50:00 MDT 2026 ===
+[23:50:00] Corpus root: /Users/dylansagent/.openclaw-vault/Hawat/corpus
+[23:50:00] ══ 1/4 Fetching NNT articles ══
+[23:50:37] === Corpus Sync Started: Sat Mar 14 23:50:37 MDT 2026 ===
+[23:50:37] Corpus root: /Users/dylansagent/.openclaw-vault/Hawat/corpus
+
+[23:50:37] ══ 1/4 Fetching NNT articles ══
+  File "/Users/dylansagent/.openclaw-vault/Hawat/corpus/parse-articles-v2.py", line 116
+    if index_
+             ^
+SyntaxError: invalid syntax
+[23:50:39]   WARNING: parse-articles-v2.py exited with errors
+
+[23:50:39] ══ 2/4 Fetching SEP podcast transcripts ══
+  File "/Users/dylansagent/.openclaw-vault/Hawat/corpus/update-videos.py", line 199
+    """
+       ^
+SyntaxError: f-string expression part cannot include a backslash
+[23:50:39]   WARNING: update-videos.py exited with errors
+[23:50:39]   SEP transcripts: 107 total (+0 new)
+[23:50:39]   WARNING: Suspect small SEP transcripts (may need re-fetch):
+[23:50:39]     ⚠️  sep-hLSSQkQU_mc.txt — 1935 bytes
+
+[23:50:39] ══ 3/4 Fetching YouTube channel transcripts ══
+  File "/Users/dylansagent/.openclaw-vault/Hawat/corpus/update-channel-videos.py", line 215
+    """
+       ^
+SyntaxError: f-string expression part cannot include a backslash
+[23:50:39]   WARNING: update-channel-videos.py exited with errors
+[23:50:39]   Video transcripts: 29 total (+0 new)
+
+[23:50:39] ══ 4/4 Regenerating master index ══
+  File "/Users/dylansagent/.openclaw-vault/Hawat/corpus/parse-articles-v2.py", line 116
+    if index_
+             ^
+SyntaxError: expected ':'
+[23:50:39]   WARNING: parse-articles-v2.py exited with errors
+
+[23:50:39] ══ 2/4 Fetching SEP podcast transcripts ══
+[generate-index] Starting index generation...
+[generate-index] Corpus: /Users/dylansagent/.openclaw-vault/Hawat/corpus
+[generate-index] Building SEP section (fetching YouTube metadata)...
+[generate-index] Building videos section...
+[generate-index] Building articles section...
+[generate-index] Building streams section...
+[generate-index] Building podcasts section...
+[generate-index] Done. Index written to /Users/dylansagent/.openclaw-vault/Hawat/corpus/index.md
+[generate-index] Summary: 107 SEP | 29 videos | 1722 articles | 3 streams
+[23:50:40]   Index regenerated ✓
+
+[23:50:40] === Sync Summary ===
+[23:50:40]   SEP transcripts:   107 files
+[23:50:40]   Video transcripts: 29 files
+[23:50:40]   New this run:      +0 SEP, +0 videos
+[23:50:40] === Sync Complete: Sat Mar 14 23:50:40 MDT 2026 ===
+Loaded 27 existing videos
+Found 111 videos in playlist
+98 new videos to process
+
+Created 0 new video entries
+[23:51:47]   update-videos.py: done
+[23:51:47]   SEP transcripts: 107 total (+0 new)
+[23:51:47]   WARNING: Suspect small SEP transcripts (may need re-fetch):
+[23:51:47]     ⚠️  sep-hLSSQkQU_mc.txt — 1935 bytes
+
+[23:51:47] ══ 3/4 Fetching YouTube channel transcripts ══
+Loaded 0 existing channel videos
+Found 0 videos on channel
+0 new videos to process
+No new videos found.
+[23:51:47]   update-channel-videos.py: done
+[23:51:47]   Video transcripts: 29 total (+0 new)
+
+[23:51:47] ══ 4/4 Regenerating master index ══
+[generate-index] Starting index generation...
+[generate-index] Corpus: /Users/dylansagent/.openclaw-vault/Hawat/corpus
+[generate-index] Building SEP section (fetching YouTube metadata)...
+[generate-index] Building videos section...
+[generate-index] Building articles section...
+[generate-index] Building streams section...
+[generate-index] Building podcasts section...
+[generate-index] Done. Index written to /Users/dylansagent/.openclaw-vault/Hawat/corpus/index.md
+[generate-index] Summary: 107 SEP | 29 videos | 1722 articles | 3 streams
+[23:54:48]   Index regenerated ✓
+
+[23:54:48] === Sync Summary ===
+[23:54:48]   SEP transcripts:   107 files
+[23:54:48]   Video transcripts: 29 files
+[23:54:48]   New this run:      +0 SEP, +0 videos
+[23:54:48] === Sync Complete: Sat Mar 14 23:54:48 MDT 2026 ===

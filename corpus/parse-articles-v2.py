@@ -1,13 +1,18 @@
+#!/usr/bin/env python3
+"""
+Article parser for Neo News Today - multi-page RSS ingestion
+Parses RSS XML to MD with YAML frontmatter
+"""
 import os, re, xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from datetime import datetime
 from email.utils import parsedate
 
-CORPUS_DIR = os.path.expanduser("~/.openclaw/workspace-business/corpus")
+CORPUS_DIR = os.path.expanduser("~/.openclaw-vault/Hawat/corpus")
 LOG_DIR = os.path.join(CORPUS_DIR, "log")
 ART_DIR = os.path.join(CORPUS_DIR, "articles")
 INDEX_FILE = os.path.join(CORPUS_DIR, "index.md")
-PAGES = range(2, 10)
+PAGES = range(1, 10)  # Pages 1-9
 NS = {"content": "http://purl.org/rss/1.0/modules/content/"}
 
 class HTMLStripper(HTMLParser):
@@ -83,7 +88,9 @@ for page in PAGES:
             slug = slugify(title)
             fname = f"{date_str}-{slug}.md"
             fpath = os.path.join(ART_DIR, fname)
-            if os.path.exists(fpath): fname = f"{date_str}-{slug}-2.md"; fpath = os.path.join(ART_DIR, fname)
+            if os.path.exists(fpath): 
+                fname = f"{date_str}-{slug}-2.md"
+                fpath = os.path.join(ART_DIR, fname)
             tags = ", ".join(cats)
             content = strip_html(encoded)
             md = f"""---
@@ -108,9 +115,17 @@ source: neonewstoday
                 f.write(md)
             existing.add(url)
             new_count += 1
-            index_rows.append(f"| {title[:60]} | {date_str} | {url} | neonewstoday | {tags[:40]} | articles/{fname} |\n")
+            print(f"  [NEW] {title[:60]}...")
+            index_rows.append(f"| {title[:60]} | {date_str} | {url} | articles/{fname} |")
         except Exception as e:
             err_count += 1
             print(f"  Error: {e}")
 
-if index_
+# Log results
+log_path = os.path.join(LOG_DIR, f"{datetime.now().strftime('%Y-%m-%d')}-articles-update.log")
+with open(log_path, "w") as f:
+    f.write(f"Articles: {new_count} new, {skip_count} skipped, {err_count} errors\n")
+    for row in index_rows[:50]:
+        f.write(f"{row}\n")
+
+print(f"\nDone: {new_count} new, {skip_count} skipped, {err_count} errors")
