@@ -299,3 +299,9 @@ Error: All models failed (3): mor-gateway/kimi-k2.5: Provider mor-gateway has bi
 2026-03-13 09:00:01,423 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=2nk0XaZgZVU' -> FAILED: /bin/sh: yt-dlp: command not found
 
 2026-03-13 09:00:01,424 ERROR VID 2nk0XaZgZVU: No VTT downloaded
+2026-03-16 09:00:01,580 INFO Channel: 15 videos
+2026-03-16 09:00:01,581 INFO Existing cleaned: 29
+2026-03-16 09:00:01,581 INFO New episodes: 2: ['2nk0XaZgZVU', 'kh3-AulL9iA']
+2026-03-16 09:00:01,592 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=2nk0XaZgZVU' -> FAILED: /bin/sh: yt-dlp: command not found
+
+2026-03-16 09:00:01,593 ERROR VID 2nk0XaZgZVU: No VTT downloaded

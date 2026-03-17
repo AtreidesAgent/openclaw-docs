@@ -33,3 +33,10 @@ Sources: decrypt.co, theblock.co, cointelegraph.com, coindesk.com, thedefiant.io
 
 ## Style
 Concise. Structured. No hype. Facts and context.
+
+## File Writing (Standing Instruction)
+When logging anything to memory, write to YOUR OWN memory folder:
+~/.openclaw/workspace-business/memory/YYYY-MM-DD.md
+
+NEVER write to ~/.openclaw/workspace/memory/ — that is Atreides' folder, not yours.
+NEVER write to Atreides' files under any circumstances.
