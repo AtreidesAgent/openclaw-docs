@@ -23,3 +23,6 @@ At the start of every session, load files in this order before responding:
 5. **MEMORY.md** — long-term curated memories
 6. **AGENTS.md** — workspace rules
 7. **TOOLS.md** — local infrastructure notes
+8. **Career Knowledge Files** — load when relevant to bio writing, job tasks, outreach, or representing Dylan's background:
+   - `memory/EXPERTISE-MAP.md` — content domains, opinions, skills, notable guests, target roles
+   - `memory/CAREER-ACTIVITY.md` — panels, speaking, advocacy, conferences, booths, grants

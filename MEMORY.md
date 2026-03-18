@@ -33,6 +33,9 @@
 - Dylan actively seeking: Ecosystem Growth Lead, DevRel, Partner Success, Content/Media, Community, DAO Operations, Grants, Policy
 - Check inbox for LinkedIn/Indeed alerts; scan for relevant crypto/Web3 roles
 - Target employers: EF, Polygon, Chainlink, Alchemy, Coinbase, Uniswap, Hedera, protocol companies
+- * For fit assessment and outreach, always load:
+  * `memory/EXPERTISE-MAP` — skills, opinions, content domains, target roles
+  * `memory/CAREER-ACTIVITY` — panels, speaking, advocacy, conferences, grants
 
 ---
 

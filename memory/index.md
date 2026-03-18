@@ -2,6 +2,13 @@
 
 Quick reference for cross-session retrieval.
 
+## Reference Files
+Persistent knowledge files for use across all tasks. Load when relevant to context.
+
+| File | Contents | Use When |
+|------|----------|----------|
+| `memory/EXPERTISE-MAP` | Topic domains, opinions, skills, notable guests, target roles, rate card | Bio writing, partnership eval, job fit assessment |
+| `memory/CAREER-ACTIVITY` | Panels, speaking, advocacy, conferences, booths, grants, freelance work | Outreach drafting, bios, job applications, representing Dylan's full background |
 ## By Date
 
 | Date | Key Topics | Decisions | Blockers |
@@ -43,4 +50,4 @@ From SOUL.md (loaded first):
 
 ---
 
-*Last updated: 2026-03-06*
+*Last updated: 2026-03-17*

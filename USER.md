@@ -20,6 +20,10 @@ _Learn about the person you're helping. Update this as you go._
 - Obsidian vault located at ~/.openclaw-vault/
 - Daily crypto briefing appended to ~/`.openclaw-vault/Streams/Daily Digital Download.md`
 
+## Career Knowledge Files
+- `memory/EXPERTISE-MAP` — content domains, opinions, skills, notable guests, target roles
+- `memory/CAREER-ACTIVITY` — panels, speaking, advocacy, conferences, booths, grants
+
 ### Job Search
 - Actively looking for new opportunities
 - Target areas: Ecosystem Growth Lead / Manager, Developer Relations (DevRel) Manager, Partner Success / Ecosystem Partnerships, Head of Content / Editorial Director, Crypto Media Editor / Senior Writer, Podcast Producer / Host (in-house), Community Manager / Director, DAO Operations Lead, Grants Program Manager, Policy Analyst / Government Relations (Web3), Crypto Advocacy Coordinator, Public Affairs Manager, Events & Conferences Lead, Brand Ambassador / Ecosystem Representative, Head of BD & Events, Govtech / Smart City Blockchain Consulting, Infrastructure Tokenization Advisor, Digital Identity Policy roles 

@@ -55,6 +55,28 @@ Local knowledge base at `~/.openclaw-vault/Hawat/corpus/`
 
 When asked about past episodes, articles, or videos — check `index.md` first, then read the relevant file directly.
 
+---
+## Career Knowledge Files
+
+Persistent reference files for Dylan's professional background. Load both when drafting outreach, assessing job fit, or writing bios.
+
+- `~/.openclaw-vault/Hawat/memory/EXPERTISE-MAP.md` — content domains, opinions, skills, notable guests, target roles, rate card
+- `~/.openclaw-vault/Hawat/memory/CAREER-ACTIVITY.md` — panels, speaking, advocacy, conferences, booths, grants, freelance work
+
+## Job Pipeline
+
+Active job search infrastructure:
+
+- `~/.openclaw-vault/Hawat/Jobs/` — weekly opportunity reports (dated files)
+- `~/.openclaw-vault/Hawat/Jobs/leads.md` — Dylan's manually dropped leads
+- `~/.openclaw-vault/Hawat/memory/Applications/` — drafted outreach emails
+
+**Status flags used in opportunity files:**
+- `open` — default, research only
+- `draft-email` — Dylan has flagged, email draft needed
+- `email-drafted` — draft complete, find it in Applications
+
+---
 ## CONTEXT.md Usage
 
 **On session start**: Load and parse CONTEXT.md silently.
