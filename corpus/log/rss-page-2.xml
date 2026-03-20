@@ -12,7 +12,7 @@
 	<atom:link href="https://neonewstoday.com/author/dylan/feed/?paged=2" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Latest news and updates on the open-source Neo Blockchain project.</description>
-	<lastBuildDate>Sat, 11 May 2024 00:20:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 May 2024 01:27:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Neo News: Week in Review &#8211; May 6 &#8211; May 12</title>
+		<link>https://neonewstoday.com/week-in-review/neo-news-week-in-review-may-6-may-12/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Mon, 13 May 2024 13:33:19 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Week In Review]]></category>
+		<category><![CDATA[BattleHard]]></category>
+		<category><![CDATA[COZ]]></category>
+		<category><![CDATA[Flamingo]]></category>
+		<category><![CDATA[FLM]]></category>
+		<category><![CDATA[FLUND]]></category>
+		<category><![CDATA[ITEM Systems]]></category>
+		<category><![CDATA[MELK]]></category>
+		<category><![CDATA[Meme2Earn]]></category>
+		<category><![CDATA[ndapp]]></category>
+		<category><![CDATA[NEOBOX]]></category>
+		<category><![CDATA[NeoFS]]></category>
+		<category><![CDATA[QuirkySoulCollege]]></category>
+		<category><![CDATA[Respect]]></category>
+		<category><![CDATA[TIPS]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=47925</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>General Updates Neo Global Development has released a multi-signature utility for Neo N3 named NEXO, which was built in-house. Multi-signature, commonly referred...</p>
+<p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-may-6-may-12/">Neo News: Week in Review &#8211; May 6 &#8211; May 12</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><div class="video-cover border--round">
+<div class="background-image-holder"><img decoding="async" width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="attachment-large size-large" alt="" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+<div class="video-play-icon"></div>
+<p><iframe title="Neo News: Week in Review – May 6 - May 12" width="1170" height="658" src="https://www.youtube.com/embed/3vsHqv91dXU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p><!--end video cover--></p>
+<h2>General Updates</h2>
+<p><b>Neo Global Development</b> has <a href="https://neonewstoday.com/general/ngd-deploys-nexo-multi-sig-utility-tool-for-neo-n3/">released</a> a multi-signature utility for Neo N3 named NEXO, which was built in-house. Multi-signature, commonly referred to as multi-sig, is a digital signature scheme that allows a group of users to manage an account jointly, requiring multiple parties to sign off on transactions before they can be executed.</p>
+<p><b>Neo</b> <a href="https://medium.com/neo-smart-economy/introducing-melkbot-to-neos-discord-server-0b4c3d0ae27b" target="_blank" rel="noopener">integrated</a> the learn-to-earn <b>MelkBot</b> into the official Neo Discord server. The tool offers a hands-on approach to understanding blockchain and rewards users with MELK tokens for completing tasks, introducing them to digital assets without monetary investment.</p>
+<p><b>Neobox</b> <a href="https://neonewstoday.com/nft/neobox-releases-economic-model-for-forthcoming-neobox-nep-17-token-launch/">released</a> the token economic model for the NEOBOX NEP-17 token, which is currently in the community sale (aka pre-sale) phase. The NEP-17 NEOBOX token is planned to be used to pay for services, reward content creators and collaborators, offer access to exclusive features, and crowdfund game development. Additionally, <b>Neobox</b> <a href="https://x.com/neostorage/status/1788522072731259245" target="_blank" rel="noopener">released</a> a pinball game on its apps repository page.</p>
+<p><b>Battle Hard</b> <a href="https://x.com/BATTLE__HARD/status/1789474479124721928" target="_blank" rel="noopener">announced</a> its Hardened smart contracts had been audited. Two critical vulnerabilities were found, and that the fixes will be implemented into the contracts when the website goes live.</p>
+<p><b>Quirky Soul College</b> <a href="https://x.com/QuirkySoulCLG/status/1789193916060709059" target="_blank" rel="noopener">locked</a> 90% of the FDE NEP-17 token into the <i>Infinite Void Chamber</i> contract, which will permanently lock any tokens in the contract. The contract has no update or withdraw functionality.</p>
+<p><b>ITEM Systems</b> co-founder Tyler Adams was <a href="https://x.com/item_systems/status/1788955546164273464" target="_blank" rel="noopener">featured</a> on <i>Tech Radio Ireland</i> to talk about the rise and fall of NFT prominence, the concept of non-fungible items, and their impact on society and businesses.</p>
+<p><b>Flamingo </b><a href="https://youtu.be/npCeqw72I0s?si=wZqihN4MjMFTT2lX" target="_blank" rel="noopener">shared</a> a recording of the April Community Lagoon, which noted current progress on OrderBook v2 optimizations to lower fees when using the contract, the challenges of building an on-chain order book, future impacts on FLM NEP-17 token with the launch of FLOCKS and OrderBook v2, plans for Neo X expansions, and more. Additionally, <b>Flamingo</b> <a href="https://x.com/FlamingoFinance/status/1787406952336605695" target="_blank" rel="noopener">shared</a> statistics on the FLUND single-sided staking token for week 18 of 2024, which noted approximately US $10.23 million in total value, $4.82 million in total minting rewards, and $898,000 in total trading fee rewards.</p>
+<p><b>Meme2Earn</b> <a href="https://youtu.be/bWPRJSIjkMA?si=SDwRLAnR6v1mmnsq" target="_blank" rel="noopener">shared</a> a recording of the April Community Fireplace, which noted positive SEO results for the term “meme,” increased numbers in users joining competitions, and more.</p>
+<p><b>RESPECT</b> <a href="https://x.com/respect_coin/status/1789380919205167516" target="_blank" rel="noopener">announced</a> the team will not continue building upon its Telegram-based customized-strategy trading bot. Leadership noted a lack of a structural go-to-market strategy and insufficient funds to hire a developer. RESPECT won the grand prize in the General category of the recent Neo APAC Hackathon, taking home a $10,000 award.</p>
+<h2>Developer Updates</h2>
+<p><b>COZ</b> <a href="https://x.com/coz_official/status/1788583714181509512" target="_blank" rel="noopener">released</a> neo-boa v1.2.0, which included a new boa-test-constructor for unit testing, updated type annotation, and minor bug fixes.</p>
+<h2>NNT Catch Up</h2>
+<p><b>NNT</b> <a href="https://neonewstoday.com/podcast/caspar-sauter-d8x-exchange-the-smart-economy-podcast-episode-63/">aired</a> Episode 63 of <b>The Smart Economy Podcast</b> featuring Caspar Sauter, co-founder of <b>D8X Exchange</b>, perpetual futures non-custodial exchange. Topics of discussion included D8X’s mission and the importance of building decentralized financial machines, why D8X chose to focus on perpetual futures, white-label solutions for banks and financial institutions, the importance of cross-chain liquidity, lessons learned from being live on two chains, and more.</p>
+<p><b>NNT </b>editors <a href="https://x.com/SmartEconomyPod/status/1788947973428146578" target="_blank" rel="noopener">hosted</a> Crypto Coffee and Blockchain Beer Spaces #18 on the <b>Smart Economy Podcast</b> X. Topics of discussion included L2 sequencers and decentralization, Bitcoin’s one billionth transaction, Ethereum multidimensional gas pricing, crypto becoming a US presidential candidate stance and talking point, and Stand With Crypto’s positive efforts on recent engagements with US congressional members.</p>
+<p><b>Neobox</b> <a href="https://neonewstoday.com/nft/neobox-dropbox-like-app-launches-on-neofs-with-mini-games-word-processor-a">soft-launched</a> its Dropbox-like app and has slowly been drip-feeding mini-games and other dApps to the platform. Neobox is a user interface that lets users upload and access files stored on NeoFS, Neo’s distributed storage network. It was founded and built by the team behind Pixudi, the cross-chain NFT board racing game.</p>
+<p><b>ITEM Systems</b> <a href="https://x.com/item_systems/status/1788196845451149582" target="_blank" rel="noopener">shared</a> a brief video clip of a booth attendee from Paris Blockchain Week 2024 sharing her experience coloring the non-fungible item shirt, and how well the team utilized the underlying blockchain and NFI technology.</p>
+<p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-may-6-may-12/">Neo News: Week in Review &#8211; May 6 &#8211; May 12</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Neobox releases economic model for forthcoming NEOBOX NEP-17 token launch</title>
 		<link>https://neonewstoday.com/nft/neobox-releases-economic-model-for-forthcoming-neobox-nep-17-token-launch/</link>
 		
@@ -43,10 +98,10 @@
 		<category><![CDATA[NeoFS]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=47911</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neobox has released the token economic model for the NEOBOX NEP-17 token, which is currently in the community sale (aka pre-sale) phase....</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neobox has released the token economic model for the NEOBOX NEP-17 token, which is currently in the community sale (aka pre-sale) phase....</p>
 <p>The post <a href="https://neonewstoday.com/nft/neobox-releases-economic-model-for-forthcoming-neobox-nep-17-token-launch/">Neobox releases economic model for forthcoming NEOBOX NEP-17 token launch</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neobox has released the token economic model for the NEOBOX NEP-17 token, which is currently in the community sale (aka pre-sale) phase. The NEP-17 NEOBOX token will be used to pay for services, reward content creators and collaborators, offer access to exclusive features, and crowdfund game development.</p>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-token-economic-model-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neobox has released the token economic model for the NEOBOX NEP-17 token, which is currently in the community sale (aka pre-sale) phase. The NEP-17 NEOBOX token will be used to pay for services, reward content creators and collaborators, offer access to exclusive features, and crowdfund game development.</p>
 <p>Neobox <a href="https://neonewstoday.com/nft/neobox-dropbox-like-app-launches-on-neofs-with-mini-games-word-processor-and-early-access-program/">recently soft-launched</a> its Dropbox-like app, a user interface that lets users upload and access files stored on Neo’s distributed storage network, NeoFS. Alongside its storage services, Neobox hosts mini-games (i.e., Snake, Tetris) and apps (i.e., NeoDoc word processor).</p>
 <p>The NEOBOX token model has a couple of allusions to the Neo ecosystem, including a total supply of 100,000,000 (like that of the NEO token) and a dual-token model. NEOBOX tokens are slated for use to access advanced services and features, and GAS is used to pay for basic network operations on NeoFS. The NEOBOX tokens are planned to be distributed accordingly:</p>
 <ul>
@@ -88,7 +143,7 @@
 		<category><![CDATA[Pixudi]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=47754</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neobox recently soft-launched its Dropbox-like app and has slowly been drip-feeding mini-games and other dApps to the platform. Neobox is a user...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neobox recently soft-launched its Dropbox-like app and has slowly been drip-feeding mini-games and other dApps to the platform. Neobox is a user...</p>
 <p>The post <a href="https://neonewstoday.com/nft/neobox-dropbox-like-app-launches-on-neofs-with-mini-games-word-processor-and-early-access-program/">Neobox Dropbox-like app launches on NeoFS with mini-games, word processor, and early access program</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch.png 800w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/05/neobox-soft-launch-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neobox recently <a href="https://x.com/neostorage/status/1780876915986800847" target="_blank" rel="noopener">soft-launched</a> its Dropbox-like app and has slowly been drip-feeding mini-games and other dApps to the platform. Neobox is a user interface that lets users upload and access files stored on NeoFS, Neo’s distributed storage network. It was founded and built by the team behind Pixudi, the cross-chain NFT board racing game.</p>
@@ -9290,44 +9345,6 @@ Oct. 25: <a href="https://neonewstoday.com/events/neo-touring-top-colleges-acros
 <p><a href="https://twitter.com/DefiLlama/status/1573397203548340237?s=20&amp;t=i2xzPGjD_Cu88NnX4_kgyA">Flamingo Finance was added to the DeFi Llama TVL aggregator for DeFi protocols</a>.</p>
 <p><a href="https://twitter.com/DefiLlama/status/1573395858778980363?s=20&amp;t=uDNC1sxAPwyLVANw1kDajw">NudesToken was added to the DeFi Llama TVL aggregator for DeFi protocols</a>.</p>
 <p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-september-19-september-25/">Neo News: Week in Review &#8211; September 19 &#8211; September 25</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Blockchain Cuties Universe enables N3 migration, offers exclusive NFT pre-sale to celebrate</title>
-		<link>https://neonewstoday.com/nft/blockchain-cuties-universe-enables-n3-migration-offers-exclusive-nft-pre-sale-to-celebrate/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 18:35:01 +0000</pubDate>
-				<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[BlockchainCuties]]></category>
-		<category><![CDATA[GAS]]></category>
-		<category><![CDATA[NEO]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=37278</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Users can now migrate Blockchain Cuties Universe NFT characters from Neo Legacy to Neo N3. To celebrate the integration of N3, the...</p>
-<p>The post <a href="https://neonewstoday.com/nft/blockchain-cuties-universe-enables-n3-migration-offers-exclusive-nft-pre-sale-to-celebrate/">Blockchain Cuties Universe enables N3 migration, offers exclusive NFT pre-sale to celebrate</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/blockchain-cuties-n3-migration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Users can now migrate Blockchain Cuties Universe NFT characters from Neo Legacy to Neo N3. To celebrate the integration of N3, the team is launching a pre-sale of three brand new Cutie NFTs exclusively available for purchase with GAS on <a href="https://blockchaincuties.com/neo" target="_blank" rel="noopener">the BCU marketplace</a>. The N3-inspired Cutie NFTs will carry genes that allow players to unlock and breed two never before seen <i>Tribute Cuties</i>. 160 exclusive BCU NFTs will be available and priced accordingly:</p>
-<ul>
-<li style="font-weight: 400;" aria-level="1">The Drunken Master: 10 NFTs at 69.69 GAS each</li>
-<li style="font-weight: 400;" aria-level="1">The Web3 Developer: 50 NFTs at 20.91 GAS each</li>
-<li style="font-weight: 400;" aria-level="1">The Beauty Blogger: 100 NFTs at 12.20 GAS each</li>
-</ul>
-<div id="attachment_37279" style="width: 1154px" class="wp-caption alignnone"><a href="https://neonewstoday.com/wp-content/uploads/2022/09/bcu-n3-nfts.jpeg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-37279" class=" wp-image-37279" src="https://neonewstoday.com/wp-content/uploads/2022/09/bcu-n3-nfts-300x183.jpeg" alt="" width="1144" height="698" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/bcu-n3-nfts-300x183.jpeg 300w, https://neonewstoday.com/wp-content/uploads/2022/09/bcu-n3-nfts-1024x624.jpeg 1024w, https://neonewstoday.com/wp-content/uploads/2022/09/bcu-n3-nfts-768x468.jpeg 768w, https://neonewstoday.com/wp-content/uploads/2022/09/bcu-n3-nfts-1536x937.jpeg 1536w, https://neonewstoday.com/wp-content/uploads/2022/09/bcu-n3-nfts.jpeg 1771w" sizes="auto, (max-width: 1144px) 100vw, 1144px" /></a><p id="caption-attachment-37279" class="wp-caption-text">Source: Blockchain Cuties Universe</p></div>
-<p>BCU integrated Neo support in 2019 with the release of the <a href="https://neonewstoday.com/gaming/blockchain-cuties-launches-nft-presale-for-neo-based-characters/">first Neo-based Cuties NFTs</a> designed after four members of the Neo ecosystem. <a href="https://twitter.com/BlockchainCutie/status/1572214369869766658?s=20&amp;t=Jn1HZjjEVxqEKbCQDhzEvg" target="_blank" rel="noopener">In the years since</a>, 21,578 Cuties NFTs have been held across 1,375 Neo Legacy wallets. In a conversation with Neo News Today, BCU CEO Vladimir Tomko said:</p>
-<blockquote><p>The N3 update has been sought after by the players who enjoyed Neo from the start, and for a while. Now we are finally at a place where the Neo enthusiasts can enjoy the full feature set Blockchain Cuties Universe has to offer!</p></blockquote>
-<p>BCU <a href="https://docs.blockchaincuties.com/blockchain-cuties-universe-knowledge-base/bcu-mechanics/supported-blockchains/neo/migration-to-n3/nft-migration-tutorial" target="_blank" rel="noopener">players are responsible for transferring NFTs</a> from their Legacy to their N3 wallet and paying for the migration fee. The team has allocated a portion of GAS to reimburse user migration fees, but the supply is limited. Ultimately, BCU developers intend to develop a script allowing mass transfer of NFTs, but there is no estimated release date at the time of press.</p>
-<h2>About Blockchain Cuties Universe</h2>
-<p>BCU is a blockchain collectible adventure game <a href="https://www.crunchbase.com/organization/blockchain-cuties" target="_blank" rel="noopener">launched in Dec. 2017</a>. Players can collect, breed, and take pets on adventures where characters accumulate in-game items. In-game play allows users to level up characters by testing their skills in battle and gaining experience points.</p>
-<p>The BCU team <a href="https://neonewstoday.com/events/da-hongfei-and-tim-draper-participating-in-panel-to-kick-off-incubator-program/">participated</a> in the recent five-week Draper University course, designed for Neo ecosystem projects, which included a pre-accelerator and incubator program. In a conversation with NNT, Tomko said, “I really liked that the knowledge was shared by the professionals, not classical educators. A lot of the new information can be used in business right away. And the ability to provide and receive feedback was top notch.”</p>
-<p>The full announcement can be found at the link below:<br />
-<a href="https://twitter.com/BlockchainCutie/status/1572554798645542912?s=20&amp;t=FSv-n7AM80xElyGQMnVoFg" target="_blank" rel="noopener">https://twitter.com/BlockchainCutie/status/1572554798645542912?s=20&amp;t=FSv-n7AM80xElyGQMnVoFg</a></p>
-<p>The post <a href="https://neonewstoday.com/nft/blockchain-cuties-universe-enables-n3-migration-offers-exclusive-nft-pre-sale-to-celebrate/">Blockchain Cuties Universe enables N3 migration, offers exclusive NFT pre-sale to celebrate</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		

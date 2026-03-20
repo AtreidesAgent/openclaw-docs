@@ -1,0 +1,19 @@
+[23:50:00] === Corpus Sync Started: Tue Mar 17 23:50:00 MDT 2026 ===
+[23:50:00] Corpus root: /Users/dylansagent/.openclaw-vault/Hawat/corpus
+[23:50:00] ══ 1/4 Fetching NNT articles ══
+[23:50:39]   Articles: done
+[23:50:39] ══ 2/4 Fetching SEP podcast transcripts ══
+[23:50:39]   update-videos.py: done
+[23:50:39]   SEP transcripts: 107 total (+0 new)
+[23:50:39]   WARNING: Suspect small SEP transcripts (may need re-fetch):
+[23:50:39]     ⚠️  sep-hLSSQkQU_mc.txt — 1935 bytes
+[23:50:39] ══ 3/4 Fetching YouTube channel transcripts ══
+[23:50:39]   update-channel-videos.py: done
+[23:50:39]   Video transcripts: 29 total (+0 new)
+[23:50:39] ══ 4/4 Regenerating master index ══
+[23:50:40]   Index regenerated ✓
+[23:50:40] === Sync Summary ===
+[23:50:40]   SEP transcripts:   107 files
+[23:50:40]   Video transcripts: 29 files
+[23:50:40]   New this run:      +0 SEP, +0 videos
+[23:50:40] === Sync Complete: Tue Mar 17 23:50:40 MDT 2026 ===

@@ -305,3 +305,21 @@ Error: All models failed (3): mor-gateway/kimi-k2.5: Provider mor-gateway has bi
 2026-03-16 09:00:01,592 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=2nk0XaZgZVU' -> FAILED: /bin/sh: yt-dlp: command not found
 
 2026-03-16 09:00:01,593 ERROR VID 2nk0XaZgZVU: No VTT downloaded
+2026-03-17 09:00:01,601 INFO Channel: 15 videos
+2026-03-17 09:00:01,603 INFO Existing cleaned: 29
+2026-03-17 09:00:01,603 INFO New episodes: 2: ['2nk0XaZgZVU', 'kh3-AulL9iA']
+2026-03-17 09:00:01,634 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=2nk0XaZgZVU' -> FAILED: /bin/sh: yt-dlp: command not found
+
+2026-03-17 09:00:01,635 ERROR VID 2nk0XaZgZVU: No VTT downloaded
+2026-03-18 09:00:01,553 INFO Channel: 15 videos
+2026-03-18 09:00:01,554 INFO Existing cleaned: 29
+2026-03-18 09:00:01,554 INFO New episodes: 4: ['youlqeEdoF8', '602lMXArrEI', '2nk0XaZgZVU', 'kh3-AulL9iA']
+2026-03-18 09:00:01,564 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=youlqeEdoF8' -> FAILED: /bin/sh: yt-dlp: command not found
+
+2026-03-18 09:00:01,565 ERROR VID youlqeEdoF8: No VTT downloaded
+2026-03-19 09:00:01,406 INFO Channel: 15 videos
+2026-03-19 09:00:01,408 INFO Existing cleaned: 29
+2026-03-19 09:00:01,408 INFO New episodes: 4: ['youlqeEdoF8', '602lMXArrEI', '2nk0XaZgZVU', 'kh3-AulL9iA']
+2026-03-19 09:00:01,425 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames --no-playlist -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/grabowski-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=youlqeEdoF8' -> FAILED: /bin/sh: yt-dlp: command not found
+
+2026-03-19 09:00:01,427 ERROR VID youlqeEdoF8: No VTT downloaded

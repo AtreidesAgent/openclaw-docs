@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Switcheo community votes to extend LP rewards and modify reward weightings</title>
+		<link>https://neonewstoday.com/general/switcheo-community-votes-to-extend-lp-rewards-and-modify-reward-weightings/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Fri, 12 Mar 2021 03:09:48 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[GAS]]></category>
+		<category><![CDATA[NEO]]></category>
+		<category><![CDATA[NEX]]></category>
+		<category><![CDATA[SWTH]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=24512</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Switcheo will extend LP rewards and modify reward weightings upon the recent unanimous approval of TIP #10. Notable changes include extending LP...</p>
+<p>The post <a href="https://neonewstoday.com/general/switcheo-community-votes-to-extend-lp-rewards-and-modify-reward-weightings/">Switcheo community votes to extend LP rewards and modify reward weightings</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Switcheo will extend LP rewards and modify reward weightings upon the recent <a href="https://switcheo.org/governance/proposal/34?net=main" target="_blank" rel="noopener">unanimous approval of TIP #10</a>. Notable changes include extending LP rewards to 30% of block rewards for six months and a new boost reward system.</p>
+<p>Switcheo TradeHub <a href="https://neonewstoday.com/general/switcheo-receives-near-unanimous-support-for-tradehub-update-enabling-trading-modules/">launched in Dec. 2020</a>, initially enabling trading in three markets and growing from there. To incentivize liquidity, Switcheo instituted a reward curve offering higher rewards to liquidity providers for the first 12 weeks of trading. <a href="https://medium.com/switcheo/extension-of-liquidity-rewards-on-demex-18b9c9f43a1b" target="_blank" rel="noopener">Switcheo said</a>:</p>
+<blockquote><p>The intent was to incentivize liquidity contribution with robust yields in the initial bootstrapping period for Demex’s novel AMM-simulated order book exchange model. Liquidity rewards are being extended chiefly to incentivize liquidity for new markets that are being added on Demex. This would ensure that the order books for newly-added markets are sufficiently liquid to support trading on the platform.</p></blockquote>
+<p>The following liquidity pools on Demex have been rebalanced and adjusted by weight:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">SWTH-20-ETH-80 (4x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">SWTH-20-USDC-80 (4x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">ETH-50-WBTC-50 (1x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">ETH-50-USDC-50 (2x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">WBTC-50-USDC-50 (2x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">CEL-50-USDC-50 (0x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">NEX-50-USDC-50 (0x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">nNEO-50-USDC-50 (0x rewards)</li>
+</ul>
+<p><a href="https://medium.com/switcheo/forward-and-upward-our-vision-for-2021-d194f8209164" target="_blank" rel="noopener">In Jan. 2021</a>, Switcheo noted that TradeHub transactions had greatly exceeded those of their legacy smart contracts and announced its intent to sunset the Switcheo Exchange. Therefore, reward changes will also support markets affected by this pending decommissioning. The following markets were included in TIP #10:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">nNEO-50-ETH-50 (1x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">nNEO-50-nGAS-50 (1x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">nNEX-50-nNEO-50 (1x rewards)</li>
+</ul>
+<p>Lastly, Switcheo intends to integrate support for Binance Smart Chain via Poly Network in preparation for a future TradeHub upgrade. In an upcoming release of Switcheo TradeHub v1.15.0, BEP-20 liquidity providers will receive rewards accordingly:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">nNEO-50-BUSD-50 (1x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">CEL-50-BUSD-50 (1x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">SWTH-50-BUSD-50 (2x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">WBTC-50-BTCB-50 (1x rewards)</li>
+<li style="font-weight: 400;" aria-level="1">BUSD-50-USDC-50 (1x rewards)</li>
+</ul>
+<p>Under the new reward boost system, tokens can only be committed to liquidity pools for a maximum lockup period of one month and will offer 2x rewards.</p>
+<p>Looking forward, Switcheo intends to propose upgrading to TradeHub v1.15 and release a sunset/migration plan for the Switcheo Exchange.</p>
+<p>The full announcement can be found at the link below:<br />
+<a href="https://medium.com/switcheo/extension-of-liquidity-rewards-on-demex-18b9c9f43a1b" target="_blank" rel="noopener">https://medium.com/switcheo/extension-of-liquidity-rewards-on-demex-18b9c9f43a1b</a></p>
+<p>The post <a href="https://neonewstoday.com/general/switcheo-community-votes-to-extend-lp-rewards-and-modify-reward-weightings/">Switcheo community votes to extend LP rewards and modify reward weightings</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NEO among first cryptocurrencies supported by upcoming DigiFinex debit card</title>
 		<link>https://neonewstoday.com/general/neo-among-first-cryptocurrencies-supported-by-upcoming-digifinex-debit-card/</link>
 		
@@ -37,10 +91,10 @@
 		<category><![CDATA[NEO]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=24486</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies supported in the upcoming DigiFinex debit card. The card will allow users to pay...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies supported in the upcoming DigiFinex debit card. The card will allow users to pay...</p>
 <p>The post <a href="https://neonewstoday.com/general/neo-among-first-cryptocurrencies-supported-by-upcoming-digifinex-debit-card/">NEO among first cryptocurrencies supported by upcoming DigiFinex debit card</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies <a href="https://twitter.com/Neo_Blockchain/status/1368927557521866770?s=20" target="_blank" rel="noopener">supported</a> in the upcoming DigiFinex debit card. The card will allow users to pay for goods and services with NEO via UnionPay, the world’s largest PIN-network. Applications for the debit card begin March 30, 2021.</p>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies <a href="https://twitter.com/Neo_Blockchain/status/1368927557521866770?s=20" target="_blank" rel="noopener">supported</a> in the upcoming DigiFinex debit card. The card will allow users to pay for goods and services with NEO via UnionPay, the world’s largest PIN-network. Applications for the debit card begin March 30, 2021.</p>
 <p>DigiFinex and Blucon announced the debit card in a Feb. 24, 2021 press conference. Neo co-founder, Da Hongfei, was among the participants in the Zoom audience.</p>
 <p><a href="https://www.digifinex.com/en-ww/markets" target="_blank" rel="noopener">DigiFinex</a> is a custodial exchange that offers spot trading for NEO and GAS and leverage trading for NEO. It has offices in Singapore, Australia, China, South Korea, and Malaysia, and <a href="https://digifinex.medium.com/digifinex-and-blucon-establish-strategic-partnership-for-first-ever-unionpay-cryptocurrency-debit-9005405586fe" target="_blank" rel="noopener">reports</a> more than 4 million users. At the time of press, DigiFinex is a <a href="https://coinmarketcap.com/rankings/exchanges/" target="_blank" rel="noopener">top 50 ranked exchange</a> with approximately US $1.1 billion in 24-hour trading volume.</p>
 <p><a href="http://blucon.io/" target="_blank" rel="noopener">Blucon</a> is a payments processing company focused on reducing barriers to spending cryptocurrency in the traditional retail economy. It is the entity tasked with converting cryptocurrencies into spendable fiat currency on the debit card.</p>
@@ -64,7 +118,7 @@
 		<category><![CDATA[NEX]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=24475</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Nash League season three begins at midnight (UTC) on March 9, 2021 and runs through April 6. The third season will have...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Nash League season three begins at midnight (UTC) on March 9, 2021 and runs through April 6. The third season will have...</p>
 <p>The post <a href="https://neonewstoday.com/general/nash-league-season-three-begins-at-midnight-utc-on-march-9-2021/">Nash League season three begins at midnight (UTC) on March 9, 2021</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/nash-league-season-three-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Nash League season three begins at midnight (UTC) on March 9, 2021 and runs through April 6. The third season will have the same structure as season two, where $10,000 in rewards will unlock at intervals of $10 million in trading volume. All Nash users are automatically registered.</p>
@@ -8593,32 +8647,6 @@ Estimated publication: 2020</li>
 <p>May 11th: <a href="https://neonewstoday.com/general/neo-to-present-at-consensus-distributed-2020-virtual-conference/">Neo, NGD, Neo SPCC, NGD Seattle to present at Consensus: Distributed</a>.</p>
 <p>May 19th: <a href="https://twitter.com/chaintalktv/status/1257485329633882113?s=20" target="_blank" rel="noopener noreferrer">Da Hongfei to speak at Crypto Asia Summit</a>.</p>
 <p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-may-4th-may-10th/">Neo News: Week in Review &#8211; May 4th &#8211; May 10th</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Da Hongfei to speak at Crypto Asia Summit virtual event on May 19th, 2020</title>
-		<link>https://neonewstoday.com/events/da-hongfei-to-speak-at-crypto-asia-summit-virtual-event-on-may-19th-2020/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Sat, 09 May 2020 20:25:48 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[NEO]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=18077</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit.png 800w, https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo co-founder, Da Hongfei, is scheduled to deliver a keynote speech at the Crypto Asia Summit (CAS) virtual conference on Wednesday, May...</p>
-<p>The post <a href="https://neonewstoday.com/events/da-hongfei-to-speak-at-crypto-asia-summit-virtual-event-on-may-19th-2020/">Da Hongfei to speak at Crypto Asia Summit virtual event on May 19th, 2020</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit.png 800w, https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2020/05/da-hongfei-crypto-asia-summit-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo co-founder, Da Hongfei, is <a href="https://twitter.com/chaintalktv/status/1257485329633882113?s=20" target="_blank" rel="noopener noreferrer">scheduled to deliver</a> a keynote speech at the Crypto Asia Summit (CAS) virtual conference on Wednesday, May 19th, 2020. Da is expected to speak from 9:00 am to 10:00 am (UTC +9).</p>
-<p>General subject matter for CAS 2020 is anticipated to include a swath of metrics and tools that analysts use to research blockchain-based projects, decentralized finance on Bitcoin and Ethereum, and blockchain adoption across Asian markets.</p>
-<p>According to ChainTalk, the organizers of the five-day virtual event, there will be more than 50 confirmed speakers, 100 media and platinum sponsors, and 5,000 attendees.</p>
-<p>At the time of press, there is no cost to attend the event. Though, free tickets are limited, which conference hosts claim to have a value of US $497. The attendee limit is cut off at 1,500 participants.</p>
-<p>Registration for the event can be found at the link below:<br />
-<a href="https://chaintalk.media/summit/" target="_blank" rel="noopener noreferrer">https://chaintalk.media/summit/</a></p>
-<div id="ulc-10614" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="1931" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
-<p>The post <a href="https://neonewstoday.com/events/da-hongfei-to-speak-at-crypto-asia-summit-virtual-event-on-may-19th-2020/">Da Hongfei to speak at Crypto Asia Summit virtual event on May 19th, 2020</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		
