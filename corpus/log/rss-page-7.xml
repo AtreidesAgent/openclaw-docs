@@ -28,6 +28,90 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Moonlight to update smart contract; will allow LX token to list on Nash exchange</title>
+		<link>https://neonewstoday.com/general/moonlight-to-update-smart-contract-will-allow-lx-token-to-list-on-nash-exchange/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Wed, 11 Sep 2019 22:50:26 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[LX]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=12374</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update.png 800w, https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Moonlight has announced an impending update to its Lux (LX) smart contract to address a technical issue. The Moonlight team plans to...</p>
+<p>The post <a href="https://neonewstoday.com/general/moonlight-to-update-smart-contract-will-allow-lx-token-to-list-on-nash-exchange/">Moonlight to update smart contract; will allow LX token to list on Nash exchange</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update.png 800w, https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/09/moonlight-smart-contract-update-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Moonlight has <a href="https://medium.com/moonlight-io/moonlight-contract-migration-a-decentralized-technique-8b354582bb05" target="_blank" rel="noopener noreferrer">announced an impending update</a> to its Lux (LX) smart contract to address a technical issue. The Moonlight team plans to commit the update to its <a href="https://github.com/Moonlight-io/moonlight-ico-template" target="_blank" rel="noopener noreferrer">Moonlight ICO template repository</a> immediately “following confirmation from the Nash team that they have tested [the] revised smart contract and established that it works with respect to their exchange features.”</p>
+<p>According to Moonlight, “the contract will be redeployed to MainNet using the NEO framework method <a href="https://docs.neo.org/en-us/sc/reference/fw/dotnet/neo/Contract/Migrate.html" target="_blank" rel="noopener noreferrer"><span class="s3">Contract.Migrate</span></a>.&#8221; Moonlight is utilizing the Contract.Migrate function to avoid conducting an airdrop based on a snapshot. In a conversation with NEO News Today, Moonlight engineering director and co-founder, Chris Birmingham said:</p>
+<blockquote><p>The reason Moonlight chose to adopt the contract migration methodology is twofold. Firstly, we believe that once a holder of LX initiated the mintTokens contract method, we no longer own or have any claim to those tokens. Secondly, we made a promise to our community that the tokens allocated to the founder team and the project would be subject to a vesting period which has not yet lapsed.</p>
+<p>Using an airdrop, we would need to take control of the total supply of LX and then allocate them. To do so would create a conflict with the two reasons already mentioned.</p>
+<p>Lastly, the NEO team built a Contract.Migrate method into the smart contract API for exactly these situations. Using the Contract.Migrate method allows us to update the smart contract without taking control of tokens we shouldn&#8217;t be able to access.</p></blockquote>
+<p>Further information is expected to be released following the review and approval of the smart contract update.</p>
+<p>In the meantime, Moonlight has asked Switcheo to halt trading, deposits, and clear unfilled trades until the issue is resolved. At which point the LX token can re-list. Additionally, the update will allow LX to integrate with Nash, where LX will also list.</p>
+<p>The full article can be found at the link below:<br />
+<a href="https://medium.com/moonlight-io/moonlight-contract-migration-a-decentralized-technique-8b354582bb05" target="_blank" rel="noopener noreferrer">https://medium.com/moonlight-io/moonlight-contract-migration-a-decentralized-technique-8b354582bb05</a></p>
+<div id="ulc-6254" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="2038" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
+<p>The post <a href="https://neonewstoday.com/general/moonlight-to-update-smart-contract-will-allow-lx-token-to-list-on-nash-exchange/">Moonlight to update smart contract; will allow LX token to list on Nash exchange</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nash launches its non-custodial exchange, seeks community input on MVP</title>
+		<link>https://neonewstoday.com/general/nash-launches-its-non-custodial-exchange-seeks-community-input-on-mvp/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Tue, 10 Sep 2019 21:20:45 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[NEX]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=12365</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange.png 800w, https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>On Monday, September 9th, Nash announced the official launch of its non-custodial exchange minimum viable product (MVP), two weeks following its initially planned...</p>
+<p>The post <a href="https://neonewstoday.com/general/nash-launches-its-non-custodial-exchange-seeks-community-input-on-mvp/">Nash launches its non-custodial exchange, seeks community input on MVP</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange.png 800w, https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/09/nash-launches-exchange-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>On Monday, September 9th, Nash <a href="https://twitter.com/nashsocial/status/1171078648188854273?s=20" target="_blank" rel="noopener noreferrer">announced the official launch</a> of its non-custodial exchange minimum viable product (MVP), two weeks following its initially planned launch date of August 23rd. The exchange can be found at <a href="https://app.nash.io/" target="_blank" rel="noopener noreferrer">app.nash.io</a>.</p>
+<p>Nash describes itself as a fin-tech company that uses blockchain in its tech stack. The exchange is Nash&#8217;s first product release, and features the ability to trade digital assets, as well as purchase certain cryptocurrencies with fiat currency. Nash’s exchange architecture is comprised of smart contracts and an off-chain matching engine that allows users to maintain custody of their assets while using the exchange.</p>
+<p>Nash places high emphasis on performance and user experience, completing <a href="https://neonewstoday.com/general/nash-begins-community-beta-testing-program-for-upcoming-exchange/">three phases of user testing</a> during its community beta in March. Upon the release of the MVP, Nash founder, Fabio Canesin, <a href="https://community.nash.io/t/nash-community-feedback-for-the-live-mvp-round-1/7508" target="_blank" rel="noopener noreferrer">claimed</a> that the launch proves that it is &#8220;indeed possible to build a non-custodial trading platform able to compete with centralized systems in terms of user experience.&#8221;</p>
+<p>Nash&#8217;s NEX token is a regulated European security token registered in Liechtenstein, which allows users to stake and legally collect revenue collected through trading fees on its platform.</p>
+<h2>Launch of the Nash exchange</h2>
+<p>Features available in the recently launched MVP include funds management, cross-chain asset trading, fiat ramps, and NEX staking. In a conversation with NEO News Today, Nash CTO, Ethan Fast said:</p>
+<blockquote><p>There aren’t really words to convey how excited I am that the product is finally out. Nash is based on non-custodial technologies that make it an enormously complex system, doing things that, quite literally, no other exchange has done before. Beyond that, I’m incredibly proud of our team — everyone rose to the challenge!</p></blockquote>
+<h2 class="p1">Technical difficulties</h2>
+<p>The launch of Nash&#8217;s exchange followed a two-week delay. On August 24th, Nash reported “some minor technical difficulties with the production platform,” and had to postpone the release. Despite extensive testing, the reasons for the delay <a href="https://blog.nash.io/deployment-update-details-and-outlook/?utm_campaign=coschedule&amp;utm_source=twitter&amp;utm_medium=nashsocial" target="_blank" rel="noopener noreferrer">centered around</a> “several critical issues [the team] had not previously encountered on the TestNet environments.”</p>
+<p>First, an AWS outage caused issues for Nash fiat currency partners, requiring Nash engineers to dedicate time to fighting network difficulties. Second, following an audit of Ethereum balances, Nash discovered discrepancies between public block explorers. Out of concern for security and user experience, Nash decided to deploy its own internal block explorer.</p>
+<p>In preparation for the launch, <a href="https://api-ts-docs.nash.io/?utm_campaign=coschedule&amp;utm_source=twitter&amp;utm_medium=nashsocial" target="_blank" rel="noopener noreferrer">the team then</a> published a TypeScript SDK so that automated trading developers can integrate with Nash and opened a sandbox environment.</p>
+<p>Following the delay, the Nash team <a href="https://community.nash.io/t/nash-deployment-ama/7421?utm_campaign=coschedule&amp;utm_source=twitter&amp;utm_medium=nashsocial" target="_blank" rel="noopener noreferrer">held an AMA</a> attended by Nash founders Fabio Canesin and Ethan Fast to address community questions.</p>
+<h2 class="p1">Tiers, limits, KYC</h2>
+<p>Trading limits on Nash are determined by tiers, depending on the amount of KYC information provided to the platform. Unverified, or Tier 0 accounts, are limited to $1,000 trading per day.</p>
+<p>Tiers, limits and, required information can be found below:</p>
+<ul class="ul1">
+<li class="li1"><span class="s3">Tier 0 &#8211; $1,000 per day, requires email address</span></li>
+<li class="li1"><span class="s3">Tier 1 &#8211; $25,000 per day, requires email address, name, address, PEP check, photo ID, selfie, and date of birth</span></li>
+<li class="li1"><span class="s3">Tier 2 &#8211; Tailored according to declarations, requires Tier 1 information, user net worth, source of funds, and a contact number</span></li>
+<li class="li1"><span class="s3">Tier 3 &#8211; Unlimited and reserved for institutions, requires company representative, email address, company name, address, contact number, website, TIN, corporate formation documents, and source of funds</span></li>
+</ul>
+<p>Nash published its know your customer (KYC) mobile application <a href="https://twitter.com/nashsocial/status/1168256158018232320?s=20" target="_blank" rel="noopener noreferrer">to Google Play and the iOS Store</a> on September 1st.</p>
+<p>To increase tiering status on the platform, users can download the Nash App on iOS or Android to complete the required KYC process. Users must first create an account on the Nash website, and then use the KYC app and a QR code on the trading platform to verify their identity.</p>
+<p>Currently, users are only able to verify their identities through Tier 1 verification.</p>
+<p>In the future the Nash App aims to:</p>
+<ul class="ul1">
+<li class="li1"><span class="s3">Easily manage accounts for multiple blockchains and use Nash&#8217;s exchange to trade digital assets in a performant, non-custodial manner.</span></li>
+<li class="li1"><span class="s3">Offer the ability to purchase digital assets with fiat currencies through various currency partners.</span></li>
+<li class="li1"><span class="s3">Connect accounts to Nash Pay and purchase goods online with an automatic currency conversion service through the Nash exchange.</span></li>
+</ul>
+<h2 class="p1">Community feedback</h2>
+<p>Following the launch of Nash&#8217;s exchange platform, the development team is seeking community input from platform users. In a community post, Canesin said:</p>
+<blockquote><p>To help us begin refining the MVP, we would now like to invite the Nash Community to send feedback through this forum. If you participated in our beta feedback rounds, this process will look very familiar. If not – welcome to the Community!</p></blockquote>
+<p>A link to provide feedback on the Nash exchange can be found below:<br />
+<a href="https://community.nash.io/t/nash-community-feedback-for-the-live-mvp-round-1/7508" target="_blank" rel="noopener noreferrer">https://community.nash.io/t/nash-community-feedback-for-the-live-mvp-round-1/7508</a></p>
+<div id="ulc-9747" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="1932" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
+<p>The post <a href="https://neonewstoday.com/general/nash-launches-its-non-custodial-exchange-seeks-community-input-on-mvp/">Nash launches its non-custodial exchange, seeks community input on MVP</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NEO News: Week in Review – September 2nd – September 8th</title>
 		<link>https://neonewstoday.com/general/neo-news-week-in-review-september-2nd-september-8th/</link>
 		
@@ -56,10 +140,10 @@
 		<category><![CDATA[TMN]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=12363</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NEO From September 2nd to September 6th, NEO hosted the inaugural NEO Community Assembly (NCA) 2019 at NEO Global Development (NGD) headquarters...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO From September 2nd to September 6th, NEO hosted the inaugural NEO Community Assembly (NCA) 2019 at NEO Global Development (NGD) headquarters...</p>
 <p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-september-2nd-september-8th/">NEO News: Week in Review – September 2nd – September 8th</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><h2 class="p1">NEO</h2>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><h2 class="p1">NEO</h2>
 <p>From September 2nd to September 6th, <b>NEO</b> hosted the inaugural NEO Community Assembly (NCA) 2019 at <b>NEO Global Development</b> (NGD) headquarters in Shanghai, China. The invite-only event gathered representatives from global developer communities for a week of intensive discussions and collaborations. Participants included COZ, NeoResearch, NEO St. Petersburg Competence Center (NEO SPCC), NEO•ONE, Red4Sec, NEO News Today, NewEconoLabs (NEL), NEO-NEXT, Neow3j, and Alienworks.</p>
 <p>On Thursday, September 5th, <b>NGD</b> <a href="https://neonewstoday.com/events/ngd-seattle-neo-one-neo-spcc-announce-product-releases-at-nca-2019-press-conference/">held a press conference</a> at the Hyatt Regency Shanghai as part of the inaugural NCA. During the event, several ecosystem projects announced the launch of new products, including the NEO Blockchain Toolkit and NEO Express from NGD Seattle, a MainNet ready update for the NEO-ONE development suite, and the NeoFS proof-of-concept for developers from NEO SPCC.</p>
 <p>Later in the afternoon, <b>NEO</b> hosted a closed round table symposium to discuss various subjects regarding blockchain in China. Participants included leaders from various Chinese and Asian projects, such as: Zongcheng Li, CFO of Bytom; Kevin Feng, COO of VeChain; Jun Li, founder of Ontology; Hongfei Da, CEO of NGD; John Wang, head of ecosystem growth at NEO; Kyn Chaturvedi, CBDO of TomoChain; Yuanjie Zhang, COO of Conflux; and, Tom Tang, CIO of PlatON.</p>
@@ -108,7 +192,7 @@
 		<category><![CDATA[MCC]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=12311</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token.png 800w, https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Magic Cube, a NEO-based blockchain gaming platform, has announced the release of its DNC token. The DNC token aims to “[lower] transaction...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token.png 800w, https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Magic Cube, a NEO-based blockchain gaming platform, has announced the release of its DNC token. The DNC token aims to “[lower] transaction...</p>
 <p>The post <a href="https://neonewstoday.com/general/magic-cube-announces-release-of-dnc-token-to-replace-dnf/">Magic Cube announces release of DNC token to replace DNF</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token.png 800w, https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/09/magic-cube-launches-dnc-token-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Magic Cube, a NEO-based blockchain gaming platform, has <a href="https://www.narrative.org/post/magic-cube-august-in-review" target="_blank" rel="noopener noreferrer">announced the release</a> of its DNC token. The DNC token aims to “[lower] transaction fees, encouraging people to engage in larger token transactions, and allowing users to exchange their tokens for MCC.”</p>
@@ -8556,82 +8640,6 @@ Seattle, WA</p>
 <p class="p1"><span class="s1">The DEX provider states it will “be holding the world&#8217;s first exchange based ICO in January,” and is also working on incorporating cross-chain functionality.</span></p>
 <div id="ulc-6217" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="2647" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
 <p>The post <a href="https://neonewstoday.com/general/aphelion-announces-its-ico-hub-aims-to-reduce-kyc-processes/">Aphelion announces its ICO Hub, aims to reduce KYC processes</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>QLC Chain seeking beta testers for WinQ 2.0</title>
-		<link>https://neonewstoday.com/general/qlc-chain-seeking-beta-testers-for-winq-2-0/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Sat, 22 Dec 2018 00:01:11 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[QLC]]></category>
-		<category><![CDATA[WGAS]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=9498</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>QLC Chain has released its bi-weekly report, which includes highlights about the development of its public chain, virtual private network (VPN) router,...</p>
-<p>The post <a href="https://neonewstoday.com/general/qlc-chain-seeking-beta-testers-for-winq-2-0/">QLC Chain seeking beta testers for WinQ 2.0</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>QLC Chain has <a href="https://medium.com/qlc-chain/qlc-chain-bi-weekly-report-018-41fc15335e0f" target="_blank" rel="noopener">released its bi-weekly report</a>, which includes highlights about the development of its public chain, virtual private network (VPN) router, and how the router and WinQ interact.</p>
-<p>On October 10th, QLC Chain&#8217;s Multidimensional Block Lattice blockchain launched on TestNet, which was covered by NEO News Today. Since then, the QLC Chain team notes it has received valuable feedback from its community about the wallet and block explorer.</p>
-<p>Through the month of December, the development team has implemented support for multiple wallets on a single node and added calculation of voting weight, among other updates.</p>
-<p>In the upcoming weeks, the team aims to implement a delegated proof of stake (dPoS) consensus, and integrate the virtual machine and smart contract, plus more tasks.</p>
-<h2>VPN Router and using it with WinQ</h2>
-<p>In an effort to reduce the barrier for bandwidth monetization, QLC Chain has designed its VPN Router to be compatible with the WinQ application. It’s VPN Router aims to expand broadband coverage and uses WinQ to connect to a global peer-to-peer (P2P) network.</p>
-<p>Top VPN operators receive QLC as compensation for sharing their broadband connection by registering the asset on WinQ.</p>
-<p>QLC is now seeking beta testers for WinQ 2.0, where users will get 1.5x WGAS during the testing period. WGAS was recently <a href="https://neonewstoday.com/general/qlc-chain-announce-incentive-program-for-pre-launch-of-winq-v2-0/" target="_blank" rel="noopener">covered by NEO News Today</a>.</p>
-<p>Interested parties can apply for beta testing by submitting an email headlined “WinQ 2.0 beta” through the submission form located at the bottom of the following link:<br />
-<a href="https://winq.net/" target="_blank" rel="noopener">https://winq.net/</a></p>
-<div id="ulc-6643" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="1937" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
-<p>The post <a href="https://neonewstoday.com/general/qlc-chain-seeking-beta-testers-for-winq-2-0/">QLC Chain seeking beta testers for WinQ 2.0</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>APEX provides TestNet progress, upgrades to the APEX Wallet</title>
-		<link>https://neonewstoday.com/general/apex-provides-testnet-progress-upgrades-to-the-apex-wallet/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Fri, 21 Dec 2018 23:32:23 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[CPX]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=9478</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>APEX Network recently released a progress update following the launch of its TestNet. The development team reports that it has been focussing on...</p>
-<p>The post <a href="https://neonewstoday.com/general/apex-provides-testnet-progress-upgrades-to-the-apex-wallet/">APEX provides TestNet progress, upgrades to the APEX Wallet</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>APEX Network <a href="https://medium.com/apex-network/apex-network-development-progress-update-194a3ac95820" target="_blank" rel="noopener">recently released a progress update</a> following the launch of its TestNet. The development team reports that it has been focussing on stability testing, upgrades, and implementing planned features. The update includes information on the blockchain team, wallet development, the state of its TestNet, and dApp deployment.</p>
-<h2 class="p1">The APEX team continues to grow</h2>
-<p>APEX claims it exceeded its 2018 goal of bringing on 35 employees, with 40 staff members now on the blockchain team. The staff is comprised of 3 managers and 37 developers split among the wallet, blockchain, and ecosystem branches.</p>
-<p>APEX Network will continue to “aggressively” hire new employees, and aims to have around 60 employees around the time of the launch of MainNet.</p>
-<p>APEX is seeking talented employees that have an understanding of:</p>
-<ol class="numbered">
-<li>Core algorithms such as digital signatures, zero-knowledge proofs, P2P networks, and virtual machine development.</li>
-<li>Principles of constructing a blockchain economic model.</li>
-<li>Core usage scenarios.</li>
-</ol>
-<h2 class="p1">APEX Wallet updates</h2>
-<p>A comprehensive update on the APEX Wallet focussed on improving “stability, availability, and error tolerance of the backend services combined with improving the usability of the app.”</p>
-<p>The team has worked on issues with NEO transaction analysis, where block explorers have had intermittent difficulties with transaction records. After several iterations of code, the issue has mostly been resolved.</p>
-<p>In the future, APEX will focus on the data service of the application.</p>
-<h2 class="p1">TestNet progress</h2>
-<p>The APEX TestNet is live and producing new blocks every 0.5 seconds, with blocks being confirmed by the consensus nodes within a few seconds. The team adopted a consensus model similar to that of EOS, in that it “basically has no major fork issues.” Eventually, APEX aims to achieve 390,000 transactions per second.</p>
-<p>While developing its own blockchain, APEX ran into issues surrounding the block rollback mechanism and block consensus. After many code iterations the team feels as if the issues have sufficiently been corrected.</p>
-<p>The current version of the TestNet website offers users the ability to see the latest blocks, the number of transactions, recent trading volumes, and the number of active accounts. In addition to the website, APEX is also developing a “full public block explorer.”</p>
-<p>It is expected the smart contract module will take three months to complete. In addition to the smart contract, APEX will focus on the development of the ecosystem’s economic model.</p>
-<p>Lastly, APEX Technologies is considering introducing more programming languages in an effort to lower barriers to develop smart contracts on its blockchain.</p>
-<h2 class="p1">Decentralized applications on the APEX blockchain</h2>
-<p>Once the APEX network is fully functional, the team will focus on the development of enterprise dApps, so that these customers can quickly begin using the blockchain. APEX will use the dApps as a “part of the cross marketing efforts for APEX Network and NEXUS to new enterprises.”</p>
-<p>APEX plans to release pilot dApps as SDKs for enterprise customers to use, so they can develop to meet their needs. The team stated “lowering the threshold for developers to start developing dApps [is] perhaps even more important than us developing dApps ourselves.”</p>
-<p>The full project update can be found at the link below:<br />
-<a href="https://medium.com/apex-network/apex-network-development-progress-update-194a3ac95820" target="_blank" rel="noopener">https://medium.com/apex-network/apex-network-development-progress-update-194a3ac95820</a></p>
-<div id="ulc-6345" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="2646" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
-<p>The post <a href="https://neonewstoday.com/general/apex-provides-testnet-progress-upgrades-to-the-apex-wallet/">APEX provides TestNet progress, upgrades to the APEX Wallet</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		

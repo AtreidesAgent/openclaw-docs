@@ -8,3 +8,9 @@
 2026-03-13 09:00:01,219 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/sep-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=wFjYO1B2mqU' -> FAILED: /bin/sh: yt-dlp: command not found
 
 2026-03-13 09:00:01,220 ERROR VID wFjYO1B2mqU: No VTT downloaded
+2026-03-20 09:00:01,290 INFO Playlist: 15 videos
+2026-03-20 09:00:01,291 INFO Existing cleaned: 107
+2026-03-20 09:00:01,291 INFO New episodes: 1: ['wFjYO1B2mqU']
+2026-03-20 09:00:01,303 ERROR CMD: yt-dlp --write-auto-sub --sub-lang en --sub-format vtt --skip-download --restrict-filenames -o '/Users/dylansagent/.openclaw/workspace-business/intelligence/weekly/transcripts/raw/sep-%(id)s.%(ext)s' 'https://www.youtube.com/watch?v=wFjYO1B2mqU' -> FAILED: /bin/sh: yt-dlp: command not found
+
+2026-03-20 09:00:01,304 ERROR VID wFjYO1B2mqU: No VTT downloaded

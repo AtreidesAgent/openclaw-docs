@@ -12,7 +12,7 @@
 	<atom:link href="https://neonewstoday.com/author/dylan/feed/?paged=5" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Latest news and updates on the open-source Neo Blockchain project.</description>
-	<lastBuildDate>Fri, 25 Feb 2022 21:34:51 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Mar 2022 14:33:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,64 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Switcheo to integrate support for Binance Smart Chain following TradeHub v1.15 upgrade</title>
+		<link>https://neonewstoday.com/general/switcheo-to-integrate-support-for-binance-smart-chain-following-tradehub-v1-15-upgrade/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Mon, 15 Mar 2021 20:52:51 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[SWTH]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=24557</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Switcheo is integrating support for Binance Smart Chain, as a result of the TradeHub v1.15 proposal surpassing the minimum vote threshold in...</p>
+<p>The post <a href="https://neonewstoday.com/general/switcheo-to-integrate-support-for-binance-smart-chain-following-tradehub-v1-15-upgrade/">Switcheo to integrate support for Binance Smart Chain following TradeHub v1.15 upgrade</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-binance-smart-chain-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Switcheo is <a href="https://blog.switcheo.network/switcheo-is-joining-the-binance-smart-chain-family" target="_blank" rel="noopener">integrating</a> support for Binance Smart Chain, as a result of the TradeHub v1.15 proposal surpassing the minimum vote threshold in TIP #11. The most notable feature of the update is the ability for SWTH to be withdrawn as a BEP-20 token to BSC via the Poly Network interoperability protocol.</p>
+<p>BSC is an independent blockchain network that offers smart contract functionality and Ethereum VM compatibility. In 2021, its infrastructure has facilitated more than US $15 billion in total transaction volume, and continues to grow. In the announcement, Switcheo said:</p>
+<blockquote><p>Harnessing the power of Poly Network, Switcheo TradeHub will be able to bring next generation derivatives to various [layer one] blockchains, allowing us to connect and access assets on other [layer one] chains… Our integration with BSC brings us a step closer to our vision of limitless markets, and opens up infinite possibilities for various cross-chain financial transactions.</p></blockquote>
+<p>TradeHub v1.15 will allow for cross-chain transactions between BSC and TradeHub, and offer two primary benefits. First, users have access to decreased onboarding costs by utilizing the benefits of a centralized exchange. Second, it expands order books and derivatives services beyond Uniswap-like non-custodial exchanges via Demex.</p>
+<p>Voting for <a href="https://switcheo.org/governance/proposal/35?net=main" target="_blank" rel="noopener">TIP #11 to implement TradeHub v1.15</a> concludes March 17, when validators must update their nodes.</p>
+<p>The full announcement can be found at the link below:<br />
+<a href="https://blog.switcheo.network/switcheo-is-joining-the-binance-smart-chain-family" target="_blank" rel="noopener"> https://blog.switcheo.network/switcheo-is-joining-the-binance-smart-chain-family</a></p>
+<p>The post <a href="https://neonewstoday.com/general/switcheo-to-integrate-support-for-binance-smart-chain-following-tradehub-v1-15-upgrade/">Switcheo to integrate support for Binance Smart Chain following TradeHub v1.15 upgrade</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Flamingo launches USDT and WBTC migration, liquidity providers must migrate to receive rewards</title>
+		<link>https://neonewstoday.com/general/flamingo-launches-usdt-and-wbtc-migration-liquidity-providers-must-migrate-to-receive-rewards/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Sat, 13 Mar 2021 01:23:41 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[FLM]]></category>
+		<category><![CDATA[NEO]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=24523</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The Flamingo team has launched USDT and WBTC migration for users to convert from pn-assets to f-assets. Liquidity providers must migrate USDT...</p>
+<p>The post <a href="https://neonewstoday.com/general/flamingo-launches-usdt-and-wbtc-migration-liquidity-providers-must-migrate-to-receive-rewards/">Flamingo launches USDT and WBTC migration, liquidity providers must migrate to receive rewards</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/flamingo-usdt-and-wbtc-migration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The Flamingo team has launched USDT and WBTC migration for users to convert from <i>pn</i>-assets to <i>f</i>-assets. Liquidity providers must migrate USDT and WBTC to continue receiving FLM rewards on the Flamingo vault module.</p>
+<p>Migration of USDT and WBTC <a href="https://twitter.com/FlamingoFinance/status/1369135339399344128?s=20" target="_blank" rel="noopener">began</a> at 8:00 a.m. (UTC) on March 12, and FLM rewards for the following pools began at 10:00 a.m.:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">FLP-fWBTC-fUSDT</li>
+<li style="font-weight: 400;" aria-level="1">FLP-nNEO-fUSDT</li>
+<li style="font-weight: 400;" aria-level="1">FLP-fWBTC-nNEO</li>
+</ul>
+<p>The migration of USDT, WBTC, and <a href="https://neonewstoday.com/general/flamingo-launches-weth-asset-migration-liquidity-providers-must-migrate-to-receive-flm-rewards/">WETH’s move last week</a>, is part of an <a href="https://neonewstoday.com/general/flamingo-announces-upcoming-asset-flow-redesign-launch-and-token-migration-timeline/">asset flow redesign</a> announced in Feb. 2021 and voted into action in FIP #2. FIP #2 outlined a mechanism to correct price disparities between synthetic assets, among other changes, to make the Flamingo platform more user-friendly.</p>
+<p>Flamingo has released a <a href="https://docs.flamingo.finance/user-guides/weth-migration" target="_blank" rel="noopener">step-by-step guide</a> to assist users through the migration process.</p>
+<p>The announcement of the migration can be found at the link below:<a href="https://twitter.com/FlamingoFinance/status/1370316449496006662?s=20"> https://twitter.com/FlamingoFinance/status/1370316449496006662?s=20</a></p>
+<p>The post <a href="https://neonewstoday.com/general/flamingo-launches-usdt-and-wbtc-migration-liquidity-providers-must-migrate-to-receive-rewards/">Flamingo launches USDT and WBTC migration, liquidity providers must migrate to receive rewards</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Switcheo community votes to extend LP rewards and modify reward weightings</title>
 		<link>https://neonewstoday.com/general/switcheo-community-votes-to-extend-lp-rewards-and-modify-reward-weightings/</link>
 		
@@ -40,10 +98,10 @@
 		<category><![CDATA[SWTH]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=24512</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Switcheo will extend LP rewards and modify reward weightings upon the recent unanimous approval of TIP #10. Notable changes include extending LP...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Switcheo will extend LP rewards and modify reward weightings upon the recent unanimous approval of TIP #10. Notable changes include extending LP...</p>
 <p>The post <a href="https://neonewstoday.com/general/switcheo-community-votes-to-extend-lp-rewards-and-modify-reward-weightings/">Switcheo community votes to extend LP rewards and modify reward weightings</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Switcheo will extend LP rewards and modify reward weightings upon the recent <a href="https://switcheo.org/governance/proposal/34?net=main" target="_blank" rel="noopener">unanimous approval of TIP #10</a>. Notable changes include extending LP rewards to 30% of block rewards for six months and a new boost reward system.</p>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/switcheo-lp-reward-extension-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Switcheo will extend LP rewards and modify reward weightings upon the recent <a href="https://switcheo.org/governance/proposal/34?net=main" target="_blank" rel="noopener">unanimous approval of TIP #10</a>. Notable changes include extending LP rewards to 30% of block rewards for six months and a new boost reward system.</p>
 <p>Switcheo TradeHub <a href="https://neonewstoday.com/general/switcheo-receives-near-unanimous-support-for-tradehub-update-enabling-trading-modules/">launched in Dec. 2020</a>, initially enabling trading in three markets and growing from there. To incentivize liquidity, Switcheo instituted a reward curve offering higher rewards to liquidity providers for the first 12 weeks of trading. <a href="https://medium.com/switcheo/extension-of-liquidity-rewards-on-demex-18b9c9f43a1b" target="_blank" rel="noopener">Switcheo said</a>:</p>
 <blockquote><p>The intent was to incentivize liquidity contribution with robust yields in the initial bootstrapping period for Demex’s novel AMM-simulated order book exchange model. Liquidity rewards are being extended chiefly to incentivize liquidity for new markets that are being added on Demex. This would ensure that the order books for newly-added markets are sufficiently liquid to support trading on the platform.</p></blockquote>
 <p>The following liquidity pools on Demex have been rebalanced and adjusted by weight:</p>
@@ -91,7 +149,7 @@
 		<category><![CDATA[NEO]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=24486</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies supported in the upcoming DigiFinex debit card. The card will allow users to pay...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies supported in the upcoming DigiFinex debit card. The card will allow users to pay...</p>
 <p>The post <a href="https://neonewstoday.com/general/neo-among-first-cryptocurrencies-supported-by-upcoming-digifinex-debit-card/">NEO among first cryptocurrencies supported by upcoming DigiFinex debit card</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card.png 800w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/03/neo-digifinex-debit-card-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO will be one of the first cryptocurrencies <a href="https://twitter.com/Neo_Blockchain/status/1368927557521866770?s=20" target="_blank" rel="noopener">supported</a> in the upcoming DigiFinex debit card. The card will allow users to pay for goods and services with NEO via UnionPay, the world’s largest PIN-network. Applications for the debit card begin March 30, 2021.</p>
@@ -8558,95 +8616,6 @@ Estimated publication: 2020</li>
 <p>Ultimately, digitizing the Chinese Yuan fits within Neo’s vision of the Smart Economy and the digitization of assets. Da concluded, “I would say, in the long-term, it will definitely benefit Neo.”</p>
 <div id="ulc-10614" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="1931" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
 <p>The post <a href="https://neonewstoday.com/general/da-hongfei-discusses-neos-proposed-governance-and-economic-model-at-consensus-distributed/">Da Hongfei discusses Neo&#8217;s proposed governance and economic model at Consensus: Distributed</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>TypeEarn platform plans migration to Neo from Steem</title>
-		<link>https://neonewstoday.com/general/typeearn-platform-plans-migration-to-neo-from-steem/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Tue, 12 May 2020 20:42:39 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[TPN]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=17887</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration.png 800w, https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>TypeEarn, an application that rewards users for improving typing skills, is migrating to the Neo blockchain from Steem. TypeEarn incentivizes users to...</p>
-<p>The post <a href="https://neonewstoday.com/general/typeearn-platform-plans-migration-to-neo-from-steem/">TypeEarn platform plans migration to Neo from Steem</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration.png 800w, https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2020/05/typeearn-neo-migration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p><a href="https://typeearn.com/?=" target="_blank" rel="noopener noreferrer">TypeEarn</a>, an application that rewards users for improving typing skills, is migrating to the Neo blockchain from Steem. TypeEarn incentivizes users to practice typing through the gamification of typing as &#8220;mining&#8221; to produce token rewards.</p>
-<p>Nigerian founder, Mikes Tykee, began developing TypeEarn in Summer 2019 to help individuals track and improve their typing speeds. TypeEarn chose to move to Neo from Steem due to its stability and simple wallet creation process.</p>
-<h2 class="p1">Mining and rewards</h2>
-<p>Central to the TypeEarn platform will be its TypeEarn token (TPN). In order to access TypeEarn&#8217;s services, users will be required to stake a minimum of 20 TPN. The number of staked tokens will also influence how much the user will be rewarded for their efforts and how often rewards can be claimed.</p>
-<p>In TypeEarn, the act of typing is gamified as &#8220;mining.&#8221; The more often and more efficiently the user &#8220;mines,&#8221; the more rewards they will receive. Therefore, users are incentivized to practice regularly and improve their typing speed and accuracy. Rewards will be distributed in TPN tokens.</p>
-<h2 class="p1">Partner with schools across the globe</h2>
-<p>TypeEarn aims to offer its service to schools as a unique way of encouraging students to improve their typing skills. In a conversation with Neo News Today, Tykee claimed, “we have reached out to many schools, and once the COVID-19 lockdowns are over, many schools will start using the app.”</p>
-<p>To partner with TypeEarn, <a href="https://typeearn.com/enrol-now">schools can purchase seats for students</a> through a monthly, quarterly, bi-annual, or annual server subscription. Seats are purchased with TPN and subsequently burned, and both the school and students will earn tokens for using the platform. Further, TypeEarn will offer a certificate to students who maintain a speed of 60 words per minute (WPM) or higher.</p>
-<h2 class="p1">Looking forward</h2>
-<p>TypeEarn is currently undergoing testing on Neo and is tentatively expected to launch in Q2 2020.</p>
-<p>Further, the team intends to release an updated roadmap along with a whitepaper and information on its migration to the Neo blockchain.</p>
-<p>The TypeEarn website can be found at the link below:<br />
-<a href="https://typeearn.com/" target="_blank" rel="noopener noreferrer">https://typeearn.com/</a></p>
-<p>The post <a href="https://neonewstoday.com/general/typeearn-platform-plans-migration-to-neo-from-steem/">TypeEarn platform plans migration to Neo from Steem</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Neo News: Week in Review &#8211; May 4th &#8211; May 10th</title>
-		<link>https://neonewstoday.com/general/neo-news-week-in-review-may-4th-may-10th/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Mon, 11 May 2020 21:30:42 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[0xGames]]></category>
-		<category><![CDATA[GUARD]]></category>
-		<category><![CDATA[JAR]]></category>
-		<category><![CDATA[NEO]]></category>
-		<category><![CDATA[NEOColorado]]></category>
-		<category><![CDATA[NeoSPCC]]></category>
-		<category><![CDATA[NEOW3J]]></category>
-		<category><![CDATA[NEX]]></category>
-		<category><![CDATA[NEXT]]></category>
-		<category><![CDATA[NGD Seattle]]></category>
-		<category><![CDATA[PHX]]></category>
-		<category><![CDATA[QLC]]></category>
-		<category><![CDATA[TMN]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=18089</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO Neo Global Development (NGD) Seattle lead, John deVadoss, participated in The Road to Metamorphosis virtual event on May 9th. His presentation,...</p>
-<p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-may-4th-may-10th/">Neo News: Week in Review &#8211; May 4th &#8211; May 10th</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p><iframe loading="lazy" src="https://pinecast.com/player/4a3dbb1b-7b33-4d89-b55a-278e8cb64208?theme=minimal" seamless height="60" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe></p>
-<h2 class="p1">NEO</h2>
-<p><b>Neo Global Development </b>(NGD)<b> Seattle</b> lead, John deVadoss, <a href="https://neonewstoday.com/events/john-devadoss-to-speak-at-the-road-to-metamorphosis-virtual-summit-on-may-9th-2020/">participated</a> in The Road to Metamorphosis virtual event on May 9th. His presentation, <i>Future of Money &#8211; Stablecoins as the New Moat</i>, offered an overview of potential stablecoin markets in India.</p>
-<p><b>Neo </b>will be <a href="https://neonewstoday.com/general/neo-to-present-at-consensus-distributed-2020-virtual-conference/">presenting</a> at the upcoming Consensus: Distributed 2020 virtual conference taking place May 11th – 15th, 2020. Consensus is an annual event that attracts interest from across the blockchain ecosystem and has been touted as one of the premier industry events. Neo will be presenting on May 11th from 6:00 pm to 7:00 pm (UTC-5) and will include presentations from Da Hongfei, John deVadoss, John Wang, and Stanislav Bogatyrev.</p>
-<p><b>Neo</b> co-founder, Da Hongfei, is <a href="https://neonewstoday.com/events/da-hongfei-to-speak-at-crypto-asia-summit-virtual-event-on-may-19th-2020/">scheduled</a> to deliver a keynote speech at the Crypto Asia Summit virtual conference on Wednesday, May 19th, 2020. Da is expected to speak from 9:00 am to 10:00 am (UTC +9).</p>
-<h2 class="p1">Road to Neo3</h2>
-<p><i>Neo News Today</i> (NNT) <a href="https://neonewstoday.com/development/road-to-neo3-exception-handling-in-neo-smart-contracts/">released</a> the next feature in its <i>Road to Neo3</i> series, which examined the new exception handling mechanism under development for Neo3’s virtual machine. The addition of exception handling capabilities to Neo smart contracts is intended to make them more robust, behaving more like traditional applications that can recover from unexpected errors.</p>
-<h2 class="p1">NNT Catch Up</h2>
-<p><i>NNT</i>’s Colin Closser, <a href="https://neonewstoday.com/interviews/interview-0xgames-discusses-blockchain-games-0xuniverse-and-neo/">interviewed</a><b> 0xGames</b> chief marketing officer, Alexander Fedorchuk, to talk about the company’s blockchain games, its business, and its future with Neo. 0xGames is the development studio behind 0xUniverse – one of the most popular blockchain games. It is also the creator of 0xWarriors and 0xRacers, both of which incorporate the Neo blockchain into their game worlds.</p>
-<p>Poloniex exchange <a href="https://neonewstoday.com/general/poloniex-launches-neo-trading-cryptwerk-adds-to-list-of-merchants-that-accept-neo/">announced</a> the listing of <b>NEO</b> markets on its exchange, while European-based Anycoin Direct provided updates to its platform aimed at improving the user experience of purchasing NEO.</p>
-<p>Neo St. Petersburg Competence Center (<b>Neo SPCC</b>) co-founder and CIO, Stanislav Bogatyrev, <a href="https://youtu.be/Hm5Ave1DAZs" target="_blank" rel="noopener noreferrer">participated in a panel</a> alongside other blockchain projects such as Cardano, Waves, and Solana for the Binance Online Super Meetup on April 30th, 2020. The event was held entirely in Russian.</p>
-<h2 class="p1">Developer Groups</h2>
-<p><b>Neow3j </b><a href="https://twitter.com/neow3j/status/1259458173817192453?s=20" target="_blank" rel="noopener noreferrer">integrated</a> support for Kotlin, which allows Kotlin developers to import Neow3j into their project.</p>
-<p><strong>NEXT</strong> released the six and seventh videos from its NeoTalk series, designed to get users familiar with its NeoLine mobile wallet. The <a href="https://twitter.com/NEOLine20/status/1257943503138512896?s=20">sixth video</a> offered a walkthrough of the <em>Discover and News</em> interface, while the <a href="https://twitter.com/NEOLine20/status/1258632591902564353?s=20" target="_blank" rel="noopener noreferrer">seventh video</a> discussed the <em>My</em> user settings interface. NEXT supplemented the release of these videos with a <a href="https://medium.com/@NeoLine20/neoline-talk-how-to-solve-the-problem-of-transfer-not-arrived-679af4250d9c" target="_blank" rel="noopener noreferrer">NeoTalk article</a> that highlighted various transactions errors and their potential solutions.</p>
-<h2 class="p1">Ecosystem</h2>
-<p>May 4th, <b>Jarvis+</b> <a href="https://medium.com/@JarvisPlus/jarvis-s-biweekly-report-2020-4-20-2020-5-3-17eb8246947e" target="_blank" rel="noopener noreferrer">released</a> its fortnightly report, which highlighted a customized price query function in its WeChat app.</p>
-<p>May 7th, <b>Neo Colorado</b> <a href="https://neocolorado.com/event-report-cryptorado-community-lightning-sessions-pitch-neo-poker/" target="_blank" rel="noopener noreferrer">participated</a> in the <i>Crytptorado Community: Lightning Innovation Sessions</i> idea pitch and generation virtual event. The pitch for the event focused on Neo Poker, which aims to offer a decentralized platform for Neo community members to play poker and use NEO and GAS assets for user chip stacks.</p>
-<p>May 8th, <b>Guardian Circle</b> <a href="https://neonewstoday.com/general/guardian-circle-streamlines-onboarding-experience-following-rapid-user-growth/">released</a> v3.5 of its mobile application. Following a period of exponential growth in user acquisition during the COVID-19 pandemic, Guardian Circle has implemented changes designed to streamline the onboarding process and improve the overall user experience.</p>
-<p>May 8th, <b>Nash</b> <a href="https://blog.nash.io/the-two-major-uses-for-blockchain-in-video-games/?utm_campaign=coschedule&amp;utm_source=twitter&amp;utm_medium=nashsocial" target="_blank" rel="noopener noreferrer">released</a> an article that explored how blockchain can be implemented into video games through in-game transactions and digital collectibles.</p>
-<p>May 9th, <b>QLC Chain</b> <a href="https://medium.com/qlc-chain/qlc-chain-bi-weekly-report-046-b02ad501b404" target="_blank" rel="noopener noreferrer">released</a> its biweekly report, which noted the delivery of a billing/settlement service to a client, an AMA with its chief architect, Allen Li, and the announcement of the upcoming launch of a new module with a DeFi marketplace in the QWallet app.</p>
-<p>May 9th, <b>TranslateMe</b> <a href="https://twitter.com/translatemenet/status/1259107260665597953?s=20" target="_blank" rel="noopener noreferrer">announced</a> a 1,000,000 TMN token reward campaign. To become eligible, users must retweet a promotional Tweet and tag five users in the replies. Each of the tagged users that supply their Neo address will receive 100 TMN tokens.</p>
-<h2 class="p1">Token Listings</h2>
-<p><span class="s3"><a href="https://twitter.com/nashsocial/status/1258787391575339011?s=20">Nash exchange will delist Red Pulse (PHX) on May 11th</a>.</span></p>
-<h2 class="p1">Events</h2>
-<p>May 11th: <a href="https://neonewstoday.com/general/neo-to-present-at-consensus-distributed-2020-virtual-conference/">Neo, NGD, Neo SPCC, NGD Seattle to present at Consensus: Distributed</a>.</p>
-<p>May 19th: <a href="https://twitter.com/chaintalktv/status/1257485329633882113?s=20" target="_blank" rel="noopener noreferrer">Da Hongfei to speak at Crypto Asia Summit</a>.</p>
-<p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-may-4th-may-10th/">Neo News: Week in Review &#8211; May 4th &#8211; May 10th</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		

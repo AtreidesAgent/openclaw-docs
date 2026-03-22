@@ -1,0 +1,34 @@
+---
+title: "Neo News: Week in Review – March 9 – March 15"
+date: 2026-03-16
+source: Neo News Today
+url: https://neonewstoday.com/week-in-review/neo-news-week-in-review-march-9-march-15/
+categories: ['General', 'Week In Review', 'GAS', 'NEO', 'NeoSPCC', 'NRP', 'R3E', 'RaijinProtocol', 'SpoonOS']
+guid: https://neonewstoday.com/?p=59130
+---
+
+General Updates Da Hongfei delivered a presentation on the “Humanless Blockchain” concept at the National University of Singapore, expanding on the AI-native blockchain...
+The post Neo News: Week in Review – March 9 – March 15 appeared first on Neo News Today.
+
+
+## Full Content
+
+<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><h2>General Updates<b></b></h2>
+<p><strong>Da Hongfei</strong> <a href="https://x.com/dahongfei/status/2032987312045568020" target="_blank" rel="noopener">delivered</a> a presentation on the &#8220;Humanless Blockchain&#8221; concept at the National University of Singapore, expanding on the AI-native blockchain strategy outlined in his recent <a href="https://neonewstoday.com/ai/da-hongfei-positions-neo-x-as-ai-agent-native-blockchain-in-new-strategy-outline/">strategy article</a>.</p>
+<p><strong>SpoonOS</strong> <a href="https://neonewstoday.com/general/spoonos-distributes-first-nft-rewards-to-skill-capture-campaign-participants/">distributed</a> the first batch of NFT rewards to participants in its Skill Capture Community Campaign on Neo X MainNet. The NFTs serve as social badges and eligibility indicators for future ecosystem rewards, following the campaign&#8217;s launch in late January via the Taskon platform.</p>
+<p><b>GameShame</b> <a href="https://neonewstoday.com/gaming/gameshame-marks-phase-1-milestone-for-raijin-protocol-on-neo-x/">completed</a> Phase 1 development of <b>Raijin Protocol</b>, an on-chain PVP jet combat game built on the Neo X sidechain. The studio’s third development update, shared on March 11, outlines progress across core gameplay systems, an NFT marketplace, and supporting infrastructure, with systems described as “live in development.”</p>
+<p><b>GameShame </b><a href="https://github.com/AxLabs/grantshares/issues/198" target="_blank" rel="noopener">submitted</a><b> </b>a Phase 2 grant proposal to <b>GrantShares</b> requesting 7,500 GAS for game completion, alpha and beta testing phases, and initial marketing activities over an estimated six-month period. The proposal outlines remaining deliverables, including booster combat mechanics, shield and health systems, multiplayer stability testing, and integrated marketplace functionality.</p>
+<p><b>Neo Red Pill</b> <a href="https://x.com/NeoRedPill101/status/2032180582432849955" target="_blank" rel="noopener">hosted</a> a Telegram-based mini-gaming event where the Top 3 winners each won 1 GAS.</p>
+<p><b>nDapp</b> <a href="https://x.com/ndapp_org/status/2033181722796265671?s=20" target="_blank" rel="noopener">released</a> a weekly N3 GAS check-in, noting that network users claimed approximately 61,737 GAS over the past week and that on-chain activity burned about 357 GAS.</p>
+<p><b>NNT</b> <a href="https://x.com/NEOnewstoday/status/2031747202016538779" target="_blank" rel="noopener">hosted</a> a GasBot Trivia round where participants had a chance to compete for a pool of 4 GAS rewards.</p>
+<p><b>Frank Coin</b> <a href="https://x.com/FrankCoin_Neo/status/2032523703993409593" target="_blank" rel="noopener">hosted</a> a Neo trivia contest on X, rewarding participants with 4 GAS, and requiring each participant to prepare their own Neo N3 wallet address.</p>
+<h2>Developer Updates<b></b></h2>
+<p><b>R3E Network</b> <a href="https://neonewstoday.com/development/r3e-network-deploys-tee-powered-oracle-pricefeed-system-on-neo-n3-mainnet/" rel="noopener">released</a> a TEE-powered, privacy-preserving Oracle for the Neo N3 block explorer, Neo3 Scan. According to the team, the Oracle supports confidential data requests through built-in and custom providers with encrypted credentials, confidential computing functions including ZKP and FHE support, contract automation, and price feeds for assets such as NEO, GAS, BTC, ETH, SOL, and gold.</p>
+<p><b>Neo SPCC</b> <a href="https://neonewstoday.com/development/neo-spcc-releases-neogo-v0-118-0-with-vm-refcounter-optimizations-sdk-enhancements/" rel="noopener">released</a> NeoGo v0.118.0, introducing VM reference-counter optimizations and a range of SDK and CLI improvements. The update also includes new features for dApp developers, with full details available in the release changelog.</p>
+<h2>NNT Catch Up<b></b></h2>
+<p><b>NNT</b> <a href="https://neonewstoday.com/podcast/laszlo-szabo-kiln-the-smart-economy-podcast-episode-108/">released</a> Episode 108 of <b>The Smart Economy Podcast</b> featuring Laszlo Szabo, co-founder and CEO of Kiln, an institutional staking and on-chain yield platform powering validator infrastructure for exchanges, custodians, wallets, and asset managers across the crypto ecosystem. Topics of discussion included why staking can continue growing during bear markets, how institutional staking infrastructure differs from retail validators, why stablecoin and Bitcoin yield markets may be expanding, how tokenized RWAs are entering on-chain finance, what on-chain vaults are and how they resemble asset management funds, how Railnet is aimed at connecting DeFi protocols and tokenized assets, why validator infrastructure matters for institutional security, and much more.</p>
+<p><b>NNT</b> <a href="https://x.com/i/spaces/1RKZzjwXEEMKB" target="_blank" rel="noopener">hosted</a> Crypto Coffee and Blockchain Beer Spaces #87 on the official<b> The Smart Economy Podcast</b> X account. Topics of discussion included building OpenClaw agents with no prior developer experience, use cases for agents, the value of not quitting and the breakthroughs that follow, being a good Project Manager for your agent, and lessons learned.</p>
+<h2>Events</h2>
+<p>March 20: <a href="https://x.com/i/spaces/1yKAPMaepDyxb" target="_blank" rel="noopener">NNT hosting CC &amp; BB #88 on The Smart Economy Podcast official X account</a>.</p>
+<p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-march-9-march-15/">Neo News: Week in Review &#8211; March 9 &#8211; March 15</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+
