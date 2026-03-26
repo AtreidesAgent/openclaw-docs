@@ -28,6 +28,139 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Alchemint launches SDUSD stable coin issuance platform on MainNet</title>
+		<link>https://neonewstoday.com/general/alchemint-sdusd-stable-coin-issuance-platform-launches-on-mainnet/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Wed, 26 Dec 2018 17:44:54 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[SDS]]></category>
+		<category><![CDATA[SDUSD]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=9372</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>On December 17th, 2018, Alchemint launched its SDUSD stable coin issuance platform to the NEO MainNet. The team delayed announcing the launch until...</p>
+<p>The post <a href="https://neonewstoday.com/general/alchemint-sdusd-stable-coin-issuance-platform-launches-on-mainnet/">Alchemint launches SDUSD stable coin issuance platform on MainNet</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/alchemint-mainnet-launch-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>On December 17th, 2018, <a href="https://medium.com/@AlchemintIO/alchemints-sdusd-stablecoin-issuance-platform-launched-on-neo-mainnet-e4832e913099" target="_blank" rel="noopener">Alchemint launched its SDUSD stable coin</a> issuance platform to the NEO MainNet. The team delayed announcing the launch until December 26th so it could first monitor the performance of the smart contract. The stable coin distribution platform aims to mortgage digital assets through smart contracts and manage collateral risk. Eventually, Alchemint aims to anchor a stable coin to any asset including fiat currency, cryptocurrency, and other commodities.</p>
+<p>Alchemint seeks to differentiate itself from other stable coin projects in the frequency of its audit reports. Users will be able to audit the stable coins at any time using the blockchain explorer.</p>
+<p>Stable coins are designed to maintain a fixed price or value and are backed by various methods of collateral. The three most popular models are fiat-collateral, cryptocurrency-collateral, and non-collateral.</p>
+<p><i>Fiat-collateral</i> has a reserve of an equivalent value of fiat currency, equal to the number of stable coins in circulation. The model can provide sufficient liquidity, but there might be issues with centralization and transparency (i.e. if the issuer refuses to share their reserve account information).</p>
+<p><i>Cryptocurrency-collateral</i> pegs the stable coin to the value of a fiat currency but mortgages digital assets for collateral. As a risk mitigation strategy, issuers will often require the stable coin user to over-collateralize the coin or will use tactics such as compulsory liquidation. As the collateral is locked in a smart contract, there is transparency, which negates the need for a centralized management model.</p>
+<p>Lastly, the <i>non-collateral</i> method uses an “algorithmic bank” model, which adjusts the prices of the stable coin by influencing the supply and demand of the market. If the value of the stable coin is lower than $1, an amount of bond tokens will be released, which are later redeemable for the stable coin once it has returned back to its 1:1 peg ratio. With this model, capital needs to flow into the market continuously, or else the stability of the coin will deviate from its $1 peg.</p>
+<h2 class="p3">Smart Assets Reserve</h2>
+<p>The smart contract Alchemint is utilizing for its stable coin offerings is termed the Smart Assets Reserve (SAR). SAR smart contracts will allow Alchemint to offer stable coins by the mortgaging of digital assets on the NEO blockchain through its SAR-C module.</p>
+<p><a href="https://alchemint.io/static/pdf/Alchemint_Whitepaper_v1.2.pdf" target="_blank" rel="noopener">According to the whitepaper</a>, SAR-C is designed for “individual users who issue stable coins by means of over-collateralized digital assets.” In this model, users have the opportunity to open multiple SAR’s. The maximum amount a user can unlock will be tied to the market value of the collateral and associated risk control parameters.</p>
+<p>Alchemint’s SAR-C smart contract has recently been audited by <a href="https://www.360totalsecurity.com/en/about/" target="_blank" rel="noopener">Qihoo 360</a>, a large cybersecurity company, and NewEconoLabs (NEL), which <a href="https://neonewstoday.com/general/alchemint-smart-contract-audit-complete-mainnet-launch-in-december/">NEO News Today covered</a>.</p>
+<h2 class="p3">MainNet launch and new functions</h2>
+<p>SDUSD is the first digital asset to be launched through SAR-C and is pegged to the US dollar. SDUSD was selected as the US dollar is the largest liquid currency, but Alchemint aims to gradually anchor other assets in the SAR-C model. <a href="https://neonewstoday.com/general/alchemint-releases-whitepaper-announces-sdusd-tokens/">NEO News Today has provided previous coverage</a> on the SDUSD mortgaging method.</p>
+<p class="p1"><span class="s1">In communication with <i>NEO News Today</i>, the Alchemint team has stated there are three new additions to the platform not listed in the whitepaper.</span></p>
+<p class="p1"><span class="s1">First, a <i>migrate function</i> has been included in case of any significant future updates. Should a function upgrade, bug fix, or other circumstance require a change to the smart contract code, users will be able to migrate their SAR to the new smart contract.</span></p>
+<p class="p1"><span class="s1">Second, to maintain price stability <i>liquid limitations</i> have been added to the stable coin issuance platform. The purpose of the limitations is to keep SAR’s collateral rate above 150% and discourage users from liquidating all of the SAR debt. When a SAR faces liquidation, users who liquidate their SAR can acquire collateral at a discounted price, and users whose SAR has been liquidated will lose some of their collateral and face a penalty.</span></p>
+<p class="p1"><span class="s1">Third, Alchemint has established a <i>Stable Foundation</i> which will serve to liquidate any SAR that is below the 100% collateral rate. While liquidating a SAR with a collateral rate below 100% is a profit-loss for Alchemint, it is a necessary function to maintain a high collateral rate for the overall system.</span></p>
+<p class="p1"><span class="s1">However, the <i>Stable Foundation</i> isn’t the only entity that can liquidate SARs to maintain a high collateral rate. Users can also liquidate SARs that have a collateral rate of 149% or lower. To liquidate, the individual uses SDUSD to purchase the SAR at a 10% discount (compared to market value). This way, users help individual SARs maintain their collateral rate of 150% or more. </span></p>
+<h2 class="p3">Looking forward</h2>
+<p>The Alchemint platform is currently under the operation of the Alchemint Operation Committee, which is comprised of financial and technical experts. Eventually, control from a centralized group will be disseminated to SDS holders, who may vote on issues surrounding the platform. Such areas of voting will include:</p>
+<ul class="ul1">
+<li class="li1"><span class="s3">Adjustment of risk control parameters</span></li>
+<li class="li1"><span class="s3">Addition or modification of types of mortgaged assets</span></li>
+<li class="li1"><span class="s3">A trustworthy oracle to determine the external market price of digital assets</span></li>
+<li class="li1"><span class="s3">Rates Alchemint charges its stable coin users</span></li>
+</ul>
+<p>The Genesis stage of Alchemint’s roadmap will take place between 2018 and 2019. In this timeframe, the primary focus of development will be to build an open-architecture stable coin issuance platform, support other NEP-5 assets as collateral, and complete cross-chain functionality.</p>
+<h2>Listing on Switcheo</h2>
+<p class="p1"><span class="s1">With the announcement of its MainNet launch, Alchemint will also be listing on the Switcheo decentralized exchange.</span></p>
+<p class="p1"><span class="s1">Deposits will begin at 11:30 am (UTC +8) onThursday, December 27th, and trading will begin at 12:00 pm (UTC +8).</span></p>
+<p class="p1"><span class="s1">Alchemint’s SDUSD will be paired with NEO. Other token pairings will be made available at a later date. </span></p>
+<h2>NEO DevCon Tickets</h2>
+<p>Alchemint will be offering NEO DevCon tickets through its website, at a price of 120 SDUSD per ticket. An article highlighting the purchasing process will be released by Alchemint in the coming days.</p>
+<div id="ulc-6761" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="2037" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
+<p>The post <a href="https://neonewstoday.com/general/alchemint-sdusd-stable-coin-issuance-platform-launches-on-mainnet/">Alchemint launches SDUSD stable coin issuance platform on MainNet</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NEO News: Week in Review &#8211; December 17th &#8211; December 23rd</title>
+		<link>https://neonewstoday.com/general/neo-news-week-in-review-december-17th-december-23rd/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Mon, 24 Dec 2018 22:16:23 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[ACAT]]></category>
+		<category><![CDATA[APH]]></category>
+		<category><![CDATA[CPX]]></category>
+		<category><![CDATA[DBC]]></category>
+		<category><![CDATA[EDC]]></category>
+		<category><![CDATA[EDS]]></category>
+		<category><![CDATA[JAR]]></category>
+		<category><![CDATA[NNC]]></category>
+		<category><![CDATA[NOS]]></category>
+		<category><![CDATA[NRVE]]></category>
+		<category><![CDATA[QLC]]></category>
+		<category><![CDATA[SDS]]></category>
+		<category><![CDATA[SDUSD]]></category>
+		<category><![CDATA[SOUL]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=9518</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw.png 800w, https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>NEO December 20th, NEO announced the first batch of speakers for NEO DevCon, scheduled to take place on February 16th and 17th, 2019...</p>
+<p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-december-17th-december-23rd/">NEO News: Week in Review &#8211; December 17th &#8211; December 23rd</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw.png 800w, https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/07/nnt-week-in-reviw-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><h2 class="p1"><span class="s1">NEO</span></h2>
+<p class="p3"><span class="s1">December 20th, <b>NEO</b> <a href="https://neonewstoday.com/events/first-batch-of-guest-speakers-announced-for-neo-devcon-2019/"><span class="s2">announced the first batch of speakers</span></a> for <i>NEO DevCon</i>, scheduled to take place on February 16th and 17th, 2019 in Seattle, US. Speakers include Da Hongfei, Erik Zhang, and Johnson Zhao from <em>NEO</em> and representatives from Microsoft, Qihoo 360, Accenture Strategy, NEO St Petersburg Competency Center (NEO SPCC), and more.</span></p>
+<h2 class="p1"><span class="s1">NNT Catch Up</span></h2>
+<p class="p3"><span class="s1">NNT <a href="https://neonewstoday.com/general/meet-the-winners-of-the-neo-spcc-hackathon-st-petersburg/" target="_blank" rel="noopener">published an overview</a> of the <b>NEO St Petersburg Competency Center </b>(NEO SPCC) hackathon that was held on the 8th and 9th of December. Hackathon goals included introducing participants to NEO blockchain technologies, developing the NEO community in St Petersburg, locating potential NEO SPCC employees, and identifying projects to continue development at the NEO SPCC. </span><span class="s1">The winning projects focused on developing solutions surrounding smart city, secure city, and a crypto-active economy themes.</span></p>
+<h2 class="p1"><span class="s1">Developer Groups</span></h2>
+<p class="p3"><span class="s1">December 17th, <b>NewEconoLabs</b> (NEL) <a href="https://neonewstoday.com/general/nel-releases-neoray-debugging-tool-for-neo-smart-contracts/"><span class="s2">released NeoRay</span></a>, a web-based smart contract debugger for the NEO blockchain, alongside a brief tutorial for its use. NeoRay is a “one-stop debugging tool” intended to help developers troubleshoot smart contracts and is based on NEL&#8217;s previously released NeonDebug smart contract toolkit. NeoRay consists of three components: an online NEO wallet, a C# code compiler, and a “transaction result parser” which analyzes the results of calling the functions of a smart contract.</span></p>
+<p class="p3"><span class="s1">December 18th, <i>NEL</i> released a <a href="https://neonewstoday.com/general/nel-continue-zorochain-and-neoray-development-in-december-update/"><span class="s2">bi-weekly report</span></a> highlighting development details of various NEL projects, including its ZoroChain gaming sidechain, BlaCat game development platform, and NeoRay web-based smart contract debugger. </span></p>
+<h2 class="p1"><span class="s1">Ecosystem </span></h2>
+<p class="p3"><span class="s1">December 17th, <b>NEO Name Service</b> (NNS) <a href="https://neonewstoday.com/general/neo-name-service-and-o3-wallet-integration-underway-in-december-update/"><span class="s2">announced increased integration</span></a> with the O3 NEO wallet in its latest development update. The NNS decentralized exchange is now open, offering fixed-price trading, and support for domain selling through the O3 wallet. Lastly, NEL’s block explorer now includes an overview of NNS-related events.</span></p>
+<p class="p3"><span class="s1">December 17th, war strategy game <b>Blocklords</b> <a href="https://neonewstoday.com/general/feudal-warfare-game-blocklords-outlines-in-game-battle-dynamics/"><span class="s2">released details</span></a> of its combat system and economy as it prepares to launch its closed beta on NEO TestNet. Players who want to join the <i>Blocklords</i> closed beta can sign up to the email list on the <i>Blocklords</i> website.</span></p>
+<p><span class="s1">December 17th, <b>Phantasma Chain</b> <a href="https://neonewstoday.com/general/phantasma-chain-announces-creative-contest-as-part-of-christmas-campaign/"><span class="s2">announced the third activity</span></a> in its <i>Christmas Campaign</i>. The Creative Contest is targeting designers and artists to participate and create Phantasma Chain content. 50,000 SOUL tokens have been allocated for the Creative Contest.</span></p>
+<p class="p3"><span class="s1">December 18th, <b>DeepBrain Chain</b> <a href="https://neonewstoday.com/general/deepbrain-chain-upgrades-ai-training-net-announces-zmine-partnership-in-december-update/"><span class="s2">announced an update</span></a> to its AI Training Net alongside a partnership with ZMINE, a Thai mining farm. DeepBrain also reported the release of its AI Training Net version 0.3.5.3.</span></p>
+<p class="p3"><span class="s1">December 19th, <b>Narrative </b><a href="https://neonewstoday.com/general/narrative-rolls-out-user-reputation-system-to-its-alpha-platform/"><span class="s2">released its reputation score system</span></a>. Reputation affects how much influence each user has on the platform. The system influences vote outcomes, content ratings and may also prevent low reputation members from being able to perform specific actions. The scoring system is now live on Narrative Alpha. </span></p>
+<p class="p3"><span class="s1">December 19th, <b>APEX Technologies</b> released a <a href="https://neonewstoday.com/general/apex-provides-testnet-progress-upgrades-to-the-apex-wallet/"><span class="s2">progress update</span></a> that highlights its focus on stability testing, upgrades, and implementing planned features. The update includes information on the blockchain team, wallet development, the state of its TestNet, and dApp deployment.</span></p>
+<p class="p3"><span class="s1">December 19th, <b>Endorsit</b> <a href="https://neonewstoday.com/general/endorsit-updates-dapp-and-begins-internal-beta-testing/" target="_blank" rel="noopener">updated its dApp to version 1.0.2</a> following the completion of its closed beta testing in December. Endorsit is focusing on bug fixes and community feedback at this stage of testing.</span></p>
+<p class="p1"><span class="s1">December 19th, <b>Jarvis+</b> <a href="https://neonewstoday.com/general/jarvis-prepares-to-co-host-the-natural-language-generation-nlg-challenge-with-microsoft/" target="_blank" rel="noopener">published its weekly report</a> highlighting the development of its <i>search engine spider</i> in preparation to co-host the Natural Language Generation (NLG) Challenge, in conjunction with Microsoft. </span></p>
+<p class="p3"><span class="s1">December 20th, <b>Aphelion</b> <a href="https://neonewstoday.com/general/aphelion-aiming-to-relaunch-mainnet-dex-before-the-new-year/"><span class="s2">announced plans</span></a> to relaunch its decentralized exchange onto MainNet. To meet compliance, <i>Aphelion</i> will be blocking all US-based residents from accessing and using its DEX. Additionally, <i>Aphelion</i> has made several updates to its smart contract code to improve the speed and processes of its DEX.</span></p>
+<p class="p3"><span class="s1">December 20th, <b>Alphacat</b> <a href="https://neonewstoday.com/general/alphacat-prepares-risk-indicator-and-index-tools-for-launch-in-december-update/"><span class="s2">announced the launch</span></a> of two in-house market analysis tools on the ACAT Store. The projects “will be launched soon” and are slated to join 54 other <i>Alphacat</i>-developed and third-party apps on the store. The new analysis tools are a <i>Cryptocurrency Risk Analysis Bot </i>and the <i>ACE Index</i>. </span></p>
+<p class="p3"><span class="s1">December 20th, <b>Alchemint</b> posted its <a href="https://neonewstoday.com/general/alchemint-update-includes-progress-towards-december-mainnet-launch/"><span class="s2">bi-monthly update</span></a> for the first half of December, highlighting development progress and events attended. The stable coin issuance provider is also preparing to launch onto MainNet in December. </span></p>
+<p class="p3"><span class="s1">December 20th, <b>QLC Chain</b> release its <a href="https://neonewstoday.com/general/qlc-chain-seeking-beta-testers-for-winq-2-0/"><span class="s2">bi-weekly report</span></a> including highlights about the development of its public chain, virtual private network (VPN) router, and information on how the router and WinQ interact. QLC is now seeking beta testers for WinQ 2.0, where users will get 1.5x WGAS during the testing period.</span></p>
+<p class="p3"><span class="s1">December 22nd, <b>Aphelion</b> <a href="https://neonewstoday.com/general/aphelion-announces-its-ico-hub-aims-to-reduce-kyc-processes/"><span class="s2">announced its ICO Hub</span></a>, which aims to remove the barriers of KYC processes and complicated token distributions by allowing “ICOs to simply mint their tokens and list them in phases directly on the DEX.” <i>Aphelion</i> has tentatively planned for the new function to launch in January of 2019.</span></p>
+<p class="p3"><span class="s1">December 22nd, <b>Phantasma Chain</b> <a href="https://neonewstoday.com/general/phantasma-chain-announces-integration-with-neweconolabs-and-blacat/"><span class="s2">announced a partnership</span></a> with NEL, as well as its gaming subsidiary, <i>BlaCat</i>. Through the partnership, <i>Phantasma</i> will integrate support for NEO Name Service and <i>BlaCat</i> video games within the <i>Phantasma</i> application. </span></p>
+<p class="p3"><span class="s1">December 22nd, <b>nOS</b> <a href="https://neonewstoday.com/general/nos-releases-holding-dashboard-proof-of-address-and-voting-token-utilities/">published a suite of token utilities</a> for its ecosystem. The tools are designed to make the platform “more accessible, engaging, and fun!” for both users and token holders. </span></p>
+<p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-december-17th-december-23rd/">NEO News: Week in Review &#8211; December 17th &#8211; December 23rd</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Aphelion announces its ICO Hub, aims to reduce KYC processes</title>
+		<link>https://neonewstoday.com/general/aphelion-announces-its-ico-hub-aims-to-reduce-kyc-processes/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Sat, 22 Dec 2018 18:30:48 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[APH]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=9503</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Aphelion has announced they are adding a new function to their platform, the Aphelion ICO Hub. The ICO Hub announcement follows the...</p>
+<p>The post <a href="https://neonewstoday.com/general/aphelion-announces-its-ico-hub-aims-to-reduce-kyc-processes/">Aphelion announces its ICO Hub, aims to reduce KYC processes</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/aphelion-ico-hub-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p class="p1"><span class="s1">Aphelion has announced they are <a href="https://medium.com/@ianholtz/aphelion-relaunching-dex-adding-ico-hub-functionality-a2ad7c79245e" target="_blank" rel="noopener"><span class="s2">adding a new function</span></a> to their platform, the Aphelion ICO Hub. The ICO Hub announcement follows the recent declaration that Aphelion will relaunch onto MainNet, <a href="https://neonewstoday.com/general/aphelion-aiming-to-relaunch-mainnet-dex-before-the-new-year/"><span class="s2">previously covered by NEO News Today</span></a>. </span></p>
+<p class="p1"><span class="s1">The Aphelion ICO Hub aims to remove the barriers of KYC processes and complicated token distributions by allowing “ICOs to simply mint their tokens and list them in phases directly on the DEX.”</span></p>
+<p class="p1"><span class="s1">It is claimed the ICO Hub will achieve regulatory compliance as Aphelion has blacklisted US-participants from partaking in trading activity via the DEX. </span><span class="s1">Once an ICO token has been minted, and the project’s distribution model defined, cleared Aphelion users will be able to purchase tokens directly from the DEX.</span></p>
+<p class="p1"><span class="s1">Aphelion has updated its smart contract to support the functionality of the Aphelion ICO Hub, and it is currently in the testing stage on its PrivateNet. </span></p>
+<p class="p1"><span class="s1">The DEX provider states it will “be holding the world&#8217;s first exchange based ICO in January,” and is also working on incorporating cross-chain functionality.</span></p>
+<div id="ulc-6217" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="2647" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
+<p>The post <a href="https://neonewstoday.com/general/aphelion-announces-its-ico-hub-aims-to-reduce-kyc-processes/">Aphelion announces its ICO Hub, aims to reduce KYC processes</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>QLC Chain seeking beta testers for WinQ 2.0</title>
 		<link>https://neonewstoday.com/general/qlc-chain-seeking-beta-testers-for-winq-2-0/</link>
 		
@@ -38,10 +171,10 @@
 		<category><![CDATA[WGAS]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=9498</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>QLC Chain has released its bi-weekly report, which includes highlights about the development of its public chain, virtual private network (VPN) router,...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>QLC Chain has released its bi-weekly report, which includes highlights about the development of its public chain, virtual private network (VPN) router,...</p>
 <p>The post <a href="https://neonewstoday.com/general/qlc-chain-seeking-beta-testers-for-winq-2-0/">QLC Chain seeking beta testers for WinQ 2.0</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>QLC Chain has <a href="https://medium.com/qlc-chain/qlc-chain-bi-weekly-report-018-41fc15335e0f" target="_blank" rel="noopener">released its bi-weekly report</a>, which includes highlights about the development of its public chain, virtual private network (VPN) router, and how the router and WinQ interact.</p>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/09/qlcchain-project-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>QLC Chain has <a href="https://medium.com/qlc-chain/qlc-chain-bi-weekly-report-018-41fc15335e0f" target="_blank" rel="noopener">released its bi-weekly report</a>, which includes highlights about the development of its public chain, virtual private network (VPN) router, and how the router and WinQ interact.</p>
 <p>On October 10th, QLC Chain&#8217;s Multidimensional Block Lattice blockchain launched on TestNet, which was covered by NEO News Today. Since then, the QLC Chain team notes it has received valuable feedback from its community about the wallet and block explorer.</p>
 <p>Through the month of December, the development team has implemented support for multiple wallets on a single node and added calculation of voting weight, among other updates.</p>
 <p>In the upcoming weeks, the team aims to implement a delegated proof of stake (dPoS) consensus, and integrate the virtual machine and smart contract, plus more tasks.</p>
@@ -68,7 +201,7 @@
 		<category><![CDATA[CPX]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=9478</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>APEX Network recently released a progress update following the launch of its TestNet. The development team reports that it has been focussing on...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>APEX Network recently released a progress update following the launch of its TestNet. The development team reports that it has been focussing on...</p>
 <p>The post <a href="https://neonewstoday.com/general/apex-provides-testnet-progress-upgrades-to-the-apex-wallet/">APEX provides TestNet progress, upgrades to the APEX Wallet</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update.png 800w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/12/apex-development-update-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>APEX Network <a href="https://medium.com/apex-network/apex-network-development-progress-update-194a3ac95820" target="_blank" rel="noopener">recently released a progress update</a> following the launch of its TestNet. The development team reports that it has been focussing on stability testing, upgrades, and implementing planned features. The update includes information on the blockchain team, wallet development, the state of its TestNet, and dApp deployment.</p>
@@ -7573,123 +7706,6 @@ Helsinki, Finland</p>
 <p class="p1"><span class="s2">For more information about Red Pulse visit one of the links below.</span></p>
 <div id="ulc-6629" class="ulc-grid ulc-style-default ulc-grid-columns-2"><div class="ulc-list-render" data-taxs="1938" data-posts-per-page="-1" data-order-by="title" data-order="ASC" data-layout-style="default">    <div class="ulc-loader-overlay"></div>    <div class="ulc-loader">        <div class="ulc-circle ulc-circle-1"></div>        <div class="ulc-circle ulc-circle-2"></div>        <div class="ulc-circle ulc-circle-3"></div>    </div></div></div>
 <p>The post <a href="https://neonewstoday.com/general/red-pulse-partners-with-udacity/">Red Pulse announce partnership with Udacity</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NEO News: Week in Review &#8211; June 16 &#8211; June 24</title>
-		<link>https://neonewstoday.com/general/week-in-review-june-16-june-24/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Tue, 26 Jun 2018 05:34:11 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[ACAT]]></category>
-		<category><![CDATA[APH]]></category>
-		<category><![CDATA[AVA]]></category>
-		<category><![CDATA[DBC]]></category>
-		<category><![CDATA[EFX]]></category>
-		<category><![CDATA[GAS]]></category>
-		<category><![CDATA[NEL]]></category>
-		<category><![CDATA[NEO]]></category>
-		<category><![CDATA[NEX]]></category>
-		<category><![CDATA[NNS]]></category>
-		<category><![CDATA[NOS]]></category>
-		<category><![CDATA[ONT]]></category>
-		<category><![CDATA[QLC]]></category>
-		<category><![CDATA[RPH]]></category>
-		<category><![CDATA[SPOT]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=7064</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir.png 800w, https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO NEO rose to 3rd on the The Global Public Blockchain Technology Assessment Index, led by China’s Ministry of Industry and Information...</p>
-<p>The post <a href="https://neonewstoday.com/general/week-in-review-june-16-june-24/">NEO News: Week in Review &#8211; June 16 &#8211; June 24</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir.png 800w, https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/05/neo-wir-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><h2 class="p1"><span class="s1">NEO</span></h2>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/neo-ranks-3rd-on-ccid-public-chain-evaluation-report/" target="_blank" rel="noopener">NEO rose to 3rd on the The Global Public Blockchain Technology Assessment Index</a></span><span class="s1">, led by China’s Ministry of Industry and Information Technology, CCID Institute of Research. The first round of rankings was released in May, where NEO placed 4th out of 28 evaluated projects. The report will continue to be published on a monthly basis.</span></p>
-<h2 class="p1"><span class="s1">Developer Groups Updates</span></h2>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/neweconolabs-release-june-development-report/" target="_blank" rel="noopener">NewEconoLabs (NEL) released the June NEO Name Service development report</a></span><span class="s1">. The development report includes updates on the domain auction flow, optimizations to the GAS to SGAS conversion function and contract calls and the integration of NNS into the NEO wallet WeChat mini-program. </span></p>
-<h2 class="p1"><span class="s1">Reports and Updates</span></h2>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/ontology-publishes-guidelines-for-technical-community-collaborations/" target="_blank" rel="noopener">Ontology published guidelines for technical community contributions</a></span><span class="s1">, which also includes information about compensation and the standard process for making contributions. The guidelines only focused on technical contributions, not facilitating events, community management, or document translation. </span></p>
-<h2 class="p1"><span class="s1">Partnerships</span></h2>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/alphacar-announce-strategic-cooperation-with-formula/" target="_blank" rel="noopener">Alphacat partnered with FormuIA</a></span><span class="s1">, a project that aims to build the “Internet of Assets” and is </span><span class="s3">supported by the Chinese Academy of Sciences</span><span class="s1">. FormulA were attracted to the Alphacat platform for its patented artificial intelligence (AI) technology, the ACAT database, and the ACAT engine. </span></p>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/travala-and-thor-announce-strategic-partnership/" target="_blank" rel="noopener">Travala partnered with Thor</a></span><span class="s1">, which will give Travala’s travel service providers access to the Thor workforce. Although the technical details of the partnership implementation have not been finalized, Travala aims to enable access to the Thor workforce directly from the Travala platform.</span></p>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/ontology-partners-with-contentos/" target="_blank" rel="noopener">Ontology partnered with Contentos</a></span><span class="s1">, a globally decentralized ecosystem for digital content.<span class="Apple-converted-space">  </span>The partnership will revolve around each party’s particular business expertise, blockchain research, application development, and community building processes. Ontology Global Capital plans to invest in Contentos, to help reshape the content industry and the valuation of content.</span></p>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/effect-ai-partners-with-trueblocks-and-upcoming-events/" target="_blank" rel="noopener">Effect.AI partnered with TrueBlocks</a></span><span class="s1">, a South Korean-based accelerator that aims to foster rapid project growth. TrueBlocks will help Effect.AI expand into the Eastern Asian market through its media support and community development services.</span></p>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/qlc-chain-partners-with-montnets/" target="_blank" rel="noopener">QLC Chain partnered with Montnets Group</a></span><span class="s1">, establishing a new joint venture to develop blockchain-based telecommunication services for enterprise-level adoption. The partnership will leverage QLC Chain’s innovative technology and public chain for decentralized telecommunication services.</span></p>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/exchanges/spotcoin-partners-with-law-firm-juscutum-to-prepare-for-public-token-sale/" target="_blank" rel="noopener">Spotcoin partnered with Juscutum</a></span><span class="s1">, a Ukrainian based firm that will provide the legal framework for Spotcoin to ensure full compliance with legal regulations. The two companies will coordinate on public token sale corporate structure, public token sale legal documentation, token legal design, and to obtain the necessary licenses and approvals.</span></p>
-<h2 class="p1"><span class="s1">Tech Updates</span></h2>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/neon-exchange-beta-testing/" target="_blank" rel="noopener">Neon Exchange (NEX) is seeking beta testers</a></span><span class="s1"> for its decentralized trading platform on the NEO blockchain. Lottery participants were invited to complete a survey for a chance to join the beta testing program.</span></p>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/nos-releases-update-to-nos-client-v0-2-and-nos-portal/" target="_blank" rel="noopener">nOS published a progress report detailing client MVP and nOS portal</a></span><span class="s1">. The nOS Client is currently available on GitHub, which allows developers to build nOS applications on their own NEO PrivateNet, and access my.nos.app. My.nos.app is a nOS-based solution that allows for easy management of pre-sale access, KYC, TestNet decentralized applications (dApps), codebase contributions, and more.</span></p>
-<h2 class="p1"><span class="s1">Exchange Listings and Removals</span></h2>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/neogasnep-5-tokens-to-be-listed-on-coss-io/" target="_blank" rel="noopener">COSS.io will list NEO, GAS, and NEP-5 tokens</a></span><span class="s1">. The exchange currently trades in pairs with Bitcoin (BTC), Ethereum (ETH), US dollar (USD), Euro (EUR), and Great British Pounds (GBP).</span></p>
-<p class="p1"><span class="s2"><a href="https://neonewstoday.com/general/kucoin-removes-8-neo-trading-pairs/" target="_blank" rel="noopener">KuCoin removed 8 NEO trading pairs</a></span><span class="s1">: Ontology (ONT), Litecoin (LTC), Zeepin (ZPT), Aphelion (APH), Oyster Pearl (PRL), DeepBrain Chain (DBC), Red Pulse (RPX), and QLC Chain (QLC).`</span></p>
-<p>The post <a href="https://neonewstoday.com/general/week-in-review-june-16-june-24/">NEO News: Week in Review &#8211; June 16 &#8211; June 24</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Onchain wins Microsoft Accelerator award</title>
-		<link>https://neonewstoday.com/general/onchain-wins-microsoft-accelerator-award/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Tue, 26 Jun 2018 04:43:09 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[ONCHAIN]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=7067</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award.png 800w, https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>On June 21st, 2018, Onchain won the Graduation Award at “Think Next”, Microsoft Accelerator Shanghai’s Third Cohort Alumni Enterprise Exhibition event. Onchain...</p>
-<p>The post <a href="https://neonewstoday.com/general/onchain-wins-microsoft-accelerator-award/">Onchain wins Microsoft Accelerator award</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award.png 800w, https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/06/onchain-microsoft-award-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p class="p1"><span class="s1">On June 21st, 2018, <a href="https://medium.com/ontologynetwork/onchain-wins-the-microsoft-accelerator-shanghai-third-cohort-graduation-award-acd28dcc22b5" target="_blank" rel="noopener"><span class="s2">Onchain won the Graduation Award at “Think Next”, Microsoft Accelerator Shanghai’s Third Cohort Alumni Enterprise Exhibition</span></a> event. Onchain is the blockchain enterprise behind Ontology, with Da Hongfei, Erik Zhang and Li Jun amongst its co-founders. Onchain also provides consortium blockchain development services, and last year received investment from Fosun Group, one of China’s largest private conglomerates. Microsoft Accelerator is a program that provides resources to outstanding start ups to aid in business development.</span></p>
-<p>Twice a year Microsoft Accelerator selects 15 – 20 companies to receive access to Microsoft’s innovation ecosystem and entrepreneurship resources, financial resources, strategy advice and access to major clients. Onchain was selected for the program in February of 2018 because of its work in the global blockchain industry.</p>
-<p class="p1"><span class="s1">At the event, Yang Wentao, co-founder and vice president of Onchain, gave a keynote speech about the core values of blockchain, problems in blockchain infrastructure implementation, and Ontology’s trust and cooperation platform. He also discussed Ontology’s ecosystem, which is comprised of community members, individuals, entity authentication providers, and industry application system providers. </span></p>
-<p class="p1"><span class="s1">Wentao went on to describe the first identity project led by Onchain, called Guiyang Identity Chain. Guiyang Identity Chain is “an electronic data storage and authentication platform which can provide more than 1.5 million attests per day.” </span></p>
-<p class="p1"><span class="s1">As of August 2017, Microsoft Accelerator has worked with 170 start ups in China with a total valuation of close to $9 billion USD. Companies involved saw an average 400% valuation increase and 93% became recipients of another round of investment. </span></p>
-<p class="p1"><span class="s1">Moving forward, Onchain will focus on blockchain technology and building the next-generation trust collaboration platform  through the development of  Ontology.</span></p>
-<p>The post <a href="https://neonewstoday.com/general/onchain-wins-microsoft-accelerator-award/">Onchain wins Microsoft Accelerator award</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>KuCoin exchange removes various KCS, USDT and NEO trading pairs</title>
-		<link>https://neonewstoday.com/general/kucoin-removes-8-neo-trading-pairs/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Sun, 24 Jun 2018 02:58:41 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[APH]]></category>
-		<category><![CDATA[DBC]]></category>
-		<category><![CDATA[NEO]]></category>
-		<category><![CDATA[ONT]]></category>
-		<category><![CDATA[QLC]]></category>
-		<category><![CDATA[RPH]]></category>
-		<category><![CDATA[ZPT]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=7048</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs.png 800w, https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>On June 22, 2018, KuCoin announced the removal of 8 NEO pairs, amongst various other KCS and USDT trading pairs. The exchange...</p>
-<p>The post <a href="https://neonewstoday.com/general/kucoin-removes-8-neo-trading-pairs/">KuCoin exchange removes various KCS, USDT and NEO trading pairs</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs.png 800w, https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2018/06/kucoin-trading-pairs-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p class="p1"><span class="s1">On June 22, 2018, <a href="https://news.kucoin.com/en/kucoin-streamline-trading-pairs-announcement/" target="_blank" rel="noopener"><span class="s2">KuCoin announced the removal of 8 NEO pairs</span></a>, amongst various other KCS and USDT trading pairs. The exchange will remove the following NEO trading pairs: </span></p>
-<ul class="ul1 bullets">
-<li class="li1"><span class="s3"></span><span class="s1">Ontology (ONT)</span></li>
-<li class="li1"><span class="s3"></span><span class="s1">Litecoin (LTC)</span></li>
-<li class="li1"><span class="s3"></span><span class="s1">Zeepin (ZPT) </span></li>
-<li class="li1"><span class="s3"></span><span class="s1">Aphelion (APH) </span></li>
-<li class="li1"><span class="s3"></span><span class="s1">Oyster Pearl (PRL) </span></li>
-<li class="li1"><span class="s3"></span><span class="s1">DeepBrain Chain (DBC) </span></li>
-<li class="li1"><span class="s3"></span><span class="s1">Red Pulse (RPX)</span></li>
-<li class="li1"><span class="s3"></span><span class="s1">QLC Chain (QLC)</span></li>
-</ul>
-<p class="p1"><span class="s1">The decision was made after KuCoin staff analyzed trading pairs and developed a comprehensive assessment on where to utilize resources for best user experience.</span></p>
-<p class="p1"><span class="s1">Pending orders of the aforementioned trading pairs were closed at 18:00 (UTC +8) on June 22, 2018, and the trading pairs were removed from the exchange at 18:00 (UTC +8) on June 23, 2018.</span></p>
-<p class="p1"><span class="s1">The official KuCoin announcement can be viewed by following the link below:</span></p>
-<p class="p1"><span class="s2"><a href="https://news.kucoin.com/en/kucoin-streamline-trading-pairs-announcement/" target="_blank" rel="noopener">https://news.kucoin.com/en/kucoin-streamline-trading-pairs-announcement/</a></span><span class="s1"> </span></p>
-<p>The post <a href="https://neonewstoday.com/general/kucoin-removes-8-neo-trading-pairs/">KuCoin exchange removes various KCS, USDT and NEO trading pairs</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		

@@ -1,300 +1,124 @@
 #!/usr/bin/env python3
 """
-generate-index.py — Hawat corpus master index generator
-Scans all corpus folders and writes a complete index.md Hawat can search.
-Run manually or automatically at end of weekly-sync.sh.
+generate-index.py — Hawat Corpus Index Generator
+Generates a searchable index of the SEP corpus.
+Reads sep-*.md files and extracts metadata from YAML frontmatter.
+
+Called by: weekly-sync.sh (Tue/Thu/Sat 11:50pm)
+Output: corpus/indices/sep-index.md
+
+CHANGELOG:
+- Updated to index sep-*.md instead of sep-*.txt
+- Reads title/date/guest from YAML frontmatter instead of raw text scraping
 """
 
 import os
 import re
-import json
-import subprocess
-from datetime import datetime
+import sys
 from pathlib import Path
+from datetime import datetime
 
-CORPUS_DIR = Path.home() / ".openclaw-vault" / "Hawat" / "corpus"
-SEP_DIR = CORPUS_DIR / "sep"
-VIDEOS_DIR = CORPUS_DIR / "videos"
-ARTICLES_DIR = CORPUS_DIR / "articles"
-STREAMS_DIR = CORPUS_DIR / "streams"
-PODCASTS_DIR = CORPUS_DIR / "podcasts"
-INDEX_FILE = CORPUS_DIR / "index.md"
+# ── Paths ──────────────────────────────────────────────────────────────────────
+CORPUS_DIR = Path.home() / ".openclaw-vault/Hawat/corpus/sep"
+INDICES_DIR = Path.home() / ".openclaw-vault/Hawat/corpus/indices"
+OUTPUT_FILE = INDICES_DIR / "sep-index.md"
 
-# ── HELPERS ───────────────────────────────────────────────
+# ── YAML frontmatter parser ────────────────────────────────────────────────────
 
-def slug_date(path):
-    """Try to extract a YYYY-MM-DD date from a filename."""
-    m = re.search(r'(\d{4}-\d{2}-\d{2})', path.name)
-    return m.group(1) if m else "unknown"
-
-def first_nonempty_line(path, max_lines=5):
-    """Return the first non-empty line of a file."""
-    try:
-        with open(path, encoding="utf-8", errors="ignore") as f:
-            for i, line in enumerate(f):
-                line = line.strip()
-                if line and not line.startswith("<!--"):
-                    return line
-                if i > max_lines:
-                    break
-    except Exception:
-        pass
-    return ""
-
-def extract_md_field(path, field):
-    """Extract a value from a markdown file by searching for '## Field' sections."""
-    try:
-        with open(path, encoding="utf-8", errors="ignore") as f:
-            content = f.read()
-        # Look for the field as a header and grab the first bullet or line after it
-        pattern = rf'##\s+{re.escape(field)}\s*\n(.*?)(?=\n##|\Z)'
-        m = re.search(pattern, content, re.DOTALL | re.IGNORECASE)
-        if m:
-            block = m.group(1).strip()
-            # Return first bullet item or first line
-            first = block.split('\n')[0].lstrip('-• ').strip()
-            return first[:120]
-    except Exception:
-        pass
-    return ""
-
-def get_yt_metadata(video_id):
-    """
-    Use yt-dlp --dump-json to get title and upload_date for a YouTube video.
-    Returns (title, date_str) or (None, None) on failure.
-    Caches results in memory during this run to avoid duplicate calls.
-    """
-    if video_id in _yt_cache:
-        return _yt_cache[video_id]
-    try:
-        result = subprocess.run(
-            ["yt-dlp", "--dump-json", "--no-playlist",
-             f"https://www.youtube.com/watch?v={video_id}"],
-            capture_output=True, text=True, timeout=20
-        )
-        if result.returncode == 0 and result.stdout.strip():
-            data = json.loads(result.stdout.strip().split('\n')[0])
-            title = data.get("title", "")
-            raw_date = data.get("upload_date", "")  # YYYYMMDD
-            if raw_date and len(raw_date) == 8:
-                date_str = f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:]}"
-            else:
-                date_str = "unknown"
-            _yt_cache[video_id] = (title, date_str)
-            return title, date_str
-    except Exception:
-        pass
-    _yt_cache[video_id] = (None, None)
-    return None, None
-
-_yt_cache = {}
-
-# ── SECTION BUILDERS ──────────────────────────────────────
-
-def build_sep_section():
-    lines = ["## SEP Podcast (Smart Economy Podcast)\n"]
-    lines.append(f"*Transcript files in `sep/`*\n")
-    lines.append("| Episode | Title | Date | File |")
-    lines.append("|---------|-------|------|------|")
-
-    entries = []
-    for f in sorted(SEP_DIR.glob("sep-*.txt")):
-        video_id = f.stem.replace("sep-", "")
-        size = f.stat().st_size
-        suspect = " ⚠️" if size < 10000 else ""
-
-        title, date_str = get_yt_metadata(video_id)
-        if not title:
-            # Fall back to first line of transcript, truncated
-            snippet = first_nonempty_line(f)
-            title = (snippet[:80] + "…") if len(snippet) > 80 else snippet or video_id
-        if not date_str or date_str == "unknown":
-            date_str = "unknown"
-
-        entries.append((date_str, video_id, title, f.name, suspect))
-
-    # Sort by date descending (unknown dates go to bottom)
-    entries.sort(key=lambda x: x[0] if x[0] != "unknown" else "0000", reverse=True)
-
-    for i, (date_str, video_id, title, fname, suspect) in enumerate(entries, 1):
-        safe_title = title.replace("|", "–")[:80]
-        lines.append(f"| {i} | {safe_title}{suspect} | {date_str} | `sep/{fname}` |")
-
-    lines.append(f"\n*Total: {len(entries)} episodes*\n")
-    return "\n".join(lines)
-
-
-def build_videos_section():
-    lines = ["## YouTube Videos (@GrabowskiDylan)\n"]
-    lines.append(f"*Transcript files in `videos/`*\n")
-    lines.append("| # | Title | Date | File |")
-    lines.append("|---|-------|------|------|")
-
-    entries = []
-    for f in sorted(VIDEOS_DIR.glob("grabowski-*.txt")):
-        video_id = f.stem.replace("grabowski-", "")
-        title, date_str = get_yt_metadata(video_id)
-        if not title:
-            snippet = first_nonempty_line(f)
-            title = (snippet[:80] + "…") if len(snippet) > 80 else snippet or video_id
-        if not date_str or date_str == "unknown":
-            date_str = "unknown"
-        entries.append((date_str, video_id, title, f.name))
-
-    entries.sort(key=lambda x: x[0] if x[0] != "unknown" else "0000", reverse=True)
-
-    for i, (date_str, video_id, title, fname) in enumerate(entries, 1):
-        safe_title = title.replace("|", "–")[:80]
-        lines.append(f"| {i} | {safe_title} | {date_str} | `videos/{fname}` |")
-
-    lines.append(f"\n*Total: {len(entries)} videos*\n")
-    return "\n".join(lines)
-
-
-def build_articles_section():
-    lines = ["## Articles (Neo News Today)\n"]
-    lines.append(f"*Markdown files in `articles/`*\n")
-    lines.append("| Title | Date | File |")
-    lines.append("|-------|------|------|")
-
-    entries = []
-    missing = []
-    for f in sorted(ARTICLES_DIR.glob("*.md")):
-        if f.name == "index.md":
+def parse_frontmatter(text: str) -> dict:
+    """Extract YAML frontmatter fields from a markdown file string."""
+    meta = {}
+    match = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
+    if not match:
+        return meta
+    block = match.group(1)
+    for line in block.splitlines():
+        if ":" not in line:
             continue
-        if not f.exists():
-            missing.append(f.name)
-            continue
-
-        # Try to get title and date from frontmatter or first heading
-        title = ""
-        date_str = "unknown"
-        try:
-            with open(f, encoding="utf-8", errors="ignore") as fh:
-                content = fh.read(2000)
-            # frontmatter title
-            m = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', content, re.MULTILINE)
-            if m:
-                title = m.group(1).strip()
-            # frontmatter date
-            m = re.search(r'^date:\s*["\']?(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
-            if m:
-                date_str = m.group(1)
-            # fallback: first # heading
-            if not title:
-                m = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
-                if m:
-                    title = m.group(1).strip()
-            # fallback: first non-empty line
-            if not title:
-                title = first_nonempty_line(f)
-        except Exception:
-            pass
-
-        if not title:
-            title = f.stem
-        entries.append((date_str, title[:100], f.name))
-
-    entries.sort(key=lambda x: x[0] if x[0] != "unknown" else "0000", reverse=True)
-
-    for date_str, title, fname in entries:
-        safe_title = title.replace("|", "–")
-        lines.append(f"| {safe_title} | {date_str} | `articles/{fname}` |")
-
-    lines.append(f"\n*Total: {len(entries)} articles*")
-
-    if missing:
-        lines.append(f"\n> ⚠️ {len(missing)} files listed in index but not found on disk.")
-
-    lines.append("")
-    return "\n".join(lines)
+        key, _, val = line.partition(":")
+        key = key.strip()
+        val = val.strip().strip('"').strip("'")
+        meta[key] = val
+    return meta
 
 
-def build_streams_section():
-    lines = ["## Live Streams (Daily Digital Download)\n"]
-    lines.append(f"*Markdown files in `streams/`*\n")
-    lines.append("| Date | Topics | File |")
-    lines.append("|------|--------|------|")
-
-    entries = []
-    for f in sorted(STREAMS_DIR.glob("*.md")):
-        if f.name == "index.md":
-            continue
-        date_str = slug_date(f)
-        # Grab first topic bullet as summary
-        topics_snippet = extract_md_field(f, "Topics Covered")
-        if not topics_snippet:
-            topics_snippet = first_nonempty_line(f)
-        entries.append((date_str, topics_snippet[:100], f.name))
-
-    entries.sort(key=lambda x: x[0] if x[0] != "unknown" else "0000", reverse=True)
-
-    for date_str, topics, fname in entries:
-        safe_topics = topics.replace("|", "–")
-        lines.append(f"| {date_str} | {safe_topics}… | `streams/{fname}` |")
-
-    lines.append(f"\n*Total: {len(entries)} streams*\n")
-    return "\n".join(lines)
-
-
-def build_podcasts_section():
-    files = [f for f in PODCASTS_DIR.glob("*") if f.name != "index.md" and f.is_file()]
-    lines = ["## Podcasts (External / Guest Appearances)\n"]
-    if not files:
-        lines.append("*No podcast files indexed yet. Add `.md` files to `podcasts/`.*\n")
-    else:
-        lines.append("| Title | Date | File |")
-        lines.append("|-------|------|------|")
-        for f in sorted(files):
-            title = first_nonempty_line(f) or f.stem
-            date_str = slug_date(f)
-            lines.append(f"| {title[:80]} | {date_str} | `podcasts/{f.name}` |")
-        lines.append(f"\n*Total: {len(files)} podcasts*\n")
-    return "\n".join(lines)
-
-
-# ── MAIN ──────────────────────────────────────────────────
+# ── Main ───────────────────────────────────────────────────────────────────────
 
 def main():
-    print(f"[generate-index] Starting index generation...")
-    print(f"[generate-index] Corpus: {CORPUS_DIR}")
+    if not CORPUS_DIR.exists():
+        print(f"[ERROR] SEP corpus directory not found: {CORPUS_DIR}")
+        sys.exit(1)
 
+    INDICES_DIR.mkdir(parents=True, exist_ok=True)
+
+    md_files = sorted(CORPUS_DIR.glob("sep-*.md"))
+    total = len(md_files)
+    print(f"Indexing {total} SEP .md files from {CORPUS_DIR}")
+
+    entries = []
+    errors = []
+
+    for md_path in md_files:
+        try:
+            text = md_path.read_text(encoding="utf-8")
+            meta = parse_frontmatter(text)
+
+            video_id = meta.get("id", md_path.stem.removeprefix("sep-"))
+            title    = meta.get("title", "")
+            date     = meta.get("date", "")
+            guest    = meta.get("guest", "")
+            link     = meta.get("link", f"https://www.youtube.com/watch?v={video_id}")
+
+            entries.append({
+                "filename": md_path.name,
+                "id":       video_id,
+                "title":    title,
+                "date":     date,
+                "guest":    guest,
+                "link":     link,
+            })
+        except Exception as e:
+            errors.append((md_path.name, str(e)))
+            print(f"  [WARN] Could not parse {md_path.name}: {e}")
+
+    # Sort by date descending (empty dates go last)
+    entries.sort(key=lambda e: e["date"] or "0000-00-00", reverse=True)
+
+    # ── Write index ────────────────────────────────────────────────────────────
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    lines = [
+        "# SEP Corpus Index",
+        f"Generated: {now}  ",
+        f"Episodes indexed: {len(entries)}  ",
+        "",
+        "| Date | Title | Guest | File | Link |",
+        "|------|-------|-------|------|------|",
+    ]
 
-    sections = []
-    sections.append(f"# Hawat Corpus Index\n")
-    sections.append(f"*Generated: {now}*\n")
-    sections.append(f"*This index is auto-generated by `generate-index.py`. Do not edit manually.*\n")
-    sections.append("---\n")
+    for e in entries:
+        date    = e["date"]  or "unknown"
+        title   = e["title"] or e["id"]
+        guest   = e["guest"] or "—"
+        fname   = e["filename"]
+        link    = e["link"]
+        # Escape pipes in cell values
+        title_s = title.replace("|", "\\|")
+        guest_s = guest.replace("|", "\\|")
+        lines.append(f"| {date} | {title_s} | {guest_s} | `{fname}` | [▶]({link}) |")
 
-    print("[generate-index] Building SEP section (fetching YouTube metadata)...")
-    sections.append(build_sep_section())
+    if errors:
+        lines += [
+            "",
+            "## Parse Errors",
+            f"{len(errors)} file(s) could not be parsed:",
+        ]
+        for fname, err in errors:
+            lines.append(f"- `{fname}`: {err}")
 
-    print("[generate-index] Building videos section...")
-    sections.append(build_videos_section())
-
-    print("[generate-index] Building articles section...")
-    sections.append(build_articles_section())
-
-    print("[generate-index] Building streams section...")
-    sections.append(build_streams_section())
-
-    print("[generate-index] Building podcasts section...")
-    sections.append(build_podcasts_section())
-
-    # Write index
-    output = "\n---\n".join(sections)
-    with open(INDEX_FILE, "w", encoding="utf-8") as f:
-        f.write(output)
-
-    print(f"[generate-index] Done. Index written to {INDEX_FILE}")
-
-    # Quick summary
-    sep_count = len(list(SEP_DIR.glob("sep-*.txt")))
-    vid_count = len(list(VIDEOS_DIR.glob("grabowski-*.txt")))
-    art_count = len(list(ARTICLES_DIR.glob("*.md")))
-    stream_count = len(list(STREAMS_DIR.glob("*.md")))
-    print(f"[generate-index] Summary: {sep_count} SEP | {vid_count} videos | {art_count} articles | {stream_count} streams")
+    OUTPUT_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Index written to {OUTPUT_FILE}")
+    print(f"  Indexed : {len(entries)}")
+    print(f"  Errors  : {len(errors)}")
 
 
 if __name__ == "__main__":

@@ -28,6 +28,119 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Candefi NFT allows users to stake CANDY, wager on direction of monitored asset, rent via Rentfuse</title>
+		<link>https://neonewstoday.com/defi/candefi-nft-allows-users-to-stake-candy-wager-on-direction-of-monitored-asset-rent-via-rentfuse/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 21:00:07 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[CANDY]]></category>
+		<category><![CDATA[GAS]]></category>
+		<category><![CDATA[NEO]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=37367</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo Candy has launched the Candefi dApp on Neo N3 TestNet, allowing users to stake NEP-17 CANDY tokens into an options-like NFT...</p>
+<p>The post <a href="https://neonewstoday.com/defi/candefi-nft-allows-users-to-stake-candy-wager-on-direction-of-monitored-asset-rent-via-rentfuse/">Candefi NFT allows users to stake CANDY, wager on direction of monitored asset, rent via Rentfuse</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo Candy has launched the Candefi dApp on Neo N3 TestNet, allowing users to stake NEP-17 CANDY tokens into an options-like NFT that can be rented among speculators. The dApp is built on top of the Rentfuse lending protocol, enabling this additional layer of potential finance activity.</p>
+<p>When minting an NFT on Candefi, the creator selects an asset for the NFT to monitor (i.e., NEO, FLM, BTC), determines a strike price, and provides a stake with CANDY tokens. A strike price is a fixed price that determines when the NFT can be exercised. In trading, <i>exercising</i> means putting into effect the right to buy or sell the underlying asset in an options contract. The value of the Candefi NFT will increase or decrease based on the price of the asset it monitors and its type of option (i.e., call or put).</p>
+<h2>Call &amp; Put</h2>
+<p>Users can choose two types of price direction properties for the Candefi NFT on the platform – calls and puts. This is determined by the strike price. A call NFT increases in value when the price of the asset it’s monitoring goes up. A put NFT increases in value when the monitored price goes down.</p>
+<p>When a Candefi NFT is minted, it is automatically listed on the Rentfuse lending protocol, where speculators can lease the NFT from creators using GAS. Creators who rent out Candefi NFTs will earn GAS from a stake the borrower puts up and REFU tokens for using the Rentfuse protocol.</p>
+<h2>Basic &amp; Advanced</h2>
+<p>There are two types of Candefi NFTs that can be minted, Basic and Advanced, with the latter offering more flexibility regarding renting. With Basic Candefi NFTs, the renter can only redeem for the staked CANDY if the strike price hits during the rental period. However, if the NFT is not returned to the original owner by the predetermined deadline, the renter will lose the GAS collateral they put up to rent the Candefi NFT.</p>
+<p>Advanced Candefi NFTs allow renters to exercise their positions and claim CANDY at any point during the pre-determined rental period. Additionally, the creator can implement other factors such as leverage and a time decay, which impact the amount of staked CANDY the exerciser will receive from the Candefi NFT.</p>
+<p>The NeoCandy team has released a <a href="https://medium.com/neocandy/candefi-app-overview-2a774bb5d55f" target="_blank" rel="noopener">step-by-step guide</a> for minting and borrowing Candefi NFTs. Additionally, Neo Candy community member, HaterTots, created and released the following video to walk users through the process:</p>
+<div class="video-cover border--round">
+<div class="background-image-holder"><img decoding="async" width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png" class="attachment-large size-large" alt="" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+<div class="video-play-icon"></div>
+<p><iframe title="A Brand NEW Neo 3 DeFi Application | Candefi Overview" width="1170" height="658" src="https://www.youtube.com/embed/fiyHfqHIloc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p><!--end video cover--></p>
+<h2>About Neo Candy</h2>
+<p>Neo Candy is a suite of Neo N3 tools and games developed by Yannick Koitzsch, a Neo community developer. The NEP-17 CANDY token was designed to reward people for interacting with dApps in the Neo ecosystem. The goal of the token is to strengthen and grow the Neo community through supporting various projects.</p>
+<p>Koitzsch has also <a href="https://neonewstoday.com/defi/neo-candy-releases-alpha-version-of-risk-based-nft-staking-game/">released Candyclash</a>, a risk-based NFT staking game, and several mini-games on the <a href="https://discord.gg/zkc4sDysDq" target="_blank" rel="noopener">Discord server</a> as part of the Neo Candy ecosystem. Most recently, Neo Candy <a href="https://neonewstoday.com/defi/neo-candy-launches-lolli-nft-series-offers-whitelisting-and-access-to-future-airdrops/" target="_blank" rel="noopener">released the Lollipop NFT collection</a>, which will reduce fees for Candefi NFT users.</p>
+<p>The full announcement can be found at the link below:<br />
+<a href="https://medium.com/neocandy/candefi-sweetest-defi-protocol-on-neo-n3-edd0e38384ef" target="_blank" rel="noopener">https://medium.com/neocandy/candefi-sweetest-defi-protocol-on-neo-n3-edd0e38384ef</a></p>
+<p>The post <a href="https://neonewstoday.com/defi/candefi-nft-allows-users-to-stake-candy-wager-on-direction-of-monitored-asset-rent-via-rentfuse/">Candefi NFT allows users to stake CANDY, wager on direction of monitored asset, rent via Rentfuse</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NeoNS NFT-based domain name service launches on the N3 blockchain</title>
+		<link>https://neonewstoday.com/general/neons-nft-based-domain-name-service-launches-on-the-n3-blockchain/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2022 18:22:44 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[GAS]]></category>
+		<category><![CDATA[GhostMarket]]></category>
+		<category><![CDATA[GM]]></category>
+		<category><![CDATA[NeoNS]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=37458</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NeoNS is now live, allowing users to create a digital identity in the form of an NFT-based domain name. NeoNS is the...</p>
+<p>The post <a href="https://neonewstoday.com/general/neons-nft-based-domain-name-service-launches-on-the-n3-blockchain/">NeoNS NFT-based domain name service launches on the N3 blockchain</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p><a href="https://neo.link/" target="_blank" rel="noopener">NeoNS</a> is now live, allowing users to create a digital identity in the form of an NFT-based domain name. NeoNS is the first name service provider for the Neo N3 network and launched on Wednesday, Sep. 28. In the <a href="https://medium.com/neo-smart-economy/neo-enters-the-world-of-decentralized-identities-with-nft-based-domain-name-service-neons-4af9918f8a24" target="_blank" rel="noopener">announcement</a>, Neo Global Development said:</p>
+<blockquote><p>Neo is making navigating Web3 more user-friendly and intuitive. Neo believes that such user-friendly organization of blockchain information is a milestone for blockchain UX entering the realm of ‘the familiar’ and onboarding the next generation of mainstream web3 users.</p></blockquote>
+<p>NeoNS is a distributed open naming system built on the Neo blockchain. It is designed to map machine-readable identifiers (i.e. N3 addresses, NeoFS shared links, other metadata) to more easily readable names <i>such as NeoNewsToday.neo</i>, <i>William.neo</i>, or <i>ChelseaFC.neo</i>.</p>
+<p>When a NeoNS domain is registered, it is minted as an NFT on the Neo N3 network that the domain owner holds directly in their wallet. As NFTs, these domains are easily transferred between users, making them convenient to trade on third-party marketplaces. The NeoNS collection can be viewed on the <a href="https://ghostmarket.io/collection/neons/" target="_blank" rel="noopener">GhostMarket</a> or <a href="https://megaoasis.io/collection/NameService" target="_blank" rel="noopener">MegaOasis</a> NFT marketplaces.</p>
+<p>As the owner of a domain, a NeoNS user can choose what information to associate with the domain by creating records. For example, owners can set a TEXT record in order to associate a domain with an N3 public address, allowing the domain name to be used as a human-readable alternative to the address in compatible wallets. Alternatively, NeoNS domains could be used to point to the location of a decentralized website hosted on NeoFS.</p>
+<p><a href="https://neonewstoday.com/wp-content/uploads/2022/09/neons-example.png"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-37473" src="https://neonewstoday.com/wp-content/uploads/2022/09/neons-example.png" alt="" width="790" height="494" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neons-example.png 790w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-example-300x188.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-example-768x480.png 768w" sizes="auto, (max-width: 790px) 100vw, 790px" /></a></p>
+<p>At the time of launch, the root of each domain on the service must be <em>.neo</em>, however further top-level domains may be added in the future by the Neo Council. The Neo Council also has the ability to adjust the fees for domain registrations.</p>
+<p>Once a domain is registered, the Neo user can also create further sub-domains. For example, <i>NeoNewsToday.neo</i> could establish sub-domains like <i>podcast.NeoNewsToday.neo</i> or <i>articles.NeoNewsToday.neo</i>. Records may also be created in association with sub-domains, enabling each sub-domain to be mapped to a different N3 address or other resource.</p>
+<p>Ultimately, NeoNS was conceptualized and designed to help developers better organize data used by dApps and for users to transfer digital assets with more safety and convenience.</p>
+<h2>Registration and Cost</h2>
+<p>Any Neo N3 compatible wallet can be used to register, browse, send, and receive NeoNS domains. NeoNS domains can only contain the letters A through Z and the digits 0 to 9. Letters are not case-sensitive, and diacritics cannot be used.</p>
+<p>To acquire a NeoNS domain name, users must pay a GAS cost determined by the number of characters in the name. This amount must also be paid each year to maintain ownership of NeoNS domain names. Pricing for registration of NeoNS domains is as follows:</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">3 letter domain: 200 GAS per year</li>
+<li style="font-weight: 400;" aria-level="1">4 letter domain: 70 GAS per year</li>
+<li style="font-weight: 400;" aria-level="1">5+ letter domain: 2 GAS per year</li>
+</ul>
+<p>When a NeoNS domain name expires, it will immediately become available for anyone else to register and claim ownership. Expired domains will remain in user accounts on the NeoNS website until another user registers them.</p>
+<p>Looking forward, the ability to send and receive tokens between wallets using NeoNS domain names will be integrated into different ecosystem wallets on the timeline of their development teams.</p>
+<p>The full announcement can be found at the link below:<br />
+<a href="https://medium.com/neo-smart-economy/neo-enters-the-world-of-decentralized-identities-with-nft-based-domain-name-service-neons-4af9918f8a24" target="_blank" rel="noopener">https://medium.com/neo-smart-economy/neo-enters-the-world-of-decentralized-identities-with-nft-based-domain-name-service-neons-4af9918f8a24</a></p>
+<p>The post <a href="https://neonewstoday.com/general/neons-nft-based-domain-name-service-launches-on-the-n3-blockchain/">NeoNS NFT-based domain name service launches on the N3 blockchain</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GhostMarket integrates Flamingo Finance, purchase NFTs using any NEP-17 regardless of asking token</title>
+		<link>https://neonewstoday.com/exchanges/ghostmarket-integrates-flamingo-finance-purchase-nfts-using-any-nep-17-regardless-of-asking-token/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 20:44:41 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Exchanges]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[FLM]]></category>
+		<category><![CDATA[GhostMarket]]></category>
+		<category><![CDATA[GM]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=37422</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>GhostMarket has integrated support for Flamingo Finance, allowing users to purchase NFTs using NEP-17 tokens other than the currency requested on a...</p>
+<p>The post <a href="https://neonewstoday.com/exchanges/ghostmarket-integrates-flamingo-finance-purchase-nfts-using-any-nep-17-regardless-of-asking-token/">GhostMarket integrates Flamingo Finance, purchase NFTs using any NEP-17 regardless of asking token</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>GhostMarket has integrated support for Flamingo Finance, allowing users to purchase NFTs using NEP-17 tokens other than the currency requested on a listing. The new implementation is designed to reduce user friction when buying, bidding, and placing offers on NFTs that reside on the Neo N3 blockchain. GhostMarket founder and CEO Vincent Geneste said:</p>
+<blockquote><p>GhostMarket has a long association with Flamingo Finance and this initiative further strengthens our partnership enabling us to lower the barrier to entry for users wanting to buy an NFT by effortlessly converting another crypto to purchase it.</p></blockquote>
+<p>Before Flamingo&#8217;s integration, users were required to purchase an NFT using the NEP-17 token listed by the seller. Now, users can make offers using any supported token. A swap will then happen through Flamingo without users needing to leave the GhostMarket platform. Once the swap concludes, GhostMarket&#8217;s smart contract will automatically purchase or bid on the chosen NFT in the sellers desired currency.</p>
+<p>Looking forward, the GhostMarket team intends to implement similar support for the other blockchain networks featured on its marketplace.</p>
+<p>More information about the integration can be found at the link below:<br />
+<a href="https://medium.com/ghostmarket/flamingo-x-ghostmarket-integration-f120654219ed" target="_blank" rel="noopener">https://medium.com/ghostmarket/flamingo-x-ghostmarket-integration-f120654219ed</a></p>
+<p>The post <a href="https://neonewstoday.com/exchanges/ghostmarket-integrates-flamingo-finance-purchase-nfts-using-any-nep-17-regardless-of-asking-token/">GhostMarket integrates Flamingo Finance, purchase NFTs using any NEP-17 regardless of asking token</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NGD launches NeoPod initiative, seeks passionate and knowledgeable Neo community members</title>
 		<link>https://neonewstoday.com/general/ngd-launches-neopod-initiative-seeks-passionate-and-knowledgeable-neo-community-members/</link>
 		
@@ -37,10 +150,10 @@
 		<category><![CDATA[NeoPod]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=37380</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo Global Development has launched the NeoPod initiative, designed to empower dedicated and knowledgeable community members to help expand the reach of...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo Global Development has launched the NeoPod initiative, designed to empower dedicated and knowledgeable community members to help expand the reach of...</p>
 <p>The post <a href="https://neonewstoday.com/general/ngd-launches-neopod-initiative-seeks-passionate-and-knowledgeable-neo-community-members/">NGD launches NeoPod initiative, seeks passionate and knowledgeable Neo community members</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo Global Development has <a href="https://neo-blockchain.medium.com/neo-enthusiasts-apply-to-join-the-new-neopod-community-growth-team-6fbfa012286e" target="_blank" rel="noopener">launched</a> the NeoPod initiative, designed to empower dedicated and knowledgeable community members to help expand the reach of the Neo blockchain. In the announcement, NGD noted:</p>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neopod-call-for-contributors-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo Global Development has <a href="https://neo-blockchain.medium.com/neo-enthusiasts-apply-to-join-the-new-neopod-community-growth-team-6fbfa012286e" target="_blank" rel="noopener">launched</a> the NeoPod initiative, designed to empower dedicated and knowledgeable community members to help expand the reach of the Neo blockchain. In the announcement, NGD noted:</p>
 <blockquote><p>We want to take our developer base, our ecosystem, and our community to the next level. This is where you come in. You and the other members of our community know Neo like no one else, and you can help drive our growth in an authentic way that no one else can.</p></blockquote>
 <p>Anyone is encouraged to apply for the initiative. NGD envisions potential support in the following forms:</p>
 <ul>
@@ -81,7 +194,7 @@
 		<category><![CDATA[NUDES]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=37360</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>General Updates Neo Global Development announced the team is embarking on a tour of more than a dozen universities across the US to...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>General Updates Neo Global Development announced the team is embarking on a tour of more than a dozen universities across the US to...</p>
 <p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-september-19-september-25/">Neo News: Week in Review &#8211; September 19 &#8211; September 25</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><h2>General Updates</h2>
@@ -8695,144 +8808,6 @@ June 30: <a href="https://discord.com/channels/721469403958476911/95952275401567
 <p>The full announcement can be found at the link below:<br />
 <a href="https://blog.nash.io/the-nex-token-and-the-nash-app/" target="_blank" rel="noopener">https://blog.nash.io/the-nex-token-and-the-nash-app/</a></p>
 <p>The post <a href="https://neonewstoday.com/general/nash-adding-new-functionality-to-nex-token-changes-to-profit-sharing-model/">Nash adding new functionality to NEX token, changes to profit-sharing model</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>FLM now minting 50/50 on Legacy and N3, Flamingo participates in community reward campaigns</title>
-		<link>https://neonewstoday.com/general/flm-now-minting-50-50-on-legacy-and-n3-flamingo-participates-in-community-reward-campaigns/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Wed, 15 Dec 2021 17:38:35 +0000</pubDate>
-				<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[FLM]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[NEO]]></category>
-		<category><![CDATA[Neospective]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=30111</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Flamingo’s FLM token is now minting at a 50/50 rate across the Neo Legacy and N3 networks. FLM rewards are distributed to...</p>
-<p>The post <a href="https://neonewstoday.com/general/flm-now-minting-50-50-on-legacy-and-n3-flamingo-participates-in-community-reward-campaigns/">FLM now minting 50/50 on Legacy and N3, Flamingo participates in community reward campaigns</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/flamingo-n3-flm-minting-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Flamingo’s FLM token is now minting at a 50/50 rate across the Neo Legacy and N3 networks. FLM rewards are distributed to users who stake tokens and provide liquidity to the DeFi platform. To assist users in migrating assets from Legacy to N3, the Flamingo team has also <a href="https://flamingofinance.medium.com/n3-migration-guide-78f68a84eecd">prepared</a> a guide.</p>
-<p>On Dec. 3, Flamingo began migrating to N3 with 25% of new FLM minting on N3 and 75% on Legacy. FLM rewards on Flamingo Legacy are reducing by 25% every 10 days, while equally increasing on Flamingo N3. On Dec. 23, the FLM minting ratio will change to 75% on N3 and 25% on Legacy.</p>
-<p>Beginning Jan. 3, 2022, all new FLM tokens will be minted on Flamingo N3.</p>
-<h2>Competitions to Earn FLM Rewards</h2>
-<p>Flamingo is also participating in two ongoing community competitions within the Neo ecosystem &#8211; one with GhostMarket and the other with Neospective.</p>
-<p>First is the <a href="https://twitter.com/FlamingoFinance/status/1470473107450306564?s=20" target="_blank" rel="noopener">NFT trading competition</a> launched on GhostMarket. Participants can enter for a chance to win from a pool of 1,000 FLM by buying or selling any NFT using FLM as the currency. The Flamingo team will take a snapshot of the Neo blockchain at 10:00 p.m. (UTC) on Monday, Dec. 27, and reward four winners at random.</p>
-<p>Second is the Neospective content creation contest, <a href="https://neonewstoday.com/general/neospective-creation-contest-open-for-submission/">planned</a> as a multi-round event. The current round, focusing on creative diagram designs, concludes Saturday, Jan. 8. Up to 24 submissions will be rewarded, with a first-place prize of US $600 awarded in $NEO.</p>
-<p>Beyond the NGD rewards, Flamingo is sponsoring a sub-track to the competition where participants will compete to win from a pool of 1,000 FLM. The development team has shared a <a href="https://www.figma.com/file/fVMZglJrIbwcUFwIjyP0Fv/Flamingo-Press-Kit" target="_blank" rel="noopener">press kit</a> to assist in Flamingo-based designs.</p>
-<p>More information about the trading competition can be found at the link below:<br />
-<a href="https://twitter.com/FlamingoFinance/status/1470473107450306564" target="_blank" rel="noopener">https://twitter.com/FlamingoFinance/status/1470473107450306564</a></p>
-<p>The post <a href="https://neonewstoday.com/general/flm-now-minting-50-50-on-legacy-and-n3-flamingo-participates-in-community-reward-campaigns/">FLM now minting 50/50 on Legacy and N3, Flamingo participates in community reward campaigns</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Neo News: Week in Review &#8211; December 6 &#8211; December 12</title>
-		<link>https://neonewstoday.com/general/neo-news-week-in-review-december-6-december-12/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Mon, 13 Dec 2021 19:50:01 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[Week In Review]]></category>
-		<category><![CDATA[ANC]]></category>
-		<category><![CDATA[ANS]]></category>
-		<category><![CDATA[AxLabs]]></category>
-		<category><![CDATA[bNEO]]></category>
-		<category><![CDATA[BOWL]]></category>
-		<category><![CDATA[CANDY]]></category>
-		<category><![CDATA[CAT]]></category>
-		<category><![CDATA[FLM]]></category>
-		<category><![CDATA[FTW]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[Mercurial Apps]]></category>
-		<category><![CDATA[N3Trader]]></category>
-		<category><![CDATA[Nekoin]]></category>
-		<category><![CDATA[NEO]]></category>
-		<category><![CDATA[Neo Global Development]]></category>
-		<category><![CDATA[NeoSPCC]]></category>
-		<category><![CDATA[Neospective]]></category>
-		<category><![CDATA[OneGate]]></category>
-		<category><![CDATA[SWTH]]></category>
-		<category><![CDATA[TTM]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=30098</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NEO Neo Global Development launched Round 1 of a new creation contest titled Neospective, designed to drive Neo’s growth and adoption via...</p>
-<p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-december-6-december-12/">Neo News: Week in Review &#8211; December 6 &#8211; December 12</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><h2 class="p1">NEO</h2>
-<p><b>Neo Global Development</b> <a href="https://neonewstoday.com/general/neospective-creation-contest-open-for-submission/">launched</a> Round 1 of a new creation contest titled Neospective, designed to drive Neo’s growth and adoption via the wide range of skills and perspectives community members have to offer. Neospective is described as a long-term content collaboration program aiming to enable another way for community members to contribute to the platform. Each round of Neospective will focus on a different type of content. Round 1, with submissions open through Jan. 8, focuses on creative diagram designs. At the conclusion of Round 1, up to 24 submissions will be rewarded, with the first-place prize of US $600 awarded in NEO. Furthermore, Flamingo, GhostMarket, Humswap, and TOTHEMOON are each sponsoring a sub-track to the main-track competition. Participants can compete to earn additional prizes by relating a submission’s theme to one of the above sponsors.</p>
-<p><b>Neo</b> <a href="https://neonewstoday.com/general/neo-cli-v3-1-0-released-adding-new-witnessscope-rules-and-nep-11-tracker-module/">released</a> v3.1.0 of Neo-CLI. The N3 TestNet was upgraded to the new version on Dec. 6, with MainNet to follow after two weeks, assuming no issues are revealed during testing. v3.1.0 is the first to be based on .NET 6, the latest version of the framework with long-term support. Improvements include a new cache for uncompressed ECPoint keys to improve TPS and sync speed, TaskManager optimizations, a diagnostic for the ApplicationEngine, and new WitnessScope functionality.</p>
-<p><b>NGD</b> <a href="https://neonewstoday.com/general/transcript-vempire-ceo-joins-neo-live-to-discuss-new-dao-and-staking-model-future-neo-staking-pool/">hosted</a> <b>vEMPIRE</b> CEO Dominic Ryder on the Neo Live AMA series on Tuesday, Dec. 7. vEmpire is a new DAO model that aims to establish a more democratic system while incentivizing staking various tokens through a blend of DeFi and play-to-earn games. In the AMA, Ryder talked about a fair governance model, vEmpire’s model for staking in multiple projects, distributing yield to VEMP stakers, supporting a NEO pool, and the project’s roadmap. The full transcript can be found at <a href="http://www.NeoNewsToday.com">www.NeoNewsToday.com</a>.</p>
-<p><b>NGD</b> Head of Eco Growth John Wang <a href="https://t.me/binanceexchange/14793898" target="_blank" rel="noopener">joined</a> <b>Binance</b>’s official Telegram channel for an AMA. In the AMA, Wang discussed Neo’s unique consensus mechanism, developer tools for multiple languages, migrating to N3, N3’s new features, and Neo’s governance process.</p>
-<p>The <b>Metaverse Alliance</b> <a href="https://neonewstoday.com/general/neo-contributes-to-grant-rewards-pool-in-metaverse-alliance-hackathon/">is offering</a> $420,000 in prize and grant rewards for projects participating in an ongoing hackathon. As part of the “Metathon,” there will be two pools of guaranteed rewards for participants, category-based and grant prizes, and potential incubation support post-event. <b>Neo</b> and the Metaverse Alliance recently announced a partnership, and Neo is supporting the event as a sponsor by contributing to the grant pool.</p>
-<p><b>Neo</b> is hosting <b>Metaverse Alliance</b> co-founder Johanna on a live Discord chat at 2:00 p.m. (UTC) on Monday, Dec. 13. Johanna will share more information about the Metathon hackathon.</p>
-<p><b>Neo</b> was <a href="https://twitter.com/Neo_Blockchain/status/1469482731872854017?s=20" target="_blank" rel="noopener">nominated</a> for 2021&#8217;s Best Infrastructure award in PANew&#8217;s retrospect of 2021 poll. Voting concludes on Dec. 24.</p>
-<h2 class="p1">NNT Catch Up</h2>
-<p><b>NGD</b> <a href="https://youtu.be/SELVydzij-E" target="_blank" rel="noopener">released</a> a video of the DevLog episode featuring <b>Neo SPCC</b> engineer Alexey Vanin. During the live video event, Vanin discussed oracle networks, the NeoFS tutorials released by Neo SPCC, calculating GAS costs for oracle requests, and the NeoFS SDK for Golang. He also gave a Neo-Go workshop.</p>
-<h2 class="p1">Developer Groups</h2>
-<p><b>Neo SPCC</b> <a href="https://neonewstoday.com/development/neo-spcc-upgrades-neogo-with-contract-test-framework-and-new-node-performance-milestones/">published</a> v0.98.0 of NeoGo, its Go node and SDK. The release features full compatibility with the recent Neo 3.1.0 update, adding new features such as WitnessScope rules, NEP-11 transfer tracking, and a range of other improvements. The team also released an article showcasing the latest benchmark milestones.</p>
-<p><b>AxLabs</b> <a href="https://neonewstoday.com/development/axlabs-updates-neow3j-with-test-framework-enhancements-and-support-for-multi-invoke-transactions/">released</a> the latest version of neow3j, v3.14.0, bringing the toolkit up to date with the latest changes in Neo v3.1.0. The update brings improvement to the test framework, script builder enhancements, and bug fixes.</p>
-<h2 class="p1">Ecosystem</h2>
-<p>Dec. 6, <b>Mercurial Apps</b> <a href="https://neonewstoday.com/general/mercurial-apps-launches-p2p-trading-platform-and-humswap-bowl-tracker/">released</a> a new dApp for trading NFTs and tokens, and a Humswap BOWL tracker. N3 Trader is a decentralized peer-to-peer trading platform that allows users to establish a direct trade for NEP-11 and NEP-17 tokens. The Humswap NFT tracker shows information about Humswap’s newly minted BOWL NFTs. The tracking website monitors the total amount of BOWLs minted, and allows users to sort through the supply according to utility or visual traits.</p>
-<p>Dec. 7, <b>Neo Candy</b> <a href="https://neonewstoday.com/general/neo-candy-begins-distributing-candy-community-token-aims-to-reward-neo-ecosystem-dapp-users/">began</a> distributing NEP-17 CANDY airdrops through Mercurial App’s N3 Trader. CANDY is a community token designed to reward people for interacting with dApps in the Neo ecosystem. The goal for the token is to strengthen and grow the Neo community through supporting various projects. The Neo Candy team says it will distribute tokens in a free and fair process through airdrops, contests, giveaways, tipbots, competitions, and games. The total supply of CANDY is 9 billion tokens.</p>
-<p>Dec. 8, <b>OneGate</b> <a href="https://twitter.com/OneGateSpace/status/1468523209460883460?s=20" target="_blank" rel="noopener">launched</a> a Neoverse Blind Box giveaway concluding Dec. 15. To enter, participants must tweet a meme including the word or concept “gate” and tag the <a href="https://twitter.com/OneGateSpace" target="_blank" rel="noopener">OneGate Twitter account</a>.</p>
-<p>Dec. 8, <b>GhostMarket</b> <a href="https://medium.com/ghostmarket/minting-fee-prices-reduced-705d1bf1c0e9" target="_blank" rel="noopener">reduced</a> NFT Neo N3 minting fees on its platform by 50%, from 0.05 GAS to 0.025 GAS.</p>
-<p>Dec. 8, <b>NekoHit</b> <a href="https://twitter.com/NekohitProject/status/1468823772757372928?s=20" target="_blank" rel="noopener">released</a> the final update to its whitepaper, which details the NekoHit projects, how it solves problems in crowdfunding systems, and the framework of the WCA contract, CAT token, and NEKOIN token.</p>
-<p>Dec. 9, <b>TOTHEMOON</b> <a href="https://neonewstoday.com/general/tothemoon-hosting-ama-and-character-type-nft-giveaways-in-lead-up-to-mint-week/">launched</a> a week of giveaways leading up to the first minting of its Character type NFTs. Each day until Dec. 16, TOTHEMOON is releasing a new Twitter post with a teaser video and selecting a winning entrant from the post threads. Each post requires participants to follow the TOTHEMOON Twitter account, like and retweet the post, and leave a comment tagging two friends with three hashtags. The winners of each giveaway are announced within 24 hours after each post via Twitter and the TOTHEMOON Discord server.</p>
-<p>Dec. 9, <b>Forthewin.Network</b> <a href="https://twitter.com/N3_FTW_NETWORK/status/1469122102515044354?s=20" target="_blank" rel="noopener">enabled</a> minting for a series of NFTs, FTW Rune, and launched a NEP-17 token generator.</p>
-<p>Dec. 9, <b>NeoBurger</b> <a href="https://neonewstoday.com/general/neoburger-reducing-swap-fee-by-90/">announced</a> that effective 9:00 a.m. (UTC) on Monday, Dec 13, the fee to withdraw bNEO from the NeoBurger smart contract will be adjusted to 0.001 GAS per NEO, a reduction of 90%.</p>
-<p>Dec. 9, <b>Neo Candy</b> <a href="https://twitter.com/NeoCandyN3/status/1468843089007722497?s=20" target="_blank" rel="noopener">concluded</a> its 48-hour CANDY jackpot giveaway on the Mercurial Apps N3 Trader. A total of 50,000 CANDY was distributed, and each jackpot was claimed within a minute of its creation.</p>
-<p>Dec. 10, <b>Switcheo Labs</b> <a href="https://twitter.com/SwitcheoLabs/status/1469349093017198594?s=20" target="_blank" rel="noopener">released</a> an overview of the fireside chat the team recently held with three of the blockchain’s node validators to share progress and updates with its community. The <a href="https://youtu.be/6-5tzEws85E" target="_blank" rel="noopener">conversation</a> can be found on the Switcheo YouTube channel.</p>
-<p>Dec. 11, <b>Humswap</b> <a href="https://neonewstoday.com/general/humswap-to-airdrop-limited-ant-nfts-to-bowl-and-neoverse-series-holders/">took a snapshot</a> for an Ant NFT, Perpetuity NFT, and CANDY airdrop at 3:00 a.m. (UTC). Ant NFTs are intended to pay homage to Neo’s history and will feature the token symbol ANS as a throwback to Neo’s original Antshares name and token. In addition to each Ant NFT, a corresponding Ant Perpetuity NFT will also be minted and distributed, granting owners 1.5% of all future sales of its linked Ant NFT. These tokens will have the ticker symbol ANC as a reference to GAS’s symbol under Antshares.</p>
-<p>Dec. 11, <b>TOTHEMOON</b> <a href="https://twitter.com/tothemoon_net/status/1467765902598934528?s=20" target="_blank" rel="noopener">concluded</a> polling for the time that Character type NFTs will mint, which shows 8:00 p.m. (UTC) as the winning time with 35.4% of the vote. TOTHEMOON Character type NFTs will begin minting Dec. 16.</p>
-<p>The post <a href="https://neonewstoday.com/general/neo-news-week-in-review-december-6-december-12/">Neo News: Week in Review &#8211; December 6 &#8211; December 12</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Neo contributes to grant rewards pool in Metaverse Alliance hackathon</title>
-		<link>https://neonewstoday.com/general/neo-contributes-to-grant-rewards-pool-in-metaverse-alliance-hackathon/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Sat, 11 Dec 2021 20:42:03 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[Neo Core]]></category>
-		<category><![CDATA[NEO]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=30064</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The Metaverse Alliance is offering $420,000 in prize and grant rewards for projects participating in an ongoing hackathon. As part of the...</p>
-<p>The post <a href="https://neonewstoday.com/general/neo-contributes-to-grant-rewards-pool-in-metaverse-alliance-hackathon/">Neo contributes to grant rewards pool in Metaverse Alliance hackathon</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor.png 800w, https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2021/12/metavers-alliance-neo-grant-sponsor-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The Metaverse Alliance is <a href="https://medium.com/@MetaverseAlliance/a-detailed-guide-to-the-metathon-fa115e760347" target="_blank" rel="noopener">offering</a> $420,000 in prize and grant rewards for projects participating in an ongoing hackathon. As part of the &#8220;Metathon,&#8221; there will be two pools of guaranteed rewards for participants, category-based and grant prizes, and potential incubation support post-event. Neo and the Metaverse Alliance recently announced a partnership, and Neo is supporting the event as a sponsor by contributing to the grant pool.</p>
-<p>The Metaverse Alliance is an industry consortium aiming to further the development and growth of the metaverse and blockchain space. In addition to Neo, members include KuCoin, DoraHacks, OKEx, and many more.</p>
-<p>The Metathon is a virtual hackathon comprising six tracts and offering rewards and grants from two funding pools. The first prize pool offers rewards for the top three teams of each of the six categories for the event. The total prize pool is $300,000, divided equally between six categories:</p>
-<ul class="bullets">
-<li style="font-weight: 400;" aria-level="1">Metaverse infrastructure</li>
-<li style="font-weight: 400;" aria-level="1">GameFi</li>
-<li style="font-weight: 400;" aria-level="1">DAO stack</li>
-<li style="font-weight: 400;" aria-level="1">SocialFi</li>
-<li style="font-weight: 400;" aria-level="1">Financial NFT</li>
-<li style="font-weight: 400;" aria-level="1">Miscellaneous</li>
-</ul>
-<p>The miscellaneous category includes the most creative, most promising, most popular, best technical, best design, and best prospect project.</p>
-<p>The second pool offers a total of $120,000 in grants, of which Neo contributed $10,000.</p>
-<h2>Registration and Requirements</h2>
-<p><a href="https://metaversealliance.com/apply" target="_blank" rel="noopener">Registration</a> for the Metathon is open at the time of press. Individuals can apply, but teams are encouraged by the event hosts. Submissions are due by Dec. 20 and must include team member information and a project description, deck, and whitepaper. Those who will make it to the next round will be announced on Dec. 26.</p>
-<p>The remaining teams will then submit completed projects by Jan. 9. The finalist submission packet must include a GitHub repo link, project demo link, and three-minute pitch video.</p>
-<p>The Metaverse Alliance will announce the winners on Saturday, Jan.15.</p>
-<p>More information about the Metaverse Alliance can be found at the link below:<br />
-<a href="https://metaversealliance.com/detail" target="_blank" rel="noopener">https://metaversealliance.com/detail</a></p>
-<p>The post <a href="https://neonewstoday.com/general/neo-contributes-to-grant-rewards-pool-in-metaverse-alliance-hackathon/">Neo contributes to grant rewards pool in Metaverse Alliance hackathon</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		

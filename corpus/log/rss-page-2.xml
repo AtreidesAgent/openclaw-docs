@@ -28,6 +28,87 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Neo partners with Echooo Wallet, a self-custodial wallet solution enabled by account abstraction</title>
+		<link>https://neonewstoday.com/general/neo-partners-with-echooo-wallet-a-self-custodial-wallet-solution-enabled-by-account-abstraction/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2024 15:40:48 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Echooo]]></category>
+		<category><![CDATA[NeoX]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=48378</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo has partnered with Echooo Wallet, which will integrate support for the Neo X EVM sidechain once MainNet is live. The partnership...</p>
+<p>The post <a href="https://neonewstoday.com/general/neo-partners-with-echooo-wallet-a-self-custodial-wallet-solution-enabled-by-account-abstraction/">Neo partners with Echooo Wallet, a self-custodial wallet solution enabled by account abstraction</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/echooo-partnership-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo has partnered with Echooo Wallet, which will integrate support for the Neo X EVM sidechain once MainNet is live. The partnership marks the first wallet provider offering account abstraction-enabled solutions for the Neo ecosystem. With account abstraction, user safety and security over self-custodial wallets is improved by removing dependence on private key solutions and offering wallet recovery functions. Echooo Wallet currently supports the Neo X TestNet.</p>
+<p><a href="https://www.echooo.xyz/about" target="_blank" rel="noopener">Echooo</a> is a Wallet-as-a-Service company developing a “seed phrase-fee” self-custody wallet solution by leveraging smart contracts and social recovery capabilities. At the time of press, approximately 5.7 million Echooo wallets have been created and are used for roughly 6,000 daily trades across users.</p>
+<p>In addition to wallet services, Echooo offers native non-custodial exchange liquidity solutions that leverage AI tools to route digital asset swaps between optimal trading pools and with the most cost-effective exchange rates. The wallet also offers one-click stake and single- or dual-token liquidity provision for various DeFi platforms across multiple EVM-based blockchain networks.</p>
+<p>Alongside Neo, Echooo supports Circle, Arbitrum, Optimism, Aave, Curve, and other blockchain entities. Account abstraction solutions have arisen in multiple EVM-based blockchain networks but have yet to be implemented in the Neo N3 ecosystem. The partnership with Echooo Wallet will offer the Neo community its first opportunity to implement burgeoning technology into user-security practices.</p>
+<h2>Account Abstraction</h2>
+<p>Account abstraction is a method of leveraging programmable smart contracts on a blockchain to store a user’s digital assets. A user sends assets to an “account contract,” a special-purpose smart contract that defines and manages their EVM-based account. The user can then determine how the newly created <i>smart account</i> is managed and operated. For example, a smart account can pay gas for transactions, batch transactions, eliminate the need for a user to store seed phrases/private keys, and much more.</p>
+<p>In traditional wallet solutions (i.e., cold storage via hardware wallets, browser wallets, and desktop wallets), a user must manage a private key, which is used to prove ownership of the wallet and to initiate transactions. If the user loses the private key, they lose access to the account.</p>
+<p>With account abstraction, if a user loses their private key, social recovery features can help them regain access to the wallet if they can verify their identity. For example, a user can designate a trusted contact, such as a family member or friend, who can help them regain access if they have lost their key.</p>
+<p><a href="https://metamask.io/news/latest/account-abstraction-past-present-future/" target="_blank" rel="noopener">Account abstraction</a> is a new paradigm for how users can engage with blockchain networks, and there are a variety of proposed standards (i.e.,<a href="https://eips.ethereum.org/EIPS/eip-4337" target="_blank" rel="noopener">EIP-4337</a>, <a href="https://eips.ethereum.org/EIPS/eip-3074" target="_blank" rel="noopener">EIP-3074</a>, <a href="https://eips.ethereum.org/EIPS/eip-5003" target="_blank" rel="noopener">EIP-5003</a>). While EIP-4337 is the most widely adopted standard, many unknowns exist about how this new technology can be used, or which standard will become the most commonly adopted.</p>
+<p>The X post of the announcement can be found at the link below:<br />
+<a href="https://x.com/Neo_Blockchain/status/1798954675204653420" target="_blank" rel="noopener">https://x.com/Neo_Blockchain/status/1798954675204653420</a></p>
+<p>The post <a href="https://neonewstoday.com/general/neo-partners-with-echooo-wallet-a-self-custodial-wallet-solution-enabled-by-account-abstraction/">Neo partners with Echooo Wallet, a self-custodial wallet solution enabled by account abstraction</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Neo partners with Rangers Protocol, aims to simplify EVM developer onboarding experience</title>
+		<link>https://neonewstoday.com/development/neo-partners-with-rangers-protocol-aims-to-simplify-evm-developer-onboarding-experience/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 20:33:05 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[NeoX]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=48304</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Neo has announced the addition of Rangers Protocol to the Neo X ecosystem. The partnership with Ranger Protocol is among the first...</p>
+<p>The post <a href="https://neonewstoday.com/development/neo-partners-with-rangers-protocol-aims-to-simplify-evm-developer-onboarding-experience/">Neo partners with Rangers Protocol, aims to simplify EVM developer onboarding experience</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/neo-x-partnership-rangers-protocol-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo has <a href="https://x.com/Neo_Blockchain/status/1798670041174638600">announced</a> the addition of Rangers Protocol to the Neo X ecosystem. The partnership with Ranger Protocol is among the first batch Neo Global Development established in advance of the tentative 2024 launch of the Neo X EVM sidechain. The two entities will collaborate on providing tooling to simplify the onboarding experience for EVM-based Web3 developers.</p>
+<p><a href="https://rangersprotocol.com/">Rangers Protocol</a> is an ecosystem dedicated to reducing friction in the development experience and maximizing the user experience. The team&#8217;s vision is to build an easy-to-use Web3 engine leveraged by decentralized infrastructure, data management, standardized integrated development environments, and comprehensive interoperability features for dApps.</p>
+<p>The Rangers Protocol network is built on a consensus mechanism designed to deliver high-frequency trading and high-power consumption that can communicate with various blockchain networks. The Rangers REVM is fully compatible with the EVM virtual machine, providing comprehensive toolchains to support smart contract development, compilation, and deployment. At the time of press, the protocol has facilitated approximately 11.7 million transactions.</p>
+<p>The Rangers Protocol team was funded by several well-known VC entities in the Web3 space, including Huobi, HashKey Group, and Pantera, among several others.</p>
+<p>Upon the announcement&#8217;s release, no tangible goals or specific deliverables have been outlined as a result of the partnership. NGD will release more information in the future.</p>
+<p>The X post announcing the partnership can be found at the link below:<br />
+<a href="https://x.com/Neo_Blockchain/status/1798670041174638600" target="_blank" rel="noopener">https://x.com/Neo_Blockchain/status/1798670041174638600</a></p>
+<p>The post <a href="https://neonewstoday.com/development/neo-partners-with-rangers-protocol-aims-to-simplify-evm-developer-onboarding-experience/">Neo partners with Rangers Protocol, aims to simplify EVM developer onboarding experience</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Neo added to the PoPP AI Chrome Box extension, users can now query the AI assistant about the ecosystem</title>
+		<link>https://neonewstoday.com/general/neo-added-to-the-popp-ai-chrome-box-extension-users-can-now-query-the-ai-assistant-about-the-ecosystem/</link>
+		
+		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 20:26:36 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[NeoX]]></category>
+		<guid isPermaLink="false">https://neonewstoday.com/?p=48305</guid>
+
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo has been added to the PoPP AI Chrome Box Plugin, allowing users to access an AI-assistant tool and obtain information and...</p>
+<p>The post <a href="https://neonewstoday.com/general/neo-added-to-the-popp-ai-chrome-box-extension-users-can-now-query-the-ai-assistant-about-the-ecosystem/">Neo added to the PoPP AI Chrome Box extension, users can now query the AI assistant about the ecosystem</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/pop-planet-popp-ai-neo-support-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo has been <a href="https://x.com/Hi_PoPPOfficial/status/1798671760013074524" target="_blank" rel="noopener">added</a> to the PoPP AI Chrome Box Plugin, allowing users to access an AI-assistant tool and obtain information and answers to their Neo-specific inquiries. Alongside the AI assistant, the PoPP Chrome extension also offers a chat feature, allowing users to interact in real-time with others about projects within the PoP Planet ecosystem, such as Neo.</p>
+<p>PoP Planet is a social communication dApp that allows users to curate communities and deploy digital assets. The team seeks to incorporate blockchain to empower creators and key opinion leaders to monetize their influence and manage communities.</p>
+<p>Neo Global Development and PoP Planet <a href="https://neonewstoday.com/nft/pop-planet-announces-plans-to-integrate-neo-x/">established</a> a collaborative partnership in April and announced intentions to integrate support for Neo X. The collaboration directly results from Neo’s efforts to engage with blockchain companies, builders, and key opinion leaders in various regions during the 2023 APAC Hackathon tour. The PoP Planet team is based in Japan, offering access to a local Japanese-speaking market of Web3 enthusiasts.</p>
+<p>To try out the PoPP AI Chrome extension, visit the link below:<br />
+<a href="https://chromewebstore.google.com/detail/popp-ai-box/pmajognokmiaokaccmnndmfnhaamaimb?pli=1" target="_blank" rel="noopener">https://chromewebstore.google.com/detail/popp-ai-box/pmajognokmiaokaccmnndmfnhaamaimb?pli=1</a></p>
+<p>The post <a href="https://neonewstoday.com/general/neo-added-to-the-popp-ai-chrome-box-extension-users-can-now-query-the-ai-assistant-about-the-ecosystem/">Neo added to the PoPP AI Chrome Box extension, users can now query the AI assistant about the ecosystem</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Meme2Earn partners with Out of Context Human Race on new meme campaign</title>
 		<link>https://neonewstoday.com/meme/meme2earn-partners-with-out-of-context-human-race-on-new-meme-campaign/</link>
 		
@@ -39,10 +120,10 @@
 		<category><![CDATA[TIPS]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=48257</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Meme2Earn, a meme platform for earning NEP-17 TIPS tokens, has partnered with Out of Context Human Race on a meme campaign that...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Meme2Earn, a meme platform for earning NEP-17 TIPS tokens, has partnered with Out of Context Human Race on a meme campaign that...</p>
 <p>The post <a href="https://neonewstoday.com/meme/meme2earn-partners-with-out-of-context-human-race-on-new-meme-campaign/">Meme2Earn partners with Out of Context Human Race on new meme campaign</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Meme2Earn, a meme platform for earning NEP-17 TIPS tokens, has <a href="https://meme2earn.com/contest-out-of-context-human-race" target="_blank" rel="noopener">partnered</a> with <i>Out of Context Human Race</i> on a meme campaign that will run for three weeks. The top 100 meme submissions will share from a prize pool equivalent to US $2,500 in TIPS tokens. Additionally, the Meme2Earn team is conducting a bonus airdrop of 2 trillion TIPS tokens, which will be split among all active accounts that meet the prerequisite criteria.</p>
+										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race.png 800w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2024/06/Meme2Earn-Out-Of-Context-Human-Race-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Meme2Earn, a meme platform for earning NEP-17 TIPS tokens, has <a href="https://meme2earn.com/contest-out-of-context-human-race" target="_blank" rel="noopener">partnered</a> with <i>Out of Context Human Race</i> on a meme campaign that will run for three weeks. The top 100 meme submissions will share from a prize pool equivalent to US $2,500 in TIPS tokens. Additionally, the Meme2Earn team is conducting a bonus airdrop of 2 trillion TIPS tokens, which will be split among all active accounts that meet the prerequisite criteria.</p>
 <p>Out of Context Human Race is an account on the X social media application with more than 4 million followers. At the time of press, the announcement post on their X account has <a href="https://x.com/NoContextHumans/status/1797979110981218314" target="_blank" rel="noopener">garnered</a> more than 71,500 views.</p>
 <h2>Competition Rules</h2>
 <p>Users must satisfy four requirements to participate in the Out of Context Human Race meme contest. First, follow both the Out of Context Human Race and Meme2Earn X accounts. Second, create any number of memes and post them in the Out of Context Human Race [CONTEST] category before 1:00 p.m. (UTC) on June 25. Third, post a link to the memes on X with the following text:</p>
@@ -103,7 +184,7 @@
 		<category><![CDATA[ZNS]]></category>
 		<guid isPermaLink="false">https://neonewstoday.com/?p=48214</guid>
 
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>General Updates Neo announced ZNS Connect as the first naming service partner on the Neo X sidechain. The partnership is intended to...</p>
+					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>General Updates Neo announced ZNS Connect as the first naming service partner on the Neo X sidechain. The partnership is intended to...</p>
 <p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-may-27-june-2/">Neo News: Week in Review &#8211; May 27 &#8211; June 2</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new.png 800w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2019/03/nnt-week-in-review-new-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><div class="video-cover border--round">
@@ -9262,119 +9343,6 @@ Oct. 20: <a href="https://neonewstoday.com/events/neo-touring-top-colleges-acros
 Oct. 24: <a href="https://neonewstoday.com/events/neo-touring-top-colleges-across-the-us-throughout-october-including-harvard-yale-and-more/">Decoding Web3</a><a href="https://neonewstoday.com/events/neo-touring-top-colleges-across-the-us-throughout-october-including-harvard-yale-and-more/"> University Tour &#8211; University of California – Berkeley</a>.<br />
 Oct. 25: <a href="https://neonewstoday.com/events/neo-touring-top-colleges-across-the-us-throughout-october-including-harvard-yale-and-more/">Decoding Web3</a><a href="https://neonewstoday.com/events/neo-touring-top-colleges-across-the-us-throughout-october-including-harvard-yale-and-more/">Tour &#8211; Stanford</a>.</p>
 <p>The post <a href="https://neonewstoday.com/week-in-review/neo-news-week-in-review-september-26-october-2/">Neo News: Week in Review &#8211; September 26 &#8211; October 2</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Candefi NFT allows users to stake CANDY, wager on direction of monitored asset, rent via Rentfuse</title>
-		<link>https://neonewstoday.com/defi/candefi-nft-allows-users-to-stake-candy-wager-on-direction-of-monitored-asset-rent-via-rentfuse/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Fri, 30 Sep 2022 21:00:07 +0000</pubDate>
-				<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[General]]></category>
-		<category><![CDATA[CANDY]]></category>
-		<category><![CDATA[GAS]]></category>
-		<category><![CDATA[NEO]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=37367</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo Candy has launched the Candefi dApp on Neo N3 TestNet, allowing users to stake NEP-17 CANDY tokens into an options-like NFT...</p>
-<p>The post <a href="https://neonewstoday.com/defi/candefi-nft-allows-users-to-stake-candy-wager-on-direction-of-monitored-asset-rent-via-rentfuse/">Candefi NFT allows users to stake CANDY, wager on direction of monitored asset, rent via Rentfuse</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Neo Candy has launched the Candefi dApp on Neo N3 TestNet, allowing users to stake NEP-17 CANDY tokens into an options-like NFT that can be rented among speculators. The dApp is built on top of the Rentfuse lending protocol, enabling this additional layer of potential finance activity.</p>
-<p>When minting an NFT on Candefi, the creator selects an asset for the NFT to monitor (i.e., NEO, FLM, BTC), determines a strike price, and provides a stake with CANDY tokens. A strike price is a fixed price that determines when the NFT can be exercised. In trading, <i>exercising</i> means putting into effect the right to buy or sell the underlying asset in an options contract. The value of the Candefi NFT will increase or decrease based on the price of the asset it monitors and its type of option (i.e., call or put).</p>
-<h2>Call &amp; Put</h2>
-<p>Users can choose two types of price direction properties for the Candefi NFT on the platform – calls and puts. This is determined by the strike price. A call NFT increases in value when the price of the asset it’s monitoring goes up. A put NFT increases in value when the monitored price goes down.</p>
-<p>When a Candefi NFT is minted, it is automatically listed on the Rentfuse lending protocol, where speculators can lease the NFT from creators using GAS. Creators who rent out Candefi NFTs will earn GAS from a stake the borrower puts up and REFU tokens for using the Rentfuse protocol.</p>
-<h2>Basic &amp; Advanced</h2>
-<p>There are two types of Candefi NFTs that can be minted, Basic and Advanced, with the latter offering more flexibility regarding renting. With Basic Candefi NFTs, the renter can only redeem for the staked CANDY if the strike price hits during the rental period. However, if the NFT is not returned to the original owner by the predetermined deadline, the renter will lose the GAS collateral they put up to rent the Candefi NFT.</p>
-<p>Advanced Candefi NFTs allow renters to exercise their positions and claim CANDY at any point during the pre-determined rental period. Additionally, the creator can implement other factors such as leverage and a time decay, which impact the amount of staked CANDY the exerciser will receive from the Candefi NFT.</p>
-<p>The NeoCandy team has released a <a href="https://medium.com/neocandy/candefi-app-overview-2a774bb5d55f" target="_blank" rel="noopener">step-by-step guide</a> for minting and borrowing Candefi NFTs. Additionally, Neo Candy community member, HaterTots, created and released the following video to walk users through the process:</p>
-<div class="video-cover border--round">
-<div class="background-image-holder"><img loading="lazy" decoding="async" width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png" class="attachment-large size-large" alt="" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neo-candy-candefi-nft-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /></div>
-<div class="video-play-icon"></div>
-<p><iframe loading="lazy" title="A Brand NEW Neo 3 DeFi Application | Candefi Overview" width="1170" height="658" src="https://www.youtube.com/embed/fiyHfqHIloc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<p><!--end video cover--></p>
-<h2>About Neo Candy</h2>
-<p>Neo Candy is a suite of Neo N3 tools and games developed by Yannick Koitzsch, a Neo community developer. The NEP-17 CANDY token was designed to reward people for interacting with dApps in the Neo ecosystem. The goal of the token is to strengthen and grow the Neo community through supporting various projects.</p>
-<p>Koitzsch has also <a href="https://neonewstoday.com/defi/neo-candy-releases-alpha-version-of-risk-based-nft-staking-game/">released Candyclash</a>, a risk-based NFT staking game, and several mini-games on the <a href="https://discord.gg/zkc4sDysDq" target="_blank" rel="noopener">Discord server</a> as part of the Neo Candy ecosystem. Most recently, Neo Candy <a href="https://neonewstoday.com/defi/neo-candy-launches-lolli-nft-series-offers-whitelisting-and-access-to-future-airdrops/" target="_blank" rel="noopener">released the Lollipop NFT collection</a>, which will reduce fees for Candefi NFT users.</p>
-<p>The full announcement can be found at the link below:<br />
-<a href="https://medium.com/neocandy/candefi-sweetest-defi-protocol-on-neo-n3-edd0e38384ef" target="_blank" rel="noopener">https://medium.com/neocandy/candefi-sweetest-defi-protocol-on-neo-n3-edd0e38384ef</a></p>
-<p>The post <a href="https://neonewstoday.com/defi/candefi-nft-allows-users-to-stake-candy-wager-on-direction-of-monitored-asset-rent-via-rentfuse/">Candefi NFT allows users to stake CANDY, wager on direction of monitored asset, rent via Rentfuse</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NeoNS NFT-based domain name service launches on the N3 blockchain</title>
-		<link>https://neonewstoday.com/general/neons-nft-based-domain-name-service-launches-on-the-n3-blockchain/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Thu, 29 Sep 2022 18:22:44 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<category><![CDATA[GAS]]></category>
-		<category><![CDATA[GhostMarket]]></category>
-		<category><![CDATA[GM]]></category>
-		<category><![CDATA[NeoNS]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=37458</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NeoNS is now live, allowing users to create a digital identity in the form of an NFT-based domain name. NeoNS is the...</p>
-<p>The post <a href="https://neonewstoday.com/general/neons-nft-based-domain-name-service-launches-on-the-n3-blockchain/">NeoNS NFT-based domain name service launches on the N3 blockchain</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-neo-name-service-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p><a href="https://neo.link/" target="_blank" rel="noopener">NeoNS</a> is now live, allowing users to create a digital identity in the form of an NFT-based domain name. NeoNS is the first name service provider for the Neo N3 network and launched on Wednesday, Sep. 28. In the <a href="https://medium.com/neo-smart-economy/neo-enters-the-world-of-decentralized-identities-with-nft-based-domain-name-service-neons-4af9918f8a24" target="_blank" rel="noopener">announcement</a>, Neo Global Development said:</p>
-<blockquote><p>Neo is making navigating Web3 more user-friendly and intuitive. Neo believes that such user-friendly organization of blockchain information is a milestone for blockchain UX entering the realm of ‘the familiar’ and onboarding the next generation of mainstream web3 users.</p></blockquote>
-<p>NeoNS is a distributed open naming system built on the Neo blockchain. It is designed to map machine-readable identifiers (i.e. N3 addresses, NeoFS shared links, other metadata) to more easily readable names <i>such as NeoNewsToday.neo</i>, <i>William.neo</i>, or <i>ChelseaFC.neo</i>.</p>
-<p>When a NeoNS domain is registered, it is minted as an NFT on the Neo N3 network that the domain owner holds directly in their wallet. As NFTs, these domains are easily transferred between users, making them convenient to trade on third-party marketplaces. The NeoNS collection can be viewed on the <a href="https://ghostmarket.io/collection/neons/" target="_blank" rel="noopener">GhostMarket</a> or <a href="https://megaoasis.io/collection/NameService" target="_blank" rel="noopener">MegaOasis</a> NFT marketplaces.</p>
-<p>As the owner of a domain, a NeoNS user can choose what information to associate with the domain by creating records. For example, owners can set a TEXT record in order to associate a domain with an N3 public address, allowing the domain name to be used as a human-readable alternative to the address in compatible wallets. Alternatively, NeoNS domains could be used to point to the location of a decentralized website hosted on NeoFS.</p>
-<p><a href="https://neonewstoday.com/wp-content/uploads/2022/09/neons-example.png"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-37473" src="https://neonewstoday.com/wp-content/uploads/2022/09/neons-example.png" alt="" width="790" height="494" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/neons-example.png 790w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-example-300x188.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/neons-example-768x480.png 768w" sizes="auto, (max-width: 790px) 100vw, 790px" /></a></p>
-<p>At the time of launch, the root of each domain on the service must be <em>.neo</em>, however further top-level domains may be added in the future by the Neo Council. The Neo Council also has the ability to adjust the fees for domain registrations.</p>
-<p>Once a domain is registered, the Neo user can also create further sub-domains. For example, <i>NeoNewsToday.neo</i> could establish sub-domains like <i>podcast.NeoNewsToday.neo</i> or <i>articles.NeoNewsToday.neo</i>. Records may also be created in association with sub-domains, enabling each sub-domain to be mapped to a different N3 address or other resource.</p>
-<p>Ultimately, NeoNS was conceptualized and designed to help developers better organize data used by dApps and for users to transfer digital assets with more safety and convenience.</p>
-<h2>Registration and Cost</h2>
-<p>Any Neo N3 compatible wallet can be used to register, browse, send, and receive NeoNS domains. NeoNS domains can only contain the letters A through Z and the digits 0 to 9. Letters are not case-sensitive, and diacritics cannot be used.</p>
-<p>To acquire a NeoNS domain name, users must pay a GAS cost determined by the number of characters in the name. This amount must also be paid each year to maintain ownership of NeoNS domain names. Pricing for registration of NeoNS domains is as follows:</p>
-<ul>
-<li style="font-weight: 400;" aria-level="1">3 letter domain: 200 GAS per year</li>
-<li style="font-weight: 400;" aria-level="1">4 letter domain: 70 GAS per year</li>
-<li style="font-weight: 400;" aria-level="1">5+ letter domain: 2 GAS per year</li>
-</ul>
-<p>When a NeoNS domain name expires, it will immediately become available for anyone else to register and claim ownership. Expired domains will remain in user accounts on the NeoNS website until another user registers them.</p>
-<p>Looking forward, the ability to send and receive tokens between wallets using NeoNS domain names will be integrated into different ecosystem wallets on the timeline of their development teams.</p>
-<p>The full announcement can be found at the link below:<br />
-<a href="https://medium.com/neo-smart-economy/neo-enters-the-world-of-decentralized-identities-with-nft-based-domain-name-service-neons-4af9918f8a24" target="_blank" rel="noopener">https://medium.com/neo-smart-economy/neo-enters-the-world-of-decentralized-identities-with-nft-based-domain-name-service-neons-4af9918f8a24</a></p>
-<p>The post <a href="https://neonewstoday.com/general/neons-nft-based-domain-name-service-launches-on-the-n3-blockchain/">NeoNS NFT-based domain name service launches on the N3 blockchain</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GhostMarket integrates Flamingo Finance, purchase NFTs using any NEP-17 regardless of asking token</title>
-		<link>https://neonewstoday.com/exchanges/ghostmarket-integrates-flamingo-finance-purchase-nfts-using-any-nep-17-regardless-of-asking-token/</link>
-		
-		<dc:creator><![CDATA[Dylan Grabowski]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 20:44:41 +0000</pubDate>
-				<category><![CDATA[DeFi]]></category>
-		<category><![CDATA[Exchanges]]></category>
-		<category><![CDATA[NFT]]></category>
-		<category><![CDATA[FLM]]></category>
-		<category><![CDATA[GhostMarket]]></category>
-		<category><![CDATA[GM]]></category>
-		<guid isPermaLink="false">https://neonewstoday.com/?p=37422</guid>
-
-					<description><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>GhostMarket has integrated support for Flamingo Finance, allowing users to purchase NFTs using NEP-17 tokens other than the currency requested on a...</p>
-<p>The post <a href="https://neonewstoday.com/exchanges/ghostmarket-integrates-flamingo-finance-purchase-nfts-using-any-nep-17-regardless-of-asking-token/">GhostMarket integrates Flamingo Finance, purchase NFTs using any NEP-17 regardless of asking token</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<img width="800" height="450" src="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration.png 800w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-300x169.png 300w, https://neonewstoday.com/wp-content/uploads/2022/09/ghostmarket-flamingo-integration-768x432.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>GhostMarket has integrated support for Flamingo Finance, allowing users to purchase NFTs using NEP-17 tokens other than the currency requested on a listing. The new implementation is designed to reduce user friction when buying, bidding, and placing offers on NFTs that reside on the Neo N3 blockchain. GhostMarket founder and CEO Vincent Geneste said:</p>
-<blockquote><p>GhostMarket has a long association with Flamingo Finance and this initiative further strengthens our partnership enabling us to lower the barrier to entry for users wanting to buy an NFT by effortlessly converting another crypto to purchase it.</p></blockquote>
-<p>Before Flamingo&#8217;s integration, users were required to purchase an NFT using the NEP-17 token listed by the seller. Now, users can make offers using any supported token. A swap will then happen through Flamingo without users needing to leave the GhostMarket platform. Once the swap concludes, GhostMarket&#8217;s smart contract will automatically purchase or bid on the chosen NFT in the sellers desired currency.</p>
-<p>Looking forward, the GhostMarket team intends to implement similar support for the other blockchain networks featured on its marketplace.</p>
-<p>More information about the integration can be found at the link below:<br />
-<a href="https://medium.com/ghostmarket/flamingo-x-ghostmarket-integration-f120654219ed" target="_blank" rel="noopener">https://medium.com/ghostmarket/flamingo-x-ghostmarket-integration-f120654219ed</a></p>
-<p>The post <a href="https://neonewstoday.com/exchanges/ghostmarket-integrates-flamingo-finance-purchase-nfts-using-any-nep-17-regardless-of-asking-token/">GhostMarket integrates Flamingo Finance, purchase NFTs using any NEP-17 regardless of asking token</a> appeared first on <a href="https://neonewstoday.com">Neo News Today</a>.</p>
 ]]></content:encoded>
 					
 		

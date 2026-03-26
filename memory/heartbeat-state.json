@@ -1,1 +1,7 @@
-{"lastChecks":{"email":$(date +%s),"calendar":$(date +%s),"weather":$(date +%s)}}
+{
+  "lastChecks": {
+    "email": 1774886522,
+    "calendar": 1774886522,
+    "weather": 1774886522
+  }
+}

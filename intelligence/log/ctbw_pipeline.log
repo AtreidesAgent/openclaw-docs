@@ -1,0 +1,196 @@
+2026-03-25 17:11:07,276 INFO Single video mode: 6jTrzXxudWw
+2026-03-25 17:11:08,838 INFO VID 6jTrzXxudWw: title='Agents Will Be Crypto’s “1st Billion Users: Austin Griffith on x402, ERC-8004 & Onchain Coordination' date=2026-03-01
+2026-03-25 17:11:10,224 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 17:11:10,225 INFO VID 6jTrzXxudWw: Audio downloaded: 13407740 bytes
+2026-03-25 17:16:39,985 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 17:16:39,986 INFO VID 6jTrzXxudWw: Transcript: 11870 chars
+2026-03-25 17:16:39,986 INFO VID 6jTrzXxudWw: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-01-6jTrzXxudWw.md (12149 bytes)
+2026-03-25 17:16:39,986 INFO VID 6jTrzXxudWw: Deleted: ctbw-6jTrzXxudWw.mp3
+2026-03-25 17:16:39,986 INFO VID 6jTrzXxudWw: Deleted: ctbw-6jTrzXxudWw.txt
+2026-03-25 17:16:39,990 ERROR CMD FAILED: openclaw agent --agent hawat --message 'I have a Crypto Talk and Blockchain Walk -> /bin/sh: -c: line 5: unexpected EOF while looking for matching `"'
+/bin/sh: -c: line 44: syntax error: unexpected end of file
+
+2026-03-25 17:16:39,990 INFO VID 6jTrzXxudWw: Waiting 6min for enrichment...
+2026-03-25 17:22:40,000 ERROR VID 6jTrzXxudWw: Enrichment incomplete: no Analysis section, guest field still empty
+2026-03-25 17:22:43,576 INFO Pipeline complete
+2026-03-25 17:23:42,938 INFO Single video mode: 6jTrzXxudWw
+2026-03-25 17:23:44,294 INFO VID 6jTrzXxudWw: title='Agents Will Be Crypto’s “1st Billion Users: Austin Griffith on x402, ERC-8004 & Onchain Coordination' date=2026-03-01
+2026-03-25 17:23:45,706 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 17:23:45,706 INFO VID 6jTrzXxudWw: Audio downloaded: 13407740 bytes
+2026-03-25 17:29:14,579 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 17:29:14,580 INFO VID 6jTrzXxudWw: Transcript: 11870 chars
+2026-03-25 17:29:14,580 INFO VID 6jTrzXxudWw: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-01-6jTrzXxudWw.md (12149 bytes)
+2026-03-25 17:29:14,583 INFO VID 6jTrzXxudWw: Deleted: ctbw-6jTrzXxudWw.mp3
+2026-03-25 17:29:14,583 INFO VID 6jTrzXxudWw: Deleted: ctbw-6jTrzXxudWw.txt
+2026-03-25 17:29:14,587 ERROR CMD FAILED: openclaw agent --agent hawat --message 'I have a Crypto Talk and Blockchain Walk -> /bin/sh: -c: line 5: unexpected EOF while looking for matching `"'
+/bin/sh: -c: line 44: syntax error: unexpected end of file
+
+2026-03-25 17:29:14,587 INFO VID 6jTrzXxudWw: Waiting 6min for enrichment...
+2026-03-25 17:33:32,395 INFO Single video mode: 6jTrzXxudWw
+2026-03-25 17:33:33,751 INFO VID 6jTrzXxudWw: title='Agents Will Be Crypto’s “1st Billion Users: Austin Griffith on x402, ERC-8004 & Onchain Coordination' date=2026-03-01
+2026-03-25 17:33:35,305 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 17:33:35,305 INFO VID 6jTrzXxudWw: Audio downloaded: 13407740 bytes
+2026-03-25 17:39:03,029 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 17:39:03,029 INFO VID 6jTrzXxudWw: Transcript: 11870 chars
+2026-03-25 17:39:03,030 INFO VID 6jTrzXxudWw: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-01-6jTrzXxudWw.md (12149 bytes)
+2026-03-25 17:39:03,030 INFO VID 6jTrzXxudWw: Deleted: ctbw-6jTrzXxudWw.mp3
+2026-03-25 17:39:03,030 INFO VID 6jTrzXxudWw: Deleted: ctbw-6jTrzXxudWw.txt
+2026-03-25 17:39:04,105 ERROR VID 6jTrzXxudWw: Claude Code enrichment failed: 
+2026-03-25 17:39:04,105 INFO VID 6jTrzXxudWw: Waiting 6min for enrichment...
+2026-03-25 17:45:04,114 ERROR VID 6jTrzXxudWw: Enrichment incomplete: no Analysis section, guest field still empty
+2026-03-25 17:45:07,616 INFO Pipeline complete
+2026-03-25 18:01:27,744 INFO Batch mode: 17 unprocessed videos
+2026-03-25 18:01:29,320 INFO VID 2nk0XaZgZVU: title='Inside ETHDenver: How the “Free” Ethereum Conference Really Works (Steward Joshua Lapidus)' date=2026-03-10
+2026-03-25 18:01:37,781 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:01:37,781 INFO VID 2nk0XaZgZVU: Audio downloaded: 12138548 bytes
+2026-03-25 18:06:28,066 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:06:28,067 INFO VID 2nk0XaZgZVU: Transcript: 10159 chars
+2026-03-25 18:06:28,067 INFO VID 2nk0XaZgZVU: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-10-2nk0XaZgZVU.md (10428 bytes)
+2026-03-25 18:06:28,067 INFO VID 2nk0XaZgZVU: Deleted: ctbw-2nk0XaZgZVU.mp3
+2026-03-25 18:06:28,067 INFO VID 2nk0XaZgZVU: Deleted: ctbw-2nk0XaZgZVU.txt
+2026-03-25 18:06:28,067 INFO VID 2nk0XaZgZVU: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:06:33,141 INFO VID 7XozSFCH5wc: title='Spinning up blockchains like cloud services by using smart contracts.' date=2026-02-24
+2026-03-25 18:06:37,626 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:06:37,626 INFO VID 7XozSFCH5wc: Audio downloaded: 7613132 bytes
+2026-03-25 18:09:35,587 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:09:35,587 INFO VID 7XozSFCH5wc: Transcript: 5428 chars
+2026-03-25 18:09:35,587 INFO VID 7XozSFCH5wc: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-24-7XozSFCH5wc.md (5680 bytes)
+2026-03-25 18:09:35,587 INFO VID 7XozSFCH5wc: Deleted: ctbw-7XozSFCH5wc.mp3
+2026-03-25 18:09:35,587 INFO VID 7XozSFCH5wc: Deleted: ctbw-7XozSFCH5wc.txt
+2026-03-25 18:09:35,587 INFO VID 7XozSFCH5wc: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:09:40,401 INFO VID I5JzsLdNSno: title='How to Get Sponsored and Win Blockchains Hackathons Across the World.' date=2026-02-27
+2026-03-25 18:09:45,349 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:09:45,349 INFO VID I5JzsLdNSno: Audio downloaded: 6880508 bytes
+2026-03-25 18:12:43,298 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:12:43,299 INFO VID I5JzsLdNSno: Transcript: 5172 chars
+2026-03-25 18:12:43,299 INFO VID I5JzsLdNSno: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-27-I5JzsLdNSno.md (5416 bytes)
+2026-03-25 18:12:43,299 INFO VID I5JzsLdNSno: Deleted: ctbw-I5JzsLdNSno.mp3
+2026-03-25 18:12:43,299 INFO VID I5JzsLdNSno: Deleted: ctbw-I5JzsLdNSno.txt
+2026-03-25 18:12:43,299 INFO VID I5JzsLdNSno: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:12:48,224 INFO VID IlvMIaRC7YQ: title='Sui network freezes $160m of stolen funds, CFTC says perp trading might be coming to US' date=2025-05-23
+2026-03-25 18:12:53,145 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:12:53,145 INFO VID IlvMIaRC7YQ: Audio downloaded: 4355372 bytes
+2026-03-25 18:16:07,431 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:16:07,432 INFO VID IlvMIaRC7YQ: Transcript: 6465 chars
+2026-03-25 18:16:07,432 INFO VID IlvMIaRC7YQ: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2025-05-23-IlvMIaRC7YQ.md (6727 bytes)
+2026-03-25 18:16:07,432 INFO VID IlvMIaRC7YQ: Deleted: ctbw-IlvMIaRC7YQ.mp3
+2026-03-25 18:16:07,432 INFO VID IlvMIaRC7YQ: Deleted: ctbw-IlvMIaRC7YQ.txt
+2026-03-25 18:16:07,432 INFO VID IlvMIaRC7YQ: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:16:12,259 INFO VID MJIRgwQEvMo: title='Building Creator Communities On-chain.' date=2026-03-04
+2026-03-25 18:16:17,983 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:16:17,983 INFO VID MJIRgwQEvMo: Audio downloaded: 8278316 bytes
+2026-03-25 18:20:08,709 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:20:08,710 INFO VID MJIRgwQEvMo: Transcript: 9049 chars
+2026-03-25 18:20:08,710 INFO VID MJIRgwQEvMo: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-04-MJIRgwQEvMo.md (9262 bytes)
+2026-03-25 18:20:08,710 INFO VID MJIRgwQEvMo: Deleted: ctbw-MJIRgwQEvMo.mp3
+2026-03-25 18:20:08,710 INFO VID MJIRgwQEvMo: Deleted: ctbw-MJIRgwQEvMo.txt
+2026-03-25 18:20:08,710 INFO VID MJIRgwQEvMo: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:20:13,445 INFO VID MxPVDkKUeg4: title='How to Stay in Crypto for 12+ Years: Ashton Addison on Cycles, AI Agents & Tokenizing Stocks' date=2026-03-03
+2026-03-25 18:20:19,767 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:20:19,767 INFO VID MxPVDkKUeg4: Audio downloaded: 11278532 bytes
+2026-03-25 18:24:26,191 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:24:26,192 INFO VID MxPVDkKUeg4: Transcript: 8458 chars
+2026-03-25 18:24:26,192 INFO VID MxPVDkKUeg4: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-03-MxPVDkKUeg4.md (8725 bytes)
+2026-03-25 18:24:26,192 INFO VID MxPVDkKUeg4: Deleted: ctbw-MxPVDkKUeg4.mp3
+2026-03-25 18:24:26,192 INFO VID MxPVDkKUeg4: Deleted: ctbw-MxPVDkKUeg4.txt
+2026-03-25 18:24:26,192 INFO VID MxPVDkKUeg4: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:24:31,342 INFO VID PHC6FwyChnA: title='Consensys and MetaMask's head of Developer Relations talks AI agents.' date=2026-02-22
+2026-03-25 18:24:37,695 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:24:37,695 INFO VID PHC6FwyChnA: Audio downloaded: 12403724 bytes
+2026-03-25 18:29:17,195 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:29:17,195 INFO VID PHC6FwyChnA: Transcript: 10246 chars
+2026-03-25 18:29:17,196 INFO VID PHC6FwyChnA: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-22-PHC6FwyChnA.md (10490 bytes)
+2026-03-25 18:29:17,196 INFO VID PHC6FwyChnA: Deleted: ctbw-PHC6FwyChnA.mp3
+2026-03-25 18:29:17,196 INFO VID PHC6FwyChnA: Deleted: ctbw-PHC6FwyChnA.txt
+2026-03-25 18:29:17,196 INFO VID PHC6FwyChnA: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:29:22,166 INFO VID TaaNV1ZdLoQ: title='How to Get Hired in Crypto (Even in a Bear Market): Base Recruiter Connor Holliman’s Playbook' date=2026-03-06
+2026-03-25 18:29:27,859 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:29:27,859 INFO VID TaaNV1ZdLoQ: Audio downloaded: 9233564 bytes
+2026-03-25 18:33:13,169 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:33:13,169 INFO VID TaaNV1ZdLoQ: Transcript: 8610 chars
+2026-03-25 18:33:13,170 INFO VID TaaNV1ZdLoQ: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-06-TaaNV1ZdLoQ.md (8880 bytes)
+2026-03-25 18:33:13,170 INFO VID TaaNV1ZdLoQ: Deleted: ctbw-TaaNV1ZdLoQ.mp3
+2026-03-25 18:33:13,170 INFO VID TaaNV1ZdLoQ: Deleted: ctbw-TaaNV1ZdLoQ.txt
+2026-03-25 18:33:13,170 INFO VID TaaNV1ZdLoQ: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:33:18,014 INFO VID TdW2OAnCzQg: title='How blockchain can empower artists and local creators.' date=2026-02-23
+2026-03-25 18:33:22,904 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:33:22,904 INFO VID TdW2OAnCzQg: Audio downloaded: 7129940 bytes
+2026-03-25 18:36:26,536 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:36:26,536 INFO VID TdW2OAnCzQg: Transcript: 5989 chars
+2026-03-25 18:36:26,536 INFO VID TdW2OAnCzQg: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-23-TdW2OAnCzQg.md (6218 bytes)
+2026-03-25 18:36:26,536 INFO VID TdW2OAnCzQg: Deleted: ctbw-TdW2OAnCzQg.mp3
+2026-03-25 18:36:26,536 INFO VID TdW2OAnCzQg: Deleted: ctbw-TdW2OAnCzQg.txt
+2026-03-25 18:36:26,536 INFO VID TdW2OAnCzQg: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:36:31,412 INFO VID VQdNDQfDNFU: title='NFTs Beyond JPEGs: Kelly LeValley Hunt on Crypto Art, Rare Pepes & the Next Wave of Use Cases' date=2026-03-02
+2026-03-25 18:36:39,145 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:36:39,145 INFO VID VQdNDQfDNFU: Audio downloaded: 12253916 bytes
+2026-03-25 18:41:53,524 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:41:53,525 INFO VID VQdNDQfDNFU: Transcript: 9735 chars
+2026-03-25 18:41:53,525 INFO VID VQdNDQfDNFU: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-02-VQdNDQfDNFU.md (10003 bytes)
+2026-03-25 18:41:53,525 INFO VID VQdNDQfDNFU: Deleted: ctbw-VQdNDQfDNFU.mp3
+2026-03-25 18:41:53,525 INFO VID VQdNDQfDNFU: Deleted: ctbw-VQdNDQfDNFU.txt
+2026-03-25 18:41:53,525 INFO VID VQdNDQfDNFU: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:41:58,499 INFO VID W1AABYVsiOs: title='From ETHDenver to Adventure: Onchain Scavenger Hunts, Creator Grind, and Surviving the Bear' date=2026-02-26
+2026-03-25 18:42:07,000 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:42:07,000 INFO VID W1AABYVsiOs: Audio downloaded: 16981820 bytes
+2026-03-25 18:48:32,673 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:48:32,675 INFO VID W1AABYVsiOs: Transcript: 14171 chars
+2026-03-25 18:48:32,675 INFO VID W1AABYVsiOs: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-26-W1AABYVsiOs.md (14437 bytes)
+2026-03-25 18:48:32,675 INFO VID W1AABYVsiOs: Deleted: ctbw-W1AABYVsiOs.mp3
+2026-03-25 18:48:32,675 INFO VID W1AABYVsiOs: Deleted: ctbw-W1AABYVsiOs.txt
+2026-03-25 18:48:32,675 INFO VID W1AABYVsiOs: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:48:37,486 INFO VID bwuHTdq1J90: title='Ep 000 - Willy Wonka talks surviving crypto cycles.' date=2026-02-21
+2026-03-25 18:48:42,720 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:48:42,720 INFO VID bwuHTdq1J90: Audio downloaded: 7823948 bytes
+2026-03-25 18:51:55,882 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:51:55,882 INFO VID bwuHTdq1J90: Transcript: 7340 chars
+2026-03-25 18:51:55,882 INFO VID bwuHTdq1J90: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-21-bwuHTdq1J90.md (7566 bytes)
+2026-03-25 18:51:55,882 INFO VID bwuHTdq1J90: Deleted: ctbw-bwuHTdq1J90.mp3
+2026-03-25 18:51:55,882 INFO VID bwuHTdq1J90: Deleted: ctbw-bwuHTdq1J90.txt
+2026-03-25 18:51:55,882 INFO VID bwuHTdq1J90: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:52:01,295 INFO VID ec8g3ZOZjdk: title='How to Survive a Crypto Bear Market: Building, Vibes, and Long-Term Conviction.' date=2026-02-28
+2026-03-25 18:52:06,761 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:52:06,761 INFO VID ec8g3ZOZjdk: Audio downloaded: 8532716 bytes
+2026-03-25 18:55:53,647 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:55:53,647 INFO VID ec8g3ZOZjdk: Transcript: 8538 chars
+2026-03-25 18:55:53,647 INFO VID ec8g3ZOZjdk: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-28-ec8g3ZOZjdk.md (8792 bytes)
+2026-03-25 18:55:53,647 INFO VID ec8g3ZOZjdk: Deleted: ctbw-ec8g3ZOZjdk.mp3
+2026-03-25 18:55:53,648 INFO VID ec8g3ZOZjdk: Deleted: ctbw-ec8g3ZOZjdk.txt
+2026-03-25 18:55:53,648 INFO VID ec8g3ZOZjdk: SUCCESS — transcript written, ready for enrichment
+2026-03-25 18:55:58,404 INFO VID gE30j5kq90w: title='How to Earn Yield on Bitcoin: Alisia Painter on Bitcoin L2s, Taproot, and Bringing DeFi to BTC' date=2026-03-05
+2026-03-25 18:56:04,155 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 18:56:04,155 INFO VID gE30j5kq90w: Audio downloaded: 8976140 bytes
+2026-03-25 18:59:56,970 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 18:59:56,970 INFO VID gE30j5kq90w: Transcript: 8914 chars
+2026-03-25 18:59:56,971 INFO VID gE30j5kq90w: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-05-gE30j5kq90w.md (9183 bytes)
+2026-03-25 18:59:56,971 INFO VID gE30j5kq90w: Deleted: ctbw-gE30j5kq90w.mp3
+2026-03-25 18:59:56,971 INFO VID gE30j5kq90w: Deleted: ctbw-gE30j5kq90w.txt
+2026-03-25 18:59:56,971 INFO VID gE30j5kq90w: SUCCESS — transcript written, ready for enrichment
+2026-03-25 19:00:01,786 INFO VID kh3-AulL9iA: title='ETH Denver Isn’t Dead: Kenn Bosak on Building IRL Networks, Bear Market Jobs, Crypto Opportunities' date=2026-03-09
+2026-03-25 19:00:08,924 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 19:00:08,924 INFO VID kh3-AulL9iA: Audio downloaded: 11270324 bytes
+2026-03-25 19:04:57,845 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 19:04:57,845 INFO VID kh3-AulL9iA: Transcript: 11048 chars
+2026-03-25 19:04:57,845 INFO VID kh3-AulL9iA: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-09-kh3-AulL9iA.md (11323 bytes)
+2026-03-25 19:04:57,845 INFO VID kh3-AulL9iA: Deleted: ctbw-kh3-AulL9iA.mp3
+2026-03-25 19:04:57,845 INFO VID kh3-AulL9iA: Deleted: ctbw-kh3-AulL9iA.txt
+2026-03-25 19:04:57,845 INFO VID kh3-AulL9iA: SUCCESS — transcript written, ready for enrichment
+2026-03-25 19:05:02,907 INFO VID lf9-zulXIic: title='From Consensys to Cosmos: Building Communities Across Chains.' date=2026-02-25
+2026-03-25 19:05:09,667 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 19:05:09,667 INFO VID lf9-zulXIic: Audio downloaded: 12264236 bytes
+2026-03-25 19:10:02,708 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 19:10:02,708 INFO VID lf9-zulXIic: Transcript: 11561 chars
+2026-03-25 19:10:02,708 INFO VID lf9-zulXIic: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-02-25-lf9-zulXIic.md (11797 bytes)
+2026-03-25 19:10:02,708 INFO VID lf9-zulXIic: Deleted: ctbw-lf9-zulXIic.mp3
+2026-03-25 19:10:02,709 INFO VID lf9-zulXIic: Deleted: ctbw-lf9-zulXIic.txt
+2026-03-25 19:10:02,709 INFO VID lf9-zulXIic: SUCCESS — transcript written, ready for enrichment
+2026-03-25 19:10:08,011 INFO VID q-EMXT9I1cg: title='Crypto Bear Market Truths: Felipe Cevallos on AI “Vibe Coding,” DeFi PMF & Real-World Remittances' date=2026-03-08
+2026-03-25 19:10:15,276 INFO CMD OK: yt-dlp -f bestaudio --extract-audio --audio-format mp3 -o '/Users/dylansagent/.o
+2026-03-25 19:10:15,276 INFO VID q-EMXT9I1cg: Audio downloaded: 10413884 bytes
+2026-03-25 19:14:37,996 INFO CMD OK: /Users/dylansagent/.pyenv/versions/3.11.9/envs/whisperx-env/bin/whisperx '/Users
+2026-03-25 19:14:37,996 INFO VID q-EMXT9I1cg: Transcript: 9638 chars
+2026-03-25 19:14:37,997 INFO VID q-EMXT9I1cg: .md written: /Users/dylansagent/.openclaw-vault/Hawat/corpus/videos/ctbw-2026-03-08-q-EMXT9I1cg.md (9914 bytes)
+2026-03-25 19:14:37,997 INFO VID q-EMXT9I1cg: Deleted: ctbw-q-EMXT9I1cg.mp3
+2026-03-25 19:14:37,997 INFO VID q-EMXT9I1cg: Deleted: ctbw-q-EMXT9I1cg.txt
+2026-03-25 19:14:37,997 INFO VID q-EMXT9I1cg: SUCCESS — transcript written, ready for enrichment
+2026-03-25 19:14:41,314 INFO Pipeline complete
