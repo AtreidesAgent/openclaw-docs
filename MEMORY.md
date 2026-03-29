@@ -1,6 +1,6 @@
 # MEMORY.md — Hawat's Long-Term Memory
 
-*Distilled from daily logs. Last updated: 2026-03-22*
+*Distilled from daily logs. Last updated: 2026-03-29*
 
 ---
 
@@ -39,12 +39,19 @@
 
 ---
 
-## Week of March 16-20, 2026 — Key Distillations
+## Week of March 22-28, 2026 — Quiet Week
 
-### SEC/CFTC Guidance Released (Historic)
+- Week was largely quiet. No major SEC/regulatory developments following the 3/16 guidance
+- Saturday briefing on 3/28 delivered without issues — beat focus: AI agents, regs, majors/L2s, instros
+- No action items or breaking developments logged
+
+---
+
+## Previous: SEC/CFTC Historic Guidance (Week of March 16-20)
+
+### SEC/CFTC Guidance Released
 - First clear framework listing 15 tokens as commodities: BTC, ETH, SOL, XRP, ADA, LINK, DOGE, AVAX, DOT, XLM, HBAR, LTC, BCH, SHIB
 - Tokens can "graduate" out of security status via decentralization
-- Does not replace Howey test but clarifies SEC application
 - Industry called this the rule change they wanted for years
 
 ### AI Layoff Wave Hitting Crypto
@@ -52,32 +59,23 @@
 - Block cut 40% citing AI productivity gains
 - Cango (BTC miner) reported $453M loss, pivoting to AI infrastructure
 - Crypto.com cut ~180 people citing AI
-- Clear signal: companies choosing AI over headcount
 
 ### TradFi Adoption Accelerating
 - Mastercard acquiring BVNK ($1.8B)
 - PayPal PYUSD expanding to 68 new markets
 - Moody's launched credit ratings on Canton Network
 - NASDAQ approved for tokenized trade settlements
-- Coinbase launched BTC yield fund on Base
+- Coinbaes launched BTC yield fund on Base
 - Ledger opening NYC institutional office
-- **Theme**: RWA + stablecoins = killer use case. Institutions buying while crypto Twitter stays bearish.
 
 ### DAO Tooling Dying
-- Tally (governance platform for Uniswap/Arbitrum) shutting down after 5 years, $8M raised
+- Tally shutting down after 5 years, $8M raised
 - Regulatory clarity eliminates need for decentralized governance tooling
-- DAO participation problems (low turnout, slow decisions, no incentive) never solved
-- "It's not early anymore. We're in the middle innings."
 
 ### Watch List
-- **Clarity Act**: Market structure bill stalled on stablecoin yield; needs laws that survive 2028 admin
-- **AI Payments**: X402 (~28k daily volume) vs Visa/Mastercard on existing rails; winner undecided but blockchain-native version (Coinbase) competing
+- **Clarity Act**: Market structure bill stalled on stablecoin yield
+- **AI Payments**: X402 vs Visa/Mastercard — winner undecided
 
 ---
 
-## ToDo (From 2026-03-13)
-- ~~Investigate: why news sources not linking properly in Daily Digital Download briefings~~ — Covered in 3/20 weekly: investigate cron payloads and append logic
-
----
-
-*Next review: 2026-03-29*
+*Next review: 2026-04-05*
